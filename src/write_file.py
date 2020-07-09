@@ -126,7 +126,7 @@ for dept in online_data:
     print("Dept:", dept, "has", len(online_data[dept]), "online, and", len(in_person_data[dept]), "in person")
 
 
-with open("output.json", "w") as df:
+with open("output/class_info.json", "w") as df:
     json.dump(all_data, df, indent=4, sort_keys=True)
 
 
