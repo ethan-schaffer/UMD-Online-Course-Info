@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import pprint
+import csv
 
 import json
 
@@ -21,6 +22,7 @@ def get_online(dept):
 
 def get_count(url, split_string):
     dt = {}
+    course_capcities = []
     data = requests.get(url).content
     soup = BeautifulSoup(data, 'html.parser')
     courses = soup.findAll("div", {"class": "course"})
@@ -57,13 +59,25 @@ def get_count(url, split_string):
                                                     for six_col in six_cols:
                                                         data_div = six_col.find("div")
                                                         for seats_info in data_div.findAll("span", "seats-info"):
-                                                            total_seats = seats_info.findAll("span", {"class:",
-                                                                                                "total-seats"})
+                                                            total_seats = seats_info.findAll("span", {"class:", "total-seats"})
                                                             for seat_count in total_seats:
                                                                 total_seats_count = seat_count.findAll("span", {"class:", "total-seats-count"})
                                                                 for count in total_seats_count:
                                                                     number = int(count.contents[0])
                                                                     numbers.append(number)
+                                                            open_seats = seats_info.findAll("span", {"class:", "open-seats"})
+                                                            for seat_count in open_seats:
+                                                                open_seats_count = seat_count.findAll("span", {"class:", "open-seats-count"})
+                                                                for count in open_seats_count:
+                                                                    number = int(count.contents[0])
+                                                                    numbers.append(number)
+                                                            waitlist_seats = seats_info.findAll("span", {"class:", "waitlist"})
+                                                            for seat_count in waitlist_seats:
+                                                                waitlist_seats_count = seat_count.findAll("a")
+                                                                for link_contents in waitlist_seats_count:
+                                                                    for count in link_contents.findAll("span", {"class:", "waitlist-count"}):
+                                                                        number = int(count.contents[0])
+                                                                        numbers.append(number)
                                             section_info_times = section_info_containers_list.findAll("div", {"class:", "class-days-container"})
                                             time = None
                                             time_day = None
@@ -93,10 +107,9 @@ def get_count(url, split_string):
                                                         else:
                                                             time = "No listed time"
                                             time = str(time)
-                                            dt[course_id][time] = 0
-                                            for number in numbers:
-                                                dt[course_id][time] += number
-    return dt
+                                            dt[course_id][time] = numbers[0]
+                                            course_capcities.append((course_id, time, numbers))
+    return dt, course_capcities
 
 
 
@@ -105,19 +118,39 @@ online_string = "section delivery-online"
 
 c = 1
 all_data = {"online": {}, "in person": {}}
+online_capacities = []
+in_person_capacities = []
 for dept in umd_departments:
-    all_data["online"][dept] = get_count(get_online(dept), online_string)
-    all_data["in person"][dept] = get_count(get_in_person(dept), in_person_string)
+    all_data["online"][dept], online_capacity = get_count(get_online(dept), online_string)
+    online_capacities.append(online_capacity)
+
+    all_data["in person"][dept], in_person_capacity = get_count(get_in_person(dept), in_person_string)
+    in_person_capacities.append(in_person_capacity)
+
     print("Parsed " + dept + " (" + str(c) + "/" + str(len(umd_departments)) + ")")
     c+=1
 
-pp.pprint(all_data)
+# pp.pprint(all_data)
 
 online_data = all_data["online"]
 in_person_data = all_data["in person"]
 
+count = 0
 for dept in online_data:
     print("Dept:", dept, "has", len(online_data[dept]), "online, and", len(in_person_data[dept]), "in person")
+    count+= len(online_data[dept]) + len(in_person_data[dept])
+print("There are " + count + " total classes")
+
+
+with open('output/course_slots.csv', 'w', newline='\n') as csvfile:
+    writer = csv.writer(csvfile, delimiter='\t', quotechar='|')
+    writer.writerow(["course type", "course code", "time", "total", "open", "waitlist"])
+    for course in online_capacities:
+        for tup in course:
+            writer.writerow(["online", tup[0], tup[1], tup[2][0], tup[2][1], tup[2][2]])
+    for course in in_person_capacities:
+        for tup in course:
+            writer.writerow(["in person", tup[0], tup[1], tup[2][0], tup[2][1], tup[2][2]])
 
 
 with open("output/class_info.json", "w") as df:
