@@ -10,38 +10,33 @@ let placeholder = ['CMSC216','CMSC250']
 // quick fix: use document.ready to wait
 $(document).ready(function () {
 	
+	/*
 	for (course of placeholder) {
 		$('#courses').append(`<li>${course}</li>`)
 	}
+	*/
 	
-	/*
-	// read and display infomation from class_info.json
-	$.getJSON('./output/class_info.json', function (class_info) {
+
+	let in_person = class_info['in person'];
+	
+	// only display courses from the AASP department
+	let department = 'AASP';
+	
+	for (course in in_person[department]) {
 		
-		let in_person = class_info['in person'];
+		//console.log(course);
 		
-		// only display courses from the AASP department
-		let department = 'AASP';
+		let course_container = $(`<li><h3>${course}</h3></li>`);
 		
-		for (course in in_person[department]) {
-			
-			console.log(course);
-			
-			let course_container = $(`<li><h3>${course}</h3></li>`);
-			
-			let section_list = $('<ul></ul>');
-			for (section in in_person[department][course]) {
-				section_list.append(`<li>${section} Seating: \
-				${in_person[department][course][section]}</li>`)
-			}
-			
-			course_container.append(section_list);
-			$('#courses').append(course_container);
+		let section_list = $('<ul></ul>');
+		for (section in in_person[department][course]) {
+			section_list.append(`<li>${section} Seating: \
+			${in_person[department][course][section]}</li>`)
 		}
 		
-		
-	})
-	*/
+		course_container.append(section_list);
+		$('#courses').append(course_container);
+	}
 
 
 })
