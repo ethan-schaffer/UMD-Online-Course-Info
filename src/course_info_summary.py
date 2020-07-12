@@ -32,10 +32,10 @@ def all_courses_by_dept(code):
 
 summary_data = {}
 
-with open('output/dept_summary.txt', 'w', newline='\n') as csvfile:
-    csvfile.write("code\tin person\tonline\n")
+with open('output/dept_summary.txt', 'w', newline='\n') as file:
+    file.write("code\tin person\tonline\n")
     for dept_code in umd_departments:
         summary_data[dept_code] = total_courses_by_status(dept_code)
-        csvfile.write(dept_code + "\t" + str(summary_data[dept_code][0][1]) + "\t" + str(summary_data[dept_code][1][1]) + "\n")
+        file.write(dept_code + "\t" + str(summary_data[dept_code][0][1]) + "\t" + str(summary_data[dept_code][1][1]) + "\n")
 
 pp.pprint(summary_data)
