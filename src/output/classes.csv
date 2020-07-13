@@ -236,6 +236,7 @@ in person	ARCH	ARCH428P	('Tu', '7:00pm', '9:40pm')	10
 in person	ARCH	ARCH428T	('TuTh', '11:00am', '12:15pm')	30
 in person	ARCH	ARCH430	('TuTh', '5:00pm', '6:15pm')	90
 in person	ARCH	ARCH443	('M', '10:00am', '12:40pm')	40
+in person	ARCH	ARCH448M	('TuTh', '12:30pm', '1:45pm')	28
 in person	ARCH	ARCH460	('F', '9:30am', '12:00pm')	60
 in person	ARCH	ARCH462	('TuTh', '12:30pm', '1:45pm')	105
 in person	ARCH	ARCH464	('TuTh', '9:30am', '10:45am')	70
@@ -496,7 +497,6 @@ in person	BIOE	BIOE658M	('Tu', '3:00pm', '5:45pm')	15
 in person	BIOE	BIOE658R	('M', '6:00pm', '8:45pm')	15
 in person	BIOE	BIOE689G	('TuTh', '3:30pm', '4:45pm')	10
 in person	BIOE	BIOE689K	('TuTh', '2:00pm', '3:15pm')	10
-in person	BIOE	BIOE689P	('TuTh', '11:00am', '12:15pm')	20
 in person	BIOL	BIOL608E	('M', '10:00am', '11:00am')	15
 in person	BIOL	BIOL608K	('W', '11:00am', '12:40pm')	12
 in person	BIOL	BIOL704	('TuTh', '3:30pm', '4:45pm')	9
@@ -519,12 +519,12 @@ in person	BIOM	BIOM603	('Th', '9:00am', '10:50am')	10
 in person	BIPH	BIPH698L	('M', '4:00pm', '5:30pm')	10
 in person	BIPH	BIPH704	('TuTh', '3:30pm', '4:45pm')	9
 in person	BMGT	BMGT110	('TuTh', '12:30pm', '1:45pm')	250
-in person	BMGT	BMGT110F	('MW', '11:00am', '12:15pm')	29
-in person	BMGT	BMGT110F	('MW', '12:30pm', '1:45pm')	29
-in person	BMGT	BMGT110F	('MW', '2:00pm', '3:15pm')	29
-in person	BMGT	BMGT110F	('MW', '9:30am', '10:45am')	29
-in person	BMGT	BMGT110F	('TuTh', '11:00am', '12:15pm')	29
-in person	BMGT	BMGT110F	('TuTh', '9:30am', '10:45am')	29
+in person	BMGT	BMGT110F	('MW', '11:00am', '12:15pm')	33
+in person	BMGT	BMGT110F	('MW', '12:30pm', '1:45pm')	33
+in person	BMGT	BMGT110F	('MW', '2:00pm', '3:15pm')	33
+in person	BMGT	BMGT110F	('MW', '9:30am', '10:45am')	33
+in person	BMGT	BMGT110F	('TuTh', '11:00am', '12:15pm')	33
+in person	BMGT	BMGT110F	('TuTh', '9:30am', '10:45am')	33
 in person	BMGT	BMGT190H	('Tu', '6:00pm', '7:50pm')	45
 in person	BMGT	BMGT210	('F', '10:00am', '10:50am')	27
 in person	BMGT	BMGT210	('F', '11:00am', '11:50am')	27
@@ -829,7 +829,7 @@ in person	BSCI	BSCI404	('TuTh', '3:30pm', '4:45pm')	15
 in person	BSCI	BSCI405	('F', '11:00am', '12:50pm')	20
 in person	BSCI	BSCI410	('TuTh', '11:00am', '12:15pm')	140
 in person	BSCI	BSCI414	('TuTh', '2:00pm', '5:00pm')	18
-in person	BSCI	BSCI415	('TuTh', '2:00pm', '5:00pm')	20
+in person	BSCI	BSCI415	No listed time	20
 in person	BSCI	BSCI420	('TuTh', '12:30pm', '1:45pm')	60
 in person	BSCI	BSCI424	('MW', '11:00am', '12:50pm')	18
 in person	BSCI	BSCI424	('MW', '1:00pm', '2:50pm')	18
@@ -1271,7 +1271,7 @@ in person	CHEM	CHEM624	('TuTh', '8:00am', '9:15am')	22
 in person	CHEM	CHEM633	('TuTh', '2:00pm', '3:15pm')	5
 in person	CHEM	CHEM641	('MW', '4:00pm', '5:15pm')	22
 in person	CHEM	CHEM684	('TuTh', '11:00am', '12:15pm')	22
-in person	CHEM	CHEM689B	('TuTh', '8:00pm', '9:15pm')	20
+in person	CHEM	CHEM689B	('TuTh', '8:00am', '9:15am')	20
 in person	CHEM	CHEM690	('TuTh', '9:30am', '10:45am')	25
 in person	CHEM	CHEM889A	('W', '11:00am', '11:50am')	15
 in person	CHEM	CHEM889C	('Th', '11:00am', '11:50am')	30
@@ -3597,9 +3597,9 @@ in person	MATH	MATH135	('MW', '11:00am', '11:50am')	20
 in person	MATH	MATH135	('MW', '12:00pm', '12:50pm')	20
 in person	MATH	MATH135	('MW', '8:00am', '8:50am')	20
 in person	MATH	MATH135	('MW', '9:00am', '9:50am')	20
-in person	MATH	MATH135	('WF', '10:00am', '10:50am')	25
-in person	MATH	MATH135	('WF', '11:00am', '11:50am')	25
-in person	MATH	MATH135	('WF', '8:00am', '8:50am')	25
+in person	MATH	MATH135	('WF', '10:00am', '10:50am')	20
+in person	MATH	MATH135	('WF', '11:00am', '11:50am')	20
+in person	MATH	MATH135	('WF', '8:00am', '8:50am')	20
 in person	MATH	MATH135	('WF', '9:00am', '9:50am')	20
 in person	MATH	MATH136	('MW', '10:00am', '10:50am')	25
 in person	MATH	MATH136	('MW', '1:00pm', '1:50pm')	25
@@ -4155,7 +4155,6 @@ in person	PHYS	PHYS728	('M', '11:00am', '12:50pm')	30
 in person	PHYS	PHYS732	('MW', '1:00pm', '2:15pm')	25
 in person	PHYS	PHYS738	('Th', '2:00pm', '3:50pm')	15
 in person	PHYS	PHYS739	('Tu', '11:00am', '12:15pm')	15
-in person	PHYS	PHYS748	('W', '2:30pm', '4:00pm')	24
 in person	PHYS	PHYS749	('W', '4:00pm', '6:00pm')	20
 in person	PHYS	PHYS758E	('W', '4:00pm', '5:50pm')	25
 in person	PHYS	PHYS759	('M', '3:00pm', '4:00pm')	15
@@ -4248,7 +4247,6 @@ in person	PLCY	PLCY735	('Th', '4:15pm', '6:45pm')	25
 in person	PLCY	PLCY741	('Th', '4:15pm', '6:45pm')	40
 in person	PLCY	PLCY744	('W', '7:00pm', '9:30pm')	20
 in person	PLCY	PLCY752	('M', '4:15pm', '6:50pm')	20
-in person	PLCY	PLCY780	('M', '1:30pm', '4:00pm')	25
 in person	PLCY	PLCY783	('Tu', '7:00pm', '9:30pm')	20
 in person	PLCY	PLCY798M	('Tu', '1:30pm', '4:00pm')	20
 in person	PLCY	PLCY798N	('M', '1:30pm', '4:00pm')	25
@@ -4266,7 +4264,6 @@ in person	PLSC	PLSC201	('W', '3:30pm', '6:15pm')	20
 in person	PLSC	PLSC203	('TuTh', '2:00pm', '3:15pm')	23
 in person	PLSC	PLSC205	('Tu', '3:00pm', '5:00pm')	22
 in person	PLSC	PLSC253	('F', '1:00pm', '3:50pm')	24
-in person	PLSC	PLSC402	('TuTh', '8:00am', '9:15am')	12
 in person	PLSC	PLSC404	('TuTh', '11:00am', '12:15pm')	20
 in person	PLSC	PLSC405	('TuTh', '12:30pm', '1:45pm')	20
 in person	PLSC	PLSC420	('Th', '2:30pm', '5:15pm')	18
@@ -4972,6 +4969,8 @@ online	PSYC	PSYC622	('Tu', '6:00pm', '9:10pm')	45
 online	PSYC	PSYC643	No listed time	35
 online	PSYC	PSYC644	('Th', '6:00pm', '9:10pm')	40
 online	PSYC	PSYC651	No listed time	40
+online	PSYC	PSYC654	('M', '5:00pm', '8:30pm')	40
+online	PSYC	PSYC660	('M', '5:00pm', '8:30pm')	40
 online	PSYC	PSYC661	('M', '5:00pm', '8:30pm')	40
 online	PSYC	PSYC732	('M', '5:00pm', '8:30pm')	40
 online	RELS	RELS289J	('W', '1:00pm', '1:50pm')	18

@@ -136,10 +136,16 @@ online_data = all_data["online"]
 in_person_data = all_data["in person"]
 
 count = 0
+online_count = 0
+in_person_count = 0
 for dept in online_data:
     print("Dept:", dept, "has", len(online_data[dept]), "online, and", len(in_person_data[dept]), "in person")
-    count+= len(online_data[dept]) + len(in_person_data[dept])
-print("There are " + count + " total classes")
+    in_person_count += len(in_person_data[dept])
+    online_count += len(online_data[dept])
+    count += len(online_data[dept]) + len(in_person_data[dept])
+print("There are " + str(count) + " total classes")
+print(str(online_count) + " of them are online.")
+print(str(in_person_count) + " of them are in person.")
 
 
 with open('output/course_slots.csv', 'w', newline='\n') as csvfile:
