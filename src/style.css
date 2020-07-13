@@ -1,0 +1,39 @@
+/* Page Container */
+
+.page-container {
+	margin: auto;
+	width: 60%;
+	height: 400px;
+	border: 3px solid red;
+}
+
+/* Page Blocks */
+.block1 {
+	position: relative;
+	width: 100px;
+	float: left;
+	height: 100px;
+	border: 3px solid green;
+}
+
+.block2 {
+	position: relative;
+	width: 100px;
+	float: left;
+	height: 100px;
+	border: 3px solid blue;
+}
+
+.clear-float {
+	clear: left;
+}
+
+/* Footer */
+
+.footer{
+	position: fixed;
+	bottom: 5px;
+	left: 50%;
+	transform: translate(-50%);
+	border: 3px solid green;
+}
