@@ -14,7 +14,7 @@ for (department in in_person) {
 
 
 function createCourseContainer (course, course_obj) {
-	let course_container = 	$(`<div class='course_container'>
+	let course_container = 	$(`<div class='course-container'>
 								<h3>${course}</h3>
 								<ul></ul>
 							</div>`);
