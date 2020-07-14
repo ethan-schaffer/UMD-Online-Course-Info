@@ -1,46 +1,11 @@
 // simple front end
-// by Bill Shi
+// by Bill Shi and Ethan Schaffer
 
-let courses = catalog[0]
-let in_person = class_info['in person'];
-let online = class_info['online'];
-
-// list of department codes
-// should be hardcoded
-let dept_codes = [];
-for (department in in_person) {
-	dept_codes.push(department);
-}
-
-
-function createCourseContainer (course, course_obj) {
-	let course_container = 	$(`<div class='course-container'>
-								<h3>${course}</h3>
-								<ul></ul>
-							</div>`);
-	let ul = $(course_container, 'ul');
-	
-	for (section in course_obj) {
-		let section_string = section.substring(1,section.length-1)
-							.replace(/'/g,'');
-		let class_time = section_string.split(',');
-		
-		let li = 	$(`<li>
-						<table id="section_table">
-							<tr>
-								<td style="text-align:left" width: 50%;>  Meeting Time: ${class_time[0]} ${class_time[1]} - ${class_time[2]}</td>
-								<td style="text-align:left" width: 50%;>  Total Seats: ${course_obj[section]}</td>
-							</tr>
-						</table>
-					</li>`);
-		ul.append(li);
-	}
-	
-	return course_container;
-}
+// preferable if catalog is not an array
+catalog = catalog[0];
 
 function emptySearchFieldInfo() {
-	console.log("Here!")
+	//console.log("Here!")
 	let course_container = 	$(`<div class='course-container'>
 								<h3>Enter the four character name of a department (like "BSCI") or the course code of a class (like "CMSC132") to get info!</h3>
 								<ul></ul>
@@ -48,32 +13,44 @@ function emptySearchFieldInfo() {
 	return course_container;
 }
 
-function createComplexCourseContainer (course, course_info) {
+//
+function createCourseContainer(course_code) {
+	let course_info = catalog[course_code];
+	
+	// creates course container
 	let course_container = 	$(`<div class='course-container'>
-								<h3>${course + " " + course_info["course-name"]}</h3>
+								<h3>${course_code +' '+ course_info['course-name']}</h3>
 								<ul></ul>
 							</div>`);
 	let ul = $(course_container, 'ul');
 	
-	for (section in course_info["sections"]) {
-		let text = "";
-		if(course_info["sections"][section]["lab-time"] !== null) { 
-			text = "Additional Section:<br>" + course_info["sections"][section]["lab-time"]
+	
+	// adds infomation about class sections to ul
+	let sections = course_info['sections'];
+	for (section_code in sections) {
+		
+		// create text about lab/discussion meething time
+		let lab_info = '';
+		if(sections[section_code]['lab-time'] != null) { 
+			lab_info = "Additional Section:<br>" + sections[section_code]['lab-time']
 		}
-		let li = 	$(`<li>
-						<table id="section_table">
-							<tr>
-								<td style="text-align:left">Section:<br>${section}</td>
-								<td style="text-align:left">Total Seats:<br>${course_info["sections"][section]["capacity"]}</td>
-								<td style="text-align:left">Taught by:<br>${course_info["sections"][section]["instructor"]}</td>
-								<td style="text-align:left">Lecture Time:<br>${course_info["sections"][section]["lecture-time"]}</td>
-								<td style="text-align:left">${text}</td>
-								<td style="text-align:left">Learning Type:<br>${course_info["sections"][section]["learning-mode"]}</td>
-								<td style="text-align:left">Seats Open:<br>${course_info["sections"][section]["open-seats"]}</td>
-							</tr>
-						</table>
-					</li>`);
-		ul.append(li);
+		
+		// create section data html container
+		let section = 	$(`<li>
+							<table id="section_table">
+								<tr>
+									<td>Section:<br>${section_code}</td>
+									<td>Total Seats:<br>${sections[section_code]['capacity']}</td>
+									<td>Taught by:<br>${sections[section_code]['instructor']}</td>
+									<td>Lecture Time:<br>${sections[section_code]["lecture-time"]}</td>
+									<td>${lab_info}</td>
+									<td>Learning Type:<br>${sections[section_code]['learning-mode']}</td>
+									<td>Seats Open:<br>${sections[section_code]['open-seats']}</td>
+								</tr>
+							</table>
+						</li>`);
+					
+		ul.append(section);
 	}
 	
 	return course_container;
@@ -82,32 +59,34 @@ function createComplexCourseContainer (course, course_info) {
 // wait until html elements are ready
 $(document).ready(function () {
 	
-	let department = '';
-	let course = '';
-	
-	$('#search-return').empty();
 	$('#search-return').append(emptySearchFieldInfo());
-
 	
+	// create behavior for when text is entered in the input box
 	$('#class-lookup').on('input', function () {
+	
 		let user_input = $(this).val().toUpperCase();
 		
+		// clears search results
 		$('#search-return').empty();
 
-		if(user_input === ""){
+		// TODO want to make search infomation outside of search return
+		if(user_input == ""){
 			$('#search-return').append(emptySearchFieldInfo());
 		}
-
-		for (course in courses) {
-			if(user_input === course){
-				$('#search-return').empty();
-				$('#search-return').append(createComplexCourseContainer(course, courses[course]));
+		
+		for (course in catalog) {
+			
+			if(user_input == course){
+				$('#search-return').append(createCourseContainer(course));
 				return;
 			}
-			if(user_input === courses[course]["department"]){
-				$('#search-return').append(createComplexCourseContainer(course, courses[course]));
-			}
+			
 		}
+		
+		// work on looking up department infomation
+		// if(user_input == courses[course]["department"]){
+			// $('#search-return').append(createCourseContainer(course, courses[course]));
+		// }
 	})
 
 })
