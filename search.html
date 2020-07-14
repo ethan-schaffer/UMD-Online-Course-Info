@@ -16,8 +16,20 @@
 
 <body>
 	<div id='lookup-container'>
-		<label for='class-lookup'>Search</label>
-		<input id='class-lookup' type='text'>
+		<ul style='list-style-type: None;display: inline-flex;'>
+			<li>
+				<label for='class-lookup'>Course:</label>
+				<input id='class-lookup' type='text'>
+			</li>
+			<li>
+				<label for='filter-learning-mode'>Instruction Type:</label>
+				<select id='filter-learning-mode'>
+					<option value='all'></option>
+					<option value='in person'>In Person</option>
+					<option value='online'>Online</option>
+				</select>
+			</li>
+		</ul>
 		<ul id='search-return'></ul>
 	</div>
 </body>

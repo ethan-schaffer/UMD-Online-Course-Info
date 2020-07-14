@@ -18,6 +18,14 @@ label[for=class-lookup] {
 	margin-left: 10px;
 }
 
+#filter-learning-mode {
+	margin: 10px;
+}
+
+label[for=filter-learning-mode] {
+	margin-left: 10px;
+}
+
 #search-return {
 	list-style-type: none;
 	border: 3px solid #FFD520; /* Maryland Gold */
