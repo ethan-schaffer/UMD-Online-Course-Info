@@ -1,8 +1,8 @@
 
 function getFooterContent() {
-    console.log("here!");
+    //console.log("here!");
     let time = `2020. Ethan Schaffer, Bill Shi. Last updated ${last_updated}`;
-    console.log(time);
+    //console.log(time);
     return time;
 }
 
