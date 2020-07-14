@@ -131,10 +131,11 @@ with open("data_prototypev1.js", "w") as df:
         text = json.dumps(output, indent=4, sort_keys=True)
 
         tz_NY = pytz.timezone('America/New_York')
-        datetime_easy_coast = datetime.now(tz_NY)
-        current_time = datetime_easy_coast.strftime("%H:%M:%S")
+        datetime_east_coast = datetime.now(tz_NY)
+        current_time = datetime_east_coast.strftime("%H:%M:%S")
+        current_date = datetime_east_coast.today().strftime('%Y-%m-%d')
 
-        df.write("let last_updated = '" + current_time + "';\n\n")
+        df.write("let last_updated = '" + current_time + " " + current_date + "';\n\n")
         df.write("let catalog = [\n" + text + "\n];")
 
 with open('output/classes.csv', 'w', newline='\n') as csvfile:

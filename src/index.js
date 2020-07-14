@@ -1,101 +1,33 @@
-// simple front end
-// by Bill Shi
 
-// catalog
-
-let courses = catalog[0]
-let in_person = class_info['in person'];
-let online = class_info['online'];
-
-// list of department codes
-// should be hardcoded
-let dept_codes = [];
-for (department in in_person) {
-	dept_codes.push(department);
+function getFooterContent() {
+    console.log("here!");
+    let time = `2020. Ethan Schaffer, Bill Shi. Last updated ${last_updated}`;
+    console.log(time);
+    return time;
 }
 
-
-function createCourseContainer (course, course_obj) {
-	let course_container = 	$(`<div class='course-container'>
-								<h3>${course}</h3>
-								<ul></ul>
-							</div>`);
-	let ul = $(course_container, 'ul');
-	
-	for (section in course_obj) {
-		let section_string = section.substring(1,section.length-1)
-							.replace(/'/g,'');
-		let class_time = section_string.split(',');
-		
-		let li = 	$(`<li>
-						<table id="section_table">
-							<tr>
-								<td style="text-align:left" width: 50%;>  Meeting Time: ${class_time[0]} ${class_time[1]} - ${class_time[2]}</td>
-								<td style="text-align:left" width: 50%;>  Total Seats: ${course_obj[section]}</td>
-							</tr>
-						</table>
-					</li>`);
-		ul.append(li);
-	}
-	
-	return course_container;
+function getChartUrl(in_person, online) {
+    console.log(in_person, online);
+    let url = "https://quickchart.io/chart?bkg=white&c=%7Btype%3A%27pie%27%2Cdata%3A%7Bdatasets%3A%5B%7Bdata%3A%5B"+ in_person + "%2C" + online + "%5D%2CbackgroundColor%3A%5B%27rgb(255%2C99%2C132)%27%2C%27rgb(54%2C162%2C235)%27%5D%2Clabel%3A%27Dataset%25201%27%2C%7D%2C%5D%2Clabels%3A%5B%27Online%27%2C%27In Person%27%5D%7D%7D";
+    console.log(url);
+    return url;
 }
 
-function createComplexCourseContainer (course, course_info) {
-	let course_container = 	$(`<div class='course-container'>
-								<h3>${course + " " + course_info["course-name"]}</h3>
-								<ul></ul>
-							</div>`);
-	let ul = $(course_container, 'ul');
-	
-	for (section in course_info["sections"]) {
-		let text = "";
-		if(course_info["sections"][section]["lab-time"] !== null) { 
-			text = "Additional Section:<br>" + course_info["sections"][section]["lab-time"]
-		}
-		let li = 	$(`<li>
-						<table id="section_table">
-							<tr>
-								<td style="text-align:left">Section:<br>${section}</td>
-								<td style="text-align:left">Total Seats:<br>${course_info["sections"][section]["capacity"]}</td>
-								<td style="text-align:left">Taught by:<br>${course_info["sections"][section]["instructor"]}</td>
-								<td style="text-align:left">Lecture Time:<br>${course_info["sections"][section]["lecture-time"]}</td>
-								<td style="text-align:left">${text}</td>
-								<td style="text-align:left">Learning Type:<br>${course_info["sections"][section]["learning-mode"]}</td>
-								<td style="text-align:left">Seats Open:<br>${course_info["sections"][section]["open-seats"]}</td>
-							</tr>
-						</table>
-					</li>`);
-		ul.append(li);
-	}
-	
-	return course_container;
+function get_course_count_info() {
+    return "We define a course as a single section that a class meets during. In total, we found that there were " + total_online + " online sections and " + total_in_person + " in person sections, making " + total_classes + " classes in all.";
+}
+
+function get_seat_count_info() {
+    return "A seat is a single spot in a class a student can fill, so a student will fill multiple seats. In total, we found that there were " + seats_online + " seats online and " + seats_in_person + " seats in person, making " + seats_total + " total seats.";
 }
 
 // wait until html elements are ready
 $(document).ready(function () {
-	
-	let department = '';
-	let course = '';
-		
-	$('#search-return').empty();
-		
-	
-	$('#class-lookup').on('input', function () {
-		let user_input = $(this).val().toUpperCase();
-		
-		$('#search-return').empty();
-						
-		for (course in courses) {
-			if(user_input === course){
-				$('#search-return').empty();
-				$('#search-return').append(createComplexCourseContainer(course, courses[course]));
-				return;
-			}
-			if(user_input === courses[course]["department"]){
-				$('#search-return').append(createComplexCourseContainer(course, courses[course]));
-			}
-		}
-	})
+    $('#footer').text(getFooterContent());
+
+    $('#chart1').attr("src",getChartUrl(percent_online, percent_in_person));
+    $('#chart2').attr("src",getChartUrl(percent_seats_online, percent_seats_in_person));
+    $('#course_count_info').text(get_course_count_info());
+    $('#seat_count_info').text(get_seat_count_info());
 
 })
