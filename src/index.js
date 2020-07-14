@@ -82,30 +82,19 @@ $(document).ready(function () {
 		
 	
 	$('#class-lookup').on('input', function () {
-		let usr_input = $(this).val().toUpperCase();
+		let user_input = $(this).val().toUpperCase();
 		
-		if (usr_input.length == 0) {
-			$('#search-return').empty();
-		}
-		
-		else {
+		$('#search-return').empty();
+						
+		for (course in courses) {
+			if(user_input === course){
 				$('#search-return').empty();
-				
-				let department = usr_input;
-				
-				/*for (course in in_person[department]) {
-					let course_obj = in_person[department][course];
-					$('#search-return').append(createCourseContainer(course, course_obj));
-				}*/
-				
-				for (course in courses ) {
-					if(department === courses[course]["department"]){
-						$('#search-return').append(createComplexCourseContainer(course, courses[course]));
-					}
-				}
-
-				
-			
+				$('#search-return').append(createComplexCourseContainer(course, courses[course]));
+				return;
+			}
+			if(user_input === courses[course]["department"]){
+				$('#search-return').append(createComplexCourseContainer(course, courses[course]));
+			}
 		}
 	})
 
