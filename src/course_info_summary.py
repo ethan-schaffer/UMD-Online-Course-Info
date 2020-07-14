@@ -1,41 +1,75 @@
-import json
 import pprint
+import csv
 
 pp = pprint.PrettyPrinter(indent=4)
 
-# load the data from the output.json file, which is made by write_file.py
-with open('output/class_info.json') as f:
-  data = json.load(f)
+dt = []
+with open('output/classes.csv', newline='\n') as csvfile:
+    reader = csv.reader(csvfile, delimiter='\t', quotechar='|')
+    for row in reader:
+        dt.append(row)
 
-umd_departments = []
+dt = dt[1:]
 
-with open('dept_codes.txt', 'r') as f:
-    for line in f:
-        currentPlace = line[:-1] # remove linebreak which is the last character of the string
-        umd_departments.append(currentPlace)
+def is_online(data_row):
+    return data_row[0] == "online"
 
-def total_courses_by_status(code):
-    lst = []
-    for course_status in data:
-        if data[course_status]:
-            val = (course_status, len(data[course_status][code]))
-            lst.append(val)
-    return lst
+def is_in_person(data_row):
+    return not is_online(data_row)
 
-def all_courses_by_dept(code):
-    lst = []
-    for course_status in data:
-        if data[course_status]:
-            for i in data[course_status][code]:
-                lst.append(i)
-    return lst
+online = list(filter(is_online, dt))
+in_person = list(filter(is_in_person, dt))
 
-summary_data = {}
+total_online = len(online)
+total_in_person = len(in_person)
+total_classes = total_online + total_in_person
 
-with open('output/dept_summary.txt', 'w', newline='\n') as file:
-    file.write("code\tin person\tonline\n")
-    for dept_code in umd_departments:
-        summary_data[dept_code] = total_courses_by_status(dept_code)
-        file.write(dept_code + "\t" + str(summary_data[dept_code][0][1]) + "\t" + str(summary_data[dept_code][1][1]) + "\n")
 
-pp.pprint(summary_data)
+print(total_online, "classes online")
+print(total_in_person, "classes in person")
+print(total_classes, "classes total")
+print("")
+
+percent_online = round(total_online*100 / total_classes, 2)
+percent_in_person = round(total_in_person*100 / total_classes, 2)
+
+print(str(percent_online) + "% classes online")
+print(str(percent_in_person) + "% classes in person")
+print("")
+
+def get_seats_total(lst):
+    total = 0
+    for i in lst:
+        total += int(i[4])
+    return total
+
+seats_online = get_seats_total(online)
+seats_in_person = get_seats_total(in_person)
+seats_total = seats_online + seats_in_person
+
+print(seats_online, "seats online")
+print(seats_in_person, "seats in person")
+print(seats_total, "seats total")
+print("")
+
+percent_seats_online = round(seats_online*100 / seats_total, 2)
+percent_seats_in_person = round(seats_in_person*100 / seats_total, 2)
+
+print(str(percent_seats_online) + "% seats online")
+print(str(percent_seats_in_person) + "% seats in person")
+print("")
+
+with open("summary_data.js", "w") as df:
+    df.write("let total_online = '" + str(total_online) + "';\n")
+    df.write("let total_in_person = '" + str(total_in_person) + "';\n")
+    df.write("let total_classes = '" + str(total_classes) + "';\n")
+
+    df.write("let percent_online = '" + str(percent_online) + "';\n")
+    df.write("let percent_in_person = '" + str(percent_in_person) + "';\n")
+
+    df.write("let seats_online = '" + str(seats_online) + "';\n")
+    df.write("let seats_in_person = '" + str(seats_in_person) + "';\n")
+    df.write("let seats_total = '" + str(seats_total) + "';\n")
+
+    df.write("let percent_seats_online = '" + str(percent_seats_online) + "';\n")
+    df.write("let percent_seats_in_person = '" + str(percent_seats_in_person) + "';\n")
