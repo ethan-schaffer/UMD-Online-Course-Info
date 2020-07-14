@@ -4,7 +4,7 @@
 }
 
 #lookup-container {
-	border: 3px solid red;
+	border: 3px solid #E03A3E; /* Maryland Red */
 }
 
 #class-lookup {
@@ -13,12 +13,20 @@
 
 #search-return {
 	list-style-type: none;
-	width: 400px;
-	height: 600px;
-	border: 3px solid blue;
+	border: 3px solid #FFD520; /* Maryland Gold */
 	overflow: auto;
 }
 
 .course-container {
-	border: 3px solid green;
+	border: 3px solid #000000;
 }
+
+table#section_table {
+	table-layout: fixed ;
+	width: 100% ;
+	border-collapse: collapse ;
+  }
+  table#section_table td {
+	width: 50% ;
+	padding: 10px ;
+  }
