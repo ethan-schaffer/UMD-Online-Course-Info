@@ -24,7 +24,7 @@ function createCourseContainer(course_code) {
 								<h3>${course_code +' '+ course_info['course-name']}</h3>
 								<ul></ul>
 							</div>`);
-	let ul = $(course_container, 'ul');
+	let ul = course_container.find('ul');
 	
 	// adds infomation about class sections to ul
 	let sections = course_info['sections'];
@@ -60,9 +60,13 @@ function createCourseContainer(course_code) {
 		
 	}
 	
-	// TODO when ul has not li children, do not return a course-container
-	
-	return course_container;
+	// return no html if no sections pass the filter
+	if (ul.children().length == 0) {
+		return null;
+		
+	} else {
+		return course_container;
+	}
 }
 
 //
