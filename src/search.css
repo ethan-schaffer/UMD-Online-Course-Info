@@ -5,10 +5,17 @@
 
 #lookup-container {
 	border: 3px solid #E03A3E; /* Maryland Red */
+	/* can have picture backgrounds*/
+	/* background-image: url('md_flag.png'); */
+	/* background-size: 200px; */
 }
 
 #class-lookup {
 	margin: 10px;
+}
+
+label[for=class-lookup] {
+	margin-left: 10px;
 }
 
 #search-return {
@@ -19,15 +26,16 @@
 
 .course-container {
 	border: 3px solid #000000;
+	/* background-color: white; */
 }
 
-table#section_table {
+.section_table {
 	table-layout: fixed ;
 	width: 100% ;
 	border-collapse: collapse ;
 }
   
-table#section_table td {
+.section_table td {
 	width: 50% ;
 	padding: 10px ;
 	text-align: left;

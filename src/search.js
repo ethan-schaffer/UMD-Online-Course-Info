@@ -37,7 +37,7 @@ function createCourseContainer(course_code) {
 		
 		// create section data html container
 		let section = 	$(`<li>
-							<table id="section_table">
+							<table class="section_table">
 								<tr>
 									<td>Section:<br>${section_code}</td>
 									<td>Total Seats:<br>${sections[section_code]['capacity']}</td>
@@ -56,7 +56,7 @@ function createCourseContainer(course_code) {
 	return course_container;
 }
 
-// wait until html elements are ready
+// wait until html elements are ready and execute code within
 $(document).ready(function () {
 	
 	$('#search-return').append(emptySearchFieldInfo());
@@ -69,24 +69,26 @@ $(document).ready(function () {
 		// clears search results
 		$('#search-return').empty();
 
-		// TODO want to make search infomation outside of search return
-		if(user_input == ""){
+		//
+		if (user_input == ""){
 			$('#search-return').append(emptySearchFieldInfo());
 		}
 		
 		for (course in catalog) {
 			
-			if(user_input == course){
+			//
+			if (user_input == course) {
 				$('#search-return').append(createCourseContainer(course));
 				return;
 			}
 			
+			//
+			if (user_input == catalog[course]['department']) {
+				$('#search-return').append(createCourseContainer(course));
+			}
+			
 		}
 		
-		// work on looking up department infomation
-		// if(user_input == courses[course]["department"]){
-			// $('#search-return').append(createCourseContainer(course, courses[course]));
-		// }
 	})
 
 })
