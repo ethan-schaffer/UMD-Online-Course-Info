@@ -1,9 +1,10 @@
 from bs4 import BeautifulSoup
-import requests
 import pprint
 from datetime import datetime
 import pytz
 import csv
+import requests
+from selenium import webdriver
 
 import json
 
@@ -69,7 +70,7 @@ def parse_section(times, section_mode):
         section_list.append([section_number, section_mode, timeslot, disc_time, section_instructor, section_total_seats, section_open_seats])
     return section_list
 
-def get_by_type(data, type_string):
+def get_by_type(data, type_string, force_full_return):
     full_info = []
 
     courses = aggregate_components(data, "div", "class", "course")
@@ -80,6 +81,9 @@ def get_by_type(data, type_string):
         entry = [course_id, dept, name]
 
         times = aggregate_components(course, "div", "class", type_string)
+        if not times and force_full_return:
+            return None
+
         section_mode = "online"
         if type_string == "section delivery-f2f":
             section_mode = "in person"
@@ -87,14 +91,35 @@ def get_by_type(data, type_string):
 
         if not full == []:
             full_info.append([entry, full])
-
     return full_info
+
+def get_force_firefox(url, type_string):
+    driver = webdriver.Firefox()
+    driver.get(url)
+    data = driver.page_source
+    driver.close()
+    soup = BeautifulSoup(data, 'html.parser')
+    return get_by_type(soup, type_string, False)
 
 def get_data(dept):
 
+    expect_full_return = False
+
     out = []
-    in_person = get_by_type(get_soup_in_person(dept), "section delivery-f2f")
-    online = get_by_type(get_soup_online(dept), "section delivery-online")
+    in_person = get_by_type(get_soup_in_person(dept), "section delivery-f2f", expect_full_return)
+    if in_person is None:
+        print("Firefox for in person")
+        in_person = get_force_firefox(get_in_person(dept), "section delivery-f2f")
+        if in_person is None:
+            in_person = []
+            print("Failed")
+    online = get_by_type(get_soup_online(dept), "section delivery-online", expect_full_return)
+    if online is None:
+        print("Firefox for online")
+        online = get_force_firefox(get_online(dept), "section delivery-f2f")
+        if online is None:
+            online = []
+            print("Failed")
 
     for i in in_person:
         out.append(i)
