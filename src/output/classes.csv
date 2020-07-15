@@ -200,7 +200,7 @@ in person	AOSC	AOSC201	F 10:00am 12:00pm	26	17	Weather and Climate Laboratory	In
 in person	AOSC	AOSC201	W 4:00pm 6:00pm	26	0	Weather and Climate Laboratory	Instructor: TBA	
 in person	AOSC	AOSC201	M 2:00pm 4:00pm	26	0	Weather and Climate Laboratory	Instructor: TBA	
 in person	AOSC	AOSC201	Tu 10:00am 12:00pm	26	1	Weather and Climate Laboratory	Instructor: TBA	
-in person	AOSC	AOSC201	M 10:00am 12:00pm	26	4	Weather and Climate Laboratory	Instructor: TBA	
+in person	AOSC	AOSC201	M 10:00am 12:00pm	26	3	Weather and Climate Laboratory	Instructor: TBA	
 in person	AOSC	AOSC201	F 2:00pm 4:00pm	26	0	Weather and Climate Laboratory	Instructor: TBA	
 in person	AOSC	AOSC375	TuTh 11:00am 12:15pm	23	0	Introduction to the Blue Ocean	James Carton	
 in person	AOSC	AOSC400	TuTh 11:00am 12:15pm	32	14	Physical Meteorology of the Atmosphere	Rachel Pinker	
@@ -497,7 +497,7 @@ in person	ASTR	ASTR601	TuTh 12:30pm 1:45pm	20	20	Radiative Processes	Eliza Kempt
 in person	ASTR	ASTR615	TuTh 2:00pm 3:15pm	10	10	Computational Astrophysics	Derek Richardson	
 in person	ASTR	ASTR688B	W 3:30pm 5:30pm	30	30	Special Topics in Modern Astronomy; Current Astronomy Research	Instructor: TBA	
 in person	ASTR	ASTR695	M 5:00pm 5:50pm	20	20	Introduction to Research	Instructor: TBA	
-in person	BCHM	BCHM461	TuTh 9:30am 10:45am	118	4	Biochemistry I	Dorothy Beckett	
+in person	BCHM	BCHM461	TuTh 9:30am 10:45am	118	3	Biochemistry I	Dorothy Beckett	
 in person	BCHM	BCHM461	MW 4:00pm 5:15pm	118	0	Biochemistry I	Paul Paukstelis	
 in person	BCHM	BCHM461	TuTh 12:30pm 1:45pm	118	0	Biochemistry I	Paul Paukstelis	
 in person	BCHM	BCHM462	MWF 11:00am 11:50am	100	10	Biochemistry II	Douglas Julin	
@@ -834,7 +834,7 @@ in person	BSCI	BSCI160	TuTh 9:30am 10:45am	125	0	Principles of Ecology and Evolu
 in person	BSCI	BSCI160	TuTh 12:30pm 1:45pm	125	0	Principles of Ecology and Evolution	Marcia Shofner	
 in person	BSCI	BSCI160	TuTh 2:00pm 3:15pm	200	98	Principles of Ecology and Evolution	Leo Shapiro	
 in person	BSCI	BSCI160	MWF 11:00am 11:50am	100	0	Principles of Ecology and Evolution	Emily Bruns	
-in person	BSCI	BSCI170	MWF 11:00am 11:50am	176	7	Principles of Molecular & Cellular Biology	Michael Keller	
+in person	BSCI	BSCI170	MWF 11:00am 11:50am	176	8	Principles of Molecular & Cellular Biology	Michael Keller	
 in person	BSCI	BSCI170	MWF 12:00pm 12:50pm	140	21	Principles of Molecular & Cellular Biology	Michael Keller	
 in person	BSCI	BSCI170	TuTh 2:00pm 3:15pm	150	27	Principles of Molecular & Cellular Biology	Reid Compton	
 in person	BSCI	BSCI170	MW 4:30pm 5:45pm	120	0	Principles of Molecular & Cellular Biology	Michael Keller	
@@ -854,7 +854,7 @@ in person	BSCI	BSCI171	W 2:00pm 4:50pm	28	2	Principles of Molecular & Cellular B
 in person	BSCI	BSCI171	W 2:00pm 4:50pm	28	4	Principles of Molecular & Cellular Biology Laboratory	Swarna Mohan	
 in person	BSCI	BSCI171	W 2:00pm 4:50pm	28	4	Principles of Molecular & Cellular Biology Laboratory	Swarna Mohan	
 in person	BSCI	BSCI171	W 6:00pm 8:50pm	28	2	Principles of Molecular & Cellular Biology Laboratory	Swarna Mohan	
-in person	BSCI	BSCI171	Th 11:00am 1:50pm	28	5	Principles of Molecular & Cellular Biology Laboratory	Swarna Mohan	
+in person	BSCI	BSCI171	Th 11:00am 1:50pm	28	6	Principles of Molecular & Cellular Biology Laboratory	Swarna Mohan	
 in person	BSCI	BSCI171	Th 11:00am 1:50pm	28	2	Principles of Molecular & Cellular Biology Laboratory	Swarna Mohan	
 in person	BSCI	BSCI171	Th 2:00pm 4:50pm	28	1	Principles of Molecular & Cellular Biology Laboratory	Swarna Mohan	
 in person	BSCI	BSCI171	Th 2:00pm 4:50pm	28	2	Principles of Molecular & Cellular Biology Laboratory	Swarna Mohan	
@@ -873,7 +873,7 @@ in person	BSCI	BSCI189I	MWF 11:00am 11:50am	24	6	Beyond Race: Human Biological D
 in person	BSCI	BSCI189I	MWF 11:00am 11:50am	24	3	Beyond Race: Human Biological Diversity	Joelle Presson	Th 1:00pm 3:50pm
 in person	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Justicia Opoku-Edusei	M 1:00pm 3:50pm
 in person	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Caitlin Fox	M 4:00pm 6:50pm
-in person	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Caitlin Fox	Tu 8:00am 10:50am
+in person	BSCI	BSCI201	MWF 10:00am 10:50am	24	1	Human Anatomy and Physiology I	Caitlin Fox	Tu 8:00am 10:50am
 in person	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Justicia Opoku-Edusei	Tu 11:00am 1:50pm
 in person	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Caitlin Fox	Tu 6:00pm 8:50pm
 in person	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Caitlin Fox	Th 11:00am 1:50pm
@@ -1663,7 +1663,7 @@ in person	CMSC	CMSC131	MWF 10:00am 10:50am	32	0	Object-Oriented Programming I	Ne
 in person	CMSC	CMSC131	MWF 10:00am 10:50am	32	0	Object-Oriented Programming I	Nelson Padua-Perez	MW 12:00pm 12:50pm
 in person	CMSC	CMSC131	MWF 10:00am 10:50am	32	0	Object-Oriented Programming I	Nelson Padua-Perez	MW 1:00pm 1:50pm
 in person	CMSC	CMSC131	MWF 10:00am 10:50am	32	0	Object-Oriented Programming I	Nelson Padua-Perez	MW 2:00pm 2:50pm
-in person	CMSC	CMSC131	MWF 10:00am 10:50am	32	5	Object-Oriented Programming I	Nelson Padua-Perez	MW 3:00pm 3:50pm
+in person	CMSC	CMSC131	MWF 10:00am 10:50am	32	6	Object-Oriented Programming I	Nelson Padua-Perez	MW 3:00pm 3:50pm
 in person	CMSC	CMSC131	MWF 10:00am 10:50am	34	18	Object-Oriented Programming I	Nelson Padua-Perez	MW 4:00pm 4:50pm
 in person	CMSC	CMSC131	MWF 10:00am 10:50am	36	34	Object-Oriented Programming I	Nelson Padua-Perez	MW 5:00pm 5:50pm
 in person	CMSC	CMSC131	MWF 10:00am 10:50am	32	27	Object-Oriented Programming I	Nelson Padua-Perez	MW 2:00pm 2:50pm
@@ -1681,7 +1681,7 @@ in person	CMSC	CMSC131	MWF 9:00am 9:50am	32	2	Object-Oriented Programming I	Nels
 in person	CMSC	CMSC131	MWF 9:00am 9:50am	32	15	Object-Oriented Programming I	Nelson Padua-Perez	MW 11:00am 11:50am
 in person	CMSC	CMSC131	MWF 9:00am 9:50am	32	27	Object-Oriented Programming I	Nelson Padua-Perez	MW 12:00pm 12:50pm
 in person	CMSC	CMSC131	MWF 9:00am 9:50am	32	26	Object-Oriented Programming I	Nelson Padua-Perez	MW 1:00pm 1:50pm
-in person	CMSC	CMSC131	MWF 9:00am 9:50am	32	22	Object-Oriented Programming I	Nelson Padua-Perez	MW 2:00pm 2:50pm
+in person	CMSC	CMSC131	MWF 9:00am 9:50am	32	23	Object-Oriented Programming I	Nelson Padua-Perez	MW 2:00pm 2:50pm
 in person	CMSC	CMSC131	MWF 9:00am 9:50am	32	26	Object-Oriented Programming I	Nelson Padua-Perez	MW 3:00pm 3:50pm
 in person	CMSC	CMSC131	MWF 9:00am 9:50am	32	29	Object-Oriented Programming I	Nelson Padua-Perez	MW 4:00pm 4:50pm
 in person	CMSC	CMSC131	MWF 9:00am 9:50am	32	25	Object-Oriented Programming I	Nelson Padua-Perez	MW 5:00pm 5:50pm
@@ -1689,8 +1689,8 @@ in person	CMSC	CMSC131	MWF 9:00am 9:50am	32	28	Object-Oriented Programming I	Nel
 in person	CMSC	CMSC131	MWF 11:00am 11:50am	28	22	Object-Oriented Programming I	Fawzi Emad	TuTh 8:00am 8:50am
 in person	CMSC	CMSC131	MWF 11:00am 11:50am	28	21	Object-Oriented Programming I	Fawzi Emad	TuTh 9:30am 10:20am
 in person	CMSC	CMSC131	MWF 11:00am 11:50am	28	0	Object-Oriented Programming I	Fawzi Emad	TuTh 11:00am 11:50am
-in person	CMSC	CMSC131	MWF 11:00am 11:50am	28	7	Object-Oriented Programming I	Fawzi Emad	TuTh 12:30pm 1:20pm
-in person	CMSC	CMSC131	MWF 11:00am 11:50am	28	17	Object-Oriented Programming I	Fawzi Emad	TuTh 2:00pm 2:50pm
+in person	CMSC	CMSC131	MWF 11:00am 11:50am	28	6	Object-Oriented Programming I	Fawzi Emad	TuTh 12:30pm 1:20pm
+in person	CMSC	CMSC131	MWF 11:00am 11:50am	28	18	Object-Oriented Programming I	Fawzi Emad	TuTh 2:00pm 2:50pm
 in person	CMSC	CMSC131	MWF 11:00am 11:50am	28	20	Object-Oriented Programming I	Fawzi Emad	TuTh 3:30pm 4:20pm
 in person	CMSC	CMSC131	MWF 11:00am 11:50am	28	27	Object-Oriented Programming I	Fawzi Emad	TuTh 5:00pm 5:50pm
 in person	CMSC	CMSC131	MWF 11:00am 11:50am	28	18	Object-Oriented Programming I	Fawzi Emad	TuTh 11:00am 11:50am
@@ -1711,13 +1711,13 @@ in person	CMSC	CMSC132	MWF 3:00pm 3:50pm	34	28	Object-Oriented Programming II	Pe
 in person	CMSC	CMSC132	MWF 3:00pm 3:50pm	34	34	Object-Oriented Programming II	Pedram Sadeghian	MW 8:00am 8:50am
 in person	CMSC	CMSC132	MWF 1:00pm 1:50pm	36	3	Object-Oriented Programming II	Pedram Sadeghian	MW 9:00am 9:50am
 in person	CMSC	CMSC132	MWF 1:00pm 1:50pm	36	0	Object-Oriented Programming II	Pedram Sadeghian	MW 12:00pm 12:50pm
-in person	CMSC	CMSC132	MWF 1:00pm 1:50pm	36	9	Object-Oriented Programming II	Pedram Sadeghian	MW 9:00am 9:50am
+in person	CMSC	CMSC132	MWF 1:00pm 1:50pm	36	8	Object-Oriented Programming II	Pedram Sadeghian	MW 9:00am 9:50am
 in person	CMSC	CMSC132	MWF 1:00pm 1:50pm	36	27	Object-Oriented Programming II	Pedram Sadeghian	MW 8:00am 8:50am
 in person	CMSC	CMSC132	MWF 1:00pm 1:50pm	36	1	Object-Oriented Programming II	Pedram Sadeghian	MW 11:00am 11:50am
 in person	CMSC	CMSC132	MWF 1:00pm 1:50pm	36	0	Object-Oriented Programming II	Pedram Sadeghian	MW 11:00am 11:50am
 in person	CMSC	CMSC132	MWF 1:00pm 1:50pm	36	0	Object-Oriented Programming II	Pedram Sadeghian	MW 10:00am 10:50am
 in person	CMSC	CMSC132	MWF 12:00pm 12:50pm	25	16	Object-Oriented Programming II	Pedram Sadeghian	MW 8:00am 8:50am
-in person	CMSC	CMSC132	MWF 12:00pm 12:50pm	25	2	Object-Oriented Programming II	Pedram Sadeghian	MW 9:00am 9:50am
+in person	CMSC	CMSC132	MWF 12:00pm 12:50pm	25	1	Object-Oriented Programming II	Pedram Sadeghian	MW 9:00am 9:50am
 in person	CMSC	CMSC132	MWF 12:00pm 12:50pm	25	0	Object-Oriented Programming II	Pedram Sadeghian	MW 10:00am 10:50am
 in person	CMSC	CMSC132	MWF 12:00pm 12:50pm	25	7	Object-Oriented Programming II	Pedram Sadeghian	MW 9:00am 9:50am
 in person	CMSC	CMSC133	M 5:00pm 6:15pm	25	22	Object Oriented Programming I Beyond Fundamentals	Swati Singhal	F 2:00pm 2:50pm
@@ -2404,7 +2404,7 @@ in person	ENAE	ENAE788K	MW 2:00pm 3:15pm	5	4	Selected Topics in Aerospace Engine
 in person	ENAE	ENAE788K	MW 2:00pm 3:15pm	5	5	Selected Topics in Aerospace Engineering; Estimation and Control of Stochastic Systems	Robert Sanner	
 in person	ENAE	ENAE788K	MW 2:00pm 3:15pm	5	4	Selected Topics in Aerospace Engineering; Estimation and Control of Stochastic Systems	Robert Sanner	
 in person	ENAE	ENAE788X	MW 2:00pm 3:15pm	20	2	Selected Topics in Aerospace Engineering	David Akin	
-online	ENAE	ENAE100	Tu 12:30pm 1:45pm	25	8	The Aerospace Engineering Profession	Norman Wereley	M 2:00pm 2:50pm
+online	ENAE	ENAE100	Tu 12:30pm 1:45pm	25	7	The Aerospace Engineering Profession	Norman Wereley	M 2:00pm 2:50pm
 online	ENAE	ENAE100	Tu 12:30pm 1:45pm	25	8	The Aerospace Engineering Profession	Norman Wereley	Tu 11:00am 11:50am
 online	ENAE	ENAE100	Tu 12:30pm 1:45pm	25	18	The Aerospace Engineering Profession	Norman Wereley	W 2:00pm 2:50pm
 online	ENAE	ENAE100	Tu 12:30pm 1:45pm	25	8	The Aerospace Engineering Profession	Norman Wereley	W 4:00pm 4:50pm
@@ -3540,7 +3540,7 @@ in person	GEOL	GEOL110	Tu 3:00pm 6:00pm	24	0	Physical Geology Laboratory	Tracey 
 in person	GEOL	GEOL110	W 9:00am 12:00pm	24	0	Physical Geology Laboratory	Tracey Centorbi	
 in person	GEOL	GEOL110	W 3:00pm 6:00pm	24	0	Physical Geology Laboratory	Tracey Centorbi	
 in person	GEOL	GEOL110	Tu 9:00am 12:00pm	24	0	Physical Geology Laboratory	Tracey Centorbi	
-in person	GEOL	GEOL120	TuTh 12:30pm 1:45pm	20	1	Environmental Geology	Tracey Centorbi	M 3:00pm 3:50pm
+in person	GEOL	GEOL120	TuTh 12:30pm 1:45pm	20	0	Environmental Geology	Tracey Centorbi	M 3:00pm 3:50pm
 in person	GEOL	GEOL120	TuTh 12:30pm 1:45pm	20	13	Environmental Geology	Tracey Centorbi	M 4:00pm 4:50pm
 in person	GEOL	GEOL120	TuTh 12:30pm 1:45pm	20	15	Environmental Geology	Tracey Centorbi	M 5:00pm 5:50pm
 in person	GEOL	GEOL120	TuTh 4:30pm 5:45pm	18	1	Environmental Geology	Tracey Centorbi	F 10:00am 10:50am
@@ -3712,7 +3712,7 @@ in person	GVPT	GVPT803	W 3:30pm 6:15pm	12	6	Seminar in International Political O
 in person	GVPT	GVPT808B	Tu 9:30am 12:15pm	12	10	Selected Topics in Functional Problems in International Relations; Conflict and World Politics	Paul Huth	
 in person	GVPT	GVPT828O	Th 9:30am 12:15pm	12	6	Selected Problems in Political Behavior; Public Opinion	Antoine Banks	
 in person	GVPT	GVPT888I	W 12:30pm 3:15pm	12	7	Selected Topics in Comparative Governmental Institutions; The Politics of Identity	Johanna Birnir	
-online	GVPT	GVPT404	TuTh 12:30pm 1:45pm	27	23	Political Economy of Foreign Aid	Shannon Carcelli	
+online	GVPT	GVPT404	TuTh 12:30pm 1:45pm	27	22	Political Economy of Foreign Aid	Shannon Carcelli	
 online	GVPT	GVPT409O	TuTh 2:00pm 3:15pm	27	15	Seminar in International Relations and World Politics; The Politics of Climate Change	Jennifer Hadden	
 online	GVPT	GVPT409Q	W 2:00pm 4:30pm	40	25	Seminar in International Relations and World Politics; Globalization and the Future of Politics	Laszlo Korossy	
 online	GVPT	GVPT449L	W 3:30pm 6:15pm	30	20	Seminar in Political Philosophy; Liberalism and Its Critics	James Glass	
@@ -3767,7 +3767,7 @@ in person	HESP	HESP120	TuTh 2:00pm 3:15pm	45	10	Introduction to Linguistics	Mich
 in person	HESP	HESP120	TuTh 6:00pm 7:15pm	30	6	Introduction to Linguistics	Dominique Mwepu	
 in person	HESP	HESP150	Tu 6:30pm 9:00pm	50	50	Introduction to Language Science	Kristina Kubistal-Meeks	
 in person	HESP	HESP202	TuTh 11:00am 12:15pm	100	47	Introduction to Hearing and Speech Sciences	Kathleen Skinker	
-in person	HESP	HESP214	TuTh 11:00am 12:15pm	45	9	Should I Buy INTO That? Comparing Media Claims with Scientific Evidence from Brain & Behavior Research	Jared Novick	
+in person	HESP	HESP214	TuTh 11:00am 12:15pm	45	10	Should I Buy INTO That? Comparing Media Claims with Scientific Evidence from Brain & Behavior Research	Jared Novick	
 in person	HESP	HESP214	TuTh 4:30pm 5:45pm	30	0	Should I Buy INTO That? Comparing Media Claims with Scientific Evidence from Brain & Behavior Research	Alison Robey	
 in person	HESP	HESP300	TuTh 2:00pm 3:15pm	45	7	Introduction to Psycholinguistics	Jared Novick	
 in person	HESP	HESP305	TuTh 11:00am 12:15pm	52	0	Anatomy and Physiology of the Speech Mechanism	Tammatha O'Brien	
@@ -3833,8 +3833,8 @@ in person	HIST	HIST111	TuTh 12:30pm 1:20pm	24	12	The Medieval World	Colleen Ho	F
 in person	HIST	HIST111	TuTh 12:30pm 1:20pm	24	12	The Medieval World	Colleen Ho	F 1:00pm 1:50pm
 in person	HIST	HIST111	TuTh 6:00pm 7:15pm	25	0	The Medieval World	Courtney Dahlke	
 in person	HIST	HIST113	TuTh 12:30pm 1:45pm	30	11	The Making of Modern Europe	Stefano Villani	
-in person	HIST	HIST120	MW 9:00am 9:50am	24	12	Islamic Civilization	Antoine Borrut	F 10:00am 10:50am
-in person	HIST	HIST120	MW 9:00am 9:50am	24	11	Islamic Civilization	Antoine Borrut	F 11:00am 11:50am
+in person	HIST	HIST120	MW 9:00am 9:50am	24	11	Islamic Civilization	Antoine Borrut	F 10:00am 10:50am
+in person	HIST	HIST120	MW 9:00am 9:50am	24	12	Islamic Civilization	Antoine Borrut	F 11:00am 11:50am
 in person	HIST	HIST120	MW 9:00am 9:50am	24	19	Islamic Civilization	Antoine Borrut	F 1:00pm 1:50pm
 in person	HIST	HIST123	MW 2:00pm 3:15pm	40	11	Sub-Saharan Africa Since 1800	Erin Mosely	
 in person	HIST	HIST132	MW 11:00am 11:50am	24	7	Fighting Slavery	Richard Bell	Th 11:00am 11:50am
@@ -4173,7 +4173,7 @@ in person	INST	INST126	MWF 2:00pm 2:50pm	45	24	Introduction to Programming for I
 in person	INST	INST126	TuTh 9:30am 10:45am	45	16	Introduction to Programming for Information Science	Philip Piety	
 in person	INST	INST126	TuTh 3:30pm 4:45pm	45	26	Introduction to Programming for Information Science	Philip Piety	
 in person	INST	INST152	TuTh 3:30pm 4:45pm	150	100	"Fake Checking": Battling Misinformation and Disinformation in the Real World	Ursula Gorham-Oscilowski	
-in person	INST	INST154	TuTh 5:00pm 6:15pm	78	37	Apollo at 50	Douglas Oard	
+in person	INST	INST154	TuTh 5:00pm 6:15pm	150	109	Apollo at 50	Douglas Oard	
 in person	INST	INST201	TuTh 7:30pm 8:45pm	17	0	Introduction to Information Science	Elizabeth Bonsignore	
 in person	INST	INST311	Tu 11:00am 12:15pm	30	0	Information Organization	Katy Lawley	Th 11:00am 12:15pm
 in person	INST	INST311	Tu 11:00am 12:15pm	29	0	Information Organization	Katy Lawley	Th 12:30pm 1:45pm
@@ -4244,7 +4244,7 @@ in person	INST	INST808	Tu 4:00pm 6:45pm	20	14	Seminar in Research Methods and Da
 in person	INST	INST808	Th 6:00pm 8:45pm	20	7	Seminar in Research Methods and Data Analysis	Amanda Lazar	
 in person	INST	INST888	M 6:00pm 8:45pm	20	2	Doctoral Seminar	Katie Shilton	
 online	INST	INST126		45	0	Introduction to Programming for Information Science	Joel Chan	
-online	INST	INST155		150	36	Social Networking	Jennifer Golbeck	
+online	INST	INST155		150	35	Social Networking	Jennifer Golbeck	
 online	INST	INST201		90	0	Introduction to Information Science	Jessica Vitak	
 online	INST	INST208L		30	7	Special Topics in Information Studies; Linux Command Line Tools	Donal Heidenblad	
 online	INST	INST301		40	39	Introduction to Information Science	Joyce Garczynski	
@@ -4419,7 +4419,7 @@ in person	JOUR	JOUR800	M 3:00pm 5:45pm	10	5	Introduction to Doctoral Study in Jo
 online	JOUR	JOUR150		35	11	Introduction to Mass Communication	Denitsa Yotova	
 online	JOUR	JOUR175		80	19	Media Literacy	Susan Moeller	
 online	JOUR	JOUR175		80	33	Media Literacy	Susan Moeller	
-online	JOUR	JOUR289E		70	18	Media Law and Ethics in the Digital Age	Deborah Nelson	
+online	JOUR	JOUR289E		70	17	Media Law and Ethics in the Digital Age	Deborah Nelson	
 online	JOUR	JOUR289F		70	7	Beyond Facebook: How Social Media are Transforming Society, Culture, Business and Politics	Sarah Oates	
 online	JOUR	JOUR405		38	0	Breaking News With Numbers: Statistics for Journalists	Tom Brune	
 online	JOUR	JOUR604	Sa 8:30am 12:15pm	15	13	Introduction to Multimedia Skills for Graduate Certificate Programs	Instructor: TBA	
@@ -5025,7 +5025,7 @@ in person	MUSC	MUSC260	MW 2:00pm 2:50pm	25	1	Music as Global Culture	John Witzle
 in person	MUSC	MUSC260	MW 2:00pm 2:50pm	25	14	Music as Global Culture	John Witzleben	F 12:00pm 12:50pm
 in person	MUSC	MUSC289I	MW 1:00pm 1:50pm	20	2	Exploring the Power of Musical Performance in Social Engagement	Lee Hinkle	F 9:00am 9:50am
 in person	MUSC	MUSC289I	MW 1:00pm 1:50pm	20	4	Exploring the Power of Musical Performance in Social Engagement	Lee Hinkle	F 10:00am 10:50am
-in person	MUSC	MUSC289I	MW 1:00pm 1:50pm	20	1	Exploring the Power of Musical Performance in Social Engagement	Lee Hinkle	F 11:00am 11:50am
+in person	MUSC	MUSC289I	MW 1:00pm 1:50pm	20	2	Exploring the Power of Musical Performance in Social Engagement	Lee Hinkle	F 11:00am 11:50am
 in person	MUSC	MUSC329A	TuTh 4:30pm 6:00pm	75	62	Ensemble; University of Maryland Chorale	Matthew Goinz	
 in person	MUSC	MUSC329A	TuTh 4:30pm 6:00pm	10	10	Ensemble; University of Maryland Chorale	Matthew Goinz	
 in person	MUSC	MUSC329B	MW 3:00pm 3:50pm	50	35	Ensemble; Chamber Singers	Edward Maclary	TuTh 3:30pm 4:20pm
@@ -5499,7 +5499,7 @@ in person	PLCY	PLCY610	Th 9:15am 11:45am	30	0	Quantitative Aspects of Public Pol
 in person	PLCY	PLCY611	W 4:15pm 6:45pm	20	9	Quantitative Analysis of Policy Issues	Seth Weissman	M 4:15pm 6:45pm
 in person	PLCY	PLCY640	W 1:30pm 4:00pm	30	0	Microeconomic and Policy Analysis	Yueming Qiu	Tu 4:15pm 6:45pm
 in person	PLCY	PLCY640	Tu 1:30pm 4:00pm	30	0	Microeconomic and Policy Analysis	Yueming Qiu	M 1:30pm 4:00pm
-in person	PLCY	PLCY640	M 7:00pm 9:30pm	40	21	Microeconomic and Policy Analysis	Michael Busse	F 4:15pm 6:45pm
+in person	PLCY	PLCY640	M 7:00pm 9:30pm	40	20	Microeconomic and Policy Analysis	Michael Busse	F 4:15pm 6:45pm
 in person	PLCY	PLCY641	M 1:30pm 4:00pm	20	0	Macroeconomics and Policy Analysis	John Green	W 9:15am 11:45am
 in person	PLCY	PLCY641	M 7:00pm 9:30pm	20	10	Macroeconomics and Policy Analysis	Anthony Sanford	Tu 7:00pm 9:30pm
 in person	PLCY	PLCY670	Tu 1:30pm 4:00pm	20	4	Public Budgeting & Financial Management	Juan Martinez Guzman	
@@ -5596,7 +5596,7 @@ online	PSYC	PSYC100	W 4:00pm 5:20pm	25	0	Introduction to Psychology	Benjamin Jon
 online	PSYC	PSYC100	W 4:00pm 5:20pm	25	0	Introduction to Psychology	Benjamin Jones	F 11:00am 11:50am
 online	PSYC	PSYC100	W 4:00pm 5:20pm	25	0	Introduction to Psychology	Benjamin Jones	F 2:00pm 2:50pm
 online	PSYC	PSYC100	W 4:00pm 5:20pm	25	0	Introduction to Psychology	Benjamin Jones	F 3:00pm 3:50pm
-online	PSYC	PSYC100	W 4:00pm 5:20pm	25	5	Introduction to Psychology	Benjamin Jones	F 8:00am 8:50am
+online	PSYC	PSYC100	W 4:00pm 5:20pm	25	4	Introduction to Psychology	Benjamin Jones	F 8:00am 8:50am
 online	PSYC	PSYC100	W 4:00pm 5:20pm	25	0	Introduction to Psychology	Benjamin Jones	F 11:00am 11:50am
 online	PSYC	PSYC100	W 4:00pm 5:20pm	25	0	Introduction to Psychology	Benjamin Jones	F 11:00am 11:50am
 online	PSYC	PSYC100	W 4:00pm 5:20pm	25	0	Introduction to Psychology	Benjamin Jones	F 3:00pm 3:50pm
@@ -5717,8 +5717,8 @@ in person	RDEV	RDEV690	Tu 7:00pm 9:40pm	10	10	Capstone Project: Real Property Fe
 in person	RDEV	RDEV690	Tu 7:00pm 9:40pm	10	10	Capstone Project: Real Property Feasibility Study	Tanya Bansal	
 in person	RDEV	RDEV690	Tu 7:00pm 9:40pm	10	10	Capstone Project: Real Property Feasibility Study	Tanya Bansal	
 in person	RDEV	RDEV690	Tu 7:00pm 9:40pm	10	10	Capstone Project: Real Property Feasibility Study	Maria Day-Marshall	
-in person	RELS	RELS120	MW 9:00am 9:50am	24	12	Islamic Civilization	Antoine Borrut	F 10:00am 10:50am
-in person	RELS	RELS120	MW 9:00am 9:50am	24	11	Islamic Civilization	Antoine Borrut	F 11:00am 11:50am
+in person	RELS	RELS120	MW 9:00am 9:50am	24	11	Islamic Civilization	Antoine Borrut	F 10:00am 10:50am
+in person	RELS	RELS120	MW 9:00am 9:50am	24	12	Islamic Civilization	Antoine Borrut	F 11:00am 11:50am
 in person	RELS	RELS120	MW 9:00am 9:50am	24	19	Islamic Civilization	Antoine Borrut	F 1:00pm 1:50pm
 in person	RELS	RELS170	MW 11:00am 11:50am	19	0	Greek and Roman Mythology	Katherine Wasdin	F 10:00am 10:50am
 in person	RELS	RELS170	MW 11:00am 11:50am	19	3	Greek and Roman Mythology	Katherine Wasdin	Th 9:30am 10:20am
