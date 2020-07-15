@@ -22,7 +22,8 @@ p, h1, h2, img {
 	height: 500px;
 	overflow: auto;
 	border: 3px solid #FFD520; /* Maryland Gold */
-	padding: 5px;
+	/* padding: 5px -5x 0px 5px; */
+	padding: 0px;
 	width: 100% ;
 	table-layout: fixed ;
 	border-collapse: collapse ;
@@ -30,18 +31,6 @@ p, h1, h2, img {
 
 td {
     padding:0 10px;
-}
-
-.summary-info-styler {
-	table-layout: fixed ;
-	width: 100% ;
-	border-collapse: collapse ;
-}
-  
-.summary-info-styler td {
-	width: 50% ;
-	padding: 10px ;
-	text-align: left;
 }
 
 /* Footer */

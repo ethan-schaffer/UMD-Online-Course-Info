@@ -14,11 +14,11 @@ function getChartUrl(in_person, online) {
 }
 
 function get_course_count_info() {
-    return "We define a course as a single section that a class meets during. In total, we found that there were " + total_online + " online sections and " + total_in_person + " in person sections, making " + total_classes + " classes in all.";
+    return "We define a course as a single section that a class meets during. In total, we found that there were " + parseInt(total_online,10).toLocaleString() + " online sections and " + parseInt(total_in_person,10).toLocaleString() + " in person sections, making " + parseInt(total_classes,10).toLocaleString() + " classes in all.";
 }
 
 function get_seat_count_info() {
-    return "A seat is a single spot in a class a student can fill, so a student will fill multiple seats. In total, we found that there were " + seats_online + " seats online and " + seats_in_person + " seats in person, making " + seats_total + " total seats.";
+    return "A seat is a single spot in a class a student can fill, so a student will fill multiple seats. In total, we found that there were " + parseInt(seats_online,10).toLocaleString() + " seats online and " + parseInt(seats_in_person,10).toLocaleString() + " seats in person, making " + parseInt(seats_total,10).toLocaleString() + " total seats.";
 }
 
 function get_dept_summary() {
