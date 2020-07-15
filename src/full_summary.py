@@ -91,6 +91,9 @@ def get_by_type(data, type_string, force_full_return):
 
         if not full == []:
             full_info.append([entry, full])
+        else:
+            print("missing", course_id)
+            full_info.append([entry, [["Couldn't load data", "?", "?", "?", "?", "?", "?"]]])
     return full_info
 
 def get_force_firefox(url, type_string):
@@ -144,6 +147,7 @@ for basic_info, lst in dt:
     output[basic_info[0]]["course-name"] = basic_info[2]
     section_info = {}
     for section in lst:
+        print(section)
         section_info[section[0]] = {'instructor' : section[4],
                                     'lecture-time' : section[2],
                                     'lab-time' : section[3],
@@ -182,27 +186,28 @@ def is_online(data_row):
     return data_row[0] == "online"
 
 def is_in_person(data_row):
-    return not is_online(data_row)
+    return data_row[0] == "in person"
 
 online = list(filter(is_online, dt))
 in_person = list(filter(is_in_person, dt))
 
 total_online = len(online)
 total_in_person = len(in_person)
-total_classes = total_online + total_in_person
+total_classes = len(dt)
 
-percent_online = round(total_online*100 / total_classes, 2)
-percent_in_person = round(total_in_person*100 / total_classes, 2)
+percent_online = round(total_online*100 / (total_online+total_in_person), 2)
+percent_in_person = round(total_in_person*100 / (total_online+total_in_person), 2)
 
 def get_seats_total(csv_row):
     total = 0
     for i in csv_row:
-        total += int(i[4])
+        if i[4] is not "?":
+            total += int(i[4])
     return total
 
 seats_online = get_seats_total(online)
 seats_in_person = get_seats_total(in_person)
-seats_total = seats_online + seats_in_person
+seats_total = seats_online+seats_in_person
 
 percent_seats_online = round(seats_online*100 / seats_total, 2)
 percent_seats_in_person = round(seats_in_person*100 / seats_total, 2)
