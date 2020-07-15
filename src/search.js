@@ -62,8 +62,9 @@ function createCourseContainer(course_code) {
 	
 	// return no html if no sections pass the filter
 	if (ul.children().length == 0) {
-		return null;
-		
+		return $(`<div class='course-container'>
+					<h3>Sorry, we couldn't find any courses that match that search.</h3>
+				</div>`);
 	} else {
 		return course_container;
 	}
