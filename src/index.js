@@ -24,10 +24,11 @@ function get_seat_count_info() {
 // wait until html elements are ready
 $(document).ready(function () {
     $('#footer').text(getFooterContent());
-
     $('#chart1').attr("src",getChartUrl(percent_online, percent_in_person));
     $('#chart2').attr("src",getChartUrl(percent_seats_online, percent_seats_in_person));
     $('#course_count_info').text(get_course_count_info());
     $('#seat_count_info').text(get_seat_count_info());
+	
+	// fill department summary table
 
 })
