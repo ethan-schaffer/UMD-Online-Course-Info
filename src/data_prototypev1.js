@@ -1,4 +1,4 @@
-let last_updated = '07:08:24 2020-07-15';
+let last_updated = '07:30:54 2020-07-15';
 
 let catalog = [
 {
@@ -23132,7 +23132,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "15",
-                "instructor": "Jessica Chew",
+                "instructor": "Glenn Kasten-Sportes",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 10:00am 10:50am",
@@ -23140,7 +23140,7 @@ let catalog = [
             },
             "0201": {
                 "capacity": "5",
-                "instructor": "Jessica Chew",
+                "instructor": "Glenn Kasten-Sportes",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 10:00am 10:50am",
@@ -54096,7 +54096,7 @@ let catalog = [
             },
             "FC01": {
                 "capacity": "24",
-                "instructor": "Nadine Sahyoun",
+                "instructor": "Seong-Ho Lee",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 11:30am 12:20pm",
@@ -54156,7 +54156,7 @@ let catalog = [
             },
             "0104": {
                 "capacity": "30",
-                "instructor": "Qin Wang",
+                "instructor": "Abani Pradhan",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 3:00pm 3:50pm",
@@ -54586,7 +54586,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "10",
-                "instructor": "Jenna Messman",
+                "instructor": "Sarah Wilson",
                 "lab-time": "W 5:15pm 6:15pm",
                 "learning-mode": "online",
                 "lecture-time": "M 5:15pm 6:45pm",
