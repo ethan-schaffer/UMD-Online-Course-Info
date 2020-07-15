@@ -22,30 +22,31 @@ function get_seat_count_info() {
 }
 
 function get_dept_summary() {
-	let output = 	$(`<div class='output'>
-								<ul></ul>
-							</div>`);
-	let ul = output.find('ul');
+	// let output = 	$(`<div class='output'>
+								// <ul></ul>
+							// </div>`);
+	// let ul = output.find('ul');
 	
 	
-	for (dept_code in dept_summary) {
-		let dept_info = dept_summary[dept_code];
+	// for (dept_code in dept_summary) {
+		// let dept_info = dept_summary[dept_code];
 		
-		let summary_container = $(`<li>
-									<b><p>${dept_info['departmentName']}&nbsp;(${dept_code})</p></b>
-									<table>
-										<tr><td>Online Sections:</td><td>${dept_info['onlineSections']}</td><td>In Person Sections:</td><td>${dept_info['inPersonSections']}</td></tr>
-										<tr><td>Online Seats:</td><td>${dept_info['onlineSeats']}</td><td>In Person Seats:</td><td>${dept_info['inPersonSeats']}</td></tr>
-									</table>
-									<br>
-								</li>`);
-		console.log(summary_container)
-		console.log(dept_info);
-		ul.append(summary_container);
+		// let summary_container = $(`<li>
+									// <b><p>${dept_info['departmentName']}&nbsp;(${dept_code})</p></b>
+									// <table>
+										// <tr><td>Online Sections:</td><td>${dept_info['onlineSections']}</td><td>In Person Sections:</td><td>${dept_info['inPersonSections']}</td></tr>
+										// <tr><td>Online Seats:</td><td>${dept_info['onlineSeats']}</td><td>In Person Seats:</td><td>${dept_info['inPersonSeats']}</td></tr>
+									// </table>
+									// <br>
+								// </li>`);
+		// console.log(summary_container)
+		// console.log(dept_info);
+		// ul.append(summary_container);
 		
-	}
-	console.log(output);
-	return output;
+	// }
+	
+	// console.log(output);
+	// return output;
 }
 
 // wait until html elements are ready

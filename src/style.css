@@ -9,6 +9,13 @@ p, h1, h2, img {
 	margin: 0px 0px 10px 0px;
 }
 
+/* to make dept-summary-table stretch to the bottom*/
+html, body {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
 /* Page Container */
 
 #page-container {
@@ -19,13 +26,11 @@ p, h1, h2, img {
 }
 
 #dept-summary-table {
-	overflow: auto;
+	/* overflow: auto; */
+	height: 90%;
 	border: 3px solid #FFD520; /* Maryland Gold */
-	/* padding: 5px -5x 0px 5px; */
-	padding: 0px;
-	width: 100% ;
-	table-layout: fixed ;
-	border-collapse: collapse ;
+	table-layout: fixed;
+	border-collapse: collapse;
 }
 
 td {
