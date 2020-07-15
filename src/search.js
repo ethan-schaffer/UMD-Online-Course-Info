@@ -34,15 +34,16 @@ function createCourseContainer(course_code) {
 		if (learning_mode_filter == 'all' || 
 			learning_mode_filter == sections[section_code]['learning-mode']) {
 			
-			// create text about lab/discussion meething time
-			let lab_info = '';
-			if(sections[section_code]['lab-time'] != null) { 
-				lab_info = "Additional Section:<br>" + sections[section_code]['lab-time'];
+			// string describing lecture time
+			let lecture_info = '<br>';
+			if (sections[section_code]['lecture-time'] != null) {
+				lecture_info = `Lecture Section:<br>${sections[section_code]['lecture-time']}`;
 			}
-
-			let main_time = '';
-			if(sections[section_code]['lecture-time'] != null) { 
-				lab_info = "Lecture Time:<br>" + sections[section_code]['lecture-time'];
+			
+			// string describing dicussion time
+			let lab_info = '<br>';
+			if (sections[section_code]['lab-time'] != null) { 
+				lab_info = "Lab/Dicussion Section:<br>" + sections[section_code]['lab-time'];
 			}
 			
 			// create section data html container
@@ -52,9 +53,9 @@ function createCourseContainer(course_code) {
 										<td>Section:<br>${section_code}</td>
 										<td>Total Seats:<br>${sections[section_code]['capacity']}</td>
 										<td>Taught by:<br>${sections[section_code]['instructor']}</td>
-										<td>${main_time}</td>
+										<td>${lecture_info}</td>
 										<td>${lab_info}</td>
-										<td>Learning Type:<br>${sections[section_code]['learning-mode']}</td>
+										<td>Learning Type:<br><mark>${sections[section_code]['learning-mode']}</mark></td>
 										<td>Seats Open:<br>${sections[section_code]['open-seats']}</td>
 									</tr>
 								</table>
