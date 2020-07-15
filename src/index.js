@@ -30,5 +30,21 @@ $(document).ready(function () {
     $('#seat_count_info').text(get_seat_count_info());
 	
 	// fill department summary table
-
+	for (dept_code in dept_summary) {
+		let dept_info = dept_summary[dept_code];
+		
+		let summary_container = $(`<li>
+									<table>
+										<p>${dept_code} | ${dept_info['department-name']}</p>
+										<tr>
+											<td>In Person Sections:<br>${dept_info['inPersonSections']}</td>
+											<td>Online Sections:<br>${}</td>
+											<td>In Person Seats:<br>${}</td>
+											<td>Online Sections<br>${}</td>
+										</tr>
+									</table>
+								</li>`);
+		
+		$('$dept-summary-table').append(XXX);
+	}
 })
