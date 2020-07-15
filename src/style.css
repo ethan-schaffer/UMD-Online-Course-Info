@@ -19,7 +19,6 @@ p, h1, h2, img {
 }
 
 #dept-summary-table {
-	height: 500px;
 	overflow: auto;
 	border: 3px solid #FFD520; /* Maryland Gold */
 	/* padding: 5px -5x 0px 5px; */
