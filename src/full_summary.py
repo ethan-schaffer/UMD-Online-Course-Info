@@ -193,10 +193,10 @@ in_person = list(filter(is_in_person, dt))
 
 total_online = len(online)
 total_in_person = len(in_person)
-total_classes = len(dt)
+total_classes = total_online+total_in_person
 
-percent_online = round(total_online*100 / (total_online+total_in_person), 2)
-percent_in_person = round(total_in_person*100 / (total_online+total_in_person), 2)
+percent_online = round(total_online*100 / total_classes, 2)
+percent_in_person = round(total_in_person*100 / total_classes, 2)
 
 def get_seats_total(csv_row):
     total = 0
@@ -226,4 +226,3 @@ with open("summary_data.js", "w") as df:
 
     df.write("let percent_seats_online = '" + str(percent_seats_online) + "';\n")
     df.write("let percent_seats_in_person = '" + str(percent_seats_in_person) + "';\n")
-
