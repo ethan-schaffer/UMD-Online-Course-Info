@@ -39,6 +39,11 @@ function createCourseContainer(course_code) {
 			if(sections[section_code]['lab-time'] != null) { 
 				lab_info = "Additional Section:<br>" + sections[section_code]['lab-time'];
 			}
+
+			let main_time = '';
+			if(sections[section_code]['lecture-time'] != null) { 
+				lab_info = "Lecture Time:<br>" + sections[section_code]['lecture-time'];
+			}
 			
 			// create section data html container
 			let section = 	$(`<li>
@@ -47,7 +52,7 @@ function createCourseContainer(course_code) {
 										<td>Section:<br>${section_code}</td>
 										<td>Total Seats:<br>${sections[section_code]['capacity']}</td>
 										<td>Taught by:<br>${sections[section_code]['instructor']}</td>
-										<td>Lecture Time:<br>${sections[section_code]["lecture-time"]}</td>
+										<td>${main_time}</td>
 										<td>${lab_info}</td>
 										<td>Learning Type:<br>${sections[section_code]['learning-mode']}</td>
 										<td>Seats Open:<br>${sections[section_code]['open-seats']}</td>
