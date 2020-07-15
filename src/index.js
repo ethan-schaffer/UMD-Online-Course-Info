@@ -38,9 +38,9 @@ $(document).ready(function () {
 										<p>${dept_code} | ${dept_info['department-name']}</p>
 										<tr>
 											<td>In Person Sections:<br>${dept_info['inPersonSections']}</td>
-											<td>Online Sections:<br>${}</td>
-											<td>In Person Seats:<br>${}</td>
-											<td>Online Sections<br>${}</td>
+											<td>Online Sections:<br>${dept_info['onlineSections']}</td>
+											<td>In Person Seats:<br>${dept_info['inPersonSeats']}</td>
+											<td>Online Sections<br>${dept_info['onlineSeats']}</td>
 										</tr>
 									</table>
 								</li>`);
