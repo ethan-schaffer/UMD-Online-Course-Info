@@ -19,11 +19,17 @@ p, h1, h2, img {
 }
 
 #dept-summary-table {
-	width: 100%;
-	height: 200px;
+	height: 500px;
 	overflow: auto;
-	/* for debug purposes */
-	border: 3px solid blue;
+	border: 3px solid #FFD520; /* Maryland Gold */
+	padding: 5px;
+	width: 100% ;
+	table-layout: fixed ;
+	border-collapse: collapse ;
+}
+
+td {
+    padding:0 10px;
 }
 
 .summary-info-styler {
@@ -40,10 +46,8 @@ p, h1, h2, img {
 
 /* Footer */
 
-#footer{
-	
+#footer {
 	/* sticky footer */
-	
 	text-align: center;
 	padding: 10px;
 	width: 60%;

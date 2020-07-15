@@ -21,30 +21,42 @@ function get_seat_count_info() {
     return "A seat is a single spot in a class a student can fill, so a student will fill multiple seats. In total, we found that there were " + seats_online + " seats online and " + seats_in_person + " seats in person, making " + seats_total + " total seats.";
 }
 
+function get_dept_summary() {
+	let output = 	$(`<div class='output'>
+								<ul></ul>
+							</div>`);
+	let ul = output.find('ul');
+	
+	
+	for (dept_code in dept_summary) {
+		let dept_info = dept_summary[dept_code];
+		
+		let summary_container = $(`<li>
+									<b><p>${dept_info['departmentName']}&nbsp;(${dept_code})</p></b>
+									<table>
+										<tr><td>Online Sections:</td><td>${dept_info['onlineSections']}</td><td>In Person Sections:</td><td>${dept_info['inPersonSections']}</td></tr>
+										<tr><td>Online Seats:</td><td>${dept_info['onlineSeats']}</td><td>In Person Seats:</td><td>${dept_info['inPersonSeats']}</td></tr>
+									</table>
+									<br>
+								</li>`);
+		console.log(summary_container)
+		console.log(dept_info);
+		ul.append(summary_container);
+		
+	}
+	console.log(output);
+	return output;
+}
+
 // wait until html elements are ready
 $(document).ready(function () {
     $('#footer').text(getFooterContent());
     $('#chart1').attr("src",getChartUrl(percent_online, percent_in_person));
     $('#chart2').attr("src",getChartUrl(percent_seats_online, percent_seats_in_person));
     $('#course_count_info').text(get_course_count_info());
-    $('#seat_count_info').text(get_seat_count_info());
+	$('#seat_count_info').text(get_seat_count_info());
+	$('#dept-summary-table').append(get_dept_summary());
 	
 	// fill department summary table
-	for (dept_code in dept_summary) {
-		let dept_info = dept_summary[dept_code];
-		
-		let summary_container = $(`<li>
-									<table>
-										<p>${dept_code} | ${dept_info['department-name']}</p>
-										<tr>
-											<td>In Person Sections:<br>${dept_info['inPersonSections']}</td>
-											<td>Online Sections:<br>${dept_info['onlineSections']}</td>
-											<td>In Person Seats:<br>${dept_info['inPersonSeats']}</td>
-											<td>Online Sections<br>${dept_info['onlineSeats']}</td>
-										</tr>
-									</table>
-								</li>`);
-		
-		$('$dept-summary-table').append(XXX);
-	}
+
 })
