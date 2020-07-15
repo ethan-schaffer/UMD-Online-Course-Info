@@ -67,9 +67,7 @@ function createCourseContainer(course_code) {
 	
 	// return no html if no sections pass the filter
 	if (ul.children().length == 0) {
-		return $(`<div class='course-container'>
-					<h3>Sorry, we couldn't find any courses that match that search.</h3>
-				</div>`);
+		return null;
 	} else {
 		return course_container;
 	}
@@ -82,36 +80,45 @@ function executeSearch() {
 	// clears search results
 	$('#search-return').empty();
 
-	//
+	// display search hint when input box is empty
 	if (user_input == ""){
 		$('#search-return').append(emptySearchFieldInfo());
 	}
 	
 	for (course in catalog) {
 		
-		//
+		// user input describes a course code
 		if (user_input == course) {
 			$('#search-return').append(createCourseContainer(course));
 			return;
 		}
 		
-		//
+		// user input describes a department code
 		if (user_input == catalog[course]['department']) {
 			$('#search-return').append(createCourseContainer(course));
 		}
 		
+	}
+	
+	// display a message if no results is returned
+	if ($('#search-return').children().length == 0) {
+		$('#search-return').append(`<li style='border: 3px solid black;'>
+										<h3>Sorry, we couldn't find what you were looking for.</h3>
+									</li>`)
 	}
 }
 
 // wait until html elements are ready and execute code within
 $(document).ready(function () {
 	
+	$('#footer').text(`2020. Ethan Schaffer, Bill Shi. Last updated ${last_updated}`);
 	$('#search-return').append(emptySearchFieldInfo());
+	
 	
 	// create behavior for when text is entered in the input box
 	$('#class-lookup').on('input', executeSearch);
 	
-	//
+	// create behavior with user changes the instruction filter
 	$('#filter-learning-mode').on('change', executeSearch);
 
 })
