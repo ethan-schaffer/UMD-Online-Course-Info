@@ -1,4 +1,4 @@
-let last_updated = '09:09:05 2020-07-16';
+let last_updated = '17:52:46 2020-07-16';
 
 let catalog = [
 {
@@ -12,7 +12,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "6"
+                "open-seats": "3"
             },
             "0201": {
                 "capacity": "32",
@@ -36,7 +36,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "2"
+                "open-seats": "0"
             },
             "0501": {
                 "capacity": "32",
@@ -44,7 +44,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "4"
+                "open-seats": "5"
             },
             "0601": {
                 "capacity": "32",
@@ -88,7 +88,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "1"
+                "open-seats": "2"
             }
         }
     },
@@ -124,7 +124,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0102": {
                 "capacity": "35",
@@ -132,7 +132,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0103": {
                 "capacity": "35",
@@ -268,7 +268,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 2:00pm 4:30pm",
-                "open-seats": "32"
+                "open-seats": "31"
             }
         }
     },
@@ -296,7 +296,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "Th 10:00am 12:30pm",
-                "open-seats": "10"
+                "open-seats": "9"
             }
         }
     },
@@ -324,7 +324,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "3"
+                "open-seats": "2"
             }
         }
     },
@@ -478,7 +478,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:15pm",
-                "open-seats": "7"
+                "open-seats": "6"
             }
         }
     },
@@ -518,9 +518,9 @@ let catalog = [
                 "capacity": "45",
                 "instructor": "Derek Iwamoto",
                 "lab-time": null,
-                "learning-mode": "in person",
+                "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "4"
+                "open-seats": "3"
             }
         }
     },
@@ -576,7 +576,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:15pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0201": {
                 "capacity": "32",
@@ -592,7 +592,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "2"
+                "open-seats": "3"
             },
             "0401": {
                 "capacity": "32",
@@ -656,7 +656,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "3"
+                "open-seats": "1"
             }
         }
     },
@@ -824,7 +824,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 9:30am 10:45am",
-                "open-seats": "0"
+                "open-seats": "1"
             }
         }
     },
@@ -862,7 +862,7 @@ let catalog = [
                 "lab-time": "F 12:00pm 12:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 2:50pm",
-                "open-seats": "1"
+                "open-seats": "0"
             }
         }
     },
@@ -902,9 +902,9 @@ let catalog = [
                 "capacity": "15",
                 "instructor": "Sharon Harley",
                 "lab-time": null,
-                "learning-mode": "in person",
+                "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "3"
+                "open-seats": "2"
             }
         }
     },
@@ -918,7 +918,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:15pm",
-                "open-seats": "7"
+                "open-seats": "6"
             }
         }
     },
@@ -974,7 +974,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "2"
+                "open-seats": "1"
             }
         }
     },
@@ -1010,7 +1010,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
-                "open-seats": "14"
+                "open-seats": "13"
             }
         }
     },
@@ -1094,7 +1094,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "63"
+                "open-seats": "62"
             }
         }
     },
@@ -1234,7 +1234,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "5"
+                "open-seats": "4"
             },
             "0102": {
                 "capacity": "20",
@@ -1264,7 +1264,7 @@ let catalog = [
                 "lab-time": "Th 9:30am 10:50am",
                 "learning-mode": "in person",
                 "lecture-time": "MW 10:00am 10:50am",
-                "open-seats": "0"
+                "open-seats": "1"
             }
         }
     },
@@ -1506,7 +1506,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "9"
+                "open-seats": "8"
             }
         }
     },
@@ -1670,7 +1670,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 6:00pm 7:15pm",
-                "open-seats": "14"
+                "open-seats": "15"
             }
         }
     },
@@ -1700,7 +1700,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 11:00am 11:50am",
-                "open-seats": "9"
+                "open-seats": "8"
             },
             "0104": {
                 "capacity": "17",
@@ -1716,7 +1716,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 1:00pm 1:50pm",
-                "open-seats": "3"
+                "open-seats": "2"
             },
             "0106": {
                 "capacity": "17",
@@ -1768,7 +1768,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 11:00am 11:50am",
-                "open-seats": "1"
+                "open-seats": "0"
             }
         }
     },
@@ -1818,7 +1818,21 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "7"
+                "open-seats": "6"
+            }
+        }
+    },
+    "ANTH322": {
+        "course-name": "Method and Theory in Ecological Anthropology",
+        "department": "ANTH",
+        "sections": {
+            "0101": {
+                "capacity": "35",
+                "instructor": "L Jen Shaffer",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": "Th 9:30am 10:45am",
+                "open-seats": "11"
             }
         }
     },
@@ -1924,7 +1938,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "1"
+                "open-seats": "0"
             }
         }
     },
@@ -1938,7 +1952,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "4"
+                "open-seats": "3"
             }
         }
     },
@@ -1980,7 +1994,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "12"
+                "open-seats": "11"
             }
         }
     },
@@ -2060,7 +2074,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "20",
-                "instructor": "Kenneth Rose",
+                "instructor": "Elizabeth Van Dolah",
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "Th 2:00pm 4:45pm",
@@ -2260,7 +2274,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 9:00am 9:50am",
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "0102": {
                 "capacity": "20",
@@ -2276,7 +2290,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 11:00am 11:50am",
-                "open-seats": "5"
+                "open-seats": "4"
             },
             "0104": {
                 "capacity": "20",
@@ -2284,7 +2298,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 9:00am 9:50am",
-                "open-seats": "10"
+                "open-seats": "9"
             },
             "0105": {
                 "capacity": "20",
@@ -2314,7 +2328,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 1:00pm 1:50pm",
-                "open-seats": "3"
+                "open-seats": "2"
             },
             "0102": {
                 "capacity": "30",
@@ -2322,7 +2336,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 2:00pm 2:50pm",
-                "open-seats": "8"
+                "open-seats": "9"
             },
             "0103": {
                 "capacity": "30",
@@ -2346,7 +2360,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 3:00pm 3:50pm",
-                "open-seats": "9"
+                "open-seats": "10"
             },
             "0203": {
                 "capacity": "30",
@@ -2354,7 +2368,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 1:00pm 1:50pm",
-                "open-seats": "4"
+                "open-seats": "3"
             },
             "0204": {
                 "capacity": "30",
@@ -2384,7 +2398,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 10:00am 12:00pm",
-                "open-seats": "9"
+                "open-seats": "8"
             },
             "0103": {
                 "capacity": "26",
@@ -2392,7 +2406,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 10:00am 12:00pm",
-                "open-seats": "14"
+                "open-seats": "13"
             },
             "0104": {
                 "capacity": "26",
@@ -2416,7 +2430,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 10:00am 12:00pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0107": {
                 "capacity": "26",
@@ -2424,7 +2438,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 10:00am 12:00pm",
-                "open-seats": "3"
+                "open-seats": "5"
             },
             "0108": {
                 "capacity": "26",
@@ -2474,7 +2488,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 3:15pm 4:30pm",
-                "open-seats": "5"
+                "open-seats": "4"
             }
         }
     },
@@ -2510,7 +2524,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "15"
+                "open-seats": "14"
             }
         }
     },
@@ -2728,7 +2742,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 11:50am",
-                "open-seats": "7"
+                "open-seats": "6"
             },
             "0301": {
                 "capacity": "15",
@@ -2914,7 +2928,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "9"
+                "open-seats": "8"
             }
         }
     },
@@ -3282,7 +3296,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "10",
-                "instructor": "Christopher Elefante",
+                "instructor": "Instructor: TBA",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 6:30pm 9:30pm",
@@ -3440,7 +3454,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 7:00pm 9:40pm",
-                "open-seats": "13"
+                "open-seats": "14"
             }
         }
     },
@@ -3496,7 +3510,7 @@ let catalog = [
                 "lab-time": "F 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 10:00am 10:50am",
-                "open-seats": "3"
+                "open-seats": "4"
             },
             "0102": {
                 "capacity": "35",
@@ -3504,7 +3518,7 @@ let catalog = [
                 "lab-time": "F 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 10:00am 10:50am",
-                "open-seats": "10"
+                "open-seats": "8"
             },
             "0103": {
                 "capacity": "35",
@@ -3520,7 +3534,7 @@ let catalog = [
                 "lab-time": "F 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 10:00am 10:50am",
-                "open-seats": "12"
+                "open-seats": "11"
             }
         }
     },
@@ -3584,7 +3598,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "29"
+                "open-seats": "28"
             }
         }
     },
@@ -3598,7 +3612,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "20"
+                "open-seats": "17"
             }
         }
     },
@@ -3640,7 +3654,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "26"
+                "open-seats": "25"
             }
         }
     },
@@ -3668,7 +3682,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "67"
+                "open-seats": "68"
             }
         }
     },
@@ -3682,7 +3696,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "39"
+                "open-seats": "38"
             }
         }
     },
@@ -3696,7 +3710,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
-                "open-seats": "34"
+                "open-seats": "32"
             }
         }
     },
@@ -4024,7 +4038,7 @@ let catalog = [
             },
             "0102": {
                 "capacity": "40",
-                "instructor": "Marisa Pace",
+                "instructor": "John Andrews",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 9:00am 9:50am",
@@ -4054,7 +4068,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "25",
-                "instructor": "Cody Davis",
+                "instructor": "John Andrews",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
@@ -4068,7 +4082,7 @@ let catalog = [
         "sections": {
             "0102": {
                 "capacity": "30",
-                "instructor": "Marisa Pace",
+                "instructor": "James Choi",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
@@ -4096,7 +4110,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "40",
-                "instructor": "Ashley Miller",
+                "instructor": "Marisa Pace",
                 "lab-time": "Th 4:00pm 6:00pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
@@ -4138,7 +4152,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "220",
-                "instructor": "Zachary Crampton",
+                "instructor": "Isham Nichols",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 7:00am 8:50am",
@@ -4346,7 +4360,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 11:00am 11:50am",
-                "open-seats": "8"
+                "open-seats": "4"
             },
             "FC01": {
                 "capacity": "28",
@@ -4354,7 +4368,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 3:00pm 4:15pm",
-                "open-seats": "13"
+                "open-seats": "12"
             }
         }
     },
@@ -4368,7 +4382,7 @@ let catalog = [
                 "lab-time": "F 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 11:50am",
-                "open-seats": "4"
+                "open-seats": "3"
             },
             "0102": {
                 "capacity": "25",
@@ -4440,7 +4454,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "7"
+                "open-seats": "6"
             }
         }
     },
@@ -4469,6 +4483,20 @@ let catalog = [
                 "learning-mode": "online",
                 "lecture-time": "W 3:30pm 7:00pm",
                 "open-seats": "0"
+            }
+        }
+    },
+    "ARTH370": {
+        "course-name": "Latin American Art and Archaeology before 1500",
+        "department": "ARTH",
+        "sections": {
+            "0101": {
+                "capacity": "23",
+                "instructor": "Beryl Bland",
+                "lab-time": null,
+                "learning-mode": "in person",
+                "lecture-time": "W 2:00pm 4:30pm",
+                "open-seats": "6"
             }
         }
     },
@@ -4552,7 +4580,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "0"
+                "open-seats": "1"
             }
         }
     },
@@ -4736,7 +4764,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 3:30pm 6:00pm",
-                "open-seats": "6"
+                "open-seats": "7"
             },
             "0901": {
                 "capacity": "18",
@@ -4836,7 +4864,7 @@ let catalog = [
                 "lab-time": "Th 2:30pm 3:20pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:20pm",
-                "open-seats": "13"
+                "open-seats": "11"
             },
             "0203": {
                 "capacity": "25",
@@ -4972,7 +5000,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 9:00am 11:30am",
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "0301": {
                 "capacity": "18",
@@ -5088,7 +5116,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 6:00pm",
-                "open-seats": "0"
+                "open-seats": "1"
             }
         }
     },
@@ -5422,7 +5450,7 @@ let catalog = [
                 "lab-time": "F 12:00pm 12:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "20"
+                "open-seats": "19"
             },
             "FC01": {
                 "capacity": "30",
@@ -5484,7 +5512,7 @@ let catalog = [
                 "lab-time": "W 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "Th 8:30am 10:30am",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0107": {
                 "capacity": "20",
@@ -5492,7 +5520,7 @@ let catalog = [
                 "lab-time": "W 12:00pm 12:50pm",
                 "learning-mode": "online",
                 "lecture-time": "W 6:00pm 8:00pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0108": {
                 "capacity": "20",
@@ -5560,7 +5588,7 @@ let catalog = [
                 "lab-time": "W 12:00pm 12:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "7"
+                "open-seats": "4"
             },
             "0102": {
                 "capacity": "30",
@@ -5568,7 +5596,7 @@ let catalog = [
                 "lab-time": "W 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "5"
+                "open-seats": "3"
             }
         }
     },
@@ -5634,7 +5662,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "Tu 4:00pm 4:50pm",
-                "open-seats": "13"
+                "open-seats": "14"
             }
         }
     },
@@ -5648,7 +5676,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "14"
+                "open-seats": "13"
             }
         }
     },
@@ -5854,7 +5882,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "3"
+                "open-seats": "4"
             },
             "0103": {
                 "capacity": "125",
@@ -5984,7 +6012,7 @@ let catalog = [
                 "lab-time": "F 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "13"
+                "open-seats": "11"
             }
         }
     },
@@ -6028,7 +6056,7 @@ let catalog = [
                 "lab-time": "F 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "10"
+                "open-seats": "9"
             }
         }
     },
@@ -6130,7 +6158,7 @@ let catalog = [
                 "lab-time": "Tu 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "11"
+                "open-seats": "10"
             },
             "0102": {
                 "capacity": "30",
@@ -6356,7 +6384,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "29"
+                "open-seats": "28"
             }
         }
     },
@@ -6370,7 +6398,7 @@ let catalog = [
                 "lab-time": "F 9:00am 9:50am",
                 "learning-mode": "in person",
                 "lecture-time": "F 10:00am 10:50am",
-                "open-seats": "27"
+                "open-seats": "26"
             }
         }
     },
@@ -6384,7 +6412,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 9:00am 9:50am",
-                "open-seats": "18"
+                "open-seats": "17"
             }
         }
     },
@@ -6398,7 +6426,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "26"
+                "open-seats": "25"
             }
         }
     },
@@ -6412,7 +6440,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "14"
+                "open-seats": "13"
             }
         }
     },
@@ -6426,7 +6454,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "15"
+                "open-seats": "14"
             }
         }
     },
@@ -6608,7 +6636,7 @@ let catalog = [
                 "lab-time": "F 11:00am 12:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 11:50am",
-                "open-seats": "2"
+                "open-seats": "3"
             }
         }
     },
@@ -6712,7 +6740,7 @@ let catalog = [
                 "lab-time": "Tu 2:00pm 4:00pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "17"
+                "open-seats": "16"
             },
             "0102": {
                 "capacity": "27",
@@ -6728,7 +6756,7 @@ let catalog = [
                 "lab-time": "Th 2:00pm 4:00pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "22"
+                "open-seats": "21"
             }
         }
     },
@@ -6756,7 +6784,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 4:00pm 5:30pm",
-                "open-seats": "5"
+                "open-seats": "4"
             }
         }
     },
@@ -6806,7 +6834,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 2:00pm 4:00pm",
-                "open-seats": "7"
+                "open-seats": "6"
             },
             "0301": {
                 "capacity": "10",
@@ -6828,7 +6856,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "108"
+                "open-seats": "105"
             }
         }
     },
@@ -6837,68 +6865,96 @@ let catalog = [
         "department": "BMGT",
         "sections": {
             "FP04": {
-                "capacity": "33",
+                "capacity": "35",
                 "instructor": "Hugh Turner",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "13"
+                "open-seats": "15"
             },
             "FP05": {
-                "capacity": "33",
+                "capacity": "35",
                 "instructor": "Hugh Turner",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "6"
+                "open-seats": "7"
             },
             "FP06": {
-                "capacity": "33",
+                "capacity": "35",
                 "instructor": "Justin Reyna",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "FP07": {
-                "capacity": "33",
+                "capacity": "35",
                 "instructor": "Justin Reyna",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "0"
-            },
-            "FP09": {
-                "capacity": "33",
-                "instructor": "Hugh Turner",
-                "lab-time": null,
-                "learning-mode": "online",
-                "lecture-time": null,
-                "open-seats": "9"
-            },
-            "FP10": {
-                "capacity": "33",
-                "instructor": "Hugh Turner",
-                "lab-time": null,
-                "learning-mode": "online",
-                "lecture-time": null,
-                "open-seats": "21"
-            },
-            "FP11": {
-                "capacity": "33",
-                "instructor": "Hugh Turner",
-                "lab-time": null,
-                "learning-mode": "online",
-                "lecture-time": null,
                 "open-seats": "2"
             },
-            "FP12": {
-                "capacity": "33",
+            "FP09": {
+                "capacity": "35",
                 "instructor": "Hugh Turner",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
+                "open-seats": "11"
+            },
+            "FP10": {
+                "capacity": "35",
+                "instructor": "Hugh Turner",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": null,
+                "open-seats": "23"
+            },
+            "FP11": {
+                "capacity": "35",
+                "instructor": "Hugh Turner",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": null,
+                "open-seats": "4"
+            },
+            "FP12": {
+                "capacity": "35",
+                "instructor": "Hugh Turner",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": null,
+                "open-seats": "5"
+            }
+        }
+    },
+    "BMGT190H": {
+        "course-name": "Introduction to Design and Quality",
+        "department": "BMGT",
+        "sections": {
+            "0101": {
+                "capacity": "45",
+                "instructor": "Pamela Armstrong",
+                "lab-time": "Tu 6:00pm 7:50pm",
+                "learning-mode": "in person",
+                "lecture-time": "TuTh 12:30pm 1:45pm",
                 "open-seats": "3"
+            }
+        }
+    },
+    "BMGT207": {
+        "course-name": "Technology, Society and the Future of Humanity",
+        "department": "BMGT",
+        "sections": {
+            "0101": {
+                "capacity": "54",
+                "instructor": "Anand Anandalingam",
+                "lab-time": null,
+                "learning-mode": "in person",
+                "lecture-time": "Th 6:30pm 9:10pm",
+                "open-seats": "0"
             }
         }
     },
@@ -6974,7 +7030,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 9:30am 10:45am",
-                "open-seats": "4"
+                "open-seats": "3"
             },
             "0201": {
                 "capacity": "35",
@@ -7006,7 +7062,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 12:15pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0301": {
                 "capacity": "35",
@@ -7108,7 +7164,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 5:00pm 7:40pm",
-                "open-seats": "5"
+                "open-seats": "6"
             }
         }
     },
@@ -7140,7 +7196,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "30",
-                "instructor": "Gorkem Ozer",
+                "instructor": "Louiqa Raschid",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 5:00pm 5:50pm",
@@ -7303,6 +7359,36 @@ let catalog = [
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
                 "open-seats": "0"
+            }
+        }
+    },
+    "BMGT326": {
+        "course-name": "Accounting Systems",
+        "department": "BMGT",
+        "sections": {
+            "0101": {
+                "capacity": "31",
+                "instructor": "Cody Hyman",
+                "lab-time": null,
+                "learning-mode": "in person",
+                "lecture-time": "MW 9:30am 10:45am",
+                "open-seats": "19"
+            },
+            "0201": {
+                "capacity": "31",
+                "instructor": "James McKinney",
+                "lab-time": null,
+                "learning-mode": "in person",
+                "lecture-time": "TuTh 12:30pm 1:45pm",
+                "open-seats": "4"
+            },
+            "0301": {
+                "capacity": "31",
+                "instructor": "James McKinney",
+                "lab-time": null,
+                "learning-mode": "in person",
+                "lecture-time": "TuTh 2:00pm 3:15pm",
+                "open-seats": "10"
             }
         }
     },
@@ -7573,20 +7659,20 @@ let catalog = [
                 "open-seats": "0"
             },
             "SG92": {
-                "capacity": "30",
+                "capacity": "40",
                 "instructor": "Gosia Langa Basit",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 9:30am 10:45am",
-                "open-seats": "30"
+                "open-seats": "40"
             },
             "SG93": {
-                "capacity": "30",
+                "capacity": "40",
                 "instructor": "Gosia Langa Basit",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 12:15pm",
-                "open-seats": "29"
+                "open-seats": "39"
             }
         }
     },
@@ -7601,6 +7687,28 @@ let catalog = [
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
                 "open-seats": "8"
+            }
+        }
+    },
+    "BMGT370": {
+        "course-name": "Introduction to Transportation",
+        "department": "BMGT",
+        "sections": {
+            "0101": {
+                "capacity": "40",
+                "instructor": "Leland Gardner",
+                "lab-time": null,
+                "learning-mode": "in person",
+                "lecture-time": "TuTh 8:00am 9:15am",
+                "open-seats": "0"
+            },
+            "0201": {
+                "capacity": "40",
+                "instructor": "Leland Gardner",
+                "lab-time": null,
+                "learning-mode": "in person",
+                "lecture-time": "TuTh 9:30am 10:45am",
+                "open-seats": "0"
             }
         }
     },
@@ -7776,6 +7884,20 @@ let catalog = [
             }
         }
     },
+    "BMGT390H": {
+        "course-name": "Designing Innovative Systems",
+        "department": "BMGT",
+        "sections": {
+            "0101": {
+                "capacity": "55",
+                "instructor": "David Ashley",
+                "lab-time": null,
+                "learning-mode": "in person",
+                "lecture-time": "TuTh 3:30pm 4:45pm",
+                "open-seats": "7"
+            }
+        }
+    },
     "BMGT392": {
         "course-name": "Introduction to International Business Management",
         "department": "BMGT",
@@ -7786,7 +7908,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:15pm",
-                "open-seats": "2"
+                "open-seats": "3"
             },
             "0201": {
                 "capacity": "24",
@@ -7794,6 +7916,20 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 3:30pm 4:45pm",
+                "open-seats": "3"
+            }
+        }
+    },
+    "BMGT397": {
+        "course-name": "Mentoring Multidisciplinary Teams",
+        "department": "BMGT",
+        "sections": {
+            "0101": {
+                "capacity": "9",
+                "instructor": "Pamela Armstrong",
+                "lab-time": null,
+                "learning-mode": "in person",
+                "lecture-time": "Tu 5:00pm 7:40pm",
                 "open-seats": "4"
             }
         }
@@ -7834,7 +7970,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "24",
-                "instructor": "Daniel Laurence",
+                "instructor": "James Purtilo",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 5:00pm 7:40pm",
@@ -7954,6 +8090,20 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
+                "open-seats": "0"
+            }
+        }
+    },
+    "BMGT438A": {
+        "course-name": "Special Topics in Operations Management; Applied Quantitative Analysis",
+        "department": "BMGT",
+        "sections": {
+            "0101": {
+                "capacity": "45",
+                "instructor": "Pamela Armstrong",
+                "lab-time": null,
+                "learning-mode": "in person",
+                "lecture-time": "TuTh 2:00pm 3:15pm",
                 "open-seats": "0"
             }
         }
@@ -8252,7 +8402,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:15pm",
-                "open-seats": "3"
+                "open-seats": "2"
             }
         }
     },
@@ -8444,7 +8594,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 8:45pm 10:15pm",
-                "open-seats": "21"
+                "open-seats": "20"
             }
         }
     },
@@ -8458,7 +8608,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 8:45pm 10:15pm",
-                "open-seats": "21"
+                "open-seats": "20"
             }
         }
     },
@@ -8605,8 +8755,8 @@ let catalog = [
                 "instructor": "Leo Shapiro",
                 "lab-time": null,
                 "learning-mode": "online",
-                "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "94"
+                "lecture-time": null,
+                "open-seats": "86"
             },
             "6401": {
                 "capacity": "100",
@@ -8678,7 +8828,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "45"
+                "open-seats": "43"
             },
             "0301": {
                 "capacity": "140",
@@ -8694,7 +8844,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "24"
+                "open-seats": "23"
             },
             "FC01": {
                 "capacity": "120",
@@ -8732,7 +8882,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "14"
+                "open-seats": "12"
             },
             "1031": {
                 "capacity": "28",
@@ -8764,7 +8914,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "2022": {
                 "capacity": "28",
@@ -8812,7 +8962,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "25"
+                "open-seats": "23"
             },
             "3031": {
                 "capacity": "28",
@@ -8970,7 +9120,7 @@ let catalog = [
                 "lab-time": "W 12:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "1009": {
                 "capacity": "22",
@@ -8978,7 +9128,7 @@ let catalog = [
                 "lab-time": "W 3:00pm 5:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "4"
+                "open-seats": "3"
             },
             "1011": {
                 "capacity": "24",
@@ -9004,7 +9154,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "24",
-                "instructor": "Justicia Opoku-Edusei",
+                "instructor": "Caitlin Fox",
                 "lab-time": "M 1:00pm 3:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
@@ -9028,7 +9178,7 @@ let catalog = [
             },
             "0104": {
                 "capacity": "24",
-                "instructor": "Justicia Opoku-Edusei",
+                "instructor": "Caitlin Fox",
                 "lab-time": "Tu 11:00am 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
@@ -9056,11 +9206,11 @@ let catalog = [
                 "lab-time": "M 1:00pm 3:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0110": {
                 "capacity": "24",
-                "instructor": "Caitlin Fox",
+                "instructor": "Justicia Opoku-Edusei",
                 "lab-time": "M 4:00pm 6:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
@@ -9076,7 +9226,7 @@ let catalog = [
             },
             "0112": {
                 "capacity": "24",
-                "instructor": "Caitlin Fox",
+                "instructor": "Justicia Opoku-Edusei",
                 "lab-time": "Tu 5:00pm 7:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
@@ -9092,7 +9242,7 @@ let catalog = [
             },
             "1102": {
                 "capacity": "24",
-                "instructor": "Caitlin Fox",
+                "instructor": "Sara Lombardi",
                 "lab-time": "M 7:00pm 9:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
@@ -9108,7 +9258,7 @@ let catalog = [
             },
             "1104": {
                 "capacity": "24",
-                "instructor": "Caitlin Fox",
+                "instructor": "Sara Lombardi",
                 "lab-time": "W 9:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
@@ -9116,7 +9266,7 @@ let catalog = [
             },
             "1106": {
                 "capacity": "24",
-                "instructor": "Caitlin Fox",
+                "instructor": "Sara Lombardi",
                 "lab-time": "Th 8:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
@@ -9132,7 +9282,7 @@ let catalog = [
             },
             "1108": {
                 "capacity": "24",
-                "instructor": "Sara Lombardi",
+                "instructor": "Caitlin Fox",
                 "lab-time": "Th 6:00pm 8:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
@@ -9140,7 +9290,7 @@ let catalog = [
             },
             "1109": {
                 "capacity": "24",
-                "instructor": "Caitlin Fox",
+                "instructor": "Sara Lombardi",
                 "lab-time": "M 9:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
@@ -9162,7 +9312,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "24",
-                "instructor": "Tammatha O'Brien",
+                "instructor": "Caitlin Fox",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 11:00am 1:50pm",
@@ -9194,7 +9344,7 @@ let catalog = [
             },
             "0110": {
                 "capacity": "24",
-                "instructor": "Tammatha O'Brien",
+                "instructor": "Caitlin Fox",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 5:00pm 7:50pm",
@@ -9210,19 +9360,19 @@ let catalog = [
             },
             "0113": {
                 "capacity": "24",
-                "instructor": "Tammatha O'Brien",
+                "instructor": "Caitlin Fox",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 9:30am 12:20pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "1101": {
                 "capacity": "24",
-                "instructor": "Caitlin Fox",
+                "instructor": "Sara Lombardi",
                 "lab-time": "M 5:00pm 7:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "1102": {
                 "capacity": "24",
@@ -9234,7 +9384,7 @@ let catalog = [
             },
             "1103": {
                 "capacity": "24",
-                "instructor": "Caitlin Fox",
+                "instructor": "Sara Lombardi",
                 "lab-time": "Tu 4:00pm 6:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
@@ -9250,7 +9400,7 @@ let catalog = [
             },
             "1106": {
                 "capacity": "24",
-                "instructor": "Caitlin Fox",
+                "instructor": "Sara Lombardi",
                 "lab-time": "Th 2:00pm 4:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
@@ -9266,7 +9416,7 @@ let catalog = [
             },
             "1108": {
                 "capacity": "24",
-                "instructor": "Caitlin Fox",
+                "instructor": "Sara Lombardi",
                 "lab-time": "Th 5:00pm 7:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
@@ -9286,7 +9436,7 @@ let catalog = [
                 "lab-time": "Th 6:00pm 8:50pm",
                 "learning-mode": "online",
                 "lecture-time": "Tu 6:00pm 8:50pm",
-                "open-seats": "9"
+                "open-seats": "8"
             }
         }
     },
@@ -9300,7 +9450,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "30"
+                "open-seats": "26"
             },
             "0201": {
                 "capacity": "150",
@@ -9308,7 +9458,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 2:00pm 2:50pm",
-                "open-seats": "6"
+                "open-seats": "0"
             },
             "0301": {
                 "capacity": "135",
@@ -9316,7 +9466,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 3:00pm 3:50pm",
-                "open-seats": "14"
+                "open-seats": "7"
             }
         }
     },
@@ -9346,7 +9496,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 10:00am 11:50am",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "2125": {
                 "capacity": "23",
@@ -9736,7 +9886,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "11"
+                "open-seats": "9"
             }
         }
     },
@@ -9764,7 +9914,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "MW 2:00pm 3:15pm",
-                "open-seats": "2"
+                "open-seats": "3"
             }
         }
     },
@@ -10120,7 +10270,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "30",
-                "instructor": "Joshua Singer",
+                "instructor": "Colenso Speer",
                 "lab-time": "M 11:00am 12:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
@@ -10128,11 +10278,11 @@ let catalog = [
             },
             "0102": {
                 "capacity": "30",
-                "instructor": "Colenso Speer",
+                "instructor": "Joshua Singer",
                 "lab-time": "M 2:00pm 3:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "16"
+                "open-seats": "15"
             },
             "0103": {
                 "capacity": "30",
@@ -10176,7 +10326,7 @@ let catalog = [
             },
             "1104": {
                 "capacity": "30",
-                "instructor": "Joshua Singer",
+                "instructor": "Colenso Speer",
                 "lab-time": "W 11:00am 12:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 2:00pm 2:50pm",
@@ -10376,7 +10526,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 10:00am 10:50am",
-                "open-seats": "1"
+                "open-seats": "0"
             }
         }
     },
@@ -11476,7 +11626,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 8:45pm 10:15pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "SO13": {
                 "capacity": "24",
@@ -11484,7 +11634,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 7:00pm 8:30pm",
-                "open-seats": "15"
+                "open-seats": "11"
             },
             "SO14": {
                 "capacity": "24",
@@ -11508,7 +11658,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 8:45pm 10:15pm",
-                "open-seats": "18"
+                "open-seats": "17"
             },
             "SO17": {
                 "capacity": "24",
@@ -11524,7 +11674,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 8:45pm 10:15pm",
-                "open-seats": "16"
+                "open-seats": "13"
             }
         }
     },
@@ -11538,7 +11688,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 7:00pm 8:30pm",
-                "open-seats": "4"
+                "open-seats": "2"
             },
             "SO12": {
                 "capacity": "24",
@@ -11570,7 +11720,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 7:00pm 8:30pm",
-                "open-seats": "16"
+                "open-seats": "15"
             },
             "SO16": {
                 "capacity": "24",
@@ -11578,7 +11728,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 8:45pm 10:15pm",
-                "open-seats": "21"
+                "open-seats": "20"
             },
             "SO17": {
                 "capacity": "24",
@@ -11586,7 +11736,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 7:00pm 8:30pm",
-                "open-seats": "10"
+                "open-seats": "9"
             },
             "SO18": {
                 "capacity": "24",
@@ -11616,7 +11766,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 8:45pm 10:15pm",
-                "open-seats": "10"
+                "open-seats": "9"
             },
             "SO13": {
                 "capacity": "24",
@@ -11624,7 +11774,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 7:00pm 8:30pm",
-                "open-seats": "14"
+                "open-seats": "11"
             },
             "SO14": {
                 "capacity": "24",
@@ -11648,7 +11798,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 8:45pm 10:15pm",
-                "open-seats": "5"
+                "open-seats": "2"
             },
             "SO17": {
                 "capacity": "24",
@@ -11656,7 +11806,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 7:00pm 8:30pm",
-                "open-seats": "10"
+                "open-seats": "9"
             },
             "SO18": {
                 "capacity": "24",
@@ -11702,7 +11852,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 8:45pm 10:15pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "SO35": {
                 "capacity": "22",
@@ -11732,7 +11882,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "52"
+                "open-seats": "47"
             }
         }
     },
@@ -11768,7 +11918,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 8:45pm 10:15pm",
-                "open-seats": "4"
+                "open-seats": "2"
             },
             "SO33": {
                 "capacity": "23",
@@ -11838,7 +11988,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 8:45pm 10:15pm",
-                "open-seats": "4"
+                "open-seats": "2"
             },
             "SO15": {
                 "capacity": "24",
@@ -11854,7 +12004,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 8:45pm 10:15pm",
-                "open-seats": "16"
+                "open-seats": "13"
             },
             "SO17": {
                 "capacity": "24",
@@ -11862,7 +12012,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 7:00pm 8:30pm",
-                "open-seats": "14"
+                "open-seats": "12"
             },
             "SO18": {
                 "capacity": "24",
@@ -11922,7 +12072,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 7:00pm 8:30pm",
-                "open-seats": "7"
+                "open-seats": "6"
             }
         }
     },
@@ -11936,7 +12086,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 8:45pm 10:15pm",
-                "open-seats": "19"
+                "open-seats": "18"
             },
             "SO61": {
                 "capacity": "25",
@@ -11944,7 +12094,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 7:00pm 8:30pm",
-                "open-seats": "9"
+                "open-seats": "8"
             }
         }
     },
@@ -11980,7 +12130,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 7:00pm 8:30pm",
-                "open-seats": "5"
+                "open-seats": "4"
             },
             "SO32": {
                 "capacity": "21",
@@ -12012,7 +12162,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 7:00pm 8:30pm",
-                "open-seats": "14"
+                "open-seats": "13"
             },
             "SO36": {
                 "capacity": "21",
@@ -12084,7 +12234,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 4:00pm 6:00pm",
-                "open-seats": "29"
+                "open-seats": "28"
             }
         }
     },
@@ -12108,7 +12258,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "20",
-                "instructor": "Margaret Scull",
+                "instructor": "Jeffrey DeStefano",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 3:00pm 5:00pm",
@@ -12150,11 +12300,11 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "12",
-                "instructor": "Stephen Mount",
+                "instructor": "Najib El-Sayed",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:50pm",
-                "open-seats": "1"
+                "open-seats": "0"
             }
         }
     },
@@ -12178,11 +12328,11 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "24",
-                "instructor": "Najib El-Sayed",
+                "instructor": "Michael Cummings",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:00am 10:50am",
-                "open-seats": "18"
+                "open-seats": "17"
             }
         }
     },
@@ -12306,7 +12456,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 11:00am 11:50am",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0107": {
                 "capacity": "30",
@@ -12314,7 +12464,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 12:00pm 12:50pm",
-                "open-seats": "19"
+                "open-seats": "18"
             },
             "0108": {
                 "capacity": "30",
@@ -12370,7 +12520,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 11:00am 11:50am",
-                "open-seats": "10"
+                "open-seats": "9"
             },
             "0207": {
                 "capacity": "30",
@@ -12386,7 +12536,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 12:30pm 1:20pm",
-                "open-seats": "6"
+                "open-seats": "4"
             },
             "FC01": {
                 "capacity": "35",
@@ -12440,7 +12590,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 9:00am 9:50am",
-                "open-seats": "25"
+                "open-seats": "24"
             },
             "0106": {
                 "capacity": "30",
@@ -12472,7 +12622,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 9:30am 10:20am",
-                "open-seats": "6"
+                "open-seats": "7"
             },
             "0202": {
                 "capacity": "30",
@@ -12488,7 +12638,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 2:00pm 2:50pm",
-                "open-seats": "3"
+                "open-seats": "1"
             },
             "0204": {
                 "capacity": "30",
@@ -12504,7 +12654,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 2:00pm 2:50pm",
-                "open-seats": "5"
+                "open-seats": "4"
             },
             "0206": {
                 "capacity": "30",
@@ -12528,7 +12678,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 3:00pm 3:50pm",
-                "open-seats": "19"
+                "open-seats": "18"
             }
         }
     },
@@ -12558,7 +12708,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 2:00pm 2:50pm",
-                "open-seats": "5"
+                "open-seats": "4"
             },
             "0204": {
                 "capacity": "30",
@@ -12604,7 +12754,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "1"
+                "open-seats": "2"
             }
         }
     },
@@ -12618,7 +12768,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
-                "open-seats": "29"
+                "open-seats": "28"
             },
             "0201": {
                 "capacity": "100",
@@ -12640,7 +12790,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "71"
+                "open-seats": "70"
             }
         }
     },
@@ -12654,7 +12804,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "29"
+                "open-seats": "28"
             },
             "0201": {
                 "capacity": "48",
@@ -12686,7 +12836,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 9:30am 12:00pm",
-                "open-seats": "24"
+                "open-seats": "25"
             }
         }
     },
@@ -12714,7 +12864,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "12"
+                "open-seats": "11"
             },
             "0301": {
                 "capacity": "60",
@@ -12799,12 +12949,12 @@ let catalog = [
                 "open-seats": "0"
             },
             "ESG1": {
-                "capacity": "30",
+                "capacity": "40",
                 "instructor": "Carlotta Woodward",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 12:30pm 1:45pm",
-                "open-seats": "14"
+                "open-seats": "23"
             }
         }
     },
@@ -12818,7 +12968,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 5:00pm 6:15pm",
-                "open-seats": "39"
+                "open-seats": "36"
             }
         }
     },
@@ -12840,7 +12990,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 11:00am 12:15pm",
-                "open-seats": "8"
+                "open-seats": "6"
             }
         }
     },
@@ -12910,7 +13060,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "26"
+                "open-seats": "25"
             }
         }
     },
@@ -12982,7 +13132,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "25"
+                "open-seats": "24"
             }
         }
     },
@@ -12996,7 +13146,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 11:00am 1:30pm",
-                "open-seats": "10"
+                "open-seats": "9"
             }
         }
     },
@@ -13024,7 +13174,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "8"
+                "open-seats": "7"
             }
         }
     },
@@ -13252,11 +13402,11 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "35",
-                "instructor": "Deborah Goldberg",
+                "instructor": "Ganesh Sriram",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 3:00pm 3:50pm",
-                "open-seats": "10"
+                "open-seats": "7"
             }
         }
     },
@@ -13270,7 +13420,7 @@ let catalog = [
                 "lab-time": "M 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "45"
+                "open-seats": "44"
             }
         }
     },
@@ -13298,7 +13448,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 12:00pm 12:50pm",
-                "open-seats": "5"
+                "open-seats": "4"
             },
             "0103": {
                 "capacity": "15",
@@ -13364,7 +13514,7 @@ let catalog = [
                 "lab-time": "F 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "F 1:00pm 5:00pm",
-                "open-seats": "2"
+                "open-seats": "3"
             }
         }
     },
@@ -13596,7 +13746,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 8:00am 8:50am",
-                "open-seats": "89"
+                "open-seats": "84"
             }
         }
     },
@@ -13626,7 +13776,7 @@ let catalog = [
                 "lab-time": "M 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "3145": {
                 "capacity": "36",
@@ -13642,7 +13792,7 @@ let catalog = [
                 "lab-time": "W 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "5"
+                "open-seats": "0"
             },
             "3148": {
                 "capacity": "36",
@@ -13666,7 +13816,7 @@ let catalog = [
                 "lab-time": "Tu 9:30am 10:20am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 2:00pm 2:50pm",
-                "open-seats": "2"
+                "open-seats": "0"
             },
             "3227": {
                 "capacity": "36",
@@ -13674,7 +13824,7 @@ let catalog = [
                 "lab-time": "Tu 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 2:00pm 2:50pm",
-                "open-seats": "7"
+                "open-seats": "4"
             },
             "3245": {
                 "capacity": "36",
@@ -13698,7 +13848,7 @@ let catalog = [
                 "lab-time": "Th 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 2:00pm 2:50pm",
-                "open-seats": "16"
+                "open-seats": "15"
             },
             "3425": {
                 "capacity": "36",
@@ -13706,7 +13856,7 @@ let catalog = [
                 "lab-time": "M 12:00pm 12:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "4"
+                "open-seats": "0"
             },
             "3426": {
                 "capacity": "36",
@@ -13714,7 +13864,7 @@ let catalog = [
                 "lab-time": "M 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "4"
+                "open-seats": "0"
             },
             "3427": {
                 "capacity": "36",
@@ -13730,7 +13880,7 @@ let catalog = [
                 "lab-time": "W 12:00pm 12:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "5"
+                "open-seats": "3"
             },
             "3446": {
                 "capacity": "36",
@@ -13738,7 +13888,7 @@ let catalog = [
                 "lab-time": "W 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "4"
+                "open-seats": "3"
             },
             "3447": {
                 "capacity": "36",
@@ -13746,7 +13896,7 @@ let catalog = [
                 "lab-time": "W 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "4"
+                "open-seats": "2"
             },
             "FC01": {
                 "capacity": "40",
@@ -13784,7 +13934,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "M 12:00pm 2:50pm",
-                "open-seats": "9"
+                "open-seats": "10"
             },
             "1135": {
                 "capacity": "24",
@@ -13800,7 +13950,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "Tu 9:30am 12:20pm",
-                "open-seats": "11"
+                "open-seats": "9"
             },
             "1225": {
                 "capacity": "24",
@@ -13808,7 +13958,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "Tu 12:30pm 3:20pm",
-                "open-seats": "1"
+                "open-seats": "2"
             }
         }
     },
@@ -13836,7 +13986,7 @@ let catalog = [
                 "lab-time": "Tu 9:30am 10:20am",
                 "learning-mode": "in person",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "3"
+                "open-seats": "1"
             },
             "0033": {
                 "capacity": "23",
@@ -13906,7 +14056,7 @@ let catalog = [
                 "lab-time": "Tu 12:30pm 1:20pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 12:00pm 12:50pm",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "5216": {
                 "capacity": "29",
@@ -13946,7 +14096,7 @@ let catalog = [
                 "lab-time": "Th 3:30pm 4:20pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 12:00pm 12:50pm",
-                "open-seats": "18"
+                "open-seats": "16"
             },
             "5315": {
                 "capacity": "29",
@@ -14002,7 +14152,7 @@ let catalog = [
                 "lab-time": "Tu 8:00am 8:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 2:00pm 2:50pm",
-                "open-seats": "1"
+                "open-seats": "2"
             },
             "5422": {
                 "capacity": "29",
@@ -14050,7 +14200,7 @@ let catalog = [
                 "lab-time": "W 6:30pm 7:20pm",
                 "learning-mode": "online",
                 "lecture-time": "M 6:30pm 9:30pm",
-                "open-seats": "22"
+                "open-seats": "21"
             }
         }
     },
@@ -14064,7 +14214,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "5122": {
                 "capacity": "19",
@@ -14120,7 +14270,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "5222": {
                 "capacity": "19",
@@ -14200,7 +14350,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "5331": {
                 "capacity": "19",
@@ -14216,7 +14366,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "1"
+                "open-seats": "2"
             },
             "5341": {
                 "capacity": "19",
@@ -14224,7 +14374,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "5421": {
                 "capacity": "19",
@@ -14248,7 +14398,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "5431": {
                 "capacity": "19",
@@ -14304,7 +14454,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "5522": {
                 "capacity": "19",
@@ -14320,7 +14470,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "5532": {
                 "capacity": "19",
@@ -14328,7 +14478,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "PDS1": {
                 "capacity": "18",
@@ -14336,7 +14486,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 7:30pm 10:30pm",
-                "open-seats": "5"
+                "open-seats": "4"
             }
         }
     },
@@ -14346,15 +14496,15 @@ let catalog = [
         "sections": {
             "6115": {
                 "capacity": "40",
-                "instructor": "Lai-Xi Wang",
+                "instructor": "Michael Montague-Smith",
                 "lab-time": "M 12:00pm 12:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 8:00am 9:15am",
-                "open-seats": "3"
+                "open-seats": "4"
             },
             "6116": {
                 "capacity": "40",
-                "instructor": "Michael Montague-Smith",
+                "instructor": "Lai-Xi Wang",
                 "lab-time": "M 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 8:00am 9:15am",
@@ -14362,7 +14512,7 @@ let catalog = [
             },
             "6117": {
                 "capacity": "40",
-                "instructor": "Michael Montague-Smith",
+                "instructor": "Lai-Xi Wang",
                 "lab-time": "M 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 8:00am 9:15am",
@@ -14378,7 +14528,7 @@ let catalog = [
             },
             "6136": {
                 "capacity": "40",
-                "instructor": "Lai-Xi Wang",
+                "instructor": "Michael Montague-Smith",
                 "lab-time": "W 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 8:00am 9:15am",
@@ -14394,7 +14544,7 @@ let catalog = [
             },
             "6212": {
                 "capacity": "40",
-                "instructor": "Michael Montague-Smith",
+                "instructor": "Lai-Xi Wang",
                 "lab-time": "M 9:00am 9:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
@@ -14410,7 +14560,7 @@ let catalog = [
             },
             "6214": {
                 "capacity": "40",
-                "instructor": "Lai-Xi Wang",
+                "instructor": "Michael Montague-Smith",
                 "lab-time": "M 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
@@ -14430,7 +14580,7 @@ let catalog = [
                 "lab-time": "W 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "6234": {
                 "capacity": "40",
@@ -14438,11 +14588,11 @@ let catalog = [
                 "lab-time": "W 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "6415": {
                 "capacity": "40",
-                "instructor": "Michael Montague-Smith",
+                "instructor": "Lai-Xi Wang",
                 "lab-time": "M 12:00pm 12:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
@@ -14450,7 +14600,7 @@ let catalog = [
             },
             "6416": {
                 "capacity": "40",
-                "instructor": "Michael Montague-Smith",
+                "instructor": "Lai-Xi Wang",
                 "lab-time": "M 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
@@ -14458,7 +14608,7 @@ let catalog = [
             },
             "6417": {
                 "capacity": "40",
-                "instructor": "Michael Montague-Smith",
+                "instructor": "Lai-Xi Wang",
                 "lab-time": "M 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
@@ -14524,7 +14674,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "6131": {
                 "capacity": "19",
@@ -14724,7 +14874,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "4"
+                "open-seats": "3"
             },
             "6443": {
                 "capacity": "19",
@@ -14798,7 +14948,7 @@ let catalog = [
         "sections": {
             "2121": {
                 "capacity": "20",
-                "instructor": "Efrain Rodriguez",
+                "instructor": "Christopher Jarzynski",
                 "lab-time": "Tu 12:30pm 1:20pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 3:00pm 3:50pm",
@@ -14806,7 +14956,7 @@ let catalog = [
             },
             "2122": {
                 "capacity": "20",
-                "instructor": "Efrain Rodriguez",
+                "instructor": "Christopher Jarzynski",
                 "lab-time": "Tu 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 3:00pm 3:50pm",
@@ -14826,11 +14976,11 @@ let catalog = [
                 "lab-time": "Th 12:30pm 1:20pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 3:00pm 3:50pm",
-                "open-seats": "3"
+                "open-seats": "4"
             },
             "2142": {
                 "capacity": "20",
-                "instructor": "Efrain Rodriguez",
+                "instructor": "Christopher Jarzynski",
                 "lab-time": "Th 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 3:00pm 3:50pm",
@@ -14854,7 +15004,7 @@ let catalog = [
             },
             "2225": {
                 "capacity": "20",
-                "instructor": "Christopher Jarzynski",
+                "instructor": "Efrain Rodriguez",
                 "lab-time": "Tu 9:30am 10:20am",
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 11:50am",
@@ -14862,7 +15012,7 @@ let catalog = [
             },
             "2227": {
                 "capacity": "20",
-                "instructor": "Christopher Jarzynski",
+                "instructor": "Efrain Rodriguez",
                 "lab-time": "Tu 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 11:50am",
@@ -14870,7 +15020,7 @@ let catalog = [
             },
             "2242": {
                 "capacity": "20",
-                "instructor": "Christopher Jarzynski",
+                "instructor": "Efrain Rodriguez",
                 "lab-time": "Th 8:00am 8:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 11:50am",
@@ -14886,7 +15036,7 @@ let catalog = [
             },
             "2247": {
                 "capacity": "20",
-                "instructor": "Christopher Jarzynski",
+                "instructor": "Efrain Rodriguez",
                 "lab-time": "Th 4:30pm 5:20pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 11:50am",
@@ -14906,11 +15056,11 @@ let catalog = [
                 "lab-time": "Tu 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 3:00pm 3:50pm",
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "2328": {
                 "capacity": "20",
-                "instructor": "Christopher Jarzynski",
+                "instructor": "Efrain Rodriguez",
                 "lab-time": "Tu 3:30pm 4:20pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 3:00pm 3:50pm",
@@ -14938,7 +15088,7 @@ let catalog = [
                 "lab-time": "Th 3:30pm 4:20pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 3:00pm 3:50pm",
-                "open-seats": "16"
+                "open-seats": "15"
             },
             "PDS1": {
                 "capacity": "20",
@@ -15072,7 +15222,7 @@ let catalog = [
                 "lab-time": "W 3:00pm 5:50pm",
                 "learning-mode": "online",
                 "lecture-time": "F 3:00pm 3:50pm",
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "9422": {
                 "capacity": "25",
@@ -15146,7 +15296,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "15"
+                "open-seats": "14"
             }
         }
     },
@@ -15188,29 +15338,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "15"
-            }
-        }
-    },
-    "CHEM483": {
-        "course-name": "Physical Chemistry Laboratory I",
-        "department": "CHEM",
-        "sections": {
-            "0124": {
-                "capacity": "18",
-                "instructor": "Earle Stone",
-                "lab-time": "Tu 2:00pm 4:50pm",
-                "learning-mode": "in person",
-                "lecture-time": "Th 11:00am 11:50am",
-                "open-seats": "0"
-            },
-            "0144": {
-                "capacity": "18",
-                "instructor": "Earle Stone",
-                "lab-time": "W 2:00pm 4:50pm",
-                "learning-mode": "in person",
-                "lecture-time": "Th 11:00am 11:50am",
-                "open-seats": "0"
+                "open-seats": "14"
             }
         }
     },
@@ -15269,12 +15397,12 @@ let catalog = [
         "department": "CHEM",
         "sections": {
             "0101": {
-                "capacity": "40",
+                "capacity": "20",
                 "instructor": "Efrain Rodriguez",
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "F 2:00pm 3:15pm",
-                "open-seats": "40"
+                "open-seats": "20"
             }
         }
     },
@@ -15325,12 +15453,12 @@ let catalog = [
         "department": "CHEM",
         "sections": {
             "0101": {
-                "capacity": "22",
+                "capacity": "11",
                 "instructor": "John Weeks",
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "17"
+                "open-seats": "6"
             }
         }
     },
@@ -15446,7 +15574,7 @@ let catalog = [
             },
             "0201": {
                 "capacity": "15",
-                "instructor": "Mei Kong",
+                "instructor": "Yuli Wang",
                 "lab-time": "TuTh 11:00am 12:15pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
@@ -15538,7 +15666,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "1"
+                "open-seats": "0"
             }
         }
     },
@@ -15672,7 +15800,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 4:00pm 5:30pm",
-                "open-seats": "5"
+                "open-seats": "4"
             }
         }
     },
@@ -15718,7 +15846,7 @@ let catalog = [
                 "lab-time": "Th 12:30pm 1:20pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 11:50am",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0106": {
                 "capacity": "21",
@@ -15742,7 +15870,7 @@ let catalog = [
                 "lab-time": "Th 9:30am 10:20am",
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 11:50am",
-                "open-seats": "12"
+                "open-seats": "13"
             },
             "FC01": {
                 "capacity": "22",
@@ -15750,7 +15878,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 4:30pm 5:45pm",
-                "open-seats": "6"
+                "open-seats": "5"
             },
             "FC02": {
                 "capacity": "22",
@@ -15788,7 +15916,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "4"
+                "open-seats": "1"
             }
         }
     },
@@ -15802,7 +15930,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "7"
+                "open-seats": "6"
             }
         }
     },
@@ -15816,7 +15944,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:15pm",
-                "open-seats": "13"
+                "open-seats": "12"
             }
         }
     },
@@ -15900,7 +16028,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0201": {
                 "capacity": "30",
@@ -15908,7 +16036,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "6"
+                "open-seats": "4"
             }
         }
     },
@@ -16034,7 +16162,7 @@ let catalog = [
                 "capacity": "30",
                 "instructor": "Mollye Bendell",
                 "lab-time": null,
-                "learning-mode": "in person",
+                "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
                 "open-seats": "25"
             }
@@ -16048,9 +16176,9 @@ let catalog = [
                 "capacity": "48",
                 "instructor": "Instructor: TBA",
                 "lab-time": "MW 5:00pm 5:50pm",
-                "learning-mode": "in person",
+                "learning-mode": "online",
                 "lecture-time": "MW 3:30pm 4:45pm",
-                "open-seats": "2"
+                "open-seats": "1"
             }
         }
     },
@@ -16064,7 +16192,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "34"
+                "open-seats": "31"
             }
         }
     },
@@ -16078,7 +16206,7 @@ let catalog = [
                 "lab-time": "MW 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0102": {
                 "capacity": "32",
@@ -16094,7 +16222,7 @@ let catalog = [
                 "lab-time": "MW 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0104": {
                 "capacity": "32",
@@ -16102,7 +16230,7 @@ let catalog = [
                 "lab-time": "MW 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "0105": {
                 "capacity": "32",
@@ -16118,7 +16246,7 @@ let catalog = [
                 "lab-time": "MW 4:00pm 4:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "18"
+                "open-seats": "16"
             },
             "0107": {
                 "capacity": "36",
@@ -16126,7 +16254,7 @@ let catalog = [
                 "lab-time": "MW 5:00pm 5:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "35"
+                "open-seats": "34"
             },
             "0108": {
                 "capacity": "32",
@@ -16142,7 +16270,15 @@ let catalog = [
                 "lab-time": "MW 3:00pm 3:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "25"
+                "open-seats": "24"
+            },
+            "0201": {
+                "capacity": "32",
+                "instructor": "Fawzi Emad",
+                "lab-time": "TuTh 8:00am 8:50am",
+                "learning-mode": "online",
+                "lecture-time": "MWF 12:00pm 12:50pm",
+                "open-seats": "24"
             },
             "0202": {
                 "capacity": "25",
@@ -16160,13 +16296,53 @@ let catalog = [
                 "lecture-time": "MWF 12:00pm 12:50pm",
                 "open-seats": "0"
             },
+            "0204": {
+                "capacity": "32",
+                "instructor": "Fawzi Emad",
+                "lab-time": "TuTh 12:30pm 1:20pm",
+                "learning-mode": "online",
+                "lecture-time": "MWF 12:00pm 12:50pm",
+                "open-seats": "0"
+            },
+            "0205": {
+                "capacity": "30",
+                "instructor": "Fawzi Emad",
+                "lab-time": "TuTh 2:00pm 2:50pm",
+                "learning-mode": "online",
+                "lecture-time": "MWF 12:00pm 12:50pm",
+                "open-seats": "0"
+            },
+            "0206": {
+                "capacity": "32",
+                "instructor": "Fawzi Emad",
+                "lab-time": "TuTh 3:30pm 4:20pm",
+                "learning-mode": "online",
+                "lecture-time": "MWF 12:00pm 12:50pm",
+                "open-seats": "0"
+            },
+            "0207": {
+                "capacity": "32",
+                "instructor": "Fawzi Emad",
+                "lab-time": "TuTh 5:00pm 5:50pm",
+                "learning-mode": "online",
+                "lecture-time": "MWF 12:00pm 12:50pm",
+                "open-seats": "18"
+            },
+            "0208": {
+                "capacity": "32",
+                "instructor": "Fawzi Emad",
+                "lab-time": "TuTh 8:00am 8:50am",
+                "learning-mode": "online",
+                "lecture-time": "MWF 12:00pm 12:50pm",
+                "open-seats": "31"
+            },
             "0209": {
                 "capacity": "32",
                 "instructor": "Fawzi Emad",
                 "lab-time": "TuTh 9:30am 10:20am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 12:00pm 12:50pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0301": {
                 "capacity": "32",
@@ -16198,7 +16374,7 @@ let catalog = [
                 "lab-time": "MW 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "24"
+                "open-seats": "21"
             },
             "0305": {
                 "capacity": "32",
@@ -16206,7 +16382,7 @@ let catalog = [
                 "lab-time": "MW 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "21"
+                "open-seats": "20"
             },
             "0306": {
                 "capacity": "32",
@@ -16214,7 +16390,7 @@ let catalog = [
                 "lab-time": "MW 3:00pm 3:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "27"
+                "open-seats": "26"
             },
             "0307": {
                 "capacity": "32",
@@ -16240,13 +16416,21 @@ let catalog = [
                 "lecture-time": "MWF 9:00am 9:50am",
                 "open-seats": "29"
             },
+            "0401": {
+                "capacity": "28",
+                "instructor": "Fawzi Emad",
+                "lab-time": "TuTh 8:00am 8:50am",
+                "learning-mode": "online",
+                "lecture-time": "MWF 11:00am 11:50am",
+                "open-seats": "21"
+            },
             "0402": {
                 "capacity": "28",
                 "instructor": "Fawzi Emad",
                 "lab-time": "TuTh 9:30am 10:20am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "18"
+                "open-seats": "17"
             },
             "0403": {
                 "capacity": "28",
@@ -16254,7 +16438,7 @@ let catalog = [
                 "lab-time": "TuTh 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0404": {
                 "capacity": "28",
@@ -16270,7 +16454,7 @@ let catalog = [
                 "lab-time": "TuTh 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "16"
+                "open-seats": "13"
             },
             "0406": {
                 "capacity": "28",
@@ -16294,7 +16478,15 @@ let catalog = [
                 "lab-time": "TuTh 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "13"
+                "open-seats": "10"
+            },
+            "0409": {
+                "capacity": "28",
+                "instructor": "Fawzi Emad",
+                "lab-time": "TuTh 8:00am 8:50am",
+                "learning-mode": "online",
+                "lecture-time": "MWF 11:00am 11:50am",
+                "open-seats": "28"
             },
             "0410": {
                 "capacity": "28",
@@ -16302,7 +16494,39 @@ let catalog = [
                 "lab-time": "TuTh 9:30am 10:20am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "25"
+                "open-seats": "23"
+            },
+            "0501": {
+                "capacity": "20",
+                "instructor": "Fawzi Emad",
+                "lab-time": "TuTh 5:00pm 5:50pm",
+                "learning-mode": "online",
+                "lecture-time": "MWF 1:00pm 1:50pm",
+                "open-seats": "0"
+            },
+            "0502": {
+                "capacity": "20",
+                "instructor": "Fawzi Emad",
+                "lab-time": "TuTh 12:30pm 1:20pm",
+                "learning-mode": "online",
+                "lecture-time": "MWF 1:00pm 1:50pm",
+                "open-seats": "7"
+            },
+            "0503": {
+                "capacity": "20",
+                "instructor": "Fawzi Emad",
+                "lab-time": "TuTh 2:00pm 2:50pm",
+                "learning-mode": "online",
+                "lecture-time": "MWF 1:00pm 1:50pm",
+                "open-seats": "0"
+            },
+            "0504": {
+                "capacity": "20",
+                "instructor": "Fawzi Emad",
+                "lab-time": "TuTh 3:30pm 4:20pm",
+                "learning-mode": "online",
+                "lecture-time": "MWF 1:00pm 1:50pm",
+                "open-seats": "0"
             },
             "FC01": {
                 "capacity": "100",
@@ -16324,7 +16548,7 @@ let catalog = [
                 "lab-time": "MW 12:00pm 12:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 3:00pm 3:50pm",
-                "open-seats": "3"
+                "open-seats": "0"
             },
             "0102": {
                 "capacity": "34",
@@ -16332,7 +16556,7 @@ let catalog = [
                 "lab-time": "MW 8:00am 8:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 3:00pm 3:50pm",
-                "open-seats": "28"
+                "open-seats": "27"
             },
             "0103": {
                 "capacity": "34",
@@ -16340,7 +16564,7 @@ let catalog = [
                 "lab-time": "MW 9:00am 9:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 3:00pm 3:50pm",
-                "open-seats": "21"
+                "open-seats": "19"
             },
             "0104": {
                 "capacity": "34",
@@ -16348,7 +16572,7 @@ let catalog = [
                 "lab-time": "MW 12:00pm 12:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 3:00pm 3:50pm",
-                "open-seats": "15"
+                "open-seats": "11"
             },
             "0105": {
                 "capacity": "34",
@@ -16356,7 +16580,7 @@ let catalog = [
                 "lab-time": "MW 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 3:00pm 3:50pm",
-                "open-seats": "9"
+                "open-seats": "3"
             },
             "0106": {
                 "capacity": "34",
@@ -16364,7 +16588,7 @@ let catalog = [
                 "lab-time": "MW 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 3:00pm 3:50pm",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0107": {
                 "capacity": "34",
@@ -16372,7 +16596,7 @@ let catalog = [
                 "lab-time": "MW 9:00am 9:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 3:00pm 3:50pm",
-                "open-seats": "29"
+                "open-seats": "28"
             },
             "0108": {
                 "capacity": "34",
@@ -16388,7 +16612,7 @@ let catalog = [
                 "lab-time": "MW 9:00am 9:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "0202": {
                 "capacity": "36",
@@ -16396,7 +16620,7 @@ let catalog = [
                 "lab-time": "MW 12:00pm 12:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0203": {
                 "capacity": "36",
@@ -16404,7 +16628,7 @@ let catalog = [
                 "lab-time": "MW 9:00am 9:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "8"
+                "open-seats": "7"
             },
             "0204": {
                 "capacity": "36",
@@ -16412,7 +16636,7 @@ let catalog = [
                 "lab-time": "MW 8:00am 8:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "27"
+                "open-seats": "24"
             },
             "0205": {
                 "capacity": "36",
@@ -16420,7 +16644,7 @@ let catalog = [
                 "lab-time": "MW 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0206": {
                 "capacity": "36",
@@ -16436,7 +16660,7 @@ let catalog = [
                 "lab-time": "MW 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0301": {
                 "capacity": "25",
@@ -16444,7 +16668,7 @@ let catalog = [
                 "lab-time": "MW 8:00am 8:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 12:00pm 12:50pm",
-                "open-seats": "16"
+                "open-seats": "14"
             },
             "0302": {
                 "capacity": "25",
@@ -16468,7 +16692,29 @@ let catalog = [
                 "lab-time": "MW 9:00am 9:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 12:00pm 12:50pm",
-                "open-seats": "10"
+                "open-seats": "6"
+            }
+        }
+    },
+    "CMSC133": {
+        "course-name": "Object Oriented Programming I Beyond Fundamentals",
+        "department": "CMSC",
+        "sections": {
+            "0101": {
+                "capacity": "25",
+                "instructor": "Swati Singhal",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": null,
+                "open-seats": "23"
+            },
+            "0102": {
+                "capacity": "25",
+                "instructor": "Swati Singhal",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": null,
+                "open-seats": "25"
             }
         }
     },
@@ -16479,7 +16725,7 @@ let catalog = [
             "0101": {
                 "capacity": "36",
                 "instructor": "Laurence Herman",
-                "lab-time": "MW 12:00pm 12:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
                 "open-seats": "0"
@@ -16487,7 +16733,7 @@ let catalog = [
             "0102": {
                 "capacity": "36",
                 "instructor": "Laurence Herman",
-                "lab-time": "MW 3:00pm 3:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
                 "open-seats": "0"
@@ -16495,7 +16741,7 @@ let catalog = [
             "0103": {
                 "capacity": "36",
                 "instructor": "Laurence Herman",
-                "lab-time": "MW 9:00am 9:50am",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
                 "open-seats": "0"
@@ -16503,7 +16749,7 @@ let catalog = [
             "0104": {
                 "capacity": "36",
                 "instructor": "Laurence Herman",
-                "lab-time": "MW 11:00am 11:50am",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
                 "open-seats": "0"
@@ -16511,7 +16757,7 @@ let catalog = [
             "0105": {
                 "capacity": "36",
                 "instructor": "Laurence Herman",
-                "lab-time": "MW 9:00am 9:50am",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
                 "open-seats": "0"
@@ -16519,7 +16765,7 @@ let catalog = [
             "0106": {
                 "capacity": "36",
                 "instructor": "Laurence Herman",
-                "lab-time": "MW 2:00pm 2:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
                 "open-seats": "0"
@@ -16527,7 +16773,7 @@ let catalog = [
             "0107": {
                 "capacity": "36",
                 "instructor": "Laurence Herman",
-                "lab-time": "MW 4:00pm 4:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
                 "open-seats": "0"
@@ -16535,7 +16781,7 @@ let catalog = [
             "0108": {
                 "capacity": "36",
                 "instructor": "Laurence Herman",
-                "lab-time": "MW 2:00pm 2:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
                 "open-seats": "0"
@@ -16543,7 +16789,7 @@ let catalog = [
             "0201": {
                 "capacity": "36",
                 "instructor": "Laurence Herman",
-                "lab-time": "MW 3:00pm 3:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
                 "open-seats": "0"
@@ -16551,7 +16797,7 @@ let catalog = [
             "0202": {
                 "capacity": "36",
                 "instructor": "Laurence Herman",
-                "lab-time": "MW 1:00pm 1:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
                 "open-seats": "0"
@@ -16559,15 +16805,15 @@ let catalog = [
             "0203": {
                 "capacity": "36",
                 "instructor": "Laurence Herman",
-                "lab-time": "MW 8:00am 8:50am",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "14"
+                "open-seats": "7"
             },
             "0204": {
                 "capacity": "36",
                 "instructor": "Laurence Herman",
-                "lab-time": "MW 5:00pm 5:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
                 "open-seats": "0"
@@ -16575,7 +16821,7 @@ let catalog = [
             "0205": {
                 "capacity": "36",
                 "instructor": "Laurence Herman",
-                "lab-time": "MW 12:00pm 12:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
                 "open-seats": "0"
@@ -16583,7 +16829,7 @@ let catalog = [
             "0206": {
                 "capacity": "36",
                 "instructor": "Laurence Herman",
-                "lab-time": "MW 4:00pm 4:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
                 "open-seats": "0"
@@ -16591,7 +16837,7 @@ let catalog = [
             "0207": {
                 "capacity": "36",
                 "instructor": "Laurence Herman",
-                "lab-time": "MW 10:00am 10:50am",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
                 "open-seats": "0"
@@ -16599,7 +16845,7 @@ let catalog = [
             "0208": {
                 "capacity": "36",
                 "instructor": "Laurence Herman",
-                "lab-time": "MW 5:00pm 5:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
                 "open-seats": "0"
@@ -16607,15 +16853,15 @@ let catalog = [
             "0301": {
                 "capacity": "34",
                 "instructor": "A Shankar",
-                "lab-time": "MW 9:00am 9:50am",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "28"
+                "open-seats": "29"
             },
             "0302": {
                 "capacity": "34",
                 "instructor": "A Shankar",
-                "lab-time": "MW 11:00am 11:50am",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
                 "open-seats": "22"
@@ -16623,7 +16869,7 @@ let catalog = [
             "0303": {
                 "capacity": "34",
                 "instructor": "A Shankar",
-                "lab-time": "MW 8:00am 8:50am",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
                 "open-seats": "32"
@@ -16631,7 +16877,7 @@ let catalog = [
             "0304": {
                 "capacity": "34",
                 "instructor": "A Shankar",
-                "lab-time": "MW 10:00am 10:50am",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
                 "open-seats": "30"
@@ -16645,7 +16891,7 @@ let catalog = [
             "0101": {
                 "capacity": "34",
                 "instructor": "Roger Eastman",
-                "lab-time": "MW 4:00pm 4:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
                 "open-seats": "0"
@@ -16653,7 +16899,7 @@ let catalog = [
             "0102": {
                 "capacity": "34",
                 "instructor": "Roger Eastman",
-                "lab-time": "MW 1:00pm 1:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
                 "open-seats": "0"
@@ -16661,7 +16907,7 @@ let catalog = [
             "0103": {
                 "capacity": "34",
                 "instructor": "Roger Eastman",
-                "lab-time": "MW 12:00pm 12:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
                 "open-seats": "0"
@@ -16669,7 +16915,7 @@ let catalog = [
             "0104": {
                 "capacity": "34",
                 "instructor": "Roger Eastman",
-                "lab-time": "MW 10:00am 10:50am",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
                 "open-seats": "0"
@@ -16677,7 +16923,7 @@ let catalog = [
             "0105": {
                 "capacity": "34",
                 "instructor": "Roger Eastman",
-                "lab-time": "MW 8:00am 8:50am",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
                 "open-seats": "0"
@@ -16685,7 +16931,7 @@ let catalog = [
             "0106": {
                 "capacity": "34",
                 "instructor": "Roger Eastman",
-                "lab-time": "MW 4:00pm 4:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
                 "open-seats": "0"
@@ -16693,7 +16939,7 @@ let catalog = [
             "0107": {
                 "capacity": "20",
                 "instructor": "Roger Eastman",
-                "lab-time": "MW 2:00pm 2:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
                 "open-seats": "0"
@@ -16701,7 +16947,7 @@ let catalog = [
             "0201": {
                 "capacity": "34",
                 "instructor": "Alexander Brassel",
-                "lab-time": "MW 2:00pm 2:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
                 "open-seats": "0"
@@ -16709,7 +16955,7 @@ let catalog = [
             "0202": {
                 "capacity": "34",
                 "instructor": "Alexander Brassel",
-                "lab-time": "MW 10:00am 10:50am",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
                 "open-seats": "0"
@@ -16717,7 +16963,7 @@ let catalog = [
             "0203": {
                 "capacity": "34",
                 "instructor": "Alexander Brassel",
-                "lab-time": "MW 11:00am 11:50am",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
                 "open-seats": "0"
@@ -16725,7 +16971,7 @@ let catalog = [
             "0204": {
                 "capacity": "34",
                 "instructor": "Alexander Brassel",
-                "lab-time": "MW 12:00pm 12:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
                 "open-seats": "0"
@@ -16733,7 +16979,7 @@ let catalog = [
             "0205": {
                 "capacity": "32",
                 "instructor": "Alexander Brassel",
-                "lab-time": "MW 8:00am 8:50am",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
                 "open-seats": "0"
@@ -16741,7 +16987,7 @@ let catalog = [
             "0206": {
                 "capacity": "32",
                 "instructor": "Alexander Brassel",
-                "lab-time": "MW 9:00am 9:50am",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
                 "open-seats": "0"
@@ -16749,7 +16995,7 @@ let catalog = [
             "0207": {
                 "capacity": "34",
                 "instructor": "Alexander Brassel",
-                "lab-time": "MW 1:00pm 1:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
                 "open-seats": "0"
@@ -16785,7 +17031,7 @@ let catalog = [
             "0101": {
                 "capacity": "32",
                 "instructor": "Anwar Mamat",
-                "lab-time": "F 12:00pm 12:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
                 "open-seats": "0"
@@ -16793,7 +17039,7 @@ let catalog = [
             "0102": {
                 "capacity": "34",
                 "instructor": "Anwar Mamat",
-                "lab-time": "F 1:00pm 1:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
                 "open-seats": "0"
@@ -16801,7 +17047,7 @@ let catalog = [
             "0103": {
                 "capacity": "32",
                 "instructor": "Anwar Mamat",
-                "lab-time": "F 2:00pm 2:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
                 "open-seats": "0"
@@ -16809,7 +17055,7 @@ let catalog = [
             "0104": {
                 "capacity": "34",
                 "instructor": "Anwar Mamat",
-                "lab-time": "F 3:00pm 3:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
                 "open-seats": "0"
@@ -16817,7 +17063,7 @@ let catalog = [
             "0105": {
                 "capacity": "32",
                 "instructor": "Anwar Mamat",
-                "lab-time": "F 10:00am 10:50am",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
                 "open-seats": "0"
@@ -16825,15 +17071,15 @@ let catalog = [
             "0106": {
                 "capacity": "34",
                 "instructor": "Anwar Mamat",
-                "lab-time": "F 4:00pm 4:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "13"
+                "open-seats": "9"
             },
             "0107": {
                 "capacity": "32",
                 "instructor": "Anwar Mamat",
-                "lab-time": "F 12:00pm 12:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
                 "open-seats": "0"
@@ -16841,7 +17087,7 @@ let catalog = [
             "0108": {
                 "capacity": "34",
                 "instructor": "Anwar Mamat",
-                "lab-time": "F 1:00pm 1:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
                 "open-seats": "0"
@@ -16849,7 +17095,7 @@ let catalog = [
             "0109": {
                 "capacity": "32",
                 "instructor": "Anwar Mamat",
-                "lab-time": "F 4:00pm 4:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
                 "open-seats": "21"
@@ -16857,7 +17103,7 @@ let catalog = [
             "0201": {
                 "capacity": "32",
                 "instructor": "David Van Horn",
-                "lab-time": "F 2:00pm 2:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
                 "open-seats": "0"
@@ -16865,7 +17111,7 @@ let catalog = [
             "0202": {
                 "capacity": "32",
                 "instructor": "David Van Horn",
-                "lab-time": "F 3:00pm 3:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
                 "open-seats": "0"
@@ -16873,7 +17119,7 @@ let catalog = [
             "0203": {
                 "capacity": "32",
                 "instructor": "David Van Horn",
-                "lab-time": "F 10:00am 10:50am",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
                 "open-seats": "0"
@@ -16881,7 +17127,7 @@ let catalog = [
             "0204": {
                 "capacity": "32",
                 "instructor": "David Van Horn",
-                "lab-time": "F 11:00am 11:50am",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
                 "open-seats": "0"
@@ -16889,7 +17135,7 @@ let catalog = [
             "0205": {
                 "capacity": "32",
                 "instructor": "David Van Horn",
-                "lab-time": "F 2:00pm 2:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
                 "open-seats": "0"
@@ -16897,7 +17143,7 @@ let catalog = [
             "0206": {
                 "capacity": "32",
                 "instructor": "David Van Horn",
-                "lab-time": "F 3:00pm 3:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
                 "open-seats": "0"
@@ -16905,7 +17151,7 @@ let catalog = [
             "0207": {
                 "capacity": "32",
                 "instructor": "David Van Horn",
-                "lab-time": "F 4:00pm 4:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
                 "open-seats": "0"
@@ -16913,7 +17159,7 @@ let catalog = [
             "0208": {
                 "capacity": "32",
                 "instructor": "David Van Horn",
-                "lab-time": "F 11:00am 11:50am",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
                 "open-seats": "0"
@@ -16921,7 +17167,7 @@ let catalog = [
             "0209": {
                 "capacity": "32",
                 "instructor": "David Van Horn",
-                "lab-time": "F 10:00am 10:50am",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
                 "open-seats": "0"
@@ -16946,7 +17192,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 4:00pm 4:50pm",
-                "open-seats": "97"
+                "open-seats": "96"
             },
             "0301": {
                 "capacity": "120",
@@ -17104,7 +17350,21 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 1:00pm 1:50pm",
-                "open-seats": "8"
+                "open-seats": "5"
+            }
+        }
+    },
+    "CMSC396H": {
+        "course-name": "Computer Science Honors Seminar",
+        "department": "CMSC",
+        "sections": {
+            "0101": {
+                "capacity": "32",
+                "instructor": "Leilani Battle",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": null,
+                "open-seats": "0"
             }
         }
     },
@@ -17129,7 +17389,7 @@ let catalog = [
             "0101": {
                 "capacity": "36",
                 "instructor": "Neil Spring",
-                "lab-time": "MW 12:00pm 12:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
                 "open-seats": "0"
@@ -17137,7 +17397,7 @@ let catalog = [
             "0102": {
                 "capacity": "40",
                 "instructor": "Neil Spring",
-                "lab-time": "MW 1:00pm 1:50pm",
+                "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
                 "open-seats": "0"
@@ -17199,6 +17459,14 @@ let catalog = [
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
                 "open-seats": "0"
+            },
+            "0301": {
+                "capacity": "50",
+                "instructor": "Hanan Samet",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": null,
+                "open-seats": "0"
             }
         }
     },
@@ -17226,7 +17494,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "8"
+                "open-seats": "7"
             },
             "0201": {
                 "capacity": "95",
@@ -17248,7 +17516,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "15"
+                "open-seats": "14"
             }
         }
     },
@@ -17291,6 +17559,20 @@ let catalog = [
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
                 "open-seats": "0"
+            }
+        }
+    },
+    "CMSC427": {
+        "course-name": "Computer Graphics",
+        "department": "CMSC",
+        "sections": {
+            "0101": {
+                "capacity": "47",
+                "instructor": "Matthias Zwicker",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": null,
+                "open-seats": "11"
             }
         }
     },
@@ -17354,6 +17636,14 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
+                "open-seats": "0"
+            },
+            "0201": {
+                "capacity": "48",
+                "instructor": "Instructor: TBA",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": null,
                 "open-seats": "0"
             }
         }
@@ -17426,7 +17716,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:15pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0201": {
                 "capacity": "32",
@@ -17442,7 +17732,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "2"
+                "open-seats": "3"
             },
             "0401": {
                 "capacity": "32",
@@ -17482,6 +17772,34 @@ let catalog = [
             }
         }
     },
+    "CMSC498P": {
+        "course-name": "Selected Topics in Computer Science; Machine Learning Capstone",
+        "department": "CMSC",
+        "sections": {
+            "0101": {
+                "capacity": "30",
+                "instructor": "Thomas Goldstein",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": null,
+                "open-seats": "21"
+            }
+        }
+    },
+    "CMSC498X": {
+        "course-name": "Selected Topics in Computer Science; Introduction to Parallel Computing",
+        "department": "CMSC",
+        "sections": {
+            "0101": {
+                "capacity": "30",
+                "instructor": "Abhinav Bhatele",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": null,
+                "open-seats": "22"
+            }
+        }
+    },
     "CMSC624": {
         "course-name": "Database System Architecture and Implementation",
         "department": "CMSC",
@@ -17490,8 +17808,8 @@ let catalog = [
                 "capacity": "40",
                 "instructor": "Daniel Abadi",
                 "lab-time": null,
-                "learning-mode": "in person",
-                "lecture-time": "TuTh 12:30pm 1:45pm",
+                "learning-mode": "online",
+                "lecture-time": null,
                 "open-seats": "0"
             }
         }
@@ -17504,9 +17822,23 @@ let catalog = [
                 "capacity": "50",
                 "instructor": "Leonidas Lampropoulos",
                 "lab-time": null,
-                "learning-mode": "in person",
-                "lecture-time": "TuTh 2:00pm 3:15pm",
+                "learning-mode": "online",
+                "lecture-time": null,
                 "open-seats": "33"
+            }
+        }
+    },
+    "CMSC634": {
+        "course-name": "Empirical Research Methods for Computer Science",
+        "department": "CMSC",
+        "sections": {
+            "0101": {
+                "capacity": "30",
+                "instructor": "Michelle Mazurek",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": null,
+                "open-seats": "0"
             }
         }
     },
@@ -17518,8 +17850,8 @@ let catalog = [
                 "capacity": "40",
                 "instructor": "Gorjan Alagic",
                 "lab-time": null,
-                "learning-mode": "in person",
-                "lecture-time": "TuTh 12:30pm 1:45pm",
+                "learning-mode": "online",
+                "lecture-time": null,
                 "open-seats": "0"
             }
         }
@@ -17562,7 +17894,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "3"
+                "open-seats": "1"
             }
         }
     },
@@ -17574,8 +17906,8 @@ let catalog = [
                 "capacity": "45",
                 "instructor": "James Reggia",
                 "lab-time": null,
-                "learning-mode": "in person",
-                "lecture-time": "TuTh 2:00pm 3:15pm",
+                "learning-mode": "online",
+                "lecture-time": null,
                 "open-seats": "0"
             }
         }
@@ -17590,7 +17922,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "11"
+                "open-seats": "3"
             }
         }
     },
@@ -17604,7 +17936,35 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 11:00am 11:50am",
-                "open-seats": "41"
+                "open-seats": "42"
+            }
+        }
+    },
+    "CMSC818B": {
+        "course-name": "Advanced Topics in Computer Systems; Decision-Making for Robotics",
+        "department": "CMSC",
+        "sections": {
+            "0101": {
+                "capacity": "45",
+                "instructor": "Pratap Tokekar",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": null,
+                "open-seats": "0"
+            }
+        }
+    },
+    "CMSC818E": {
+        "course-name": "Advanced Topics in Computer Systems; Clouds, Consistency, & Consensus",
+        "department": "CMSC",
+        "sections": {
+            "0101": {
+                "capacity": "40",
+                "instructor": "Peter Keleher",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": null,
+                "open-seats": "22"
             }
         }
     },
@@ -17616,9 +17976,9 @@ let catalog = [
                 "capacity": "40",
                 "instructor": "Ashok Agrawala",
                 "lab-time": null,
-                "learning-mode": "in person",
-                "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "27"
+                "learning-mode": "online",
+                "lecture-time": null,
+                "open-seats": "25"
             }
         }
     },
@@ -17630,9 +17990,23 @@ let catalog = [
                 "capacity": "25",
                 "instructor": "Alexander Barg",
                 "lab-time": null,
-                "learning-mode": "in person",
-                "lecture-time": "TuTh 2:00pm 3:15pm",
+                "learning-mode": "online",
+                "lecture-time": null,
                 "open-seats": "1"
+            }
+        }
+    },
+    "CMSC818W": {
+        "course-name": "Advanced Topics in Computer Systems; Wireless and Mobile Systems for the IoT",
+        "department": "CMSC",
+        "sections": {
+            "0101": {
+                "capacity": "45",
+                "instructor": "Nirupam Roy",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": null,
+                "open-seats": "9"
             }
         }
     },
@@ -17644,8 +18018,8 @@ let catalog = [
                 "capacity": "30",
                 "instructor": "Abhinav Bhatele",
                 "lab-time": null,
-                "learning-mode": "in person",
-                "lecture-time": "TuTh 11:00am 12:15pm",
+                "learning-mode": "online",
+                "lecture-time": null,
                 "open-seats": "10"
             }
         }
@@ -17678,17 +18052,17 @@ let catalog = [
             }
         }
     },
-    "CMSC828P": {
-        "course-name": "Advanced Topics in Information Processing; Algorithms and Machine Learning for Analyzing Mutations in Cancer",
+    "CMSC828J": {
+        "course-name": "Advanced Topics in Information Processing; Common-sense Reasoning and Natural Language Understanding",
         "department": "CMSC",
         "sections": {
             "0101": {
-                "capacity": "35",
-                "instructor": "Mark Leiserson",
+                "capacity": "30",
+                "instructor": "Rachel Rudinger",
                 "lab-time": null,
-                "learning-mode": "in person",
-                "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "5"
+                "learning-mode": "online",
+                "lecture-time": null,
+                "open-seats": "0"
             }
         }
     },
@@ -17714,8 +18088,8 @@ let catalog = [
                 "capacity": "7",
                 "instructor": "Maria Cameron",
                 "lab-time": null,
-                "learning-mode": "in person",
-                "lecture-time": "TuTh 9:30am 10:45am",
+                "learning-mode": "online",
+                "lecture-time": null,
                 "open-seats": "0"
             }
         }
@@ -17742,8 +18116,8 @@ let catalog = [
                 "capacity": "40",
                 "instructor": "Huaishu Peng",
                 "lab-time": null,
-                "learning-mode": "in person",
-                "lecture-time": "MW 3:30pm 4:45pm",
+                "learning-mode": "online",
+                "lecture-time": null,
                 "open-seats": "0"
             }
         }
@@ -17759,6 +18133,20 @@ let catalog = [
                 "learning-mode": "online",
                 "lecture-time": "Tu 2:00pm 3:15pm",
                 "open-seats": "2"
+            }
+        }
+    },
+    "CMSC858D": {
+        "course-name": "Advanced Topics in Theory of Computing; Algorithms, Data Structures and Inference fo High-Throughput Genomics",
+        "department": "CMSC",
+        "sections": {
+            "0101": {
+                "capacity": "30",
+                "instructor": "Robert Patro",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": null,
+                "open-seats": "19"
             }
         }
     },
@@ -17828,7 +18216,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "43"
+                "open-seats": "41"
             }
         }
     },
@@ -17880,7 +18268,7 @@ let catalog = [
                 "lab-time": "F 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 2:50pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0104": {
                 "capacity": "20",
@@ -18034,7 +18422,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
-                "open-seats": "63"
+                "open-seats": "61"
             },
             "ESG1": {
                 "capacity": "40",
@@ -18110,7 +18498,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "17"
+                "open-seats": "15"
             },
             "ESG1": {
                 "capacity": "40",
@@ -18212,7 +18600,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "MW 3:30pm 4:45pm",
-                "open-seats": "29"
+                "open-seats": "30"
             }
         }
     },
@@ -18248,7 +18636,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "32"
+                "open-seats": "31"
             }
         }
     },
@@ -18384,7 +18772,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "4"
+                "open-seats": "3"
             }
         }
     },
@@ -18540,7 +18928,7 @@ let catalog = [
                 "lab-time": "W 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:20pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0106": {
                 "capacity": "20",
@@ -18594,7 +18982,7 @@ let catalog = [
                 "lab-time": "M 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 12:00pm 12:50pm",
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "0104": {
                 "capacity": "20",
@@ -18640,7 +19028,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "23"
+                "open-seats": "22"
             }
         }
     },
@@ -18666,9 +19054,9 @@ let catalog = [
                 "capacity": "35",
                 "instructor": "Raphael Mazzone",
                 "lab-time": null,
-                "learning-mode": "in person",
+                "learning-mode": "online",
                 "lecture-time": "MW 5:00pm 6:15pm",
-                "open-seats": "7"
+                "open-seats": "8"
             }
         }
     },
@@ -18766,7 +19154,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 5:00pm 6:15pm",
-                "open-seats": "14"
+                "open-seats": "15"
             }
         }
     },
@@ -19202,9 +19590,17 @@ let catalog = [
                 "capacity": "45",
                 "instructor": "Claudia Donnelly",
                 "lab-time": "Tu 6:00pm 6:50pm",
-                "learning-mode": "in person",
+                "learning-mode": "online",
                 "lecture-time": "Tu 5:00pm 5:50pm",
                 "open-seats": "1"
+            },
+            "0201": {
+                "capacity": "45",
+                "instructor": "Claudia Donnelly",
+                "lab-time": "Tu 6:00pm 6:50pm",
+                "learning-mode": "online",
+                "lecture-time": "Tu 5:00pm 5:50pm",
+                "open-seats": "6"
             }
         }
     },
@@ -19228,7 +19624,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "96",
-                "instructor": "Faith Taylor",
+                "instructor": "Timothy Knight",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 5:10pm 6:30pm",
@@ -19242,7 +19638,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "96",
-                "instructor": "Deena Farrukh",
+                "instructor": "Muhiuddin Haider",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 3:00pm 4:30pm",
@@ -19256,7 +19652,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "95",
-                "instructor": "Deena Farrukh",
+                "instructor": "Muhiuddin Haider",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 5:00pm 6:15pm",
@@ -19288,7 +19684,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 2:00pm 3:15pm",
-                "open-seats": "37"
+                "open-seats": "36"
             }
         }
     },
@@ -19298,7 +19694,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "90",
-                "instructor": "Kelly Brower",
+                "instructor": "Mary Burns",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 3:30pm 4:45pm",
@@ -19316,7 +19712,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "18"
+                "open-seats": "17"
             }
         }
     },
@@ -19362,7 +19758,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "25",
-                "instructor": "Heather-Erin Bremenstuhl",
+                "instructor": "Kenna Hernly",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 6:00pm 7:15pm",
@@ -19370,7 +19766,7 @@ let catalog = [
             },
             "0102": {
                 "capacity": "25",
-                "instructor": "Heather-Erin Bremenstuhl",
+                "instructor": "Kenna Hernly",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 6:00pm 7:15pm",
@@ -19378,11 +19774,11 @@ let catalog = [
             },
             "0103": {
                 "capacity": "25",
-                "instructor": "Heather-Erin Bremenstuhl",
+                "instructor": "Harold Burgess",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 6:00pm 7:15pm",
-                "open-seats": "10"
+                "open-seats": "9"
             }
         }
     },
@@ -19410,11 +19806,11 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 6:00pm 7:15pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0102": {
                 "capacity": "22",
-                "instructor": "Harold Burgess",
+                "instructor": "Heather-Erin Bremenstuhl",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 6:00pm 7:15pm",
@@ -19436,7 +19832,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "45",
-                "instructor": "Jennifer Lee",
+                "instructor": "Alan Peel",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 3:30pm 4:30pm",
@@ -19464,7 +19860,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "85",
-                "instructor": "Jennifer Lee",
+                "instructor": "Erin Thomson",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 5:30pm 6:30pm",
@@ -19482,7 +19878,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 3:30pm 5:30pm",
-                "open-seats": "25"
+                "open-seats": "24"
             }
         }
     },
@@ -19492,7 +19888,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "92",
-                "instructor": "John Merck",
+                "instructor": "Thomas Holtz",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 3:30pm 4:50pm",
@@ -19506,7 +19902,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "90",
-                "instructor": "John Merck",
+                "instructor": "Thomas Holtz",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 3:30pm 4:50pm",
@@ -19520,11 +19916,35 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "25",
-                "instructor": "Autumn Perkey",
+                "instructor": "Arona Baigal",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 4:45pm 6:30pm",
                 "open-seats": "0"
+            },
+            "0102": {
+                "capacity": "22",
+                "instructor": "Annie Rappeport",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": "W 4:45pm 6:30pm",
+                "open-seats": "4"
+            },
+            "0103": {
+                "capacity": "25",
+                "instructor": "Autumn Perkey",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": "W 4:45pm 6:30pm",
+                "open-seats": "21"
+            },
+            "0104": {
+                "capacity": "22",
+                "instructor": "James Glass",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": "W 4:45pm 6:30pm",
+                "open-seats": "19"
             }
         }
     },
@@ -19602,7 +20022,7 @@ let catalog = [
             },
             "0103": {
                 "capacity": "16",
-                "instructor": "Nicole Mogul",
+                "instructor": "David Tomblin",
                 "lab-time": "M 4:00pm 4:50pm",
                 "learning-mode": "online",
                 "lecture-time": "M 3:15pm 4:50pm",
@@ -19610,7 +20030,7 @@ let catalog = [
             },
             "0104": {
                 "capacity": "16",
-                "instructor": "David Tomblin",
+                "instructor": "Nicole Mogul",
                 "lab-time": "M 4:00pm 4:50pm",
                 "learning-mode": "online",
                 "lecture-time": "M 3:15pm 4:50pm",
@@ -19618,7 +20038,7 @@ let catalog = [
             },
             "0105": {
                 "capacity": "16",
-                "instructor": "David Tomblin",
+                "instructor": "Nicole Mogul",
                 "lab-time": "M 4:00pm 4:50pm",
                 "learning-mode": "online",
                 "lecture-time": "M 3:15pm 4:50pm",
@@ -19626,7 +20046,7 @@ let catalog = [
             },
             "0106": {
                 "capacity": "15",
-                "instructor": "David Tomblin",
+                "instructor": "Nicole Mogul",
                 "lab-time": "M 4:00pm 4:50pm",
                 "learning-mode": "online",
                 "lecture-time": "M 3:15pm 4:50pm",
@@ -20600,7 +21020,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 6:00pm 9:30pm",
-                "open-seats": "25"
+                "open-seats": "24"
             }
         }
     },
@@ -20614,7 +21034,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 6:00pm 9:30pm",
-                "open-seats": "33"
+                "open-seats": "32"
             }
         }
     },
@@ -20656,7 +21076,7 @@ let catalog = [
                 "lab-time": "F 9:00am 9:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 2:50pm",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0102": {
                 "capacity": "20",
@@ -20672,7 +21092,7 @@ let catalog = [
                 "lab-time": "F 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 2:50pm",
-                "open-seats": "1"
+                "open-seats": "0"
             }
         }
     },
@@ -20702,7 +21122,7 @@ let catalog = [
                 "lab-time": "F 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 2:50pm",
-                "open-seats": "6"
+                "open-seats": "7"
             }
         }
     },
@@ -20724,7 +21144,7 @@ let catalog = [
                 "lab-time": "F 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 9:00am 9:50am",
-                "open-seats": "9"
+                "open-seats": "8"
             },
             "0103": {
                 "capacity": "20",
@@ -20770,7 +21190,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "28"
+                "open-seats": "20"
             },
             "0201": {
                 "capacity": "343",
@@ -20786,7 +21206,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "137"
+                "open-seats": "133"
             },
             "FC01": {
                 "capacity": "197",
@@ -20808,7 +21228,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0201": {
                 "capacity": "237",
@@ -20816,7 +21236,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "80"
+                "open-seats": "78"
             }
         }
     },
@@ -20974,7 +21394,7 @@ let catalog = [
                 "lab-time": "F 9:00am 9:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 11:50am",
-                "open-seats": "14"
+                "open-seats": "13"
             },
             "0102": {
                 "capacity": "25",
@@ -21176,7 +21596,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0301": {
                 "capacity": "43",
@@ -21322,7 +21742,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "39"
+                "open-seats": "38"
             }
         }
     },
@@ -21350,7 +21770,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "3"
+                "open-seats": "2"
             }
         }
     },
@@ -21364,7 +21784,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
-                "open-seats": "34"
+                "open-seats": "32"
             }
         }
     },
@@ -21498,7 +21918,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 6:45pm 9:30pm",
-                "open-seats": "12"
+                "open-seats": "11"
             },
             "PR02": {
                 "capacity": "20",
@@ -21506,7 +21926,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 6:45pm 9:30pm",
-                "open-seats": "8"
+                "open-seats": "7"
             },
             "PWE1": {
                 "capacity": "36",
@@ -21542,7 +21962,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 6:45pm 9:30pm",
-                "open-seats": "6"
+                "open-seats": "5"
             },
             "PR02": {
                 "capacity": "20",
@@ -21550,7 +21970,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 6:45pm 9:30pm",
-                "open-seats": "13"
+                "open-seats": "12"
             },
             "PWE1": {
                 "capacity": "36",
@@ -21970,7 +22390,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0401": {
                 "capacity": "30",
@@ -22048,7 +22468,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 10:00am 11:15am",
-                "open-seats": "8"
+                "open-seats": "7"
             }
         }
     },
@@ -22420,7 +22840,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "16"
+                "open-seats": "15"
             },
             "0201": {
                 "capacity": "40",
@@ -22574,7 +22994,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:15pm",
-                "open-seats": "28"
+                "open-seats": "27"
             }
         }
     },
@@ -22660,7 +23080,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 9:30am 12:15pm",
-                "open-seats": "12"
+                "open-seats": "13"
             },
             "0201": {
                 "capacity": "40",
@@ -22942,7 +23362,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 6:00pm 8:30pm",
-                "open-seats": "5"
+                "open-seats": "4"
             }
         }
     },
@@ -22998,7 +23418,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 4:15pm 7:00pm",
-                "open-seats": "7"
+                "open-seats": "6"
             }
         }
     },
@@ -23012,7 +23432,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 7:00pm 9:45pm",
-                "open-seats": "1"
+                "open-seats": "0"
             }
         }
     },
@@ -23082,7 +23502,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 4:15pm 7:00pm",
-                "open-seats": "10"
+                "open-seats": "9"
             }
         }
     },
@@ -23210,7 +23630,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 7:30pm 8:45pm",
-                "open-seats": "7"
+                "open-seats": "6"
             }
         }
     },
@@ -23238,7 +23658,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "2"
+                "open-seats": "3"
             }
         }
     },
@@ -23252,7 +23672,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "6"
+                "open-seats": "5"
             }
         }
     },
@@ -23662,7 +24082,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 12:00pm 3:00pm",
-                "open-seats": "13"
+                "open-seats": "12"
             }
         }
     },
@@ -23730,7 +24150,7 @@ let catalog = [
             },
             "0501": {
                 "capacity": "20",
-                "instructor": "Stacia Woycheck",
+                "instructor": "Kasey Ezzat",
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "Tu 9:00am 11:00am",
@@ -23744,7 +24164,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "15",
-                "instructor": "Glenn Kasten-Sportes",
+                "instructor": "Jessica Chew",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 10:00am 10:50am",
@@ -23752,7 +24172,7 @@ let catalog = [
             },
             "0201": {
                 "capacity": "5",
-                "instructor": "Jessica Chew",
+                "instructor": "Glenn Kasten-Sportes",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 10:00am 10:50am",
@@ -23770,7 +24190,7 @@ let catalog = [
                 "lab-time": "M 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "Tu 12:30pm 1:45pm",
-                "open-seats": "6"
+                "open-seats": "4"
             },
             "0102": {
                 "capacity": "25",
@@ -23794,7 +24214,7 @@ let catalog = [
                 "lab-time": "W 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "Tu 12:30pm 1:45pm",
-                "open-seats": "17"
+                "open-seats": "15"
             },
             "0105": {
                 "capacity": "25",
@@ -23802,7 +24222,7 @@ let catalog = [
                 "lab-time": "W 4:00pm 4:50pm",
                 "learning-mode": "online",
                 "lecture-time": "Tu 12:30pm 1:45pm",
-                "open-seats": "3"
+                "open-seats": "0"
             }
         }
     },
@@ -23956,7 +24376,7 @@ let catalog = [
                 "lab-time": "W 8:50am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 1:00pm 1:50pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0106": {
                 "capacity": "30",
@@ -23964,7 +24384,7 @@ let catalog = [
                 "lab-time": "F 8:50am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 1:00pm 1:50pm",
-                "open-seats": "15"
+                "open-seats": "16"
             }
         }
     },
@@ -24002,7 +24422,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 9:00am 10:50am",
-                "open-seats": "13"
+                "open-seats": "14"
             },
             "0202": {
                 "capacity": "30",
@@ -24018,7 +24438,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 2:00pm 3:50pm",
-                "open-seats": "2"
+                "open-seats": "0"
             }
         }
     },
@@ -24482,7 +24902,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 1:00pm 1:50pm",
-                "open-seats": "50"
+                "open-seats": "46"
             }
         }
     },
@@ -24692,7 +25112,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "27"
+                "open-seats": "26"
             }
         }
     },
@@ -24866,7 +25286,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "20",
-                "instructor": "Ahmet Aydilek",
+                "instructor": "Yunfeng Zhang",
                 "lab-time": "W 1:00pm 4:00pm",
                 "learning-mode": "in person",
                 "lecture-time": "Tu 12:30pm 1:30pm",
@@ -24932,7 +25352,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "40",
-                "instructor": "Gang-Len Chang",
+                "instructor": "ShiaauLir Wang",
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "MWF 10:00am 10:50am",
@@ -25006,7 +25426,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "Tu 4:00pm 6:40pm",
-                "open-seats": "19"
+                "open-seats": "18"
             }
         }
     },
@@ -25202,7 +25622,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "21"
+                "open-seats": "20"
             }
         }
     },
@@ -25407,12 +25827,12 @@ let catalog = [
         "department": "ENCH",
         "sections": {
             "0101": {
-                "capacity": "5",
+                "capacity": "10",
                 "instructor": "Taylor Woehl",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "0"
+                "open-seats": "5"
             }
         }
     },
@@ -25421,12 +25841,12 @@ let catalog = [
         "department": "ENCH",
         "sections": {
             "0101": {
-                "capacity": "15",
+                "capacity": "30",
                 "instructor": "Paul Albertus",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "8"
+                "open-seats": "23"
             },
             "ME01": {
                 "capacity": "15",
@@ -25448,7 +25868,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 9:00am 10:15am",
-                "open-seats": "6"
+                "open-seats": "5"
             }
         }
     },
@@ -25562,7 +25982,7 @@ let catalog = [
                 "lab-time": "WF 8:00am 8:50am",
                 "learning-mode": "online",
                 "lecture-time": "Tu 9:30am 10:45am",
-                "open-seats": "3"
+                "open-seats": "1"
             },
             "0102": {
                 "capacity": "12",
@@ -25570,7 +25990,7 @@ let catalog = [
                 "lab-time": "WF 9:00am 9:50am",
                 "learning-mode": "online",
                 "lecture-time": "Tu 9:30am 10:45am",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0103": {
                 "capacity": "12",
@@ -25578,7 +25998,7 @@ let catalog = [
                 "lab-time": "WF 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "Tu 9:30am 10:45am",
-                "open-seats": "9"
+                "open-seats": "8"
             },
             "0104": {
                 "capacity": "12",
@@ -25594,7 +26014,7 @@ let catalog = [
                 "lab-time": "WF 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "Tu 9:30am 10:45am",
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "0106": {
                 "capacity": "12",
@@ -25602,7 +26022,7 @@ let catalog = [
                 "lab-time": "WF 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "Tu 9:30am 10:45am",
-                "open-seats": "6"
+                "open-seats": "7"
             },
             "0107": {
                 "capacity": "12",
@@ -25610,7 +26030,7 @@ let catalog = [
                 "lab-time": "WF 3:00pm 3:50pm",
                 "learning-mode": "online",
                 "lecture-time": "Tu 9:30am 10:45am",
-                "open-seats": "7"
+                "open-seats": "6"
             }
         }
     },
@@ -25786,7 +26206,7 @@ let catalog = [
                 "lab-time": "Th 9:00am 9:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 12:15pm",
-                "open-seats": "3"
+                "open-seats": "2"
             },
             "0102": {
                 "capacity": "12",
@@ -25942,7 +26362,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 9:00am 9:50am",
-                "open-seats": "15"
+                "open-seats": "14"
             },
             "0102": {
                 "capacity": "25",
@@ -25958,7 +26378,7 @@ let catalog = [
                 "lab-time": "F 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "3"
+                "open-seats": "2"
             },
             "0202": {
                 "capacity": "25",
@@ -26170,7 +26590,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "11"
+                "open-seats": "10"
             }
         }
     },
@@ -26316,20 +26736,6 @@ let catalog = [
             }
         }
     },
-    "ENEE476": {
-        "course-name": "Renewable Energy",
-        "department": "ENEE",
-        "sections": {
-            "0101": {
-                "capacity": "60",
-                "instructor": "Shiladri Chakraborty",
-                "lab-time": null,
-                "learning-mode": "online",
-                "lecture-time": "MW 3:30pm 4:45pm",
-                "open-seats": "13"
-            }
-        }
-    },
     "ENEE489I": {
         "course-name": "Topics in Electrophysics; SOLAR ENERGY CONVERSION",
         "department": "ENEE",
@@ -26382,7 +26788,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:15pm",
-                "open-seats": "13"
+                "open-seats": "11"
             }
         }
     },
@@ -26396,7 +26802,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
-                "open-seats": "15"
+                "open-seats": "14"
             }
         }
     },
@@ -26423,7 +26829,7 @@ let catalog = [
                 "instructor": "Sennur Ulukus",
                 "lab-time": null,
                 "learning-mode": "online",
-                "lecture-time": "TuTh 2:00pm 3:15pm",
+                "lecture-time": "TuTh 3:30pm 4:45pm",
                 "open-seats": "24"
             }
         }
@@ -26494,7 +26900,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
-                "open-seats": "21"
+                "open-seats": "20"
             }
         }
     },
@@ -26564,7 +26970,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 3:30pm 4:30pm",
-                "open-seats": "51"
+                "open-seats": "50"
             }
         }
     },
@@ -26578,7 +26984,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 12:30pm 1:45pm",
-                "open-seats": "28"
+                "open-seats": "27"
             }
         }
     },
@@ -26644,7 +27050,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "65",
-                "instructor": "Jarred Young",
+                "instructor": "Joshua Cocker",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 4:00pm 5:30pm",
@@ -26662,7 +27068,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 4:00pm 5:30pm",
-                "open-seats": "26"
+                "open-seats": "25"
             }
         }
     },
@@ -26684,7 +27090,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "51"
+                "open-seats": "52"
             },
             "0301": {
                 "capacity": "250",
@@ -26768,7 +27174,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 4:00pm 4:50pm",
-                "open-seats": "44"
+                "open-seats": "43"
             }
         }
     },
@@ -26804,7 +27210,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 10:00am 10:50am",
-                "open-seats": "7"
+                "open-seats": "4"
             },
             "0301": {
                 "capacity": "120",
@@ -26812,7 +27218,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 2:00pm 2:50pm",
-                "open-seats": "17"
+                "open-seats": "18"
             },
             "0401": {
                 "capacity": "120",
@@ -26820,7 +27226,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 2:00pm 2:50pm",
-                "open-seats": "34"
+                "open-seats": "32"
             },
             "0501": {
                 "capacity": "120",
@@ -26836,7 +27242,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 10:00am 10:50am",
-                "open-seats": "71"
+                "open-seats": "70"
             },
             "0701": {
                 "capacity": "120",
@@ -26948,7 +27354,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "9"
+                "open-seats": "10"
             }
         }
     },
@@ -26960,7 +27366,7 @@ let catalog = [
                 "capacity": "55",
                 "instructor": "Joseph Bailey",
                 "lab-time": null,
-                "learning-mode": "online",
+                "learning-mode": "in person",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
                 "open-seats": "7"
             }
@@ -27000,7 +27406,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "40",
-                "instructor": "Michael Pratt",
+                "instructor": "James Green",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 5:00pm 6:15pm",
@@ -27018,7 +27424,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "75"
+                "open-seats": "74"
             },
             "0201": {
                 "capacity": "250",
@@ -27050,7 +27456,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "45",
-                "instructor": "Davinder Anand",
+                "instructor": "Sami Ainane",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 11:00am 1:40pm",
@@ -27078,7 +27484,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "45",
-                "instructor": "Joseph Bailey",
+                "instructor": "Pamela Armstrong",
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
@@ -27092,7 +27498,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "45",
-                "instructor": "James Purtilo",
+                "instructor": "David Ashley",
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "W 5:00pm 7:40pm",
@@ -27222,7 +27628,7 @@ let catalog = [
                 "lab-time": "W 3:00pm 3:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "4"
+                "open-seats": "3"
             }
         }
     },
@@ -27288,7 +27694,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "49",
-                "instructor": "James Milke",
+                "instructor": "Michael Reardon",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
@@ -27386,7 +27792,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "8",
-                "instructor": "Michael Reardon",
+                "instructor": "James Milke",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
@@ -27644,7 +28050,7 @@ let catalog = [
                 "lab-time": "F 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 1:00pm 1:50pm",
-                "open-seats": "11"
+                "open-seats": "10"
             }
         }
     },
@@ -27756,7 +28162,7 @@ let catalog = [
                 "lab-time": "F 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 12:00pm 12:50pm",
-                "open-seats": "4"
+                "open-seats": "3"
             },
             "0102": {
                 "capacity": "25",
@@ -27780,7 +28186,7 @@ let catalog = [
                 "lab-time": "F 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 12:00pm 12:50pm",
-                "open-seats": "7"
+                "open-seats": "6"
             },
             "FCB1": {
                 "capacity": "26",
@@ -27816,7 +28222,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "12"
+                "open-seats": "11"
             }
         }
     },
@@ -27894,7 +28300,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "3"
+                "open-seats": "2"
             },
             "0102": {
                 "capacity": "5",
@@ -27986,7 +28392,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "13"
+                "open-seats": "12"
             }
         }
     },
@@ -28030,7 +28436,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "18"
+                "open-seats": "17"
             }
         }
     },
@@ -28108,7 +28514,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 6:00pm 7:15pm",
-                "open-seats": "10"
+                "open-seats": "9"
             }
         }
     },
@@ -28144,7 +28550,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "2"
+                "open-seats": "3"
             }
         }
     },
@@ -29019,20 +29425,20 @@ let catalog = [
                 "open-seats": "11"
             },
             "SG91": {
-                "capacity": "17",
+                "capacity": "10",
                 "instructor": "Instructor: TBA",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "17"
+                "open-seats": "10"
             },
             "SG92": {
-                "capacity": "17",
+                "capacity": "10",
                 "instructor": "Holly Smith",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "17"
+                "open-seats": "10"
             },
             "SG93": {
                 "capacity": "17",
@@ -29344,7 +29750,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "6"
+                "open-seats": "5"
             },
             "ESG2": {
                 "capacity": "19",
@@ -29352,7 +29758,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "14"
+                "open-seats": "13"
             }
         }
     },
@@ -29714,7 +30120,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:15pm",
-                "open-seats": "7"
+                "open-seats": "6"
             }
         }
     },
@@ -29812,7 +30218,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 5:00pm 6:15pm",
-                "open-seats": "12"
+                "open-seats": "11"
             }
         }
     },
@@ -30122,7 +30528,7 @@ let catalog = [
                 "lab-time": "W 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
-                "open-seats": "18"
+                "open-seats": "19"
             },
             "0102": {
                 "capacity": "40",
@@ -30130,7 +30536,7 @@ let catalog = [
                 "lab-time": "Th 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
-                "open-seats": "16"
+                "open-seats": "14"
             }
         }
     },
@@ -30144,7 +30550,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 3:00pm 3:50pm",
-                "open-seats": "6"
+                "open-seats": "5"
             }
         }
     },
@@ -30550,7 +30956,7 @@ let catalog = [
                 "lab-time": "F 8:00am 9:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 11:50am",
-                "open-seats": "28"
+                "open-seats": "26"
             },
             "0102": {
                 "capacity": "42",
@@ -30558,7 +30964,7 @@ let catalog = [
                 "lab-time": "Th 3:00pm 4:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 11:50am",
-                "open-seats": "4"
+                "open-seats": "0"
             },
             "0103": {
                 "capacity": "29",
@@ -30566,7 +30972,7 @@ let catalog = [
                 "lab-time": "Th 3:00pm 4:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 11:50am",
-                "open-seats": "8"
+                "open-seats": "6"
             },
             "0106": {
                 "capacity": "42",
@@ -30582,7 +30988,7 @@ let catalog = [
                 "lab-time": "Th 5:00pm 6:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 11:50am",
-                "open-seats": "4"
+                "open-seats": "1"
             }
         }
     },
@@ -30610,7 +31016,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 8:00am 9:50am",
-                "open-seats": "17"
+                "open-seats": "16"
             },
             "0201": {
                 "capacity": "42",
@@ -30618,7 +31024,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 8:00am 9:50am",
-                "open-seats": "30"
+                "open-seats": "27"
             },
             "0301": {
                 "capacity": "42",
@@ -30652,7 +31058,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "50",
-                "instructor": "Amir Riaz",
+                "instructor": "Siddhartha Das",
                 "lab-time": "Tu 1:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 12:00pm 12:50pm",
@@ -30660,7 +31066,7 @@ let catalog = [
             },
             "0102": {
                 "capacity": "50",
-                "instructor": "Siddhartha Das",
+                "instructor": "Amir Riaz",
                 "lab-time": "W 1:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 12:00pm 12:50pm",
@@ -30668,7 +31074,7 @@ let catalog = [
             },
             "0103": {
                 "capacity": "50",
-                "instructor": "Amir Riaz",
+                "instructor": "Siddhartha Das",
                 "lab-time": "Th 1:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 12:00pm 12:50pm",
@@ -30688,7 +31094,7 @@ let catalog = [
                 "lab-time": "W 3:00pm 4:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 12:00pm 12:50pm",
-                "open-seats": "14"
+                "open-seats": "15"
             }
         }
     },
@@ -30706,7 +31112,7 @@ let catalog = [
             },
             "0102": {
                 "capacity": "45",
-                "instructor": "Marino diMarzo",
+                "instructor": "Amir Riaz",
                 "lab-time": "W 1:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 9:00am 9:50am",
@@ -30714,7 +31120,7 @@ let catalog = [
             },
             "0103": {
                 "capacity": "45",
-                "instructor": "Marino diMarzo",
+                "instructor": "Amir Riaz",
                 "lab-time": "Th 1:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 9:00am 9:50am",
@@ -30726,7 +31132,7 @@ let catalog = [
                 "lab-time": "F 1:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 9:00am 9:50am",
-                "open-seats": "6"
+                "open-seats": "5"
             }
         }
     },
@@ -30768,7 +31174,7 @@ let catalog = [
             },
             "0105": {
                 "capacity": "48",
-                "instructor": "Jungho Kim",
+                "instructor": "Xinan Liu",
                 "lab-time": "M 3:20pm 5:10pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 8:00am 8:50am",
@@ -31228,7 +31634,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "31",
-                "instructor": "Michael Mack",
+                "instructor": "Gary Pertmer",
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "Th 8:00am 10:40am",
@@ -31370,7 +31776,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "25",
-                "instructor": "Jiazhen Ling",
+                "instructor": "K Radermacher",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 4:00pm 6:40pm",
@@ -31554,7 +31960,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "15"
+                "open-seats": "14"
             }
         }
     },
@@ -31568,7 +31974,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "18"
+                "open-seats": "20"
             }
         }
     },
@@ -31750,7 +32156,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "20"
+                "open-seats": "19"
             }
         }
     },
@@ -31764,7 +32170,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "20"
+                "open-seats": "19"
             }
         }
     },
@@ -31834,7 +32240,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 7:00pm 9:40pm",
-                "open-seats": "32"
+                "open-seats": "30"
             }
         }
     },
@@ -31848,7 +32254,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 7:00pm 9:40pm",
-                "open-seats": "14"
+                "open-seats": "15"
             }
         }
     },
@@ -31960,7 +32366,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 7:00pm 9:40pm",
-                "open-seats": "33"
+                "open-seats": "32"
             }
         }
     },
@@ -31974,7 +32380,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 4:00pm 6:40pm",
-                "open-seats": "42"
+                "open-seats": "41"
             }
         }
     },
@@ -31984,7 +32390,7 @@ let catalog = [
         "sections": {
             "0201": {
                 "capacity": "20",
-                "instructor": "Zeid Kootbally",
+                "instructor": "Craig Schlenoff",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
@@ -32016,7 +32422,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "16"
+                "open-seats": "20"
             }
         }
     },
@@ -32058,7 +32464,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "19"
+                "open-seats": "18"
             }
         }
     },
@@ -32110,7 +32516,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "19"
+                "open-seats": "18"
             },
             "RE01": {
                 "capacity": "10",
@@ -32456,7 +32862,7 @@ let catalog = [
                 "lab-time": "F 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "14"
+                "open-seats": "13"
             },
             "0107": {
                 "capacity": "24",
@@ -32612,7 +33018,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "30"
+                "open-seats": "29"
             }
         }
     },
@@ -32635,6 +33041,20 @@ let catalog = [
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
                 "open-seats": "28"
+            }
+        }
+    },
+    "ENST373": {
+        "course-name": "Natural History of the Chesapeake Bay",
+        "department": "ENST",
+        "sections": {
+            "0101": {
+                "capacity": "80",
+                "instructor": "Patrick Kangas",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": null,
+                "open-seats": "77"
             }
         }
     },
@@ -33012,7 +33432,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 2:00pm 2:50pm",
-                "open-seats": "9"
+                "open-seats": "7"
             }
         }
     },
@@ -33454,7 +33874,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "20",
-                "instructor": "Hongjie Liu",
+                "instructor": "Rodman Turpin",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 4:00pm 6:45pm",
@@ -33486,7 +33906,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 1:00pm 3:45pm",
-                "open-seats": "9"
+                "open-seats": "8"
             }
         }
     },
@@ -33636,7 +34056,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "20",
-                "instructor": "Paul Maykish",
+                "instructor": "William Usher",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 7:30pm 10:00pm",
@@ -33650,7 +34070,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "20",
-                "instructor": "Jonathan Margolis",
+                "instructor": "Griffin Thompson",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 5:30pm 8:30pm",
@@ -33696,7 +34116,7 @@ let catalog = [
                 "lab-time": "F 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 12:00pm 12:50pm",
-                "open-seats": "4"
+                "open-seats": "3"
             },
             "0102": {
                 "capacity": "25",
@@ -33720,7 +34140,7 @@ let catalog = [
                 "lab-time": "F 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 12:00pm 12:50pm",
-                "open-seats": "7"
+                "open-seats": "6"
             }
         }
     },
@@ -33734,7 +34154,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
-                "open-seats": "13"
+                "open-seats": "11"
             }
         }
     },
@@ -33922,7 +34342,7 @@ let catalog = [
                 "capacity": "30",
                 "instructor": "Valerie Orlando",
                 "lab-time": null,
-                "learning-mode": "in person",
+                "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
                 "open-seats": "0"
             }
@@ -34014,7 +34434,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 10:00am 10:50am",
-                "open-seats": "11"
+                "open-seats": "12"
             },
             "0801": {
                 "capacity": "35",
@@ -34030,7 +34450,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 12:00pm 12:50pm",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "1101": {
                 "capacity": "37",
@@ -34070,7 +34490,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 9:00am 9:50am",
-                "open-seats": "15"
+                "open-seats": "14"
             },
             "1601": {
                 "capacity": "42",
@@ -34078,7 +34498,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 11:00am 11:50am",
-                "open-seats": "15"
+                "open-seats": "14"
             },
             "1701": {
                 "capacity": "42",
@@ -34086,7 +34506,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 9:30am 10:20am",
-                "open-seats": "28"
+                "open-seats": "27"
             },
             "FCB1": {
                 "capacity": "34",
@@ -34148,7 +34568,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 11:00am 11:50am",
-                "open-seats": "6"
+                "open-seats": "5"
             },
             "0107": {
                 "capacity": "15",
@@ -34278,7 +34698,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "21"
+                "open-seats": "20"
             }
         }
     },
@@ -34422,7 +34842,7 @@ let catalog = [
                 "lab-time": "F 8:00am 8:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 8:00am 8:50am",
-                "open-seats": "2"
+                "open-seats": "1"
             }
         }
     },
@@ -34436,7 +34856,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 5:30pm 6:45pm",
-                "open-seats": "3"
+                "open-seats": "0"
             },
             "0201": {
                 "capacity": "40",
@@ -34444,7 +34864,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "0"
+                "open-seats": "2"
             }
         }
     },
@@ -34494,7 +34914,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 12:00pm 12:50pm",
-                "open-seats": "2"
+                "open-seats": "1"
             }
         }
     },
@@ -34600,7 +35020,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 10:00am 12:45pm",
-                "open-seats": "15"
+                "open-seats": "14"
             }
         }
     },
@@ -34746,7 +35166,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
-                "open-seats": "13"
+                "open-seats": "11"
             }
         }
     },
@@ -34824,7 +35244,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:15pm",
-                "open-seats": "1"
+                "open-seats": "0"
             }
         }
     },
@@ -34960,7 +35380,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 10:00am 11:15am",
-                "open-seats": "7"
+                "open-seats": "5"
             },
             "0105": {
                 "capacity": "9",
@@ -34968,7 +35388,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 12:30pm 1:45pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0106": {
                 "capacity": "9",
@@ -34976,7 +35396,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 3:30pm 4:45pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0107": {
                 "capacity": "9",
@@ -34984,7 +35404,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 4:45pm 6:00pm",
-                "open-seats": "2"
+                "open-seats": "0"
             },
             "0108": {
                 "capacity": "10",
@@ -35016,7 +35436,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 5:00pm 6:15pm",
-                "open-seats": "2"
+                "open-seats": "0"
             },
             "0112": {
                 "capacity": "9",
@@ -35024,7 +35444,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 10:30am 11:45am",
-                "open-seats": "4"
+                "open-seats": "2"
             },
             "0113": {
                 "capacity": "9",
@@ -35032,7 +35452,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 1:30pm 2:45pm",
-                "open-seats": "4"
+                "open-seats": "0"
             },
             "0114": {
                 "capacity": "9",
@@ -35040,7 +35460,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 12:30pm 1:45pm",
-                "open-seats": "9"
+                "open-seats": "4"
             }
         }
     },
@@ -35092,7 +35512,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "23",
-                "instructor": "Leah Kreimer Tobin",
+                "instructor": "Kristan Skendall",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
@@ -35432,7 +35852,7 @@ let catalog = [
             },
             "0107": {
                 "capacity": "14",
-                "instructor": "Mary Bowden",
+                "instructor": "David Akin",
                 "lab-time": "Tu 4:30pm 5:30pm",
                 "learning-mode": "online",
                 "lecture-time": "Th 4:30pm 5:20pm",
@@ -35472,7 +35892,7 @@ let catalog = [
             },
             "0112": {
                 "capacity": "14",
-                "instructor": "Omar Ayyub",
+                "instructor": "Peter Kofinas",
                 "lab-time": "Th 8:00am 8:50am",
                 "learning-mode": "online",
                 "lecture-time": "Tu 8:00am 8:50am",
@@ -35526,7 +35946,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 9:00am 9:50am",
-                "open-seats": "5"
+                "open-seats": "4"
             },
             "0102": {
                 "capacity": "25",
@@ -35550,7 +35970,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 11:00am 11:50am",
-                "open-seats": "4"
+                "open-seats": "3"
             },
             "0105": {
                 "capacity": "25",
@@ -35558,7 +35978,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 9:30am 10:20am",
-                "open-seats": "7"
+                "open-seats": "6"
             },
             "0106": {
                 "capacity": "25",
@@ -35582,7 +36002,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 11:00am 11:50am",
-                "open-seats": "7"
+                "open-seats": "5"
             },
             "0203": {
                 "capacity": "25",
@@ -35590,7 +36010,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 10:00am 10:50am",
-                "open-seats": "6"
+                "open-seats": "7"
             },
             "0204": {
                 "capacity": "25",
@@ -35620,7 +36040,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "67"
+                "open-seats": "66"
             }
         }
     },
@@ -35660,7 +36080,7 @@ let catalog = [
             },
             "0301": {
                 "capacity": "24",
-                "instructor": "Amanda Hall",
+                "instructor": "Baobao Liu",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
@@ -35676,7 +36096,7 @@ let catalog = [
             },
             "0501": {
                 "capacity": "24",
-                "instructor": "Baobao Liu",
+                "instructor": "Amanda Hall",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
@@ -35708,7 +36128,7 @@ let catalog = [
             },
             "0901": {
                 "capacity": "24",
-                "instructor": "Amanda Hall",
+                "instructor": "Valeria Morales",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
@@ -35716,7 +36136,7 @@ let catalog = [
             },
             "1001": {
                 "capacity": "24",
-                "instructor": "Valeria Morales",
+                "instructor": "Amanda Hall",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
@@ -35764,7 +36184,7 @@ let catalog = [
                 "lab-time": "F 9:00am 9:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 1:00pm 1:50pm",
-                "open-seats": "8"
+                "open-seats": "7"
             },
             "0103": {
                 "capacity": "25",
@@ -35796,7 +36216,7 @@ let catalog = [
                 "lab-time": "F 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 1:00pm 1:50pm",
-                "open-seats": "3"
+                "open-seats": "2"
             }
         }
     },
@@ -36056,7 +36476,7 @@ let catalog = [
                 "lab-time": "Tu 5:30pm 7:30pm",
                 "learning-mode": "online",
                 "lecture-time": "M 5:30pm 8:00pm",
-                "open-seats": "4"
+                "open-seats": "3"
             }
         }
     },
@@ -36084,7 +36504,7 @@ let catalog = [
                 "lab-time": "Th 5:30pm 8:00pm",
                 "learning-mode": "online",
                 "lecture-time": "W 5:30pm 8:00pm",
-                "open-seats": "11"
+                "open-seats": "10"
             },
             "PLI1": {
                 "capacity": "15",
@@ -36262,7 +36682,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 12:00pm 3:00pm",
-                "open-seats": "9"
+                "open-seats": "10"
             },
             "0102": {
                 "capacity": "24",
@@ -36340,7 +36760,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 5:00pm 5:50pm",
-                "open-seats": "15"
+                "open-seats": "14"
             },
             "FC02": {
                 "capacity": "18",
@@ -36362,7 +36782,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 9:00am 9:50am",
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "0102": {
                 "capacity": "20",
@@ -36378,7 +36798,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 11:00am 11:50am",
-                "open-seats": "5"
+                "open-seats": "4"
             },
             "0104": {
                 "capacity": "20",
@@ -36386,7 +36806,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 9:00am 9:50am",
-                "open-seats": "10"
+                "open-seats": "9"
             },
             "0105": {
                 "capacity": "20",
@@ -36500,7 +36920,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "14"
+                "open-seats": "12"
             }
         }
     },
@@ -36654,7 +37074,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
-                "open-seats": "18"
+                "open-seats": "19"
             }
         }
     },
@@ -36852,7 +37272,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "14"
+                "open-seats": "13"
             }
         }
     },
@@ -37364,7 +37784,7 @@ let catalog = [
                 "lab-time": "F 9:00am 9:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 2:50pm",
-                "open-seats": "10"
+                "open-seats": "9"
             },
             "0202": {
                 "capacity": "25",
@@ -37470,7 +37890,7 @@ let catalog = [
                 "lab-time": "F 9:00am 9:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 2:50pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0102": {
                 "capacity": "20",
@@ -37510,7 +37930,7 @@ let catalog = [
                 "lab-time": "F 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 2:50pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0107": {
                 "capacity": "20",
@@ -37526,7 +37946,7 @@ let catalog = [
                 "lab-time": "F 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 2:50pm",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "FC01": {
                 "capacity": "30",
@@ -37548,7 +37968,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 4:30pm 5:45pm",
-                "open-seats": "7"
+                "open-seats": "8"
             }
         }
     },
@@ -37678,7 +38098,7 @@ let catalog = [
                 "lab-time": "F 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 10:00am 10:50am",
-                "open-seats": "2"
+                "open-seats": "0"
             },
             "0103": {
                 "capacity": "20",
@@ -37828,6 +38248,20 @@ let catalog = [
             }
         }
     },
+    "GVPT368L": {
+        "course-name": "Special Topics in Government and Politics; African-American Politics from Frederick Douglass to Barack Obama",
+        "department": "GVPT",
+        "sections": {
+            "0101": {
+                "capacity": "30",
+                "instructor": "Instructor: TBA",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": "Tu 3:30pm 6:00pm",
+                "open-seats": "0"
+            }
+        }
+    },
     "GVPT377": {
         "course-name": "Experiential Learning: Government and Politics Internship Program",
         "department": "GVPT",
@@ -37880,7 +38314,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "16"
+                "open-seats": "14"
             }
         }
     },
@@ -38076,7 +38510,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 3:00pm 4:15pm",
-                "open-seats": "6"
+                "open-seats": "5"
             }
         }
     },
@@ -38258,7 +38692,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 7:00pm 9:45pm",
-                "open-seats": "5"
+                "open-seats": "6"
             }
         }
     },
@@ -38342,7 +38776,7 @@ let catalog = [
                 "lab-time": "F 3:00pm 5:00pm",
                 "learning-mode": "online",
                 "lecture-time": "W 12:30pm 3:15pm",
-                "open-seats": "5"
+                "open-seats": "4"
             },
             "0201": {
                 "capacity": "12",
@@ -38378,7 +38812,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 12:30pm 3:15pm",
-                "open-seats": "8"
+                "open-seats": "7"
             }
         }
     },
@@ -38420,7 +38854,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 9:30am 12:15pm",
-                "open-seats": "9"
+                "open-seats": "8"
             }
         }
     },
@@ -38462,7 +38896,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 9:30am 12:15pm",
-                "open-seats": "5"
+                "open-seats": "3"
             }
         }
     },
@@ -38486,11 +38920,11 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "35",
-                "instructor": "Ciro Pinto-Coelho",
+                "instructor": "Michel Cukier",
                 "lab-time": "W 9:00am 9:50am",
                 "learning-mode": "online",
                 "lecture-time": "M 9:00am 9:50am",
-                "open-seats": "7"
+                "open-seats": "2"
             },
             "0201": {
                 "capacity": "35",
@@ -38498,15 +38932,15 @@ let catalog = [
                 "lab-time": "W 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "M 10:00am 10:50am",
-                "open-seats": "17"
+                "open-seats": "10"
             },
             "0301": {
                 "capacity": "35",
-                "instructor": "Michel Cukier",
+                "instructor": "Ciro Pinto-Coelho",
                 "lab-time": "W 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "M 11:00am 11:50am",
-                "open-seats": "20"
+                "open-seats": "16"
             }
         }
     },
@@ -38556,7 +38990,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "17"
+                "open-seats": "18"
             }
         }
     },
@@ -38640,7 +39074,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "Tu 5:30pm 8:15pm",
-                "open-seats": "16"
+                "open-seats": "15"
             }
         }
     },
@@ -38654,7 +39088,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 4:00pm 5:15pm",
-                "open-seats": "22"
+                "open-seats": "12"
             }
         }
     },
@@ -38776,7 +39210,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "1"
+                "open-seats": "0"
             }
         }
     },
@@ -38876,7 +39310,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 12:15pm",
-                "open-seats": "7"
+                "open-seats": "6"
             },
             "0401": {
                 "capacity": "25",
@@ -38892,7 +39326,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 7:30pm 8:45pm",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "FC02": {
                 "capacity": "20",
@@ -38910,7 +39344,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "25",
-                "instructor": "Nicole Mehta",
+                "instructor": "Benjamin Beltran",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
@@ -38924,7 +39358,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "16",
-                "instructor": "Donna Lim",
+                "instructor": "Instructor: TBA",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 12:15pm",
@@ -38932,7 +39366,7 @@ let catalog = [
             },
             "0201": {
                 "capacity": "16",
-                "instructor": "David Reese",
+                "instructor": "Instructor: TBA",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
@@ -38940,7 +39374,7 @@ let catalog = [
             },
             "0301": {
                 "capacity": "16",
-                "instructor": "Cori Carfagno",
+                "instructor": "Instructor: TBA",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
@@ -38966,7 +39400,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "6"
+                "open-seats": "5"
             }
         }
     },
@@ -39012,7 +39446,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "15",
-                "instructor": "Shakia Asamoah",
+                "instructor": "Craig Slack",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 9:00am 11:45am",
@@ -39030,7 +39464,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "2"
+                "open-seats": "1"
             }
         }
     },
@@ -39044,7 +39478,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "M 2:00pm 4:45pm",
-                "open-seats": "2"
+                "open-seats": "3"
             }
         }
     },
@@ -39054,7 +39488,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "13",
-                "instructor": "Jazmin Pichardo",
+                "instructor": "Alison Mojto",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 4:15pm 7:00pm",
@@ -39094,7 +39528,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "9"
+                "open-seats": "8"
             }
         }
     },
@@ -39108,7 +39542,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "Tu 6:30pm 9:00pm",
-                "open-seats": "49"
+                "open-seats": "48"
             }
         }
     },
@@ -39344,6 +39778,20 @@ let catalog = [
             }
         }
     },
+    "HESP624": {
+        "course-name": "Voice Disorders",
+        "department": "HESP",
+        "sections": {
+            "0101": {
+                "capacity": "20",
+                "instructor": "Nancy Solomon",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": "TuTh 7:00pm 8:15pm",
+                "open-seats": "15"
+            }
+        }
+    },
     "HESP626": {
         "course-name": "Language disorders in school-aged children and adolescents",
         "department": "HESP",
@@ -39554,7 +40002,7 @@ let catalog = [
                 "lab-time": "F 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 1:00pm 1:50pm",
-                "open-seats": "6"
+                "open-seats": "2"
             },
             "0103": {
                 "capacity": "19",
@@ -39562,7 +40010,7 @@ let catalog = [
                 "lab-time": "F 12:00pm 12:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 1:00pm 1:50pm",
-                "open-seats": "6"
+                "open-seats": "1"
             },
             "0104": {
                 "capacity": "19",
@@ -39804,7 +40252,7 @@ let catalog = [
                 "lab-time": "W 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 10:00am 10:50am",
-                "open-seats": "6"
+                "open-seats": "5"
             },
             "0102": {
                 "capacity": "24",
@@ -39866,7 +40314,7 @@ let catalog = [
                 "lab-time": "F 12:00pm 12:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:20pm",
-                "open-seats": "12"
+                "open-seats": "11"
             },
             "0106": {
                 "capacity": "24",
@@ -39874,7 +40322,7 @@ let catalog = [
                 "lab-time": "F 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:20pm",
-                "open-seats": "12"
+                "open-seats": "11"
             },
             "FC01": {
                 "capacity": "25",
@@ -39896,7 +40344,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "0"
+                "open-seats": "1"
             }
         }
     },
@@ -39940,7 +40388,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:15pm",
-                "open-seats": "9"
+                "open-seats": "8"
             }
         }
     },
@@ -40510,7 +40958,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "7"
+                "open-seats": "6"
             }
         }
     },
@@ -40524,7 +40972,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:15pm",
-                "open-seats": "16"
+                "open-seats": "15"
             }
         }
     },
@@ -40554,7 +41002,7 @@ let catalog = [
                 "lab-time": "F 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:20am",
-                "open-seats": "18"
+                "open-seats": "19"
             }
         }
     },
@@ -40568,7 +41016,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
-                "open-seats": "4"
+                "open-seats": "1"
             }
         }
     },
@@ -40626,7 +41074,7 @@ let catalog = [
                 "lab-time": "F 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 11:50am",
-                "open-seats": "11"
+                "open-seats": "9"
             },
             "0102": {
                 "capacity": "24",
@@ -40642,7 +41090,7 @@ let catalog = [
                 "lab-time": "F 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 11:50am",
-                "open-seats": "9"
+                "open-seats": "8"
             },
             "FC01": {
                 "capacity": "25",
@@ -41056,7 +41504,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 2:00pm 3:50pm",
-                "open-seats": "3"
+                "open-seats": "2"
             }
         }
     },
@@ -41084,7 +41532,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:15pm",
-                "open-seats": "23"
+                "open-seats": "22"
             }
         }
     },
@@ -41126,7 +41574,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
-                "open-seats": "14"
+                "open-seats": "13"
             }
         }
     },
@@ -41168,7 +41616,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 4:00pm 5:15pm",
-                "open-seats": "21"
+                "open-seats": "22"
             }
         }
     },
@@ -41182,7 +41630,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:15pm",
-                "open-seats": "22"
+                "open-seats": "21"
             }
         }
     },
@@ -41224,7 +41672,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "16"
+                "open-seats": "15"
             }
         }
     },
@@ -41252,7 +41700,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "1"
+                "open-seats": "0"
             }
         }
     },
@@ -41280,7 +41728,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 3:30pm 6:00pm",
-                "open-seats": "14"
+                "open-seats": "13"
             }
         }
     },
@@ -41520,7 +41968,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 4:00pm 6:45pm",
-                "open-seats": "14"
+                "open-seats": "13"
             }
         }
     },
@@ -41534,7 +41982,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "9"
+                "open-seats": "8"
             }
         }
     },
@@ -41576,7 +42024,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "12"
+                "open-seats": "11"
             }
         }
     },
@@ -41604,7 +42052,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 4:00pm 6:45pm",
-                "open-seats": "13"
+                "open-seats": "12"
             }
         }
     },
@@ -41632,7 +42080,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "6"
+                "open-seats": "5"
             }
         }
     },
@@ -41674,7 +42122,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 7:00pm 9:45pm",
-                "open-seats": "15"
+                "open-seats": "14"
             },
             "PLP1": {
                 "capacity": "20",
@@ -41788,7 +42236,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 2:00pm 3:15pm",
-                "open-seats": "2"
+                "open-seats": "0"
             },
             "0102": {
                 "capacity": "20",
@@ -41804,7 +42252,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 2:00pm 3:15pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0104": {
                 "capacity": "20",
@@ -41812,7 +42260,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 2:00pm 3:15pm",
-                "open-seats": "8"
+                "open-seats": "0"
             }
         }
     },
@@ -41826,7 +42274,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "27"
+                "open-seats": "15"
             }
         }
     },
@@ -41854,7 +42302,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "56"
+                "open-seats": "53"
             }
         }
     },
@@ -41868,7 +42316,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "56"
+                "open-seats": "53"
             }
         }
     },
@@ -41882,7 +42330,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "23"
+                "open-seats": "21"
             }
         }
     },
@@ -41980,7 +42428,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "26"
+                "open-seats": "24"
             }
         }
     },
@@ -42610,7 +43058,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 12:30pm 1:45pm",
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "0106": {
                 "capacity": "22",
@@ -42618,7 +43066,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 5:00pm 6:15pm",
-                "open-seats": "3"
+                "open-seats": "0"
             },
             "0201": {
                 "capacity": "22",
@@ -42634,7 +43082,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 5:00pm 6:15pm",
-                "open-seats": "10"
+                "open-seats": "0"
             },
             "0203": {
                 "capacity": "22",
@@ -42650,7 +43098,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 5:00pm 6:15pm",
-                "open-seats": "10"
+                "open-seats": "4"
             },
             "0205": {
                 "capacity": "22",
@@ -42666,7 +43114,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 5:00pm 6:15pm",
-                "open-seats": "10"
+                "open-seats": "7"
             },
             "0301": {
                 "capacity": "22",
@@ -42682,7 +43130,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 5:00pm 6:15pm",
-                "open-seats": "11"
+                "open-seats": "5"
             },
             "0303": {
                 "capacity": "22",
@@ -42690,7 +43138,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 1:00pm 2:15pm",
-                "open-seats": "13"
+                "open-seats": "0"
             },
             "0304": {
                 "capacity": "22",
@@ -42714,7 +43162,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 5:00pm 6:15pm",
-                "open-seats": "12"
+                "open-seats": "8"
             },
             "0401": {
                 "capacity": "22",
@@ -42722,7 +43170,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 12:30pm 1:45pm",
-                "open-seats": "8"
+                "open-seats": "0"
             },
             "0402": {
                 "capacity": "22",
@@ -42730,7 +43178,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 5:00pm 6:15pm",
-                "open-seats": "11"
+                "open-seats": "10"
             },
             "0403": {
                 "capacity": "22",
@@ -42738,7 +43186,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 1:00pm 2:15pm",
-                "open-seats": "20"
+                "open-seats": "11"
             },
             "0404": {
                 "capacity": "22",
@@ -42746,7 +43194,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 5:00pm 6:15pm",
-                "open-seats": "19"
+                "open-seats": "17"
             },
             "0405": {
                 "capacity": "22",
@@ -42754,7 +43202,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 12:30pm 1:45pm",
-                "open-seats": "17"
+                "open-seats": "8"
             },
             "0406": {
                 "capacity": "22",
@@ -42776,23 +43224,23 @@ let catalog = [
                 "lab-time": "F 9:00am 9:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 9:00am 9:50am",
-                "open-seats": "4"
+                "open-seats": "0"
             },
             "0102": {
-                "capacity": "20",
+                "capacity": "18",
                 "instructor": "Richard Bell",
                 "lab-time": "F 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 9:00am 9:50am",
-                "open-seats": "18"
+                "open-seats": "12"
             },
             "0103": {
-                "capacity": "20",
+                "capacity": "18",
                 "instructor": "Richard Bell",
                 "lab-time": "F 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 9:00am 9:50am",
-                "open-seats": "16"
+                "open-seats": "9"
             }
         }
     },
@@ -42806,7 +43254,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "10"
+                "open-seats": "3"
             },
             "0201": {
                 "capacity": "20",
@@ -42814,7 +43262,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "11"
+                "open-seats": "10"
             }
         }
     },
@@ -42828,7 +43276,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 4:00pm 6:30pm",
-                "open-seats": "11"
+                "open-seats": "10"
             }
         }
     },
@@ -42840,9 +43288,9 @@ let catalog = [
                 "capacity": "20",
                 "instructor": "Jeffrey Hollingsworth",
                 "lab-time": null,
-                "learning-mode": "online",
+                "learning-mode": "in person",
                 "lecture-time": "Tu 4:00pm 6:30pm",
-                "open-seats": "4"
+                "open-seats": "0"
             }
         }
     },
@@ -42870,7 +43318,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "1"
+                "open-seats": "0"
             }
         }
     },
@@ -42884,7 +43332,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:15pm",
-                "open-seats": "18"
+                "open-seats": "2"
             }
         }
     },
@@ -42898,7 +43346,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "19"
+                "open-seats": "17"
             },
             "0201": {
                 "capacity": "20",
@@ -42906,7 +43354,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "17"
+                "open-seats": "16"
             }
         }
     },
@@ -42920,7 +43368,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "8"
+                "open-seats": "3"
             }
         }
     },
@@ -42948,7 +43396,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "15"
+                "open-seats": "13"
             },
             "0201": {
                 "capacity": "20",
@@ -42956,7 +43404,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "9"
+                "open-seats": "8"
             }
         }
     },
@@ -42970,7 +43418,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "4"
+                "open-seats": "0"
             }
         }
     },
@@ -42998,7 +43446,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 9:00am 11:30am",
-                "open-seats": "1"
+                "open-seats": "2"
             }
         }
     },
@@ -43094,6 +43542,34 @@ let catalog = [
             }
         }
     },
+    "HONR238C": {
+        "course-name": "The Future of Energy and Climate Policy",
+        "department": "HONR",
+        "sections": {
+            "0101": {
+                "capacity": "25",
+                "instructor": "Tyson Slocum",
+                "lab-time": null,
+                "learning-mode": "in person",
+                "lecture-time": "W 3:00pm 5:30pm",
+                "open-seats": "1"
+            }
+        }
+    },
+    "HONR238R": {
+        "course-name": "Honors Seminar: Terrorism",
+        "department": "HONR",
+        "sections": {
+            "0101": {
+                "capacity": "20",
+                "instructor": "Howard Smead",
+                "lab-time": null,
+                "learning-mode": "in person",
+                "lecture-time": "M 4:00pm 6:30pm",
+                "open-seats": "0"
+            }
+        }
+    },
     "HONR248J": {
         "course-name": "Honors Seminar; A Most Human Nation",
         "department": "HONR",
@@ -43150,6 +43626,20 @@ let catalog = [
             }
         }
     },
+    "HONR258O": {
+        "course-name": "Honors Seminar; The Kinesiological Bases of Skilled Performance",
+        "department": "HONR",
+        "sections": {
+            "0101": {
+                "capacity": "20",
+                "instructor": "Seppo Iso-Ahola",
+                "lab-time": null,
+                "learning-mode": "in person",
+                "lecture-time": "TuTh 2:00pm 3:15pm",
+                "open-seats": "7"
+            }
+        }
+    },
     "HONR259C": {
         "course-name": "Honors Seminar: Fearfully Great Lizards: Topics in Dinosaur Research",
         "department": "HONR",
@@ -43188,7 +43678,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 12:15pm",
-                "open-seats": "11"
+                "open-seats": "10"
             }
         }
     },
@@ -43374,6 +43864,20 @@ let catalog = [
             }
         }
     },
+    "HONR348J": {
+        "course-name": "Advanced Honors Seminar; Contemporary Social Issues",
+        "department": "HONR",
+        "sections": {
+            "0101": {
+                "capacity": "20",
+                "instructor": "Howard Smead",
+                "lab-time": null,
+                "learning-mode": "in person",
+                "lecture-time": "W 4:00pm 6:30pm",
+                "open-seats": "0"
+            }
+        }
+    },
     "HONR368A": {
         "course-name": "Advanced Honors Seminar; MGA Legislative Seminar",
         "department": "HONR",
@@ -43436,7 +43940,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "20",
-                "instructor": "Jonathan Margolis",
+                "instructor": "Griffin Thompson",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 5:30pm 8:30pm",
@@ -43464,7 +43968,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "20",
-                "instructor": "John Dermody",
+                "instructor": "Casie Kagalis",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 6:00pm 9:00pm",
@@ -43520,11 +44024,11 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "20",
-                "instructor": "Mira Azarm",
+                "instructor": "Brooke Smith",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 12:00pm 1:30pm",
-                "open-seats": "17"
+                "open-seats": "18"
             }
         }
     },
@@ -43596,7 +44100,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 11:00am 11:50am",
-                "open-seats": "1"
+                "open-seats": "0"
             }
         }
     },
@@ -43646,7 +44150,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "3"
+                "open-seats": "2"
             }
         }
     },
@@ -43926,7 +44430,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "20"
+                "open-seats": "19"
             }
         }
     },
@@ -43982,7 +44486,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "M 6:00pm 8:45pm",
-                "open-seats": "34"
+                "open-seats": "35"
             }
         }
     },
@@ -44068,7 +44572,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "38"
+                "open-seats": "37"
             }
         }
     },
@@ -44090,7 +44594,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "0103": {
                 "capacity": "29",
@@ -44130,7 +44634,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0301": {
                 "capacity": "30",
@@ -44164,7 +44668,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "30",
-                "instructor": "Donal Heidenblad",
+                "instructor": "Betzalel Moskowitz",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
@@ -44244,7 +44748,7 @@ let catalog = [
                 "lab-time": "F 3:00pm 3:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 1:00pm 1:50pm",
-                "open-seats": "10"
+                "open-seats": "8"
             }
         }
     },
@@ -44550,7 +45054,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "4"
+                "open-seats": "3"
             },
             "0104": {
                 "capacity": "54",
@@ -44714,7 +45218,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "23"
+                "open-seats": "22"
             }
         }
     },
@@ -44772,7 +45276,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "2"
+                "open-seats": "1"
             }
         }
     },
@@ -44910,7 +45414,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "1"
+                "open-seats": "0"
             }
         }
     },
@@ -44966,7 +45470,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "16"
+                "open-seats": "14"
             }
         }
     },
@@ -45050,7 +45554,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "10"
+                "open-seats": "9"
             }
         }
     },
@@ -45064,7 +45568,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "13"
+                "open-seats": "12"
             }
         }
     },
@@ -45122,7 +45626,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "33"
+                "open-seats": "34"
             }
         }
     },
@@ -45164,7 +45668,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 6:00pm 8:45pm",
-                "open-seats": "10"
+                "open-seats": "9"
             }
         }
     },
@@ -45596,7 +46100,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "15",
-                "instructor": "Takehiro Iizuka",
+                "instructor": "Makiko Inoue",
                 "lab-time": "TuTh 9:30am 10:45am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
@@ -45616,7 +46120,7 @@ let catalog = [
                 "lab-time": "TuTh 2:00pm 3:15pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 2:00pm 2:50pm",
-                "open-seats": "2"
+                "open-seats": "0"
             }
         }
     },
@@ -45688,7 +46192,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "12"
+                "open-seats": "11"
             }
         }
     },
@@ -45730,7 +46234,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "8"
+                "open-seats": "7"
             }
         }
     },
@@ -45768,7 +46272,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 7:30pm 8:45pm",
-                "open-seats": "1"
+                "open-seats": "0"
             }
         }
     },
@@ -45798,7 +46302,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "7"
+                "open-seats": "6"
             },
             "0401": {
                 "capacity": "35",
@@ -45850,7 +46354,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "23"
+                "open-seats": "24"
             },
             "0103": {
                 "capacity": "80",
@@ -45872,7 +46376,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 3:00pm 3:50pm",
-                "open-seats": "84"
+                "open-seats": "83"
             },
             "0201": {
                 "capacity": "70",
@@ -45880,7 +46384,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 11:00am 11:50am",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "FC01": {
                 "capacity": "20",
@@ -45916,7 +46420,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 9:30am 10:45am",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0301": {
                 "capacity": "30",
@@ -46028,7 +46532,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "17"
+                "open-seats": "18"
             }
         }
     },
@@ -46050,7 +46554,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "6"
+                "open-seats": "2"
             }
         }
     },
@@ -46064,7 +46568,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 12:15pm",
-                "open-seats": "7"
+                "open-seats": "6"
             }
         }
     },
@@ -47048,7 +47552,7 @@ let catalog = [
                 "lab-time": "W 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 11:50am",
-                "open-seats": "4"
+                "open-seats": "3"
             },
             "0102": {
                 "capacity": "24",
@@ -47064,7 +47568,7 @@ let catalog = [
                 "lab-time": "Th 12:30pm 1:20pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 11:50am",
-                "open-seats": "4"
+                "open-seats": "2"
             }
         }
     },
@@ -47172,7 +47676,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 4:00pm 5:15pm",
-                "open-seats": "21"
+                "open-seats": "22"
             }
         }
     },
@@ -47186,7 +47690,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:15pm",
-                "open-seats": "23"
+                "open-seats": "22"
             }
         }
     },
@@ -47199,7 +47703,7 @@ let catalog = [
                 "instructor": "Charles Manekin",
                 "lab-time": null,
                 "learning-mode": "online",
-                "lecture-time": "MW 3:30pm 4:45pm",
+                "lecture-time": "M 3:30pm 4:45pm",
                 "open-seats": "18"
             }
         }
@@ -47213,7 +47717,7 @@ let catalog = [
                 "instructor": "Charles Manekin",
                 "lab-time": null,
                 "learning-mode": "online",
-                "lecture-time": "MW 2:00pm 3:15pm",
+                "lecture-time": "M 2:00pm 3:15pm",
                 "open-seats": "20"
             }
         }
@@ -47242,7 +47746,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0102": {
                 "capacity": "30",
@@ -47258,7 +47762,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "27"
+                "open-seats": "22"
             },
             "0104": {
                 "capacity": "30",
@@ -47328,7 +47832,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "5"
+                "open-seats": "2"
             },
             "0107": {
                 "capacity": "30",
@@ -47336,7 +47840,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "10"
+                "open-seats": "8"
             },
             "0108": {
                 "capacity": "30",
@@ -47352,7 +47856,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "28"
+                "open-seats": "27"
             },
             "0110": {
                 "capacity": "30",
@@ -47490,7 +47994,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0103": {
                 "capacity": "30",
@@ -47506,7 +48010,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "18"
+                "open-seats": "17"
             },
             "0105": {
                 "capacity": "30",
@@ -47634,7 +48138,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 8:00am 9:50am",
-                "open-seats": "10"
+                "open-seats": "11"
             }
         }
     },
@@ -47686,7 +48190,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:30am",
-                "open-seats": "19"
+                "open-seats": "20"
             }
         }
     },
@@ -47828,7 +48332,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "22"
+                "open-seats": "21"
             }
         }
     },
@@ -48170,7 +48674,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 3:30pm 4:45pm",
-                "open-seats": "7"
+                "open-seats": "6"
             }
         }
     },
@@ -48212,7 +48716,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 2:00pm 4:30pm",
-                "open-seats": "17"
+                "open-seats": "16"
             }
         }
     },
@@ -48566,7 +49070,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "M 4:00pm 6:35pm",
-                "open-seats": "0"
+                "open-seats": "1"
             }
         }
     },
@@ -48594,7 +49098,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "12"
+                "open-seats": "11"
             }
         }
     },
@@ -48608,7 +49112,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 4:00pm 6:30pm",
-                "open-seats": "9"
+                "open-seats": "10"
             }
         }
     },
@@ -48630,7 +49134,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 2:00pm 2:50pm",
-                "open-seats": "3"
+                "open-seats": "2"
             }
         }
     },
@@ -48702,7 +49206,7 @@ let catalog = [
                 "lab-time": "M 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 11:50am",
-                "open-seats": "18"
+                "open-seats": "17"
             },
             "0103": {
                 "capacity": "30",
@@ -48742,7 +49246,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 7:30pm 8:45pm",
-                "open-seats": "6"
+                "open-seats": "5"
             }
         }
     },
@@ -48804,7 +49308,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 6:00pm 7:15pm",
-                "open-seats": "13"
+                "open-seats": "12"
             }
         }
     },
@@ -48966,7 +49470,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
-                "open-seats": "4"
+                "open-seats": "1"
             }
         }
     },
@@ -48980,7 +49484,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
-                "open-seats": "14"
+                "open-seats": "13"
             }
         }
     },
@@ -49114,7 +49618,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "1"
+                "open-seats": "0"
             }
         }
     },
@@ -49136,7 +49640,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "9"
+                "open-seats": "7"
             }
         }
     },
@@ -49328,7 +49832,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "0"
+                "open-seats": "1"
             }
         }
     },
@@ -49460,7 +49964,7 @@ let catalog = [
                 "lab-time": "F 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 1:00pm 1:50pm",
-                "open-seats": "10"
+                "open-seats": "8"
             }
         }
     },
@@ -49833,36 +50337,36 @@ let catalog = [
         "department": "MATH",
         "sections": {
             "0101": {
-                "capacity": "19",
+                "capacity": "29",
                 "instructor": "Instructor: TBA",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "0"
+                "open-seats": "10"
             },
             "0201": {
-                "capacity": "19",
+                "capacity": "29",
                 "instructor": "Instructor: TBA",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 12:00pm 12:50pm",
-                "open-seats": "2"
+                "open-seats": "12"
             },
             "0301": {
-                "capacity": "19",
+                "capacity": "29",
                 "instructor": "Instructor: TBA",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "1"
+                "open-seats": "11"
             },
             "0401": {
-                "capacity": "19",
+                "capacity": "29",
                 "instructor": "Instructor: TBA",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 2:00pm 2:50pm",
-                "open-seats": "2"
+                "open-seats": "12"
             },
             "FC01": {
                 "capacity": "25",
@@ -49879,84 +50383,84 @@ let catalog = [
         "department": "MATH",
         "sections": {
             "0101": {
-                "capacity": "26",
+                "capacity": "28",
                 "instructor": "Instructor: TBA",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0102": {
-                "capacity": "26",
+                "capacity": "28",
                 "instructor": "Instructor: TBA",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "0"
+                "open-seats": "3"
             },
             "0103": {
-                "capacity": "26",
+                "capacity": "28",
                 "instructor": "Instructor: TBA",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "10"
+                "open-seats": "9"
             },
             "0201": {
-                "capacity": "26",
+                "capacity": "28",
                 "instructor": "Instructor: TBA",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "1"
+                "open-seats": "2"
             },
             "0202": {
-                "capacity": "26",
+                "capacity": "28",
                 "instructor": "Instructor: TBA",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0203": {
-                "capacity": "26",
+                "capacity": "28",
                 "instructor": "Instructor: TBA",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0301": {
-                "capacity": "26",
+                "capacity": "28",
                 "instructor": "Instructor: TBA",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 3:00pm 3:50pm",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0302": {
-                "capacity": "26",
+                "capacity": "28",
                 "instructor": "Instructor: TBA",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 3:00pm 3:50pm",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0401": {
-                "capacity": "26",
+                "capacity": "28",
                 "instructor": "Instructor: TBA",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 4:00pm 4:50pm",
-                "open-seats": "10"
+                "open-seats": "12"
             },
             "0402": {
-                "capacity": "26",
+                "capacity": "28",
                 "instructor": "Instructor: TBA",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 4:00pm 4:50pm",
-                "open-seats": "21"
+                "open-seats": "23"
             },
             "FC01": {
                 "capacity": "25",
@@ -49964,7 +50468,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 4:30pm 5:45pm",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "FC02": {
                 "capacity": "25",
@@ -49972,7 +50476,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 4:30pm 5:45pm",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "FC03": {
                 "capacity": "25",
@@ -49988,7 +50492,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 6:00pm 7:15pm",
-                "open-seats": "3"
+                "open-seats": "2"
             },
             "FC05": {
                 "capacity": "25",
@@ -50034,7 +50538,7 @@ let catalog = [
                 "lab-time": "MWF 12:00pm 12:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0141": {
                 "capacity": "19",
@@ -50058,7 +50562,7 @@ let catalog = [
                 "lab-time": "MWF 3:00pm 3:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "7"
+                "open-seats": "5"
             },
             "0171": {
                 "capacity": "19",
@@ -50082,7 +50586,7 @@ let catalog = [
                 "lab-time": "TuTh 12:30pm 1:45pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0192": {
                 "capacity": "19",
@@ -50090,7 +50594,7 @@ let catalog = [
                 "lab-time": "TuTh 2:00pm 3:15pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "FC01": {
                 "capacity": "25",
@@ -50098,7 +50602,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 3:00pm 4:15pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "FC02": {
                 "capacity": "25",
@@ -50122,7 +50626,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 4:30pm 5:45pm",
-                "open-seats": "5"
+                "open-seats": "4"
             }
         }
     },
@@ -50144,7 +50648,7 @@ let catalog = [
                 "lab-time": "Th 8:00am 8:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "13"
+                "open-seats": "10"
             },
             "0121": {
                 "capacity": "21",
@@ -50176,7 +50680,7 @@ let catalog = [
                 "lab-time": "Th 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "8"
+                "open-seats": "5"
             },
             "0141": {
                 "capacity": "21",
@@ -50404,7 +50908,7 @@ let catalog = [
                 "lab-time": "WF 8:00am 8:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "0"
+                "open-seats": "3"
             },
             "0112": {
                 "capacity": "20",
@@ -50412,7 +50916,7 @@ let catalog = [
                 "lab-time": "WF 8:00am 8:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "14"
+                "open-seats": "12"
             },
             "0121": {
                 "capacity": "25",
@@ -50420,7 +50924,7 @@ let catalog = [
                 "lab-time": "WF 9:00am 9:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0122": {
                 "capacity": "20",
@@ -50444,7 +50948,7 @@ let catalog = [
                 "lab-time": "WF 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "2"
+                "open-seats": "0"
             },
             "0141": {
                 "capacity": "25",
@@ -50460,7 +50964,7 @@ let catalog = [
                 "lab-time": "WF 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "13"
+                "open-seats": "1"
             },
             "0211": {
                 "capacity": "18",
@@ -50468,7 +50972,7 @@ let catalog = [
                 "lab-time": "MW 8:00am 8:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "0212": {
                 "capacity": "20",
@@ -50632,7 +51136,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "214"
+                "open-seats": "211"
             }
         }
     },
@@ -50956,7 +51460,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 4:00pm 5:30pm",
-                "open-seats": "11"
+                "open-seats": "10"
             }
         }
     },
@@ -50965,12 +51469,12 @@ let catalog = [
         "department": "MATH",
         "sections": {
             "0101": {
-                "capacity": "20",
+                "capacity": "25",
                 "instructor": "Niranjan Ramachandran",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 4:00pm 4:50pm",
-                "open-seats": "0"
+                "open-seats": "5"
             }
         }
     },
@@ -50984,7 +51488,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 1:00pm 1:50pm",
-                "open-seats": "8"
+                "open-seats": "5"
             }
         }
     },
@@ -51081,7 +51585,7 @@ let catalog = [
         "department": "MATH",
         "sections": {
             "0101": {
-                "capacity": "33",
+                "capacity": "35",
                 "instructor": "Instructor: TBA",
                 "lab-time": null,
                 "learning-mode": "online",
@@ -51089,44 +51593,44 @@ let catalog = [
                 "open-seats": "0"
             },
             "0201": {
-                "capacity": "33",
+                "capacity": "35",
                 "instructor": "Allan Yashinski",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "0"
+                "open-seats": "3"
             },
             "0301": {
-                "capacity": "33",
+                "capacity": "35",
                 "instructor": "Katerina Velcheva",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0401": {
-                "capacity": "32",
+                "capacity": "35",
                 "instructor": "Zehua Zhao",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 2:00pm 2:50pm",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0501": {
-                "capacity": "32",
+                "capacity": "35",
                 "instructor": "Michael Jakobson",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "3"
+                "open-seats": "7"
             },
             "0601": {
-                "capacity": "32",
+                "capacity": "35",
                 "instructor": "Ricardo Nochetto",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "0"
+                "open-seats": "3"
             }
         }
     },
@@ -51162,7 +51666,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 12:00pm 12:50pm",
-                "open-seats": "1"
+                "open-seats": "0"
             }
         }
     },
@@ -51252,7 +51756,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "4"
+                "open-seats": "3"
             },
             "0501": {
                 "capacity": "32",
@@ -51299,12 +51803,12 @@ let catalog = [
         "department": "MATH",
         "sections": {
             "0101": {
-                "capacity": "20",
+                "capacity": "25",
                 "instructor": "Wojciech Czaja",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "0"
+                "open-seats": "5"
             }
         }
     },
@@ -51360,7 +51864,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "3"
+                "open-seats": "2"
             }
         }
     },
@@ -51454,7 +51958,7 @@ let catalog = [
                 "lab-time": "Tu 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0122": {
                 "capacity": "25",
@@ -51462,7 +51966,7 @@ let catalog = [
                 "lab-time": "Tu 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0131": {
                 "capacity": "25",
@@ -51508,7 +52012,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "6"
+                "open-seats": "5"
             }
         }
     },
@@ -51572,7 +52076,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "10"
+                "open-seats": "9"
             }
         }
     },
@@ -51698,7 +52202,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "5"
+                "open-seats": "6"
             }
         }
     },
@@ -51712,7 +52216,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "14"
+                "open-seats": "12"
             }
         }
     },
@@ -51806,7 +52310,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "20",
-                "instructor": "Hongsheng Bi",
+                "instructor": "Lawrence Sanford",
                 "lab-time": "F 11:00am 11:50am",
                 "learning-mode": "in person",
                 "lecture-time": "TuTh 9:30am 10:50am",
@@ -51848,7 +52352,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "20",
-                "instructor": "Eric Schott",
+                "instructor": "Colleen Burge",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 8:30am 9:30am",
@@ -51890,7 +52394,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "20",
-                "instructor": "Matthew Fitzpatrick",
+                "instructor": "Helen Olde",
                 "lab-time": "F 3:00pm 3:50pm",
                 "learning-mode": "in person",
                 "lecture-time": "TuTh 12:30pm 1:50pm",
@@ -51974,7 +52478,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "20",
-                "instructor": "Genevieve Nesslage",
+                "instructor": "Michael Wilberg",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:30pm",
@@ -52180,7 +52684,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 2:00pm 4:45pm",
-                "open-seats": "9"
+                "open-seats": "8"
             }
         }
     },
@@ -52194,7 +52698,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 12:00pm 1:00pm",
-                "open-seats": "9"
+                "open-seats": "8"
             }
         }
     },
@@ -52236,7 +52740,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 1:30pm 4:15pm",
-                "open-seats": "9"
+                "open-seats": "8"
             }
         }
     },
@@ -52250,7 +52754,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 1:30pm 3:30pm",
-                "open-seats": "11"
+                "open-seats": "10"
             }
         }
     },
@@ -52300,7 +52804,7 @@ let catalog = [
                 "lab-time": "F 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 11:50am",
-                "open-seats": "5"
+                "open-seats": "4"
             },
             "0103": {
                 "capacity": "27",
@@ -52308,7 +52812,7 @@ let catalog = [
                 "lab-time": "F 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 11:50am",
-                "open-seats": "0"
+                "open-seats": "1"
             }
         }
     },
@@ -52456,7 +52960,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 6:00pm 9:30pm",
-                "open-seats": "25"
+                "open-seats": "24"
             }
         }
     },
@@ -52470,7 +52974,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 6:00pm 9:30pm",
-                "open-seats": "33"
+                "open-seats": "32"
             }
         }
     },
@@ -52852,7 +53356,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "19"
+                "open-seats": "18"
             },
             "0701": {
                 "capacity": "5",
@@ -52874,7 +53378,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "Th 7:00pm 8:30pm",
-                "open-seats": "14"
+                "open-seats": "13"
             }
         }
     },
@@ -52944,7 +53448,7 @@ let catalog = [
                 "lab-time": "F 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 11:50am",
-                "open-seats": "5"
+                "open-seats": "3"
             },
             "0102": {
                 "capacity": "13",
@@ -52990,7 +53494,7 @@ let catalog = [
                 "lab-time": "TuTh 8:25am 9:15am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 8:00am 8:50am",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0102": {
                 "capacity": "8",
@@ -53208,7 +53712,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "18"
+                "open-seats": "16"
             },
             "0111": {
                 "capacity": "20",
@@ -53490,7 +53994,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "MWF 11:00am 12:30pm",
-                "open-seats": "29"
+                "open-seats": "26"
             }
         }
     },
@@ -53504,7 +54008,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "MWF 3:00pm 5:00pm",
-                "open-seats": "150"
+                "open-seats": "151"
             },
             "FC01": {
                 "capacity": "10",
@@ -53522,7 +54026,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "300",
-                "instructor": "Andrea Brown",
+                "instructor": "Craig Potter",
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "Tu 7:00pm 9:00pm",
@@ -53548,7 +54052,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "TuTh 7:00pm 9:00pm",
-                "open-seats": "47"
+                "open-seats": "48"
             },
             "FC01": {
                 "capacity": "10",
@@ -53644,7 +54148,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "W 7:30pm 9:30pm",
-                "open-seats": "64"
+                "open-seats": "66"
             },
             "FC01": {
                 "capacity": "10",
@@ -53758,7 +54262,7 @@ let catalog = [
                 "lab-time": "F 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 1:00pm 1:50pm",
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "0103": {
                 "capacity": "20",
@@ -53784,7 +54288,7 @@ let catalog = [
             },
             "FC01": {
                 "capacity": "10",
-                "instructor": "Amy Broadbent",
+                "instructor": "Matthew Goinz",
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "TuTh 4:30pm 6:00pm",
@@ -53888,7 +54392,7 @@ let catalog = [
                 "lab-time": "F 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 2:50pm",
-                "open-seats": "9"
+                "open-seats": "10"
             },
             "0102": {
                 "capacity": "25",
@@ -54016,7 +54520,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 7:30pm 9:30pm",
-                "open-seats": "4"
+                "open-seats": "3"
             }
         }
     },
@@ -54086,7 +54590,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0201": {
                 "capacity": "13",
@@ -54162,7 +54666,7 @@ let catalog = [
                 "capacity": "10",
                 "instructor": "Craig Kier",
                 "lab-time": null,
-                "learning-mode": "online",
+                "learning-mode": "in person",
                 "lecture-time": null,
                 "open-seats": "10"
             }
@@ -54176,7 +54680,7 @@ let catalog = [
                 "capacity": "10",
                 "instructor": "Craig Kier",
                 "lab-time": null,
-                "learning-mode": "online",
+                "learning-mode": "in person",
                 "lecture-time": null,
                 "open-seats": "2"
             }
@@ -54540,7 +55044,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 7:30pm 9:30pm",
-                "open-seats": "4"
+                "open-seats": "3"
             }
         }
     },
@@ -55030,7 +55534,7 @@ let catalog = [
                 "capacity": "20",
                 "instructor": "Luiz Pessoa",
                 "lab-time": null,
-                "learning-mode": "in person",
+                "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
                 "open-seats": "0"
             }
@@ -55074,7 +55578,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "26"
+                "open-seats": "24"
             }
         }
     },
@@ -55106,7 +55610,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "150",
-                "instructor": "Nathaniel Kaine",
+                "instructor": "Michael O'Hara",
                 "lab-time": "Th 6:00am 7:50am",
                 "learning-mode": "in person",
                 "lecture-time": "Th 6:00am 7:50am",
@@ -55114,7 +55618,7 @@ let catalog = [
             },
             "FC01": {
                 "capacity": "10",
-                "instructor": "Nathaniel Kaine",
+                "instructor": "Troy Mong",
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "Th 6:00am 7:50am",
@@ -55296,7 +55800,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 11:00am 11:50am",
-                "open-seats": "1"
+                "open-seats": "2"
             },
             "0115": {
                 "capacity": "25",
@@ -55304,7 +55808,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 12:00pm 12:50pm",
-                "open-seats": "15"
+                "open-seats": "14"
             },
             "FC01": {
                 "capacity": "24",
@@ -55312,11 +55816,11 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 11:30am 12:20pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "FC02": {
                 "capacity": "24",
-                "instructor": "Nadine Sahyoun",
+                "instructor": "Hee-Jung Song",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 1:00pm 1:50pm",
@@ -55352,11 +55856,11 @@ let catalog = [
             },
             "0102": {
                 "capacity": "30",
-                "instructor": "Abani Pradhan",
+                "instructor": "Qin Wang",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 4:00pm 4:50pm",
-                "open-seats": "19"
+                "open-seats": "17"
             },
             "0103": {
                 "capacity": "30",
@@ -55376,15 +55880,15 @@ let catalog = [
             },
             "0105": {
                 "capacity": "30",
-                "instructor": "Qin Wang",
+                "instructor": "Abani Pradhan",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 2:00pm 2:50pm",
-                "open-seats": "10"
+                "open-seats": "9"
             },
             "0106": {
                 "capacity": "30",
-                "instructor": "Abani Pradhan",
+                "instructor": "Qin Wang",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 3:00pm 3:50pm",
@@ -55392,7 +55896,7 @@ let catalog = [
             },
             "FC01": {
                 "capacity": "24",
-                "instructor": "Qin Wang",
+                "instructor": "Abani Pradhan",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 3:00pm 3:50pm",
@@ -55410,7 +55914,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 12:00pm 12:50pm",
-                "open-seats": "7"
+                "open-seats": "4"
             }
         }
     },
@@ -55728,7 +56232,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "20",
-                "instructor": "Paul Turner",
+                "instructor": "Robert Buchanan",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 1:00pm 3:45pm",
@@ -55756,7 +56260,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "15",
-                "instructor": "Rajan Parikh",
+                "instructor": "Laura Widener",
                 "lab-time": "W 4:00pm 6:00pm",
                 "learning-mode": "online",
                 "lecture-time": "M 4:00pm 5:00pm",
@@ -55798,7 +56302,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "10",
-                "instructor": "Jaclyn Webber",
+                "instructor": "Rajan Parikh",
                 "lab-time": "W 5:15pm 6:15pm",
                 "learning-mode": "online",
                 "lecture-time": "M 5:15pm 6:45pm",
@@ -56054,7 +56558,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "0"
+                "open-seats": "1"
             }
         }
     },
@@ -56084,7 +56588,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 1:00pm 1:50pm",
-                "open-seats": "2"
+                "open-seats": "0"
             },
             "0201": {
                 "capacity": "23",
@@ -56132,7 +56636,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 1:00pm 1:50pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "FC02": {
                 "capacity": "28",
@@ -56140,7 +56644,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 6:00pm 7:15pm",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "FC03": {
                 "capacity": "28",
@@ -56194,7 +56698,7 @@ let catalog = [
                 "lab-time": "F 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 11:50am",
-                "open-seats": "6"
+                "open-seats": "4"
             },
             "0105": {
                 "capacity": "25",
@@ -56224,7 +56728,7 @@ let catalog = [
                 "lab-time": "F 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:20pm",
-                "open-seats": "21"
+                "open-seats": "20"
             },
             "0102": {
                 "capacity": "25",
@@ -56262,7 +56766,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 11:00am 11:50am",
-                "open-seats": "1"
+                "open-seats": "2"
             },
             "0103": {
                 "capacity": "26",
@@ -56270,7 +56774,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 1:00pm 1:50pm",
-                "open-seats": "3"
+                "open-seats": "4"
             },
             "FCW1": {
                 "capacity": "24",
@@ -56292,7 +56796,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 10:00am 10:50am",
-                "open-seats": "6"
+                "open-seats": "4"
             },
             "0102": {
                 "capacity": "24",
@@ -56300,7 +56804,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 11:00am 11:50am",
-                "open-seats": "3"
+                "open-seats": "2"
             },
             "0103": {
                 "capacity": "24",
@@ -56316,7 +56820,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 10:00am 10:50am",
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "0105": {
                 "capacity": "24",
@@ -56346,7 +56850,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 10:00am 10:50am",
-                "open-seats": "4"
+                "open-seats": "3"
             },
             "0102": {
                 "capacity": "26",
@@ -56354,7 +56858,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 11:00am 11:50am",
-                "open-seats": "7"
+                "open-seats": "5"
             },
             "0103": {
                 "capacity": "26",
@@ -56378,7 +56882,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 11:00am 11:50am",
-                "open-seats": "8"
+                "open-seats": "7"
             },
             "0106": {
                 "capacity": "26",
@@ -56430,7 +56934,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 10:00am 10:50am",
-                "open-seats": "4"
+                "open-seats": "1"
             },
             "0102": {
                 "capacity": "25",
@@ -56438,7 +56942,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 11:00am 11:50am",
-                "open-seats": "4"
+                "open-seats": "2"
             },
             "0103": {
                 "capacity": "25",
@@ -56476,7 +56980,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 1:00pm 1:50pm",
-                "open-seats": "2"
+                "open-seats": "0"
             }
         }
     },
@@ -56504,7 +57008,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "12"
+                "open-seats": "11"
             }
         }
     },
@@ -56532,7 +57036,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "32"
+                "open-seats": "31"
             }
         }
     },
@@ -56590,7 +57094,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "3"
+                "open-seats": "2"
             }
         }
     },
@@ -56674,7 +57178,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "2"
+                "open-seats": "1"
             }
         }
     },
@@ -56701,7 +57205,7 @@ let catalog = [
                 "instructor": "Charles Manekin",
                 "lab-time": null,
                 "learning-mode": "online",
-                "lecture-time": "MW 2:00pm 3:15pm",
+                "lecture-time": "M 2:00pm 3:15pm",
                 "open-seats": "20"
             }
         }
@@ -56743,7 +57247,7 @@ let catalog = [
                 "instructor": "Charles Manekin",
                 "lab-time": null,
                 "learning-mode": "online",
-                "lecture-time": "MW 3:30pm 4:45pm",
+                "lecture-time": "M 3:30pm 4:45pm",
                 "open-seats": "18"
             }
         }
@@ -56912,7 +57416,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 5:00pm 7:30pm",
-                "open-seats": "19"
+                "open-seats": "17"
             }
         }
     },
@@ -57040,7 +57544,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "20"
+                "open-seats": "19"
             }
         }
     },
@@ -57070,7 +57574,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 10:00am 11:50am",
-                "open-seats": "3"
+                "open-seats": "4"
             },
             "0501": {
                 "capacity": "22",
@@ -57095,6 +57599,28 @@ let catalog = [
                 "learning-mode": "online",
                 "lecture-time": "W 1:00pm 2:50pm",
                 "open-seats": "0"
+            }
+        }
+    },
+    "PHYS105": {
+        "course-name": "A Global Challenge: Energy and Climate Change",
+        "department": "PHYS",
+        "sections": {
+            "0102": {
+                "capacity": "30",
+                "instructor": "Jordan Goodman",
+                "lab-time": "M 1:00pm 1:50pm",
+                "learning-mode": "online",
+                "lecture-time": "TuTh 12:30pm 1:45pm",
+                "open-seats": "14"
+            },
+            "0104": {
+                "capacity": "30",
+                "instructor": "Jordan Goodman",
+                "lab-time": "F 12:00pm 12:50pm",
+                "learning-mode": "online",
+                "lecture-time": "TuTh 12:30pm 1:45pm",
+                "open-seats": "22"
             }
         }
     },
@@ -57178,7 +57704,7 @@ let catalog = [
                 "lab-time": "Th 6:30pm 7:20pm",
                 "learning-mode": "online",
                 "lecture-time": "Tu 7:00pm 8:50pm",
-                "open-seats": "9"
+                "open-seats": "7"
             },
             "0402": {
                 "capacity": "26",
@@ -57264,7 +57790,7 @@ let catalog = [
                 "lab-time": "M 7:30pm 9:20pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 6:00pm 7:15pm",
-                "open-seats": "2"
+                "open-seats": "3"
             }
         }
     },
@@ -57498,7 +58024,7 @@ let catalog = [
                 "lab-time": "Tu 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0203": {
                 "capacity": "30",
@@ -57506,7 +58032,7 @@ let catalog = [
                 "lab-time": "W 3:00pm 3:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "1"
+                "open-seats": "2"
             },
             "0204": {
                 "capacity": "30",
@@ -57514,7 +58040,7 @@ let catalog = [
                 "lab-time": "W 4:00pm 4:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "21"
+                "open-seats": "20"
             },
             "0301": {
                 "capacity": "30",
@@ -57522,7 +58048,7 @@ let catalog = [
                 "lab-time": "Th 3:00pm 3:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "14"
+                "open-seats": "13"
             },
             "0302": {
                 "capacity": "30",
@@ -57530,7 +58056,7 @@ let catalog = [
                 "lab-time": "Tu 4:00pm 4:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "21"
+                "open-seats": "20"
             },
             "0303": {
                 "capacity": "30",
@@ -57538,7 +58064,7 @@ let catalog = [
                 "lab-time": "W 12:00pm 12:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "6"
+                "open-seats": "4"
             },
             "0304": {
                 "capacity": "30",
@@ -57560,21 +58086,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 12:00pm 12:50pm",
-                "open-seats": "12"
-            }
-        }
-    },
-    "PHYS171": {
-        "course-name": "Introductory Physics: Mechanics and Relativity",
-        "department": "PHYS",
-        "sections": {
-            "Couldn't load data": {
-                "capacity": "?",
-                "instructor": "?",
-                "lab-time": "?",
-                "learning-mode": "?",
-                "lecture-time": "?",
-                "open-seats": "?"
+                "open-seats": "8"
             }
         }
     },
@@ -57582,13 +58094,13 @@ let catalog = [
         "course-name": "Introductory Physics: Mechanics and Relativity",
         "department": "PHYS",
         "sections": {
-            "Couldn't load data": {
-                "capacity": "?",
-                "instructor": "?",
-                "lab-time": "?",
-                "learning-mode": "?",
-                "lecture-time": "?",
-                "open-seats": "?"
+            "0201": {
+                "capacity": "55",
+                "instructor": "Kara Hoffman",
+                "lab-time": "Th 9:00am 9:50am",
+                "learning-mode": "online",
+                "lecture-time": "MWF 9:00am 9:50am",
+                "open-seats": "21"
             }
         }
     },
@@ -57684,7 +58196,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "M 4:30pm 6:50pm",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0205": {
                 "capacity": "36",
@@ -57692,7 +58204,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "M 7:00pm 9:20pm",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0206": {
                 "capacity": "36",
@@ -57732,7 +58244,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "Tu 7:00pm 9:20pm",
-                "open-seats": "18"
+                "open-seats": "17"
             },
             "0212": {
                 "capacity": "36",
@@ -57740,7 +58252,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "W 10:30am 12:50pm",
-                "open-seats": "13"
+                "open-seats": "12"
             },
             "0213": {
                 "capacity": "36",
@@ -57748,7 +58260,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "W 1:00pm 3:20pm",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0214": {
                 "capacity": "36",
@@ -57764,7 +58276,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "W 7:00pm 9:20pm",
-                "open-seats": "25"
+                "open-seats": "24"
             },
             "0216": {
                 "capacity": "36",
@@ -57796,7 +58308,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "Th 4:30pm 6:50pm",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0221": {
                 "capacity": "36",
@@ -57804,7 +58316,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "F 9:00am 11:20am",
-                "open-seats": "1"
+                "open-seats": "2"
             }
         }
     },
@@ -57818,7 +58330,7 @@ let catalog = [
                 "lab-time": "Th 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 5:00pm 6:15pm",
-                "open-seats": "15"
+                "open-seats": "16"
             },
             "0102": {
                 "capacity": "33",
@@ -57826,7 +58338,7 @@ let catalog = [
                 "lab-time": "Th 4:00pm 4:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 5:00pm 6:15pm",
-                "open-seats": "3"
+                "open-seats": "4"
             },
             "0103": {
                 "capacity": "33",
@@ -57834,7 +58346,7 @@ let catalog = [
                 "lab-time": "W 9:00am 9:50am",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 5:00pm 6:15pm",
-                "open-seats": "29"
+                "open-seats": "28"
             },
             "0301": {
                 "capacity": "34",
@@ -57858,7 +58370,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 2:00pm 2:50pm",
-                "open-seats": "7"
+                "open-seats": "6"
             },
             "0304": {
                 "capacity": "34",
@@ -57866,7 +58378,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 3:00pm 3:50pm",
-                "open-seats": "21"
+                "open-seats": "20"
             }
         }
     },
@@ -57896,7 +58408,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "W 4:00pm 6:50pm",
-                "open-seats": "4"
+                "open-seats": "3"
             },
             "0105": {
                 "capacity": "36",
@@ -57928,7 +58440,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "Th 2:00pm 4:50pm",
-                "open-seats": "15"
+                "open-seats": "13"
             }
         }
     },
@@ -57998,7 +58510,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "MWF 12:00pm 12:50pm",
-                "open-seats": "28"
+                "open-seats": "27"
             }
         }
     },
@@ -58094,35 +58606,11 @@ let catalog = [
         "course-name": "Experimental Physics III: Electromagnetic Waves, Optics and Modern Physics",
         "department": "PHYS",
         "sections": {
-            "0101": {
-                "capacity": "15",
-                "instructor": "Min Ouyang",
-                "lab-time": "M 3:00pm 5:50pm",
-                "learning-mode": "in person",
-                "lecture-time": "M 2:00pm 2:50pm",
-                "open-seats": "0"
-            },
-            "0102": {
-                "capacity": "15",
-                "instructor": "Min Ouyang",
-                "lab-time": "W 3:00pm 5:50pm",
-                "learning-mode": "in person",
-                "lecture-time": "M 2:00pm 2:50pm",
-                "open-seats": "0"
-            },
-            "0103": {
-                "capacity": "15",
-                "instructor": "Manuel Franco Sevilla",
-                "lab-time": "Tu 3:00pm 5:50pm",
-                "learning-mode": "in person",
-                "lecture-time": "M 2:00pm 2:50pm",
-                "open-seats": "5"
-            },
             "0104": {
                 "capacity": "15",
                 "instructor": "Manuel Franco Sevilla",
                 "lab-time": "Th 3:00pm 5:50pm",
-                "learning-mode": "in person",
+                "learning-mode": "online",
                 "lecture-time": "M 2:00pm 2:50pm",
                 "open-seats": "10"
             }
@@ -58338,20 +58826,6 @@ let catalog = [
             }
         }
     },
-    "PHYS685": {
-        "course-name": "Research Electronics",
-        "department": "PHYS",
-        "sections": {
-            "0102": {
-                "capacity": "18",
-                "instructor": "Daniel Lathrop",
-                "lab-time": "Tu 1:00pm 4:50pm",
-                "learning-mode": "in person",
-                "lecture-time": "MF 2:00pm 2:50pm",
-                "open-seats": "10"
-            }
-        }
-    },
     "PHYS709": {
         "course-name": "Seminar in General Physics; Statistical Physics",
         "department": "PHYS",
@@ -58484,11 +58958,11 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "25",
-                "instructor": "Daniel Serrano",
+                "instructor": "Michelle Girvan",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 12:15pm",
-                "open-seats": "19"
+                "open-seats": "15"
             }
         }
     },
@@ -58530,7 +59004,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 4:00pm 5:30pm",
-                "open-seats": "5"
+                "open-seats": "4"
             }
         }
     },
@@ -58580,7 +59054,7 @@ let catalog = [
                 "lab-time": "F 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "MW 1:00pm 1:50pm",
-                "open-seats": "14"
+                "open-seats": "13"
             },
             "0103": {
                 "capacity": "28",
@@ -58604,7 +59078,7 @@ let catalog = [
                 "lab-time": "F 12:00pm 12:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 2:50pm",
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "0202": {
                 "capacity": "28",
@@ -58740,7 +59214,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 3:00pm 5:30pm",
-                "open-seats": "11"
+                "open-seats": "10"
             }
         }
     },
@@ -58906,7 +59380,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 2:00pm 4:30pm",
-                "open-seats": "15"
+                "open-seats": "11"
             }
         }
     },
@@ -58956,7 +59430,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 2:00pm 4:30pm",
-                "open-seats": "10"
+                "open-seats": "9"
             }
         }
     },
@@ -58970,7 +59444,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 2:00pm 4:30pm",
-                "open-seats": "0"
+                "open-seats": "1"
             }
         }
     },
@@ -59026,7 +59500,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 3:00pm 5:30pm",
-                "open-seats": "24"
+                "open-seats": "21"
             }
         }
     },
@@ -59158,7 +59632,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 9:15am 11:45am",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0301": {
                 "capacity": "25",
@@ -59174,7 +59648,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 7:00pm 9:30pm",
-                "open-seats": "1"
+                "open-seats": "0"
             }
         }
     },
@@ -59336,11 +59810,11 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "30",
-                "instructor": "Douglas Call",
+                "instructor": "Douglas Besharov",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 4:15pm 6:45pm",
-                "open-seats": "22"
+                "open-seats": "21"
             }
         }
     },
@@ -59392,15 +59866,15 @@ let catalog = [
         "sections": {
             "0201": {
                 "capacity": "20",
-                "instructor": "Douglas Besharov",
+                "instructor": "Douglas Call",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 7:00pm 9:30pm",
-                "open-seats": "6"
+                "open-seats": "7"
             },
             "0211": {
                 "capacity": "20",
-                "instructor": "Douglas Call",
+                "instructor": "Douglas Besharov",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 7:00pm 9:30pm",
@@ -59450,7 +59924,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 7:00pm 9:30pm",
-                "open-seats": "14"
+                "open-seats": "13"
             },
             "0211": {
                 "capacity": "20",
@@ -59500,7 +59974,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "22",
-                "instructor": "Uri Dadush",
+                "instructor": "William Reinsch",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 9:15am 11:45am",
@@ -59658,7 +60132,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 4:15pm 6:45pm",
-                "open-seats": "14"
+                "open-seats": "13"
             }
         }
     },
@@ -59672,7 +60146,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 10:00am 10:50am",
-                "open-seats": "5"
+                "open-seats": "6"
             },
             "0102": {
                 "capacity": "21",
@@ -59728,15 +60202,15 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "47",
-                "instructor": "Shunyuan Xiao",
+                "instructor": "James Culver",
                 "lab-time": "Th 9:30am 10:45am",
                 "learning-mode": "online",
                 "lecture-time": "Tu 9:30am 10:45am",
-                "open-seats": "27"
+                "open-seats": "28"
             },
             "0102": {
                 "capacity": "46",
-                "instructor": "Shunyuan Xiao",
+                "instructor": "James Culver",
                 "lab-time": "Th 9:30am 10:45am",
                 "learning-mode": "online",
                 "lecture-time": "Tu 9:30am 10:45am",
@@ -60110,7 +60584,7 @@ let catalog = [
                 "lab-time": "F 12:00pm 12:50pm",
                 "learning-mode": "online",
                 "lecture-time": "Th 3:30pm 4:50pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0210": {
                 "capacity": "25",
@@ -60118,7 +60592,7 @@ let catalog = [
                 "lab-time": "F 3:00pm 3:50pm",
                 "learning-mode": "online",
                 "lecture-time": "Th 3:30pm 4:50pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "FC02": {
                 "capacity": "32",
@@ -60262,7 +60736,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "0201": {
                 "capacity": "135",
@@ -60946,7 +61420,7 @@ let catalog = [
                 "lab-time": "Th 12:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 2:50pm",
-                "open-seats": "6"
+                "open-seats": "7"
             }
         }
     },
@@ -61046,7 +61520,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "26"
+                "open-seats": "24"
             }
         }
     },
@@ -61060,7 +61534,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "4"
+                "open-seats": "3"
             }
         }
     },
@@ -61069,12 +61543,12 @@ let catalog = [
         "department": "PSYC",
         "sections": {
             "0101": {
-                "capacity": "16",
+                "capacity": "18",
                 "instructor": "Alison Robey",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "2"
+                "open-seats": "0"
             }
         }
     },
@@ -61088,7 +61562,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 5:00pm 8:30pm",
-                "open-seats": "14"
+                "open-seats": "13"
             }
         }
     },
@@ -61230,7 +61704,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "35"
+                "open-seats": "34"
             }
         }
     },
@@ -61294,7 +61768,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 5:00pm 8:30pm",
-                "open-seats": "22"
+                "open-seats": "21"
             }
         }
     },
@@ -61470,7 +61944,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 7:00pm 9:40pm",
-                "open-seats": "10"
+                "open-seats": "9"
             },
             "0102": {
                 "capacity": "10",
@@ -61694,7 +62168,7 @@ let catalog = [
                 "lab-time": "Th 12:30pm 1:20pm",
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 11:50am",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0106": {
                 "capacity": "21",
@@ -61718,7 +62192,7 @@ let catalog = [
                 "lab-time": "Th 9:30am 10:20am",
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 11:50am",
-                "open-seats": "12"
+                "open-seats": "13"
             }
         }
     },
@@ -61790,7 +62264,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "3"
+                "open-seats": "1"
             }
         }
     },
@@ -61846,7 +62320,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 4:00pm 5:15pm",
-                "open-seats": "21"
+                "open-seats": "22"
             }
         }
     },
@@ -61860,7 +62334,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
-                "open-seats": "14"
+                "open-seats": "13"
             }
         }
     },
@@ -61874,7 +62348,7 @@ let catalog = [
                 "lab-time": "TuTh 9:30am 10:45am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "9"
+                "open-seats": "7"
             },
             "0201": {
                 "capacity": "15",
@@ -61984,6 +62458,20 @@ let catalog = [
             }
         }
     },
+    "SLAA610": {
+        "course-name": "Research and Theories in Second Language Acquisition",
+        "department": "SLAA",
+        "sections": {
+            "0101": {
+                "capacity": "10",
+                "instructor": "Michael Long",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": "M 2:00pm 4:30pm",
+                "open-seats": "7"
+            }
+        }
+    },
     "SLAA611": {
         "course-name": "Fundamentals of Foreign Language Acquisition and Instruction",
         "department": "SLAA",
@@ -61995,6 +62483,34 @@ let catalog = [
                 "learning-mode": "online",
                 "lecture-time": "W 2:00pm 4:30pm",
                 "open-seats": "10"
+            }
+        }
+    },
+    "SLAA620": {
+        "course-name": "Second Language Research Methodologies",
+        "department": "SLAA",
+        "sections": {
+            "0101": {
+                "capacity": "15",
+                "instructor": "Steven Ross",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": "F 2:00pm 4:30pm",
+                "open-seats": "14"
+            }
+        }
+    },
+    "SLAA649R": {
+        "course-name": "Special Topics in Second Language Acquisition; Research Critique",
+        "department": "SLAA",
+        "sections": {
+            "0101": {
+                "capacity": "10",
+                "instructor": "Instructor: TBA",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": "Th 5:00pm 7:30pm",
+                "open-seats": "8"
             }
         }
     },
@@ -62022,6 +62538,34 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 2:00pm 4:30pm",
+                "open-seats": "7"
+            }
+        }
+    },
+    "SLAA754": {
+        "course-name": "Task-Based Language Teaching",
+        "department": "SLAA",
+        "sections": {
+            "0101": {
+                "capacity": "10",
+                "instructor": "Michael Long",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": "M 5:00pm 7:30pm",
+                "open-seats": "7"
+            }
+        }
+    },
+    "SLAA760": {
+        "course-name": "Fundamentals of Second Language Assessment",
+        "department": "SLAA",
+        "sections": {
+            "0101": {
+                "capacity": "10",
+                "instructor": "Steven Ross",
+                "lab-time": null,
+                "learning-mode": "online",
+                "lecture-time": "Tu 5:00pm 7:30pm",
                 "open-seats": "7"
             }
         }
@@ -62190,7 +62734,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 6:00pm 7:15pm",
-                "open-seats": "12"
+                "open-seats": "11"
             }
         }
     },
@@ -62228,7 +62772,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 4:00pm 5:50pm",
-                "open-seats": "9"
+                "open-seats": "8"
             },
             "0105": {
                 "capacity": "10",
@@ -62318,7 +62862,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:15pm",
-                "open-seats": "14"
+                "open-seats": "11"
             },
             "0401": {
                 "capacity": "81",
@@ -62326,7 +62870,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "10"
+                "open-seats": "6"
             },
             "FC01": {
                 "capacity": "30",
@@ -62370,7 +62914,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "65"
+                "open-seats": "66"
             },
             "0201": {
                 "capacity": "108",
@@ -62394,7 +62938,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 6:00pm 7:15pm",
-                "open-seats": "8"
+                "open-seats": "7"
             }
         }
     },
@@ -62454,7 +62998,7 @@ let catalog = [
                 "lab-time": "F 12:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "14"
+                "open-seats": "15"
             }
         }
     },
@@ -62490,7 +63034,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 12:00pm 12:50pm",
-                "open-seats": "13"
+                "open-seats": "10"
             }
         }
     },
@@ -62532,7 +63076,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "10"
+                "open-seats": "9"
             }
         }
     },
@@ -62574,7 +63118,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 11:00am 12:15pm",
-                "open-seats": "46"
+                "open-seats": "45"
             }
         }
     },
@@ -62630,7 +63174,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 2:00pm 3:15pm",
-                "open-seats": "4"
+                "open-seats": "3"
             }
         }
     },
@@ -63114,7 +63658,7 @@ let catalog = [
                 "lab-time": "Tu 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "7"
+                "open-seats": "6"
             },
             "0401": {
                 "capacity": "25",
@@ -63122,7 +63666,7 @@ let catalog = [
                 "lab-time": "Tu 1:00pm 1:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "0501": {
                 "capacity": "25",
@@ -63130,7 +63674,7 @@ let catalog = [
                 "lab-time": "Tu 2:00pm 2:50pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 2:00pm 2:50pm",
-                "open-seats": "13"
+                "open-seats": "14"
             }
         }
     },
@@ -63144,7 +63688,7 @@ let catalog = [
                 "lab-time": "Th 10:00am 10:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "3"
+                "open-seats": "2"
             },
             "0301": {
                 "capacity": "25",
@@ -63160,7 +63704,7 @@ let catalog = [
                 "lab-time": "Th 11:00am 11:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "4"
+                "open-seats": "5"
             },
             "0601": {
                 "capacity": "25",
@@ -63198,7 +63742,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "8"
+                "open-seats": "9"
             },
             "0201": {
                 "capacity": "25",
@@ -63206,7 +63750,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0301": {
                 "capacity": "25",
@@ -63250,7 +63794,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "3"
+                "open-seats": "1"
             },
             "0301": {
                 "capacity": "25",
@@ -63332,7 +63876,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "8"
+                "open-seats": "9"
             },
             "0201": {
                 "capacity": "20",
@@ -63348,7 +63892,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 12:00pm 12:50pm",
-                "open-seats": "7"
+                "open-seats": "6"
             },
             "0501": {
                 "capacity": "20",
@@ -63394,7 +63938,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0201": {
                 "capacity": "20",
@@ -63434,7 +63978,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "6"
+                "open-seats": "5"
             },
             "0701": {
                 "capacity": "20",
@@ -63442,7 +63986,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "0"
+                "open-seats": "1"
             }
         }
     },
@@ -63708,7 +64252,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 3:00pm 4:15pm",
-                "open-seats": "8"
+                "open-seats": "7"
             }
         }
     },
@@ -63722,7 +64266,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
-                "open-seats": "8"
+                "open-seats": "7"
             }
         }
     },
@@ -63754,20 +64298,6 @@ let catalog = [
             }
         }
     },
-    "SPAN605": {
-        "course-name": "Teaching Spanish I",
-        "department": "SPAN",
-        "sections": {
-            "0101": {
-                "capacity": "25",
-                "instructor": "Elisa Gironzetti",
-                "lab-time": null,
-                "learning-mode": "in person",
-                "lecture-time": "M 5:00pm 5:50pm",
-                "open-seats": "25"
-            }
-        }
-    },
     "SPAN625": {
         "course-name": "Introduction to Hispanic Linguistics I:Basic Concepts",
         "department": "SPAN",
@@ -63778,35 +64308,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 3:30pm 4:45pm",
-                "open-seats": "8"
-            }
-        }
-    },
-    "SPAN798O": {
-        "course-name": "Open Seminar; Literary and Critical Theory",
-        "department": "SPAN",
-        "sections": {
-            "0101": {
-                "capacity": "10",
-                "instructor": "Juan Carlos Quintero-Herencia",
-                "lab-time": null,
-                "learning-mode": "in person",
-                "lecture-time": "W 5:00pm 7:30pm",
                 "open-seats": "7"
-            }
-        }
-    },
-    "SPAN798U": {
-        "course-name": "Open Seminar; Borges",
-        "department": "SPAN",
-        "sections": {
-            "0101": {
-                "capacity": "10",
-                "instructor": "Saul Sosnowski",
-                "lab-time": null,
-                "learning-mode": "in person",
-                "lecture-time": "Th 5:00pm 7:30pm",
-                "open-seats": "6"
             }
         }
     },
@@ -64032,11 +64534,11 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 6:30pm 8:30pm",
-                "open-seats": "11"
+                "open-seats": "10"
             },
             "PLB1": {
                 "capacity": "10",
-                "instructor": "Dushanka Kleinman",
+                "instructor": "Luisa Franzini",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
@@ -64044,7 +64546,7 @@ let catalog = [
             },
             "PLH1": {
                 "capacity": "20",
-                "instructor": "Luisa Franzini",
+                "instructor": "Barbara Curbow",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
@@ -64060,7 +64562,7 @@ let catalog = [
             },
             "PWPB": {
                 "capacity": "5",
-                "instructor": "Luisa Franzini",
+                "instructor": "Dushanka Kleinman",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
@@ -64074,11 +64576,11 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "80",
-                "instructor": "Raul Cruz-Cano",
+                "instructor": "Typhanye Dyer",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 4:15pm 6:15pm",
-                "open-seats": "8"
+                "open-seats": "7"
             },
             "PLB1": {
                 "capacity": "10",
@@ -64090,7 +64592,7 @@ let catalog = [
             },
             "PLH1": {
                 "capacity": "20",
-                "instructor": "Raul Cruz-Cano",
+                "instructor": "Rodman Turpin",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
@@ -64106,7 +64608,7 @@ let catalog = [
             },
             "PWPB": {
                 "capacity": "5",
-                "instructor": "Rodman Turpin",
+                "instructor": "Raul Cruz-Cano",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
@@ -64148,7 +64650,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 7:30pm 8:30pm",
-                "open-seats": "11"
+                "open-seats": "10"
             },
             "PLB1": {
                 "capacity": "10",
@@ -64208,7 +64710,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 6:45pm 8:45pm",
-                "open-seats": "19"
+                "open-seats": "18"
             },
             "PLH1": {
                 "capacity": "30",
@@ -64225,15 +64727,15 @@ let catalog = [
         "department": "STAT",
         "sections": {
             "0111": {
-                "capacity": "25",
+                "capacity": "27",
                 "instructor": "Matthew Griffin",
                 "lab-time": "M 8:00am 9:15am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 12:00pm 12:50pm",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0112": {
-                "capacity": "25",
+                "capacity": "27",
                 "instructor": "Matthew Griffin",
                 "lab-time": "M 9:30am 10:45am",
                 "learning-mode": "online",
@@ -64241,23 +64743,23 @@ let catalog = [
                 "open-seats": "0"
             },
             "0121": {
-                "capacity": "25",
+                "capacity": "27",
                 "instructor": "Matthew Griffin",
                 "lab-time": "Tu 8:00am 9:15am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 12:00pm 12:50pm",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0122": {
-                "capacity": "25",
+                "capacity": "27",
                 "instructor": "Matthew Griffin",
                 "lab-time": "Tu 9:30am 10:45am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 12:00pm 12:50pm",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0123": {
-                "capacity": "25",
+                "capacity": "27",
                 "instructor": "Matthew Griffin",
                 "lab-time": "Tu 11:00am 12:15pm",
                 "learning-mode": "online",
@@ -64265,124 +64767,124 @@ let catalog = [
                 "open-seats": "0"
             },
             "0131": {
-                "capacity": "25",
+                "capacity": "27",
                 "instructor": "Matthew Griffin",
                 "lab-time": "W 8:00am 9:15am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 12:00pm 12:50pm",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0132": {
-                "capacity": "25",
+                "capacity": "27",
                 "instructor": "Matthew Griffin",
                 "lab-time": "W 9:30am 10:45am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 12:00pm 12:50pm",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0141": {
-                "capacity": "25",
+                "capacity": "27",
                 "instructor": "Matthew Griffin",
                 "lab-time": "Th 8:00am 9:15am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 12:00pm 12:50pm",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0211": {
-                "capacity": "25",
+                "capacity": "27",
                 "instructor": "Susan Mazzullo",
                 "lab-time": "M 8:00am 9:15am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 2:00pm 2:50pm",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0212": {
-                "capacity": "25",
+                "capacity": "27",
                 "instructor": "Susan Mazzullo",
                 "lab-time": "M 9:30am 10:45am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 2:00pm 2:50pm",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0213": {
-                "capacity": "25",
+                "capacity": "27",
                 "instructor": "Susan Mazzullo",
                 "lab-time": "M 11:00am 12:15pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 2:00pm 2:50pm",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0214": {
-                "capacity": "25",
+                "capacity": "27",
                 "instructor": "Susan Mazzullo",
                 "lab-time": "M 12:30pm 1:45pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 2:00pm 2:50pm",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0221": {
-                "capacity": "25",
+                "capacity": "27",
                 "instructor": "Susan Mazzullo",
                 "lab-time": "Tu 8:00am 9:15am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 2:00pm 2:50pm",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0222": {
-                "capacity": "25",
+                "capacity": "27",
                 "instructor": "Susan Mazzullo",
                 "lab-time": "Tu 9:30am 10:45am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 2:00pm 2:50pm",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0223": {
-                "capacity": "25",
+                "capacity": "27",
                 "instructor": "Susan Mazzullo",
                 "lab-time": "Tu 11:00am 12:15pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 2:00pm 2:50pm",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0224": {
-                "capacity": "25",
+                "capacity": "27",
                 "instructor": "Susan Mazzullo",
                 "lab-time": "Tu 12:30pm 1:45pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 2:00pm 2:50pm",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0311": {
-                "capacity": "25",
+                "capacity": "27",
                 "instructor": "Matthew Griffin",
                 "lab-time": "M 11:00am 12:15pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0321": {
-                "capacity": "25",
+                "capacity": "27",
                 "instructor": "Matthew Griffin",
                 "lab-time": "W 8:00am 9:15am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "1"
+                "open-seats": "2"
             },
             "0323": {
-                "capacity": "25",
+                "capacity": "27",
                 "instructor": "Matthew Griffin",
                 "lab-time": "W 11:00am 12:15pm",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "0331": {
-                "capacity": "25",
+                "capacity": "27",
                 "instructor": "Matthew Griffin",
                 "lab-time": "Th 8:00am 9:15am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "0"
+                "open-seats": "2"
             },
             "FC01": {
                 "capacity": "30",
@@ -64642,7 +65144,7 @@ let catalog = [
                 "lab-time": "Th 9:00am 9:50am",
                 "learning-mode": "online",
                 "lecture-time": "MWF 10:00am 10:50am",
-                "open-seats": "2"
+                "open-seats": "1"
             },
             "0113": {
                 "capacity": "25",
@@ -64696,7 +65198,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0301": {
                 "capacity": "31",
@@ -64720,7 +65222,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0601": {
                 "capacity": "31",
@@ -64764,7 +65266,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 1:00pm 1:50pm",
-                "open-seats": "0"
+                "open-seats": "1"
             }
         }
     },
@@ -64888,7 +65390,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "15"
+                "open-seats": "14"
             }
         }
     },
@@ -64972,7 +65474,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0401": {
                 "capacity": "31",
@@ -64988,7 +65490,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:15pm",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "0601": {
                 "capacity": "31",
@@ -65046,7 +65548,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "M 3:30pm 6:30pm",
-                "open-seats": "16"
+                "open-seats": "15"
             }
         }
     },
@@ -65116,7 +65618,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 1:00pm 2:00pm",
-                "open-seats": "8"
+                "open-seats": "7"
             }
         }
     },
@@ -65158,7 +65660,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "WThF 9:00am 6:00pm",
-                "open-seats": "9"
+                "open-seats": "10"
             }
         }
     },
@@ -65224,7 +65726,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "10",
-                "instructor": "Brady West",
+                "instructor": "Katharine Abraham",
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "W 2:00pm 4:30pm",
@@ -65294,19 +65796,19 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "108",
-                "instructor": "Fraser Stevens",
+                "instructor": "Alexander Miller",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 11:00am 11:50am",
-                "open-seats": "55"
+                "open-seats": "54"
             },
             "0201": {
                 "capacity": "108",
-                "instructor": "Fraser Stevens",
+                "instructor": "Alexander Miller",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 12:00pm 12:50pm",
-                "open-seats": "69"
+                "open-seats": "70"
             },
             "FC01": {
                 "capacity": "22",
@@ -65392,7 +65894,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 10:00am 11:50am",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0102": {
                 "capacity": "25",
@@ -65630,7 +66132,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "TuTh 3:00pm 4:50pm",
-                "open-seats": "4"
+                "open-seats": "3"
             }
         }
     },
@@ -65644,7 +66146,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 9:30am 10:45am",
-                "open-seats": "4"
+                "open-seats": "3"
             }
         }
     },
@@ -65658,7 +66160,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 3:00pm 5:50pm",
-                "open-seats": "8"
+                "open-seats": "6"
             }
         }
     },
@@ -65756,7 +66258,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 3:00pm 5:50pm",
-                "open-seats": "6"
+                "open-seats": "4"
             }
         }
     },
@@ -65866,7 +66368,7 @@ let catalog = [
             },
             "0301": {
                 "capacity": "20",
-                "instructor": "Kayla White",
+                "instructor": "Steven Karig",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 12:30pm 1:50pm",
@@ -65930,7 +66432,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 10:00am 11:15am",
-                "open-seats": "5"
+                "open-seats": "4"
             },
             "0301": {
                 "capacity": "30",
@@ -66012,7 +66514,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "16"
+                "open-seats": "15"
             }
         }
     },
@@ -66112,7 +66614,7 @@ let catalog = [
             },
             "0201": {
                 "capacity": "24",
-                "instructor": "Kayla White",
+                "instructor": "Dana Grosser-Clarkson",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 2:00pm 3:20pm",
@@ -66158,7 +66660,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 4:00pm 6:50pm",
-                "open-seats": "17"
+                "open-seats": "15"
             }
         }
     },
@@ -66256,7 +66758,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MW 11:00am 12:15pm",
-                "open-seats": "12"
+                "open-seats": "13"
             }
         }
     },
@@ -66516,7 +67018,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 9:00am 12:00pm",
-                "open-seats": "11"
+                "open-seats": "10"
             },
             "0107": {
                 "capacity": "12",
@@ -66564,7 +67066,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "F 9:00am 12:00pm",
-                "open-seats": "10"
+                "open-seats": "11"
             },
             "0113": {
                 "capacity": "12",
@@ -67192,7 +67694,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MTuThF 9:00am 10:50am",
-                "open-seats": "9"
+                "open-seats": "7"
             },
             "0401": {
                 "capacity": "15",
@@ -67290,7 +67792,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 6:00pm 7:50pm",
-                "open-seats": "2"
+                "open-seats": "0"
             },
             "0306": {
                 "capacity": "20",
@@ -67298,7 +67800,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 6:00pm 7:50pm",
-                "open-seats": "18"
+                "open-seats": "15"
             },
             "0501": {
                 "capacity": "20",
@@ -67330,7 +67832,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 2:00pm 3:50pm",
-                "open-seats": "5"
+                "open-seats": "6"
             },
             "0802": {
                 "capacity": "20",
@@ -67370,7 +67872,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 2:00pm 3:50pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "0812": {
                 "capacity": "20",
@@ -67378,7 +67880,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 12:30pm 2:20pm",
-                "open-seats": "4"
+                "open-seats": "3"
             },
             "0815": {
                 "capacity": "20",
@@ -67410,7 +67912,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 3:30pm 5:20pm",
-                "open-seats": "8"
+                "open-seats": "9"
             },
             "0850": {
                 "capacity": "20",
@@ -67426,7 +67928,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 1:00pm 2:50pm",
-                "open-seats": "11"
+                "open-seats": "10"
             },
             "0852": {
                 "capacity": "20",
@@ -67470,7 +67972,7 @@ let catalog = [
             },
             "0909": {
                 "capacity": "20",
-                "instructor": "Kasey Ezzat",
+                "instructor": "Kendra Lewis",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 10:00am 11:50am",
@@ -67498,7 +68000,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 1:00pm 2:50pm",
-                "open-seats": "2"
+                "open-seats": "0"
             },
             "0916": {
                 "capacity": "20",
@@ -67514,7 +68016,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 2:00pm 3:50pm",
-                "open-seats": "12"
+                "open-seats": "11"
             },
             "0919": {
                 "capacity": "20",
@@ -67538,7 +68040,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 1:00pm 2:50pm",
-                "open-seats": "5"
+                "open-seats": "4"
             },
             "1202": {
                 "capacity": "20",
@@ -67546,7 +68048,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "M 3:00pm 4:15pm",
-                "open-seats": "1"
+                "open-seats": "2"
             },
             "1203": {
                 "capacity": "20",
@@ -67570,7 +68072,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 11:00am 12:15pm",
-                "open-seats": "11"
+                "open-seats": "10"
             },
             "1207": {
                 "capacity": "20",
@@ -67634,7 +68136,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "W 6:00pm 7:15pm",
-                "open-seats": "0"
+                "open-seats": "1"
             },
             "FC08": {
                 "capacity": "18",
@@ -68100,7 +68602,7 @@ let catalog = [
                 "lab-time": "W 11:00am 12:15pm",
                 "learning-mode": "online",
                 "lecture-time": "M 11:00am 12:15pm",
-                "open-seats": "6"
+                "open-seats": "5"
             },
             "0102": {
                 "capacity": "26",
@@ -68116,7 +68618,7 @@ let catalog = [
                 "lab-time": "W 11:00am 12:15pm",
                 "learning-mode": "online",
                 "lecture-time": "M 11:00am 12:15pm",
-                "open-seats": "18"
+                "open-seats": "19"
             }
         }
     },
@@ -68140,7 +68642,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "20",
-                "instructor": "Instructor: TBA",
+                "instructor": "Arnold Keller",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Th 7:00pm 9:40pm",
@@ -68154,7 +68656,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "25",
-                "instructor": "Ariel Bierbaum",
+                "instructor": "Brittney Drakeford",
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "Tu 4:00pm 6:40pm",
@@ -68210,7 +68712,7 @@ let catalog = [
         "sections": {
             "0101": {
                 "capacity": "12",
-                "instructor": "Instructor: TBA",
+                "instructor": "Uri Avin",
                 "lab-time": "W 7:00pm 9:40pm",
                 "learning-mode": "online",
                 "lecture-time": "M 7:00pm 9:40pm",
@@ -68376,7 +68878,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "in person",
                 "lecture-time": "F 10:00am 12:40pm",
-                "open-seats": "17"
+                "open-seats": "18"
             }
         }
     },
@@ -68418,7 +68920,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 9:00am 9:50am",
-                "open-seats": "15"
+                "open-seats": "16"
             },
             "0201": {
                 "capacity": "25",
@@ -68434,7 +68936,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 8:00am 9:15am",
-                "open-seats": "11"
+                "open-seats": "10"
             }
         }
     },
@@ -68504,7 +69006,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "MWF 3:00pm 3:50pm",
-                "open-seats": "1"
+                "open-seats": "0"
             },
             "1301": {
                 "capacity": "25",
@@ -68672,7 +69174,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": "TuTh 12:30pm 1:45pm",
-                "open-seats": "11"
+                "open-seats": "10"
             }
         }
     },
@@ -68728,7 +69230,7 @@ let catalog = [
                 "lab-time": null,
                 "learning-mode": "online",
                 "lecture-time": null,
-                "open-seats": "0"
+                "open-seats": "1"
             }
         }
     },
