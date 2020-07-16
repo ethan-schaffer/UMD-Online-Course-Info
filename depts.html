@@ -1,27 +1,31 @@
-<!-- simple front end
-	by Bill Shi-->
-
 <!DOCTYPE html>
-<html>
 
+<!-- deptartment summary page-->
+<html>
     <header>
         <title>UMD Department Breakdown</title>
-        <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js'></script>
-        <link rel='stylesheet' type='text/css' href='src/style.css'>
-        <script src="src/index.js"></script>
-        <!-- these are the hardcode of our data as javascript code -->
+		<link rel='stylesheet' type='text/css' href='src/css/dept_breakdown.css'>
+		
+		<!-- these are the hardcode of our data as javascript code -->
         <script src="src/data_prototypev1.js"></script>
         <script src="src/summary_data.js"></script>
         <script src="src/dept_summary.js"></script>
-        <!-- -->
+		
+		<!-- functionality javascript code-->
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js'></script>
+        <script src='src/javascript/dept_breakdown.js'></script>
     </header>
 
-<body>
-    <h1>Department Breakdown</h1>
-	<h3><a href="/UMD-Online-Course-Info/">UMD Fall 2020 Course Info</a></h3>
-    <p>A summary the number of in person and online sections offered by department, and the total number of seats offered by instruction type</p>
-    <ul id='dept-summary-table'></ul>
-    <p id='footer'></p>
-
-</body>
+	<body>
+		<!-- info section -->
+		<h1>Department Breakdown</h1>
+		<h3><a href="/UMD-Online-Course-Info/">UMD Fall 2020 Course Info</a></h3>
+		<p>A summary the number of in person and online sections offered by department, and the total number of seats offered by instruction type</p>
+		
+		<!-- dept summary list -->
+		<ul id='summary-list'></ul>
+		
+		<!-- footer -->
+		<p id='footer'></p>
+	</body>
 </html>
