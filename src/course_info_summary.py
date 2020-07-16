@@ -1,4 +1,5 @@
 import pprint
+import json
 import csv
 
 pp = pprint.PrettyPrinter(indent=4)
@@ -56,3 +57,43 @@ with open("summary_data.js", "w") as df:
     df.write("let percent_seats_online = '" + str(percent_seats_online) + "';\n")
     df.write("let percent_seats_in_person = '" + str(percent_seats_in_person) + "';\n")
 
+
+dept_names = {}
+with open('dept_names.txt', 'r') as f:
+    for line in f:
+        code = line[:4] # remove linebreak which is the last character of the string
+        name = line[5:-1]  # remove linebreak which is the last character of the string
+        dept_names[code] = name
+
+print(dept_names)
+
+output_data = {}
+
+for dept in dept_names:
+    output_data[dept] = [0, 0, 0, 0]
+
+for class_section in dt:
+    print(class_section)
+    dept = class_section[1]
+    if is_online(class_section):
+        output_data[dept][0] += 1
+        if class_section[4] is not "?":
+            output_data[dept][1] += int(class_section[4])
+    else:
+        output_data[dept][2] += 1
+        if class_section[4] is not "?":
+            output_data[dept][3] += int(class_section[4])
+
+out = {}
+for class_section in output_data:
+    out[class_section] = {
+        "departmentName": dept_names[class_section],
+        "inPersonSeats": output_data[class_section][3],
+        "inPersonSections": output_data[class_section][2],
+        "onlineSeats": output_data[class_section][1],
+        "onlineSections": output_data[class_section][0]
+    }
+with open("dept_summary.js", "w") as df:
+    text = json.dumps(out, indent=4, sort_keys=True)
+
+    df.write("let dept_summary = " + text + ";")
