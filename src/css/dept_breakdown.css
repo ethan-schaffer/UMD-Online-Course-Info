@@ -32,7 +32,8 @@ body {
 	border: 3px solid #FFD520; /* Maryland Gold */
 }
 
-#summary-list .summary table {	
+#summary-list .summary td {	
+	padding: 0px 10px 0px 0px;
 	/* for debug purposes */
 	/* border: 3px solid green; */
 }
