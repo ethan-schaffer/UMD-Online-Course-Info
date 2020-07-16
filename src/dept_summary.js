@@ -1,10 +1,10 @@
 let dept_summary = {
     "AASP": {
         "departmentName": "African American Studies",
-        "inPersonSeats": 423,
-        "inPersonSections": 15,
-        "onlineSeats": 190,
-        "onlineSections": 7
+        "inPersonSeats": 10,
+        "inPersonSections": 1,
+        "onlineSeats": 934,
+        "onlineSections": 34
     },
     "AAST": {
         "departmentName": "Asian American Studies",
@@ -29,10 +29,10 @@ let dept_summary = {
     },
     "AMSC": {
         "departmentName": "Applied Mathematics & Scientific Computation",
-        "inPersonSeats": 47,
-        "inPersonSections": 2,
-        "onlineSeats": 251,
-        "onlineSections": 9
+        "inPersonSeats": 0,
+        "inPersonSections": 0,
+        "onlineSeats": 298,
+        "onlineSections": 11
     },
     "AMST": {
         "departmentName": "American Studies",
@@ -52,8 +52,8 @@ let dept_summary = {
         "departmentName": "Anthropology",
         "inPersonSeats": 100,
         "inPersonSections": 6,
-        "onlineSeats": 1054,
-        "onlineSections": 54
+        "onlineSeats": 1019,
+        "onlineSections": 53
     },
     "AOSC": {
         "departmentName": "Atmospheric and Oceanic Science",
@@ -71,10 +71,10 @@ let dept_summary = {
     },
     "ARCH": {
         "departmentName": "Architecture",
-        "inPersonSeats": 263,
-        "inPersonSections": 14,
-        "onlineSeats": 1271,
-        "onlineSections": 33
+        "inPersonSeats": 113,
+        "inPersonSections": 6,
+        "onlineSeats": 1441,
+        "onlineSections": 42
     },
     "AREC": {
         "departmentName": "Agricultural and Resource Economics",
@@ -113,10 +113,10 @@ let dept_summary = {
     },
     "ARTT": {
         "departmentName": "Art Studio",
-        "inPersonSeats": 18,
-        "inPersonSections": 1,
-        "onlineSeats": 1051,
-        "onlineSections": 66
+        "inPersonSeats": 0,
+        "inPersonSections": 2,
+        "onlineSeats": 1069,
+        "onlineSections": 67
     },
     "ASTR": {
         "departmentName": "Astronomy",
@@ -127,15 +127,15 @@ let dept_summary = {
     },
     "BCHM": {
         "departmentName": "Biochemistry",
-        "inPersonSeats": 163,
-        "inPersonSections": 6,
+        "inPersonSeats": 145,
+        "inPersonSections": 5,
         "onlineSeats": 874,
         "onlineSections": 9
     },
     "BIOE": {
         "departmentName": "Bioengineering",
-        "inPersonSeats": 276,
-        "inPersonSections": 15,
+        "inPersonSeats": 216,
+        "inPersonSections": 11,
         "onlineSeats": 948,
         "onlineSections": 32
     },
@@ -169,10 +169,10 @@ let dept_summary = {
     },
     "BMGT": {
         "departmentName": "Business and Management",
-        "inPersonSeats": 657,
+        "inPersonSeats": 72,
         "inPersonSections": 18,
-        "onlineSeats": 4525,
-        "onlineSections": 109
+        "onlineSeats": 5082,
+        "onlineSections": 123
     },
     "BMSO": {
         "departmentName": "Online Business MS Programs",
@@ -183,9 +183,9 @@ let dept_summary = {
     },
     "BSCI": {
         "departmentName": "Biological Sciences Program",
-        "inPersonSeats": 102,
-        "inPersonSections": 6,
-        "onlineSeats": 6220,
+        "inPersonSeats": 59,
+        "inPersonSections": 11,
+        "onlineSeats": 6314,
         "onlineSections": 181
     },
     "BSCV": {
@@ -213,8 +213,8 @@ let dept_summary = {
         "departmentName": "Terrorism Studies",
         "inPersonSeats": 30,
         "inPersonSections": 1,
-        "onlineSeats": 361,
-        "onlineSections": 17
+        "onlineSeats": 441,
+        "onlineSections": 19
     },
     "BUAC": {
         "departmentName": "Accounting and Information Assurance",
@@ -281,10 +281,10 @@ let dept_summary = {
     },
     "CCJS": {
         "departmentName": "Criminology and Criminal Justice",
-        "inPersonSeats": 108,
-        "inPersonSections": 3,
-        "onlineSeats": 3568,
-        "onlineSections": 90
+        "inPersonSeats": 30,
+        "inPersonSections": 1,
+        "onlineSeats": 3731,
+        "onlineSections": 93
     },
     "CHBE": {
         "departmentName": "Chemical and Biomolecular Engineering",
@@ -295,10 +295,10 @@ let dept_summary = {
     },
     "CHEM": {
         "departmentName": "Chemistry",
-        "inPersonSeats": 818,
-        "inPersonSections": 44,
-        "onlineSeats": 5322,
-        "onlineSections": 190
+        "inPersonSeats": 577,
+        "inPersonSections": 35,
+        "onlineSeats": 4795,
+        "onlineSections": 178
     },
     "CHIN": {
         "departmentName": "Chinese",
@@ -337,15 +337,15 @@ let dept_summary = {
     },
     "CMSC": {
         "departmentName": "Computer Science",
-        "inPersonSeats": 670,
-        "inPersonSections": 20,
-        "onlineSeats": 8109,
-        "onlineSections": 153
+        "inPersonSeats": 632,
+        "inPersonSections": 19,
+        "onlineSeats": 8157,
+        "onlineSections": 154
     },
     "COMM": {
         "departmentName": "Communication",
         "inPersonSeats": 360,
-        "inPersonSections": 15,
+        "inPersonSections": 21,
         "onlineSeats": 3052,
         "onlineSections": 109
     },
@@ -442,10 +442,10 @@ let dept_summary = {
     },
     "DANC": {
         "departmentName": "Dance",
-        "inPersonSeats": 74,
-        "inPersonSections": 5,
-        "onlineSeats": 575,
-        "onlineSections": 82
+        "inPersonSeats": 54,
+        "inPersonSections": 3,
+        "onlineSeats": 595,
+        "onlineSections": 84
     },
     "DATA": {
         "departmentName": "Data Science and Analytics",
@@ -465,7 +465,7 @@ let dept_summary = {
         "departmentName": "Economics",
         "inPersonSeats": 40,
         "inPersonSections": 1,
-        "onlineSeats": 5369,
+        "onlineSeats": 5387,
         "onlineSections": 110
     },
     "EDCP": {
@@ -512,10 +512,10 @@ let dept_summary = {
     },
     "ENAE": {
         "departmentName": "Engineering, Aerospace",
-        "inPersonSeats": 240,
-        "inPersonSections": 23,
-        "onlineSeats": 1400,
-        "onlineSections": 40
+        "inPersonSeats": 215,
+        "inPersonSections": 28,
+        "onlineSeats": 1425,
+        "onlineSections": 41
     },
     "ENCE": {
         "departmentName": "Engineering, Civil",
@@ -540,17 +540,17 @@ let dept_summary = {
     },
     "ENEE": {
         "departmentName": "Electrical & Computer Engineering",
-        "inPersonSeats": 419,
-        "inPersonSections": 32,
+        "inPersonSeats": 135,
+        "inPersonSections": 12,
         "onlineSeats": 2144,
         "onlineSections": 89
     },
     "ENES": {
         "departmentName": "Engineering Science",
-        "inPersonSeats": 588,
-        "inPersonSections": 13,
-        "onlineSeats": 4271,
-        "onlineSections": 36
+        "inPersonSeats": 238,
+        "inPersonSections": 8,
+        "onlineSeats": 4571,
+        "onlineSections": 42
     },
     "ENFP": {
         "departmentName": "Engineering, Fire Protection",
@@ -562,30 +562,30 @@ let dept_summary = {
     "ENGL": {
         "departmentName": "English",
         "inPersonSeats": 30,
-        "inPersonSections": 2,
+        "inPersonSections": 16,
         "onlineSeats": 4565,
         "onlineSections": 229
     },
     "ENMA": {
         "departmentName": "Engineering, Materials",
-        "inPersonSeats": 134,
-        "inPersonSections": 6,
+        "inPersonSeats": 124,
+        "inPersonSections": 5,
         "onlineSeats": 619,
         "onlineSections": 29
     },
     "ENME": {
         "departmentName": "Engineering, Mechanical",
-        "inPersonSeats": 293,
-        "inPersonSections": 12,
-        "onlineSeats": 3185,
+        "inPersonSeats": 153,
+        "inPersonSections": 8,
+        "onlineSeats": 3200,
         "onlineSections": 82
     },
     "ENPM": {
         "departmentName": "Engineering, Professional Masters",
-        "inPersonSeats": 59,
-        "inPersonSections": 3,
-        "onlineSeats": 1024,
-        "onlineSections": 37
+        "inPersonSeats": 0,
+        "inPersonSections": 0,
+        "onlineSeats": 1072,
+        "onlineSections": 36
     },
     "ENRE": {
         "departmentName": "Reliability Engineering",
@@ -603,8 +603,8 @@ let dept_summary = {
     },
     "ENSP": {
         "departmentName": "Environmental Science and Policy",
-        "inPersonSeats": 95,
-        "inPersonSections": 3,
+        "inPersonSeats": 0,
+        "inPersonSections": 0,
         "onlineSeats": 225,
         "onlineSections": 9
     },
@@ -624,8 +624,8 @@ let dept_summary = {
     },
     "ENTS": {
         "departmentName": "Telecommunications",
-        "inPersonSeats": 8,
-        "inPersonSections": 1,
+        "inPersonSeats": 0,
+        "inPersonSections": 0,
         "onlineSeats": 366,
         "onlineSections": 15
     },
@@ -667,7 +667,7 @@ let dept_summary = {
     "FREN": {
         "departmentName": "French",
         "inPersonSeats": 0,
-        "inPersonSections": 0,
+        "inPersonSections": 4,
         "onlineSeats": 445,
         "onlineSections": 19
     },
@@ -675,27 +675,27 @@ let dept_summary = {
         "departmentName": "Gemstone",
         "inPersonSeats": 14,
         "inPersonSections": 1,
-        "onlineSeats": 979,
+        "onlineSeats": 988,
         "onlineSections": 60
     },
     "GEOG": {
         "departmentName": "Geographical Sciences",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 1937,
+        "onlineSeats": 1947,
         "onlineSections": 67
     },
     "GEOL": {
         "departmentName": "Geology",
-        "inPersonSeats": 244,
-        "inPersonSections": 14,
-        "onlineSeats": 933,
-        "onlineSections": 39
+        "inPersonSeats": 304,
+        "inPersonSections": 17,
+        "onlineSeats": 873,
+        "onlineSections": 36
     },
     "GERM": {
         "departmentName": "Germanic Studies",
         "inPersonSeats": 0,
-        "inPersonSections": 0,
+        "inPersonSections": 2,
         "onlineSeats": 325,
         "onlineSections": 14
     },
@@ -709,7 +709,7 @@ let dept_summary = {
     "GVPT": {
         "departmentName": "Government and Politics",
         "inPersonSeats": 30,
-        "inPersonSections": 1,
+        "inPersonSections": 3,
         "onlineSeats": 2760,
         "onlineSections": 115
     },
@@ -772,7 +772,7 @@ let dept_summary = {
     "HIST": {
         "departmentName": "History",
         "inPersonSeats": 201,
-        "inPersonSections": 8,
+        "inPersonSections": 10,
         "onlineSeats": 3193,
         "onlineSections": 129
     },
@@ -793,7 +793,7 @@ let dept_summary = {
     "HLTH": {
         "departmentName": "Health",
         "inPersonSeats": 41,
-        "inPersonSections": 2,
+        "inPersonSections": 18,
         "onlineSeats": 1735,
         "onlineSections": 39
     },
@@ -801,7 +801,7 @@ let dept_summary = {
         "departmentName": "University Honors",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 967,
+        "onlineSeats": 979,
         "onlineSections": 41
     },
     "HONR": {
@@ -828,7 +828,7 @@ let dept_summary = {
     "INAG": {
         "departmentName": "Institute of Applied Agriculture",
         "inPersonSeats": 252,
-        "inPersonSections": 15,
+        "inPersonSections": 17,
         "onlineSeats": 170,
         "onlineSections": 11
     },
@@ -883,8 +883,8 @@ let dept_summary = {
     },
     "KNES": {
         "departmentName": "Kinesiology",
-        "inPersonSeats": 348,
-        "inPersonSections": 20,
+        "inPersonSeats": 138,
+        "inPersonSections": 27,
         "onlineSeats": 2441,
         "onlineSections": 96
     },
@@ -897,10 +897,10 @@ let dept_summary = {
     },
     "LARC": {
         "departmentName": "Landscape Architecture",
-        "inPersonSeats": 330,
-        "inPersonSections": 11,
-        "onlineSeats": 200,
-        "onlineSections": 10
+        "inPersonSeats": 0,
+        "inPersonSections": 0,
+        "onlineSeats": 530,
+        "onlineSections": 21
     },
     "LASC": {
         "departmentName": "Certificate in Latin American Studies",
@@ -940,7 +940,7 @@ let dept_summary = {
     "MATH": {
         "departmentName": "Mathematics",
         "inPersonSeats": 0,
-        "inPersonSections": 0,
+        "inPersonSections": 8,
         "onlineSeats": 5399,
         "onlineSections": 206
     },
@@ -953,10 +953,10 @@ let dept_summary = {
     },
     "MIEH": {
         "departmentName": "Maryland Institute for Applied Environmental Health",
-        "inPersonSeats": 108,
-        "inPersonSections": 6,
-        "onlineSeats": 266,
-        "onlineSections": 15
+        "inPersonSeats": 0,
+        "inPersonSections": 0,
+        "onlineSeats": 286,
+        "onlineSections": 16
     },
     "MITH": {
         "departmentName": "Maryland Institute for Technology in the Humanities",
@@ -1003,7 +1003,7 @@ let dept_summary = {
     "MUSC": {
         "departmentName": "School of Music",
         "inPersonSeats": 2433,
-        "inPersonSections": 85,
+        "inPersonSections": 91,
         "onlineSeats": 1703,
         "onlineSections": 110
     },
@@ -1060,8 +1060,8 @@ let dept_summary = {
         "departmentName": "Persian",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 180,
-        "onlineSections": 14
+        "onlineSeats": 170,
+        "onlineSections": 13
     },
     "PHIL": {
         "departmentName": "Philosophy",
@@ -1081,13 +1081,13 @@ let dept_summary = {
         "departmentName": "Public Health Science",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 191,
-        "onlineSections": 8
+        "onlineSeats": 317,
+        "onlineSections": 15
     },
     "PHYS": {
         "departmentName": "Physics",
-        "inPersonSeats": 1213,
-        "inPersonSections": 42,
+        "inPersonSeats": 1195,
+        "inPersonSections": 49,
         "onlineSeats": 3117,
         "onlineSections": 99
     },
@@ -1114,10 +1114,10 @@ let dept_summary = {
     },
     "PSYC": {
         "departmentName": "Psychology",
-        "inPersonSeats": 304,
-        "inPersonSections": 3,
-        "onlineSeats": 3799,
-        "onlineSections": 121
+        "inPersonSeats": 0,
+        "inPersonSections": 0,
+        "onlineSeats": 4334,
+        "onlineSections": 136
     },
     "RDEV": {
         "departmentName": "Real Estate Development",
@@ -1184,10 +1184,10 @@ let dept_summary = {
     },
     "STAT": {
         "departmentName": "Statistics and Probability",
-        "inPersonSeats": 48,
-        "inPersonSections": 2,
-        "onlineSeats": 2043,
-        "onlineSections": 76
+        "inPersonSeats": 0,
+        "inPersonSections": 0,
+        "onlineSeats": 2116,
+        "onlineSections": 79
     },
     "SURV": {
         "departmentName": "Survey Methodology",
@@ -1205,17 +1205,17 @@ let dept_summary = {
     },
     "THET": {
         "departmentName": "Theatre",
-        "inPersonSeats": 428,
-        "inPersonSections": 37,
-        "onlineSeats": 367,
-        "onlineSections": 11
+        "inPersonSeats": 74,
+        "inPersonSections": 8,
+        "onlineSeats": 751,
+        "onlineSections": 37
     },
     "TLPL": {
         "departmentName": "Teaching and Learning, Policy and Leadership",
         "inPersonSeats": 304,
         "inPersonSections": 19,
         "onlineSeats": 1568,
-        "onlineSections": 93
+        "onlineSections": 87
     },
     "TLTC": {
         "departmentName": "Teaching and Learning Transformation Center",
@@ -1234,9 +1234,9 @@ let dept_summary = {
     "UNIV": {
         "departmentName": "University Courses",
         "inPersonSeats": 0,
-        "inPersonSections": 0,
-        "onlineSeats": 1789,
-        "onlineSections": 94
+        "inPersonSections": 2,
+        "onlineSeats": 1903,
+        "onlineSections": 100
     },
     "URSP": {
         "departmentName": "Urban Studies and Planning",
