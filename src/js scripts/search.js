@@ -1,19 +1,19 @@
-// simple front end
-// by Bill Shi and Ethan Schaffer
+/*
+	search.html functionality code
+	By: Bill Shi and Ethan Scahffer
+*/
 
-// preferable if catalog is not an array
+// TODO preferable if catalog is not an array
 catalog = catalog[0];
 
+// return html displaying a help message
 function emptySearchFieldInfo() {
-	//console.log("Here!")
-	let course_container = 	$(`<div class='course-container'>
-								<h3>Enter the four character name of a department (like "BSCI") or the course code of a class (like "CMSC132") to get info!</h3>
-								<ul></ul>
-							</div>`);
-	return course_container;
+	return	$(`<div class='course-container'>
+				<h3>Enter the four character name of a department (like "BSCI") or the course code of a class (like "CMSC132") to get info!</h3>
+			</div>`);
 }
 
-//
+// return html displaying infomation abouse a course code and its sections
 function createCourseContainer(course_code) {
 	let course_info = catalog[course_code];
 	
@@ -74,7 +74,7 @@ function createCourseContainer(course_code) {
 	}
 }
 
-//
+// perform search using user input in the search bar, display results
 function executeSearch() {
 	let user_input = $('#class-lookup').val().toUpperCase();
 		

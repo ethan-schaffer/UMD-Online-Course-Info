@@ -1,3 +1,8 @@
+/*
+	dynamically insert content for dept.html
+	By: Bill Shi
+*/
+
 // create html with a department's summary infomation
 function createDepartmentSummary(dept_code) {
 	let dept_info = dept_summary[dept_code];
