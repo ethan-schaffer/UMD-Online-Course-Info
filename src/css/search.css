@@ -1,18 +1,23 @@
+/* set default margin and padding for elements*/
 * {
 	margin: 0px;
 	padding: 0px;
 }
 
-/* Page Container */
+#footer {
+	text-align: center;
+	padding: 10px;
+	width: 60%;
+	margin: auto;
+}
+
+/* Page Specific CSS */
 
 #lookup-container {
 	border: 3px solid #E03A3E; /* Maryland Red */
-	/* can have picture backgrounds*/
-	/* background-image: url('md_flag.png'); */
-	/* background-size: 200px; */
 }
 
-/* Look Up Bar*/
+/* Search Bar CSS*/
 
 #class-lookup {
 	margin: 10px;
@@ -30,17 +35,15 @@ label[for=filter-learning-mode] {
 	margin-left: 10px;
 }
 
-/* Results Box */
+/* Results CSS */
 
 #search-return {
 	list-style-type: none;
 	border: 3px solid #FFD520; /* Maryland Gold */
-	overflow: auto;
 }
 
 .course-container {
-	border: 3px solid #000000;
-	/* background-color: white; */
+	border: 3px solid black;
 }
 
 .section_table {
@@ -53,14 +56,4 @@ label[for=filter-learning-mode] {
 	width: 50% ;
 	padding: 10px ;
 	text-align: left;
-}
-
-/* Footer */
-
-#footer{
-	/* sticky footer */
-	text-align: center;
-	padding: 10px;
-	width: 60%;
-	margin: auto;
 }
