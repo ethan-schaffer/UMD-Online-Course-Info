@@ -297,8 +297,8 @@ let dept_summary = {
         "departmentName": "Chemistry",
         "inPersonSeats": 510,
         "inPersonSections": 33,
-        "onlineSeats": 4795,
-        "onlineSections": 178
+        "onlineSeats": 4853,
+        "onlineSections": 182
     },
     "CHIN": {
         "departmentName": "Chinese",
@@ -486,7 +486,7 @@ let dept_summary = {
         "departmentName": "Education Leadership, Higher Ed and International Ed",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 238,
+        "onlineSeats": 243,
         "onlineSections": 10
     },
     "EDMS": {
@@ -528,8 +528,8 @@ let dept_summary = {
         "departmentName": "Engineering, Chemical",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 196,
-        "onlineSections": 10
+        "onlineSeats": 181,
+        "onlineSections": 9
     },
     "ENCO": {
         "departmentName": "Engineering, Cooperative Education",
@@ -547,10 +547,10 @@ let dept_summary = {
     },
     "ENES": {
         "departmentName": "Engineering Science",
-        "inPersonSeats": 293,
-        "inPersonSections": 9,
-        "onlineSeats": 4516,
-        "onlineSections": 41
+        "inPersonSeats": 199,
+        "inPersonSections": 7,
+        "onlineSeats": 4667,
+        "onlineSections": 46
     },
     "ENFP": {
         "departmentName": "Engineering, Fire Protection",
@@ -577,21 +577,21 @@ let dept_summary = {
         "departmentName": "Engineering, Mechanical",
         "inPersonSeats": 153,
         "inPersonSections": 8,
-        "onlineSeats": 3200,
+        "onlineSeats": 3235,
         "onlineSections": 82
     },
     "ENPM": {
         "departmentName": "Engineering, Professional Masters",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 1072,
+        "onlineSeats": 1262,
         "onlineSections": 36
     },
     "ENRE": {
         "departmentName": "Reliability Engineering",
         "inPersonSeats": 37,
         "inPersonSections": 3,
-        "onlineSeats": 286,
+        "onlineSeats": 281,
         "onlineSections": 22
     },
     "ENSE": {
@@ -668,13 +668,13 @@ let dept_summary = {
         "departmentName": "French",
         "inPersonSeats": 0,
         "inPersonSections": 4,
-        "onlineSeats": 445,
-        "onlineSections": 19
+        "onlineSeats": 450,
+        "onlineSections": 20
     },
     "GEMS": {
         "departmentName": "Gemstone",
-        "inPersonSeats": 14,
-        "inPersonSections": 1,
+        "inPersonSeats": 28,
+        "inPersonSections": 2,
         "onlineSeats": 988,
         "onlineSections": 60
     },
@@ -794,14 +794,14 @@ let dept_summary = {
         "departmentName": "Health",
         "inPersonSeats": 41,
         "inPersonSections": 18,
-        "onlineSeats": 1735,
-        "onlineSections": 39
+        "onlineSeats": 1715,
+        "onlineSections": 37
     },
     "HNUH": {
         "departmentName": "University Honors",
         "inPersonSeats": 20,
         "inPersonSections": 1,
-        "onlineSeats": 955,
+        "onlineSeats": 957,
         "onlineSections": 40
     },
     "HONR": {
@@ -834,17 +834,17 @@ let dept_summary = {
     },
     "INFM": {
         "departmentName": "Information Management",
-        "inPersonSeats": 80,
-        "inPersonSections": 2,
-        "onlineSeats": 110,
-        "onlineSections": 3
+        "inPersonSeats": 40,
+        "inPersonSections": 1,
+        "onlineSeats": 150,
+        "onlineSections": 4
     },
     "INST": {
         "departmentName": "Information Studies",
         "inPersonSeats": 147,
         "inPersonSections": 4,
-        "onlineSeats": 5054,
-        "onlineSections": 123
+        "onlineSeats": 5139,
+        "onlineSections": 125
     },
     "ISRL": {
         "departmentName": "Israel Studies",
@@ -941,8 +941,8 @@ let dept_summary = {
         "departmentName": "Mathematics",
         "inPersonSeats": 0,
         "inPersonSections": 8,
-        "onlineSeats": 5484,
-        "onlineSections": 206
+        "onlineSeats": 5530,
+        "onlineSections": 205
     },
     "MEES": {
         "departmentName": "Marine-Estuarine-Environmental Sciences",
@@ -1002,7 +1002,7 @@ let dept_summary = {
     },
     "MUSC": {
         "departmentName": "School of Music",
-        "inPersonSeats": 2453,
+        "inPersonSeats": 2438,
         "inPersonSections": 93,
         "onlineSeats": 1683,
         "onlineSections": 108
@@ -1191,10 +1191,10 @@ let dept_summary = {
     },
     "SURV": {
         "departmentName": "Survey Methodology",
-        "inPersonSeats": 214,
-        "inPersonSections": 11,
-        "onlineSeats": 245,
-        "onlineSections": 11
+        "inPersonSeats": 194,
+        "inPersonSections": 9,
+        "onlineSeats": 255,
+        "onlineSections": 12
     },
     "TDPS": {
         "departmentName": "Theatre, Dance and Performance Studies",
