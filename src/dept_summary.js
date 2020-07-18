@@ -211,8 +211,8 @@ let dept_summary = {
     },
     "BSST": {
         "departmentName": "Terrorism Studies",
-        "inPersonSeats": 30,
-        "inPersonSections": 1,
+        "inPersonSeats": 35,
+        "inPersonSections": 2,
         "onlineSeats": 441,
         "onlineSections": 19
     },
@@ -512,8 +512,8 @@ let dept_summary = {
     },
     "ENAE": {
         "departmentName": "Engineering, Aerospace",
-        "inPersonSeats": 215,
-        "inPersonSections": 28,
+        "inPersonSeats": 225,
+        "inPersonSections": 29,
         "onlineSeats": 1425,
         "onlineSections": 41
     },
@@ -540,17 +540,17 @@ let dept_summary = {
     },
     "ENEE": {
         "departmentName": "Electrical & Computer Engineering",
-        "inPersonSeats": 135,
-        "inPersonSections": 12,
-        "onlineSeats": 2159,
-        "onlineSections": 91
+        "inPersonSeats": 165,
+        "inPersonSections": 13,
+        "onlineSeats": 2199,
+        "onlineSections": 95
     },
     "ENES": {
         "departmentName": "Engineering Science",
         "inPersonSeats": 199,
         "inPersonSections": 7,
-        "onlineSeats": 4697,
-        "onlineSections": 46
+        "onlineSeats": 4682,
+        "onlineSections": 45
     },
     "ENFP": {
         "departmentName": "Engineering, Fire Protection",
@@ -654,8 +654,8 @@ let dept_summary = {
         "departmentName": "First-Year Innovation & Research Experience",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 155,
-        "onlineSections": 4
+        "onlineSeats": 1270,
+        "onlineSections": 34
     },
     "FMSC": {
         "departmentName": "Family Science",
@@ -687,8 +687,8 @@ let dept_summary = {
     },
     "GEOL": {
         "departmentName": "Geology",
-        "inPersonSeats": 289,
-        "inPersonSections": 16,
+        "inPersonSeats": 229,
+        "inPersonSections": 13,
         "onlineSeats": 880,
         "onlineSections": 36
     },
@@ -827,10 +827,10 @@ let dept_summary = {
     },
     "INAG": {
         "departmentName": "Institute of Applied Agriculture",
-        "inPersonSeats": 236,
-        "inPersonSections": 17,
-        "onlineSeats": 170,
-        "onlineSections": 11
+        "inPersonSeats": 163,
+        "inPersonSections": 14,
+        "onlineSeats": 205,
+        "onlineSections": 12
     },
     "INFM": {
         "departmentName": "Information Management",
@@ -841,10 +841,10 @@ let dept_summary = {
     },
     "INST": {
         "departmentName": "Information Studies",
-        "inPersonSeats": 107,
-        "inPersonSections": 3,
-        "onlineSeats": 5181,
-        "onlineSections": 122
+        "inPersonSeats": 57,
+        "inPersonSections": 2,
+        "onlineSeats": 5261,
+        "onlineSections": 124
     },
     "ISRL": {
         "departmentName": "Israel Studies",
@@ -885,8 +885,8 @@ let dept_summary = {
         "departmentName": "Kinesiology",
         "inPersonSeats": 138,
         "inPersonSections": 27,
-        "onlineSeats": 2585,
-        "onlineSections": 104
+        "onlineSeats": 2560,
+        "onlineSections": 103
     },
     "KORA": {
         "departmentName": "Korean",
@@ -920,8 +920,8 @@ let dept_summary = {
         "departmentName": "Library Science",
         "inPersonSeats": 60,
         "inPersonSections": 2,
-        "onlineSeats": 457,
-        "onlineSections": 18
+        "onlineSeats": 487,
+        "onlineSections": 19
     },
     "LGBT": {
         "departmentName": "Lesbian Gay Bisexual Transgender Studies",
@@ -1205,8 +1205,8 @@ let dept_summary = {
     },
     "THET": {
         "departmentName": "Theatre",
-        "inPersonSeats": 74,
-        "inPersonSections": 8,
+        "inPersonSeats": 48,
+        "inPersonSections": 6,
         "onlineSeats": 751,
         "onlineSections": 37
     },
