@@ -10,12 +10,12 @@ function getChartUrl(in_person, online) {
 
 // return summary text about course infomation
 function get_course_count_info() {
-    return "A section is a single time that a class meets during. We couldn't scan every class, but we found that there were " + parseInt(total_online,10).toLocaleString() + " online sections and " + parseInt(total_in_person,10).toLocaleString() + " in person sections. In total, there are at least " + parseInt(total_classes,10).toLocaleString() + " sections.";
+    return "A section is a single time that a class meets during. We found that there were " + parseInt(total_online,10).toLocaleString() + " online sections and " + parseInt(total_in_person,10).toLocaleString() + " in person sections. In total, there are at least " + parseInt(total_classes,10).toLocaleString() + " sections.";
 }
 
 // return summary text about seat infomation
 function get_seat_count_info() {
-    return "A seat is a single spot in a class a student can fill, so a student will fill multiple seats. We couldn't scan every class, but we found that there were " + parseInt(seats_online,10).toLocaleString() + " seats online and " + parseInt(seats_in_person,10).toLocaleString() + " seats in person. Of the ones we could scan, there are " + parseInt(seats_total,10).toLocaleString() + " total seats.";
+    return "A seat is a single spot in a class a student can fill, so a student will fill multiple seats. We found that there were " + parseInt(seats_online,10).toLocaleString() + " seats online and " + parseInt(seats_in_person,10).toLocaleString() + " seats in person. Of the ones we could scan, there are " + parseInt(seats_total,10).toLocaleString() + " total seats.";
 }
 
 // wait until html elements are ready
