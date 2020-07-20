@@ -27,14 +27,14 @@ def get_online(dept):
 
 def get_soup_in_person(dept):
     url = get_in_person(dept)
-    data = requests.get(url).content
-    soup = BeautifulSoup(data, 'html.parser')
+    data = requests.get(url).content.decode('utf-8')
+    soup = BeautifulSoup(data, 'html5lib')
     return soup
 
 def get_soup_online(dept):
     url = get_online(dept)
     data = requests.get(url).content
-    soup = BeautifulSoup(data, 'html.parser')
+    soup = BeautifulSoup(data, 'html5lib')
     return soup
 
 def aggregate_components(src, a, b, c):
@@ -70,7 +70,7 @@ def parse_section(times, section_mode):
         section_list.append([section_number, section_mode, timeslot, disc_time, section_instructor, section_total_seats, section_open_seats])
     return section_list
 
-def get_by_type(data, type_string, force_full_return):
+def get_by_type(data, type_string):
     full_info = []
 
     courses = aggregate_components(data, "div", "class", "course")
@@ -81,8 +81,6 @@ def get_by_type(data, type_string, force_full_return):
         entry = [course_id, dept, name]
 
         times = aggregate_components(course, "div", "class", type_string)
-        if not times and force_full_return:
-            return None
 
         section_mode = "online"
         if type_string == "section delivery-f2f":
@@ -101,28 +99,14 @@ def get_force_firefox(url, type_string):
     driver.get(url)
     data = driver.page_source
     driver.close()
-    soup = BeautifulSoup(data, 'html.parser')
-    return get_by_type(soup, type_string, False)
+    soup = BeautifulSoup(data, 'html5lib')
+    return get_by_type(soup, type_string)
 
 def get_data(dept):
 
-    expect_full_return = False
-
     out = []
-    in_person = get_by_type(get_soup_in_person(dept), "section delivery-f2f", expect_full_return)
-    if in_person is None:
-        print("Firefox for in person")
-        in_person = get_force_firefox(get_in_person(dept), "section delivery-f2f")
-        if in_person is None:
-            in_person = []
-            print("Failed")
-    online = get_by_type(get_soup_online(dept), "section delivery-online", expect_full_return)
-    if online is None:
-        print("Firefox for online")
-        online = get_force_firefox(get_online(dept), "section delivery-f2f")
-        if online is None:
-            online = []
-            print("Failed")
+    in_person = get_by_type(get_soup_in_person(dept), "section delivery-f2f")
+    online = get_by_type(get_soup_online(dept), "section delivery-online")
 
     for i in in_person:
         out.append(i)
@@ -134,7 +118,7 @@ def get_data(dept):
 dt = []
 count = 1
 for code in umd_departments:
-    print("Parsed " + code + " (" + str(count) + "/" + str(len(umd_departments)) + ")")
+    print("Parsing " + code + " (" + str(count) + "/" + str(len(umd_departments)) + ")")
     count += 1
     dt += get_data(code)
 
@@ -147,7 +131,7 @@ for basic_info, lst in dt:
     output[basic_info[0]]["course-name"] = basic_info[2]
     section_info = {}
     for section in lst:
-        print(section)
+        #print(section)
         section_info[section[0]] = {'instructor' : section[4],
                                     'lecture-time' : section[2],
                                     'lab-time' : section[3],
@@ -243,7 +227,7 @@ for dept in dept_names:
     output_data[dept] = [0, 0, 0, 0]
 
 for class_section in dt:
-    print(class_section)
+    #print(class_section)
     dept = class_section[1]
     if is_online(class_section):
         output_data[dept][0] += 1
