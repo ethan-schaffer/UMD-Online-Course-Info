@@ -169,10 +169,10 @@ let dept_summary = {
     },
     "BMGT": {
         "departmentName": "Business and Management",
-        "inPersonSeats": 677,
-        "inPersonSections": 34,
-        "onlineSeats": 5118,
-        "onlineSections": 123
+        "inPersonSeats": 584,
+        "inPersonSections": 31,
+        "onlineSeats": 5286,
+        "onlineSections": 137
     },
     "BMSO": {
         "departmentName": "Online Business MS Programs",
@@ -255,8 +255,8 @@ let dept_summary = {
         "departmentName": "Part-Time MBA Program",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 250,
-        "onlineSections": 15
+        "onlineSeats": 340,
+        "onlineSections": 17
     },
     "BUSM": {
         "departmentName": "Full-Time MBA Program",
