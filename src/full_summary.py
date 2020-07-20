@@ -145,7 +145,7 @@ with open("data_prototypev1.js", "w") as df:
 
         tz_NY = pytz.timezone('America/New_York')
         datetime_east_coast = datetime.now(tz_NY)
-        current_time = datetime_east_coast.strftime("%H:%M:%S")
+        current_time = datetime_east_coast.strftime("%I:%M %p")
         current_date = datetime_east_coast.today().strftime('%Y-%m-%d')
 
         df.write("let last_updated = '" + current_time + " " + current_date + "';\n\n")
