@@ -8,7 +8,7 @@ online	AASP	AASP100	TuTh 11:00am 12:15pm	32	3	Introduction to African American S
 online	AASP	AASP100	TuTh 2:00pm 3:15pm	32	3	Introduction to African American Studies	Jason Nichols	
 online	AASP	AASP100	MWF 2:00pm 2:50pm	35	5	Introduction to African American Studies	Shane Walsh	
 online	AASP	AASP100H	TuTh 12:30pm 1:45pm	5	0	Introduction to African American Studies	George Kintiba	
-online	AASP	AASP101	TuTh 11:00am 12:15pm	30	0	Public Policy and the Black Community	Cecily Hardaway	
+online	AASP	AASP101	TuTh 11:00am 12:15pm	30	1	Public Policy and the Black Community	Cecily Hardaway	
 online	AASP	AASP200	MW 12:00pm 1:15pm	40	0	African Civilization	George Kintiba	
 online	AASP	AASP200	TuTh 7:30pm 8:45pm	20	6	African Civilization	George Kintiba	
 online	AASP	AASP202	MWF 11:00am 11:50am	35	0	Black Culture in the United States	Renina Jarmon	
@@ -36,7 +36,7 @@ online	AASP	AASP498O	W 4:00pm 6:30pm	35	20	Special Topics in Black Culture; Afri
 online	AASP	AASP499P	Tu 3:30pm 6:00pm	30	0	Advanced Topics in Public Policy and the Black Community; African-American Politics from Frederick Douglass to Barack Obama	Kameron Patterson	
 online	AAST	AAST200	TuTh 3:30pm 4:45pm	40	0	Introduction to Asian American Studies	Terry Park	
 online	AAST	AAST233	TuTh 11:00am 12:15pm	30	0	Introduction to Asian American Literature	Instructor: TBA	
-online	AAST	AAST298B	TuTh 11:30am 1:00pm	12	3	Special Topics in Asian American Studies; Visual Cultures of Islam	Instructor: TBA	
+online	AAST	AAST298B	TuTh 11:30am 1:00pm	12	2	Special Topics in Asian American Studies; Visual Cultures of Islam	Instructor: TBA	
 online	AAST	AAST394	TuTh 11:00am 12:15pm	30	0	Growing Up Asian American: The Asian Immigrant Family and the Second Generation	Instructor: TBA	
 online	AAST	AAST398F	MW 2:00pm 3:15pm	25	4	Selected Topics in Asian American Studies; Introduction to Comparative Ethnic Studies	Bayley Marquez	
 online	AAST	AAST398L	W 5:00pm 7:30pm	30	0	Asian Americans in Film	Terry Park	
@@ -97,7 +97,7 @@ in person	ANSC	ANSC103	Th 2:00pm 3:50pm	20	12	Principles of Animal Science Labor
 in person	ANSC	ANSC103	W 3:00pm 4:50pm	20	0	Principles of Animal Science Laboratory	Megan McLean	
 in person	ANSC	ANSC103	W 10:00am 11:50am	20	5	Principles of Animal Science Laboratory	Megan McLean	
 in person	ANSC	ANSC232	MW 10:00am 10:50am	20	1	Horse Management	Amy Burk	Th 9:30am 10:50am
-in person	ANSC	ANSC255	TuTh 11:00am 12:50pm	20	0	Introduction to Aquaculture	Mohamed Salem	
+in person	ANSC	ANSC255	TuTh 11:00am 12:50pm	20	0	Introduction to Aquaculture	Mohamed Salem,Daniel Theisen	
 in person	ANSC	ANSC359	Sa 9:00am 11:00am	10	9	Internship Experience in Animal and Avian Sciences	Sarah Balcom	
 online	ANSC	ANSC101	MWF 1:00pm 1:50pm	156	61	Principles of Animal Science	Sarah Balcom	
 online	ANSC	ANSC204	MW 2:00pm 2:50pm	110	27	Anatomy of Domestic Animals	Angela Black	
@@ -180,7 +180,7 @@ online	ANTH	ANTH465	TuTh 3:30pm 4:45pm	20	4	Ethnoecology: Nature, Knowledge and 
 online	ANTH	ANTH601	Tu 4:00pm 6:40pm	20	18	Applied Anthropology	Mary Butler	
 online	ANTH	ANTH613	TuTh 11:00am 12:15pm	10	10	Health Disparities in the United States	Christina Getrich	
 online	ANTH	ANTH615		8	8	Advanced Studies in Global Health	Matthew Thomann	
-online	ANTH	ANTH620	Th 2:00pm 4:45pm	20	20	Environment and Society	Kenneth Rose	
+online	ANTH	ANTH620	Th 2:00pm 4:45pm	20	20	Environment and Society	Kenneth Rose,Elizabeth Van Dolah,William Dennison	
 online	ANTH	ANTH647	TuTh 12:30pm 1:45pm	10	7	Advanced Material Culture Studies in Archaeology	Stephen Brighton	
 online	ANTH	ANTH653	TuTh 3:30pm 4:45pm	5	5	Archaeology of the Modern City	Stephen Brighton	
 online	ANTH	ANTH655	Th 2:00pm 4:45pm	15	0	Introduction to Museum Scholarship	Diana Marsh	
@@ -247,7 +247,7 @@ online	ARAB	ARAB401	TuTh 12:30pm 1:45pm	15	8	Readings in Arabic Literature	Instr
 online	ARAB	ARAB499C	TuTh 11:00am 12:15pm	25	6	Special Topics in Arabic Studies; Food Cultures in the Global Middle East	Instructor: TBA	
 online	ARAB	ARAB499X	TuTh 9:30am 10:45am	15	6	Special Topics in Arabic Studies; Yemen: Land of War and Peace	Samah Al-salami	
 in person	ARCH	ARCH448M	TuTh 12:30pm 1:45pm	15	0	Selected Topics in Visual Studies in Architecture; Applied Model Making	David Atwater	
-in person	ARCH	ARCH600	MWF 2:00pm 6:00pm	12	0	Integrated Design Studio V	Julie Gabrielli	
+in person	ARCH	ARCH600	MWF 2:00pm 6:00pm	12	0	Integrated Design Studio V	Julie Gabrielli,Amy Gardner	
 in person	ARCH	ARCH611	TuTh 5:00pm 6:15pm	25	0	Advanced Architecture Technology Seminar	Carl Bovill	
 in person	ARCH	ARCH797	TuTh 9:00am 10:15am	20	1	Thesis Proseminar	James Tilghman	
 online	ARCH	ARCH170	TuTh 7:30pm 8:45pm	18	0	Design Thinking and Architecture	Betsy Petrusic	
@@ -335,15 +335,15 @@ online	ARHU	ARHU319C	M 6:00pm 8:00pm	15	9	Writers' House Second Year Colloquium:
 online	ARHU	ARHU375	M 12:30pm 3:00pm	15	10	The TV Writers Room Screenwriting for Television and Video	Paul Cote	
 online	ARHU	ARHU440	M 1:00pm 3:30pm	15	0	Arts Leadership Seminar	Instructor: TBA	
 online	ARHU	ARHU468A	Th 4:00pm 5:30pm	20	11	Peer Mentoring Program; Arts and Humanities' Ambassador Program	Amanda Bachert	
-online	ARMY	ARMY106	TuTh 11:00am 12:15pm	40	27	Basic Military Science I	Marisa Pace	
-online	ARMY	ARMY106	MWF 9:00am 9:50am	40	33	Basic Military Science I	John Andrews	
-online	ARMY	ARMY106	TuTh 11:00am 12:15pm	9	1	Basic Military Science I	Cody Davis	
-online	ARMY	ARMY106	MWF 9:00am 9:50am	9	6	Basic Military Science I	Cody Davis	
-online	ARMY	ARMY199		25	25	ARMY ROTC INDEPENDENT STUDY	Marisa Pace	
-online	ARMY	ARMY201	TuTh 12:30pm 1:45pm	30	0	Army Leadership Development	James Choi	
-online	ARMY	ARMY299		25	23	ARMY ROTC INDEPENDENT STUDY	James Choi	
-online	ARMY	ARMY301	TuTh 11:00am 12:15pm	40	15	Advanced Military Leadership I	Ashley Miller	Th 4:00pm 6:00pm
-online	ARMY	ARMY399		25	23	ARMY ROTC INDEPENDENT STUDY	Ashley Miller	
+online	ARMY	ARMY106	TuTh 11:00am 12:15pm	40	27	Basic Military Science I	John Andrews,Marisa Pace,Cody Davis	
+online	ARMY	ARMY106	MWF 9:00am 9:50am	40	33	Basic Military Science I	John Andrews,Marisa Pace,Cody Davis	
+online	ARMY	ARMY106	TuTh 11:00am 12:15pm	9	1	Basic Military Science I	Cody Davis,John Andrews,Marisa Pace	
+online	ARMY	ARMY106	MWF 9:00am 9:50am	9	6	Basic Military Science I	John Andrews,Marisa Pace,Cody Davis	
+online	ARMY	ARMY199		25	25	ARMY ROTC INDEPENDENT STUDY	Marisa Pace,Cody Davis,John Andrews	
+online	ARMY	ARMY201	TuTh 12:30pm 1:45pm	30	0	Army Leadership Development	Marisa Pace,James Choi	
+online	ARMY	ARMY299		25	23	ARMY ROTC INDEPENDENT STUDY	James Choi,Marisa Pace	
+online	ARMY	ARMY301	TuTh 11:00am 12:15pm	40	15	Advanced Military Leadership I	Marisa Pace,Ashley Miller	Th 4:00pm 6:00pm
+online	ARMY	ARMY399		25	23	ARMY ROTC INDEPENDENT STUDY	Marisa Pace,Ashley Miller	
 online	ARMY	ARMY499		25	15	ARMY ROTC INDEPENDENT STUDY III	Marisa Pace	
 in person	ARSC	ARSC100	Th 9:00am 9:50am	40	30	The USAF Today I	Steven Freund	
 in person	ARSC	ARSC100	Th 1:00pm 1:50pm	35	31	The USAF Today I	Steven Freund	
@@ -356,8 +356,8 @@ in person	ARSC	ARSC300	MW 9:30am 11:00am	20	12	Management and Leadership I	Isham
 in person	ARSC	ARSC400	Th 9:00am 12:00pm	27	21	National Security Forces in Contemporary American Society I	Zachary Crampton	
 in person	ARSC	ARSC400	TuTh 2:00pm 3:30pm	18	5	National Security Forces in Contemporary American Society I	Zachary Crampton	
 in person	ARSC	ARSC400	MW 2:00pm 3:30pm	15	15	National Security Forces in Contemporary American Society I	Zachary Crampton	
-online	ARSC	ARSC059	Th 7:00am 8:50am	220	130	Air Force Officer Lab	Zachary Crampton	
-online	ARSC	ARSC059	Th 7:00am 8:50am	10	6	Air Force Officer Lab	Joshua Rager	
+online	ARSC	ARSC059	Th 7:00am 8:50am	220	130	Air Force Officer Lab	Isham Nichols,Joshua Rager,Zachary Crampton	
+online	ARSC	ARSC059	Th 7:00am 8:50am	10	6	Air Force Officer Lab	Joshua Rager,Isham Nichols,Zachary Crampton	
 in person	ARTH	ARTH370	W 2:00pm 4:30pm	23	7	Latin American Art and Archaeology before 1500	Beryl Bland	
 in person	ARTH	ARTH389A	W 10:00am 12:30pm	10	0	Special Topics in Art History and Archaeology; The Art of Drawing: A Left and Right Brain Experience	Beryl Bland	
 in person	ARTH	ARTH389B	F 10:00am 12:30pm	10	0	Special Topics in Art History and Archaeology; The Art of Color: A Left and Right Brain Experience	Beryl Bland	
@@ -381,7 +381,7 @@ online	ARTH	ARTH303	TuTh 11:00am 12:15pm	25	0	Roman Art and Archaeology	Maryl Ge
 online	ARTH	ARTH305	TuTh 2:00pm 3:15pm	35	7	Archaeological Methods and Practice	Jorge Bravo	
 online	ARTH	ARTH337	TuTh 3:30pm 4:45pm	25	0	Cities and the Arts	Elizabeth Honig	
 online	ARTH	ARTH359I	W 3:30pm 7:00pm	25	0	Film as Art; Gilliam and Cronenberg: The Existential Individual in an Absurd World	Greg Metcalf	
-online	ARTH	ARTH389L	TuTh 11:30am 1:00pm	12	3	Special Topics in Art History and Archaeology; Visual Cultures of Islam	Instructor: TBA	
+online	ARTH	ARTH389L	TuTh 11:30am 1:00pm	12	2	Special Topics in Art History and Archaeology; Visual Cultures of Islam	Instructor: TBA	
 online	ARTH	ARTH389Q	Tu 2:00pm 4:30pm	25	0	Special Topics in Art History and Archaeology; Classic Foreign Films	Jason Kuo	
 online	ARTH	ARTH488A	M 1:00pm 3:30pm	12	0	Colloquium in Art History; The Art and Archaeology of Bronze Age Pylos	Emily Egan	
 online	ARTH	ARTH488B	TuTh 12:30pm 1:45pm	12	1	Colloquium in Art History; Living Lodging, Dwelling, Inhabiting Spaces in Early Modern Europe	Elizabeth Honig	
@@ -461,8 +461,8 @@ online	ARTT	ARTT489Q	TuTh 3:30pm 6:00pm	12	5	Advanced Special Topics in Art; Mul
 online	ARTT	ARTT489T	MW 3:30pm 6:00pm	12	7	Advanced Special Topics in Art; Prints and the Revolution	Jessica Gatlin	
 online	ARTT	ARTT768	Th 6:30pm 9:30pm	20	20	Graduate Colloquium	Justin Strom	
 in person	ASTR	ASTR288C	M 3:30pm 5:30pm	10	4	Special Projects in Astronomy; Astronomy Research Techniques	Instructor: TBA	
-in person	ASTR	ASTR288I	M 4:00pm 4:50pm	20	12	Special Projects in Astronomy; Introduction to the Astronomy Major	Andrew Harris	
-in person	ASTR	ASTR288I	Tu 4:00pm 4:50pm	20	14	Special Projects in Astronomy; Introduction to the Astronomy Major	Andrew Harris	
+in person	ASTR	ASTR288I	M 4:00pm 4:50pm	20	12	Special Projects in Astronomy; Introduction to the Astronomy Major	Andrew Harris,Melissa Hayes-Gehrke	
+in person	ASTR	ASTR288I	Tu 4:00pm 4:50pm	20	14	Special Projects in Astronomy; Introduction to the Astronomy Major	Andrew Harris,Melissa Hayes-Gehrke	
 in person	ASTR	ASTR310	TuTh 2:00pm 3:15pm	10	0	Observational Astronomy	Melissa Hayes-Gehrke	M 9:00am 10:50am
 in person	ASTR	ASTR310	TuTh 2:00pm 3:15pm	10	0	Observational Astronomy	Melissa Hayes-Gehrke	M 1:00pm 2:50pm
 in person	ASTR	ASTR406	TuTh 12:30pm 1:45pm	30	18	Stellar Structure and Evolution	Massimo Ricotti	
@@ -490,7 +490,7 @@ online	ASTR	ASTR120	TuTh 11:00am 12:15pm	30	0	Introductory Astrophysics - Solar 
 online	ASTR	ASTR120	TuTh 11:00am 12:15pm	30	0	Introductory Astrophysics - Solar System	Michael Miller	F 2:00pm 2:50pm
 online	ASTR	ASTR220	TuTh 2:00pm 3:15pm	30	5	Collisions in Space - The Threat of Asteroid Impacts	Jessica Sunshine	W 12:00pm 12:50pm
 online	ASTR	ASTR220	TuTh 2:00pm 3:15pm	30	0	Collisions in Space - The Threat of Asteroid Impacts	Jessica Sunshine	W 1:00pm 1:50pm
-online	ASTR	ASTR230	MWF 12:00pm 12:50pm	36	13	The Science and Fiction of Planetary Systems	Alan Peel	
+online	ASTR	ASTR230	MWF 12:00pm 12:50pm	36	14	The Science and Fiction of Planetary Systems	Alan Peel	
 online	ASTR	ASTR230	MWF 1:00pm 1:50pm	36	14	The Science and Fiction of Planetary Systems	Alan Peel	
 online	ASTR	ASTR230	MWF 2:00pm 2:50pm	36	12	The Science and Fiction of Planetary Systems	Alan Peel	
 online	ASTR	ASTR300	TuTh 2:00pm 3:15pm	50	12	Stars and Stellar Systems	A Surjalal Sharma	
@@ -596,9 +596,9 @@ in person	BMGT	BMGT323	MW 3:30pm 4:45pm	31	0	Taxation of Individuals	Alexander R
 in person	BMGT	BMGT370	TuTh 8:00am 9:15am	40	0	Introduction to Transportation	Leland Gardner	
 in person	BMGT	BMGT370	TuTh 9:30am 10:45am	40	0	Introduction to Transportation	Leland Gardner	
 in person	BMGT	BMGT372	MW 11:00am 12:15pm	40	1	Introduction to Logistics and Supply Chain Management	Leland Gardner	
-in person	BMGT	BMGT390H	TuTh 3:30pm 4:45pm	55	7	Designing Innovative Systems	David Ashley	
+in person	BMGT	BMGT390H	TuTh 3:30pm 4:45pm	55	7	Designing Innovative Systems	David Ashley,Joseph Bailey	
 in person	BMGT	BMGT397	Tu 5:00pm 7:40pm	9	3	Mentoring Multidisciplinary Teams	Pamela Armstrong	
-in person	BMGT	BMGT438A	TuTh 2:00pm 3:15pm	45	0	Special Topics in Operations Management; Applied Quantitative Analysis	Joseph Bailey	
+in person	BMGT	BMGT438A	TuTh 2:00pm 3:15pm	45	0	Special Topics in Operations Management; Applied Quantitative Analysis	Pamela Armstrong,Joseph Bailey	
 in person	BMGT	BMGT477	TuTh 3:30pm 4:45pm	36	0	International Supply Chain Management	Adams Steven	
 in person	BMGT	BMGT477	TuTh 5:00pm 6:15pm	36	0	International Supply Chain Management	Adams Steven	
 online	BMGT	BMGT110	TuTh 12:30pm 1:45pm	250	99	Introduction to the Business Value Chain	Jeff Miller	
@@ -639,7 +639,7 @@ online	BMGT	BMGT230		35	0	Business Statistics	Erich Studer-Ellis
 online	BMGT	BMGT230		20	0	Business Statistics	Erich Studer-Ellis	
 online	BMGT	BMGT230		33	0	Business Statistics	Erich Studer-Ellis	
 online	BMGT	BMGT230		20	0	Business Statistics	Erich Studer-Ellis	
-online	BMGT	BMGT230		20	1	Business Statistics	Erich Studer-Ellis	
+online	BMGT	BMGT230		20	0	Business Statistics	Erich Studer-Ellis	
 online	BMGT	BMGT230		35	15	Business Statistics	Erich Studer-Ellis	
 online	BMGT	BMGT230		35	15	Business Statistics	Erich Studer-Ellis	
 online	BMGT	BMGT230		35	5	Business Statistics	Erich Studer-Ellis	
@@ -668,7 +668,7 @@ online	BMGT	BMGT230B		15	11	Business Statistics	Erich Studer-Ellis
 online	BMGT	BMGT289A	W 5:00pm 7:40pm	60	3	Social Enterprise: Changing the World through Innovation and Transformative Action	Le-Marie Thompson	
 online	BMGT	BMGT289I	MW 3:30pm 4:45pm	240	58	Why Good Managers Make Bad Decisions	Jeff Miller	
 online	BMGT	BMGT289I	TuTh 3:00pm 4:15pm	38	0	Why Good Managers Make Bad Decisions	Jeff Miller	
-online	BMGT	BMGT299B	Tu 5:00pm 5:50pm	30	0	Student Initiated Special Topics; Applied Cloud Computing in Information Systems	Louiqa Raschid	
+online	BMGT	BMGT299B	Tu 5:00pm 5:50pm	30	0	Student Initiated Special Topics; Applied Cloud Computing in Information Systems	Louiqa Raschid,Gorkem Ozer	
 online	BMGT	BMGT301	MW 12:30pm 1:45pm	54	0	Introduction to Information Systems	Zeinab Karake	
 online	BMGT	BMGT301	MW 3:30pm 4:45pm	54	0	Introduction to Information Systems	Zeinab Karake	
 online	BMGT	BMGT301	TuTh 12:30pm 1:45pm	54	0	Introduction to Information Systems	Zeinab Karake	
@@ -755,7 +755,7 @@ online	BMGT	BMGT392	MW 3:30pm 4:45pm	24	3	Introduction to International Business
 online	BMGT	BMGT402	TuTh 2:00pm 3:15pm	31	0	Database Systems	John Bono	Th 6:00pm 6:50pm
 online	BMGT	BMGT402	MW 3:30pm 4:45pm	31	0	Database Systems	Yifei Wang	Tu 6:00pm 6:50pm
 online	BMGT	BMGT402	TuTh 8:00am 9:15am	31	0	Database Systems	John Bono	Th 5:00pm 5:50pm
-online	BMGT	BMGT408C	M 5:00pm 7:40pm	24	1	Emerging Topics in Information Systems; Quality Web Development in Business	James Purtilo	
+online	BMGT	BMGT408C	M 5:00pm 7:40pm	24	1	Emerging Topics in Information Systems; Quality Web Development in Business	Daniel Laurence,James Purtilo	
 online	BMGT	BMGT408E	MW 12:30pm 1:45pm	27	10	Emerging Topics in Information Systems; Big Data and Artificial Intelligence for Business	Vidit Mehta	
 online	BMGT	BMGT411	MW 11:00am 12:15pm	31	15	Ethics and Professionalism in Accounting	Mary Keim	
 online	BMGT	BMGT411	MW 12:30pm 1:45pm	31	0	Ethics and Professionalism in Accounting	Mary Keim	
@@ -821,14 +821,14 @@ online	BMSO	BMSO603	Th 8:45pm 10:15pm	25	23	Data Mining and Predictive Analytics
 online	BMSO	BMSO758C	MW 8:45pm 10:15pm	25	19	Special Topics in Business; Healthcare Operations Management and Marketing	Michelle Dugas	
 online	BMSO	BMSO758D	MW 8:45pm 10:15pm	25	18	Special Topics in Business; Health Informatics and Information Technologies	Kenyon Crowley	
 online	BMSO	BMSO758E	M 8:45pm 10:15pm	25	19	Special Topics in Business; Advanced Marketing Analytics	Michel Wedel	
-online	BMSO	BMSO758F	W 8:45pm 10:15pm	25	19	Special Topics in Business; Financial Analytics	Paul Soto	
+online	BMSO	BMSO758F	W 8:45pm 10:15pm	25	18	Special Topics in Business; Financial Analytics	Paul Soto	
 online	BMSO	BMSO758M	M 8:45pm 10:15pm	25	18	Special Topics in Business; Marketing Management	Mary Beth Furst	
 in person	BSCI	BSCI339D	MW 2:00pm 3:15pm	10	3	Selected Topics in Biology; Neurobiology of Chemosensory Systems	Ricardo Araneda	
 in person	BSCI	BSCI404	TuTh 3:30pm 4:45pm	15	0	Cell Biology from a Biophysical Perspective	Sergei Sukharev	
-in person	BSCI	BSCI411	MWF 10:00am 10:50am	25	0	Bioinformatics and Integrated Genomics	Najib El-Sayed	M 2:00pm 4:50pm
-in person	BSCI	BSCI411	MWF 10:00am 10:50am	25	0	Bioinformatics and Integrated Genomics	Brian Pierce	W 2:00pm 4:50pm
-in person	BSCI	BSCI411H	MWF 10:00am 10:50am	25	0	Bioinformatics and Integrated Genomics	Najib El-Sayed	M 2:00pm 4:50pm
-in person	BSCI	BSCI411H	MWF 10:00am 10:50am	25	0	Bioinformatics and Integrated Genomics	Brian Pierce	W 2:00pm 4:50pm
+in person	BSCI	BSCI411	MWF 10:00am 10:50am	25	0	Bioinformatics and Integrated Genomics	Brian Pierce,Najib El-Sayed	M 2:00pm 4:50pm
+in person	BSCI	BSCI411	MWF 10:00am 10:50am	25	0	Bioinformatics and Integrated Genomics	Najib El-Sayed,Brian Pierce	W 2:00pm 4:50pm
+in person	BSCI	BSCI411H	MWF 10:00am 10:50am	25	0	Bioinformatics and Integrated Genomics	Najib El-Sayed,Brian Pierce	M 2:00pm 4:50pm
+in person	BSCI	BSCI411H	MWF 10:00am 10:50am	25	0	Bioinformatics and Integrated Genomics	Brian Pierce,Najib El-Sayed	W 2:00pm 4:50pm
 in person	BSCI	BSCI415		20	0	Molecular Genetics Laboratory	David Straney	
 in person	BSCI	BSCI464	MW 3:00pm 4:15pm	14	6	Microbial Ecology	Charles Delwiche	
 online	BSCI	BSCI126	Tu 9:30am 10:20am	20	1	Pollinators in Crisis	David Hawthorne	
@@ -870,14 +870,14 @@ online	BSCI	BSCI161S		28	19	Principles of Ecology and Evolution Lab	Francisca Sa
 online	BSCI	BSCI161S		28	22	Principles of Ecology and Evolution Lab	Francisca Saavedra	
 online	BSCI	BSCI170	MWF 11:00am 11:50am	220	31	Principles of Molecular & Cellular Biology	Michael Keller	
 online	BSCI	BSCI170	MWF 12:00pm 12:50pm	140	5	Principles of Molecular & Cellular Biology	Michael Keller	
-online	BSCI	BSCI170		200	21	Principles of Molecular & Cellular Biology	Reid Compton	
+online	BSCI	BSCI170		200	22	Principles of Molecular & Cellular Biology	Reid Compton	
 online	BSCI	BSCI170	MW 4:30pm 5:45pm	120	0	Principles of Molecular & Cellular Biology	Michael Keller	
 online	BSCI	BSCI170	Tu 6:00pm 8:50pm	50	33	Principles of Molecular & Cellular Biology	James Sniezek	
 online	BSCI	BSCI171		28	0	Principles of Molecular & Cellular Biology Laboratory	Swarna Mohan	
 online	BSCI	BSCI171		28	3	Principles of Molecular & Cellular Biology Laboratory	Swarna Mohan	
 online	BSCI	BSCI171		28	0	Principles of Molecular & Cellular Biology Laboratory	Swarna Mohan	
 online	BSCI	BSCI171		28	0	Principles of Molecular & Cellular Biology Laboratory	Swarna Mohan	
-online	BSCI	BSCI171		28	2	Principles of Molecular & Cellular Biology Laboratory	Swarna Mohan	
+online	BSCI	BSCI171		28	3	Principles of Molecular & Cellular Biology Laboratory	Swarna Mohan	
 online	BSCI	BSCI171		28	0	Principles of Molecular & Cellular Biology Laboratory	Swarna Mohan	
 online	BSCI	BSCI171		28	3	Principles of Molecular & Cellular Biology Laboratory	Swarna Mohan	
 online	BSCI	BSCI171		28	4	Principles of Molecular & Cellular Biology Laboratory	Swarna Mohan	
@@ -907,40 +907,40 @@ online	BSCI	BSCI189I	MWF 11:00am 11:50am	22	0	Beyond Race: Human Biological Dive
 online	BSCI	BSCI189I	MWF 11:00am 11:50am	22	0	Beyond Race: Human Biological Diversity	Joelle Presson	W 3:00pm 5:50pm
 online	BSCI	BSCI189I	MWF 11:00am 11:50am	24	4	Beyond Race: Human Biological Diversity	Joelle Presson	Th 9:30am 12:20pm
 online	BSCI	BSCI189I	MWF 11:00am 11:50am	24	2	Beyond Race: Human Biological Diversity	Joelle Presson	Th 1:00pm 3:50pm
-online	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Justicia Opoku-Edusei	M 1:00pm 3:50pm
-online	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Caitlin Fox	M 4:00pm 6:50pm
-online	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Caitlin Fox	Tu 8:00am 10:50am
-online	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Justicia Opoku-Edusei	Tu 11:00am 1:50pm
-online	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Caitlin Fox	Tu 6:00pm 8:50pm
-online	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Justicia Opoku-Edusei	Th 11:00am 1:50pm
-online	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Caitlin Fox	M 1:00pm 3:50pm
-online	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Justicia Opoku-Edusei	M 4:00pm 6:50pm
-online	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Caitlin Fox	Tu 11:00am 1:50pm
-online	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Justicia Opoku-Edusei	Tu 5:00pm 7:50pm
-online	BSCI	BSCI201	TuTh 12:30pm 1:45pm	24	0	Human Anatomy and Physiology I	Caitlin Fox	M 9:00am 11:50am
-online	BSCI	BSCI201	TuTh 12:30pm 1:45pm	24	0	Human Anatomy and Physiology I	Caitlin Fox	M 7:00pm 9:50pm
-online	BSCI	BSCI201	TuTh 12:30pm 1:45pm	24	0	Human Anatomy and Physiology I	Sara Lombardi	Tu 2:00pm 4:50pm
-online	BSCI	BSCI201	TuTh 12:30pm 1:45pm	24	0	Human Anatomy and Physiology I	Caitlin Fox	W 9:00am 11:50am
-online	BSCI	BSCI201	TuTh 12:30pm 1:45pm	24	0	Human Anatomy and Physiology I	Sara Lombardi	Th 8:00am 10:50am
-online	BSCI	BSCI201	TuTh 12:30pm 1:45pm	24	0	Human Anatomy and Physiology I	Caitlin Fox	Th 2:00pm 4:50pm
-online	BSCI	BSCI201	TuTh 12:30pm 1:45pm	24	0	Human Anatomy and Physiology I	Caitlin Fox	Th 6:00pm 8:50pm
-online	BSCI	BSCI201	TuTh 12:30pm 1:45pm	24	0	Human Anatomy and Physiology I	Sara Lombardi	M 9:00am 11:50am
-online	BSCI	BSCI201	TuTh 12:30pm 1:45pm	24	0	Human Anatomy and Physiology I	Caitlin Fox	Tu 2:00pm 4:50pm
-online	BSCI	BSCI202	M 11:00am 1:50pm	24	0	Human Anatomy and Physiology II	Tammatha O'Brien	
-online	BSCI	BSCI202	Tu 9:30am 12:20pm	24	0	Human Anatomy and Physiology II	Caitlin Fox	
-online	BSCI	BSCI202	Tu 1:00pm 3:50pm	24	0	Human Anatomy and Physiology II	Tammatha O'Brien	
-online	BSCI	BSCI202	Tu 7:00pm 9:50pm	24	1	Human Anatomy and Physiology II	Caitlin Fox	
-online	BSCI	BSCI202	W 5:00pm 7:50pm	24	1	Human Anatomy and Physiology II	Caitlin Fox	
-online	BSCI	BSCI202	Th 11:00am 1:50pm	24	0	Human Anatomy and Physiology II	Tammatha O'Brien	
-online	BSCI	BSCI202	Th 9:30am 12:20pm	24	0	Human Anatomy and Physiology II	Tammatha O'Brien	
-online	BSCI	BSCI202	TuTh 9:30am 10:45am	24	0	Human Anatomy and Physiology II	Caitlin Fox	M 5:00pm 7:50pm
-online	BSCI	BSCI202	TuTh 9:30am 10:45am	24	0	Human Anatomy and Physiology II	Caitlin Fox	M 2:00pm 4:50pm
-online	BSCI	BSCI202	TuTh 9:30am 10:45am	24	0	Human Anatomy and Physiology II	Caitlin Fox	Tu 4:00pm 6:50pm
-online	BSCI	BSCI202	TuTh 9:30am 10:45am	24	0	Human Anatomy and Physiology II	Caitlin Fox	W 11:00am 1:50pm
-online	BSCI	BSCI202	TuTh 9:30am 10:45am	24	0	Human Anatomy and Physiology II	Caitlin Fox	Th 2:00pm 4:50pm
-online	BSCI	BSCI202	TuTh 9:30am 10:45am	24	0	Human Anatomy and Physiology II	Caitlin Fox	Th 1:00pm 3:50pm
-online	BSCI	BSCI202	TuTh 9:30am 10:45am	24	0	Human Anatomy and Physiology II	Caitlin Fox	Th 5:00pm 7:50pm
-online	BSCI	BSCI202	TuTh 9:30am 10:45am	24	0	Human Anatomy and Physiology II	Caitlin Fox	F 8:00am 10:50am
+online	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Justicia Opoku-Edusei,Caitlin Fox	M 1:00pm 3:50pm
+online	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Caitlin Fox,Justicia Opoku-Edusei	M 4:00pm 6:50pm
+online	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Caitlin Fox,Justicia Opoku-Edusei	Tu 8:00am 10:50am
+online	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Caitlin Fox,Justicia Opoku-Edusei	Tu 11:00am 1:50pm
+online	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Justicia Opoku-Edusei,Caitlin Fox	Tu 6:00pm 8:50pm
+online	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Justicia Opoku-Edusei,Caitlin Fox	Th 11:00am 1:50pm
+online	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Caitlin Fox,Justicia Opoku-Edusei	M 1:00pm 3:50pm
+online	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Caitlin Fox,Justicia Opoku-Edusei	M 4:00pm 6:50pm
+online	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Caitlin Fox,Justicia Opoku-Edusei	Tu 11:00am 1:50pm
+online	BSCI	BSCI201	MWF 10:00am 10:50am	24	0	Human Anatomy and Physiology I	Justicia Opoku-Edusei,Caitlin Fox	Tu 5:00pm 7:50pm
+online	BSCI	BSCI201	TuTh 12:30pm 1:45pm	24	0	Human Anatomy and Physiology I	Caitlin Fox,Sara Lombardi	M 9:00am 11:50am
+online	BSCI	BSCI201	TuTh 12:30pm 1:45pm	24	0	Human Anatomy and Physiology I	Caitlin Fox,Sara Lombardi	M 7:00pm 9:50pm
+online	BSCI	BSCI201	TuTh 12:30pm 1:45pm	24	0	Human Anatomy and Physiology I	Caitlin Fox,Sara Lombardi	Tu 2:00pm 4:50pm
+online	BSCI	BSCI201	TuTh 12:30pm 1:45pm	24	0	Human Anatomy and Physiology I	Sara Lombardi,Caitlin Fox	W 9:00am 11:50am
+online	BSCI	BSCI201	TuTh 12:30pm 1:45pm	24	0	Human Anatomy and Physiology I	Sara Lombardi,Caitlin Fox	Th 8:00am 10:50am
+online	BSCI	BSCI201	TuTh 12:30pm 1:45pm	24	0	Human Anatomy and Physiology I	Sara Lombardi,Caitlin Fox	Th 2:00pm 4:50pm
+online	BSCI	BSCI201	TuTh 12:30pm 1:45pm	24	0	Human Anatomy and Physiology I	Sara Lombardi,Caitlin Fox	Th 6:00pm 8:50pm
+online	BSCI	BSCI201	TuTh 12:30pm 1:45pm	24	0	Human Anatomy and Physiology I	Caitlin Fox,Sara Lombardi	M 9:00am 11:50am
+online	BSCI	BSCI201	TuTh 12:30pm 1:45pm	24	0	Human Anatomy and Physiology I	Caitlin Fox,Sara Lombardi	Tu 2:00pm 4:50pm
+online	BSCI	BSCI202	M 11:00am 1:50pm	24	0	Human Anatomy and Physiology II	Caitlin Fox,Tammatha O'Brien	
+online	BSCI	BSCI202	Tu 9:30am 12:20pm	24	0	Human Anatomy and Physiology II	Tammatha O'Brien,Caitlin Fox	
+online	BSCI	BSCI202	Tu 1:00pm 3:50pm	24	0	Human Anatomy and Physiology II	Tammatha O'Brien,Caitlin Fox	
+online	BSCI	BSCI202	Tu 7:00pm 9:50pm	24	1	Human Anatomy and Physiology II	Caitlin Fox,Tammatha O'Brien	
+online	BSCI	BSCI202	W 5:00pm 7:50pm	24	1	Human Anatomy and Physiology II	Tammatha O'Brien,Caitlin Fox	
+online	BSCI	BSCI202	Th 11:00am 1:50pm	24	0	Human Anatomy and Physiology II	Tammatha O'Brien,Caitlin Fox	
+online	BSCI	BSCI202	Th 9:30am 12:20pm	24	0	Human Anatomy and Physiology II	Caitlin Fox,Tammatha O'Brien	
+online	BSCI	BSCI202	TuTh 9:30am 10:45am	24	0	Human Anatomy and Physiology II	Caitlin Fox,Sara Lombardi	M 5:00pm 7:50pm
+online	BSCI	BSCI202	TuTh 9:30am 10:45am	24	0	Human Anatomy and Physiology II	Caitlin Fox,Sara Lombardi	M 2:00pm 4:50pm
+online	BSCI	BSCI202	TuTh 9:30am 10:45am	24	0	Human Anatomy and Physiology II	Caitlin Fox,Sara Lombardi	Tu 4:00pm 6:50pm
+online	BSCI	BSCI202	TuTh 9:30am 10:45am	24	0	Human Anatomy and Physiology II	Sara Lombardi,Caitlin Fox	W 11:00am 1:50pm
+online	BSCI	BSCI202	TuTh 9:30am 10:45am	24	0	Human Anatomy and Physiology II	Sara Lombardi,Caitlin Fox	Th 2:00pm 4:50pm
+online	BSCI	BSCI202	TuTh 9:30am 10:45am	24	0	Human Anatomy and Physiology II	Sara Lombardi,Caitlin Fox	Th 1:00pm 3:50pm
+online	BSCI	BSCI202	TuTh 9:30am 10:45am	24	0	Human Anatomy and Physiology II	Sara Lombardi,Caitlin Fox	Th 5:00pm 7:50pm
+online	BSCI	BSCI202	TuTh 9:30am 10:45am	24	0	Human Anatomy and Physiology II	Sara Lombardi,Caitlin Fox	F 8:00am 10:50am
 online	BSCI	BSCI202	Tu 6:00pm 8:50pm	24	8	Human Anatomy and Physiology II	Justicia Opoku-Edusei	Th 6:00pm 8:50pm
 online	BSCI	BSCI207	MWF 9:00am 9:50am	151	24	Principles of Biology III - Organismal Biology	Instructor: TBA	
 online	BSCI	BSCI207	MWF 2:00pm 2:50pm	150	0	Principles of Biology III - Organismal Biology	Karen Carleton	
@@ -1016,7 +1016,7 @@ online	BSCI	BSCI339W	TuTh 3:30pm 4:45pm	30	0	Selected Topics in Biology; Molecul
 online	BSCI	BSCI348A	F 8:00am 8:50am	25	25	Special Topics in Cell Biology and Molecular Genetics; Microbiology Undergraduate Teaching Practicum	John Buchner	
 online	BSCI	BSCI348I	F 5:00pm 8:00pm	10	0	Special Topics in Cell Biology and Molecular Genetics; Infectious Disease Process	Volker Briken	
 online	BSCI	BSCI353	TuTh 12:30pm 1:45pm	180	0	Principles of Neuroscience	Instructor: TBA	
-online	BSCI	BSCI360	MW 11:00am 11:50am	20	3	Principles of Animal Behavior	Danielle Adams	F 10:00am 10:50am
+online	BSCI	BSCI360	MW 11:00am 11:50am	20	2	Principles of Animal Behavior	Danielle Adams	F 10:00am 10:50am
 online	BSCI	BSCI360	MW 11:00am 11:50am	20	0	Principles of Animal Behavior	Danielle Adams	F 11:00am 11:50am
 online	BSCI	BSCI361	W 2:00pm 2:50pm	25	0	Principles of Ecology	Nathan Swenson	
 online	BSCI	BSCI361	W 3:00pm 3:50pm	25	0	Principles of Ecology	Nathan Swenson	
@@ -1034,14 +1034,14 @@ online	BSCI	BSCI430	TuTh 2:00pm 3:15pm	31	0	Developmental Biology	William Jeffer
 online	BSCI	BSCI432	TuTh 2:00pm 3:15pm	18	9	Systems View of Cell Biology	Antony Jose	
 online	BSCI	BSCI433	TuTh 9:30am 10:45am	45	0	Biology of Cancer	Beth Parent	
 online	BSCI	BSCI437	MWF 11:00am 11:50am	60	0	General Virology	Margaret Scull	
-online	BSCI	BSCI440	MWF 10:00am 10:50am	30	19	Mammalian Physiology	Joshua Singer	M 11:00am 12:50pm
-online	BSCI	BSCI440	MWF 10:00am 10:50am	30	16	Mammalian Physiology	Colenso Speer	M 2:00pm 3:50pm
-online	BSCI	BSCI440	MWF 10:00am 10:50am	30	23	Mammalian Physiology	Joshua Singer	M 2:00pm 3:50pm
-online	BSCI	BSCI440	MWF 10:00am 10:50am	30	22	Mammalian Physiology	Colenso Speer	Th 8:00am 9:50am
-online	BSCI	BSCI440	MWF 2:00pm 2:50pm	30	1	Mammalian Physiology	Colenso Speer	M 11:00am 12:50pm
-online	BSCI	BSCI440	MWF 2:00pm 2:50pm	30	1	Mammalian Physiology	Colenso Speer	Tu 8:00am 9:50am
-online	BSCI	BSCI440	MWF 2:00pm 2:50pm	30	0	Mammalian Physiology	Joshua Singer	W 10:00am 11:50am
-online	BSCI	BSCI440	MWF 2:00pm 2:50pm	30	1	Mammalian Physiology	Colenso Speer	W 11:00am 12:50pm
+online	BSCI	BSCI440	MWF 10:00am 10:50am	30	19	Mammalian Physiology	Joshua Singer,Colenso Speer	M 11:00am 12:50pm
+online	BSCI	BSCI440	MWF 10:00am 10:50am	30	16	Mammalian Physiology	Colenso Speer,Joshua Singer	M 2:00pm 3:50pm
+online	BSCI	BSCI440	MWF 10:00am 10:50am	30	23	Mammalian Physiology	Joshua Singer,Colenso Speer	M 2:00pm 3:50pm
+online	BSCI	BSCI440	MWF 10:00am 10:50am	30	22	Mammalian Physiology	Colenso Speer,Joshua Singer	Th 8:00am 9:50am
+online	BSCI	BSCI440	MWF 2:00pm 2:50pm	30	1	Mammalian Physiology	Joshua Singer,Colenso Speer	M 11:00am 12:50pm
+online	BSCI	BSCI440	MWF 2:00pm 2:50pm	30	1	Mammalian Physiology	Colenso Speer,Joshua Singer	Tu 8:00am 9:50am
+online	BSCI	BSCI440	MWF 2:00pm 2:50pm	30	0	Mammalian Physiology	Joshua Singer,Colenso Speer	W 10:00am 11:50am
+online	BSCI	BSCI440	MWF 2:00pm 2:50pm	30	1	Mammalian Physiology	Colenso Speer,Joshua Singer	W 11:00am 12:50pm
 online	BSCI	BSCI440	MWF 9:30am 10:45am	40	13	Mammalian Physiology	David Sandstrom	
 online	BSCI	BSCI441	F 12:00pm 12:50pm	20	0	Mammalian Physiology Laboratory	Carmen Cantemir-Stone	Tu 2:00pm 5:50pm
 online	BSCI	BSCI441	F 12:00pm 12:50pm	20	0	Mammalian Physiology Laboratory	Carmen Cantemir-Stone	W 3:00pm 6:50pm
@@ -1150,23 +1150,23 @@ online	BUSM	BUSM754	MW 12:00pm 1:50pm	0	0	Competitive and Collaborative Negotiat
 online	BUSM	BUSM758B	MW 2:00pm 3:50pm	0	0	Special Topics in Business; Financial Stability and Risk Management	Haluk Unal	
 online	BUSO	BUSO600	M 7:00pm 8:30pm	24	0	Leadership and Teamwork	Trevor Foulk	
 online	BUSO	BUSO600	M 8:45pm 10:15pm	24	0	Leadership and Teamwork	Trevor Foulk	
-online	BUSO	BUSO600	M 7:00pm 8:30pm	24	8	Leadership and Teamwork	Gosia Langa Basit	
+online	BUSO	BUSO600	M 7:00pm 8:30pm	24	7	Leadership and Teamwork	Gosia Langa Basit	
 online	BUSO	BUSO600	M 8:45pm 10:15pm	24	21	Leadership and Teamwork	Gosia Langa Basit	
 online	BUSO	BUSO600	Tu 7:00pm 8:30pm	24	2	Leadership and Teamwork	Nicole Coomber	
 online	BUSO	BUSO600	Tu 8:45pm 10:15pm	24	17	Leadership and Teamwork	Nicole Coomber	
 online	BUSO	BUSO600	Tu 7:00pm 8:30pm	24	0	Leadership and Teamwork	Trevor Foulk	
 online	BUSO	BUSO600	Tu 8:45pm 10:15pm	24	9	Leadership and Teamwork	Trevor Foulk	
-online	BUSO	BUSO601	M 7:00pm 8:30pm	24	1	Corporate Finance I	Ceyed Baiju	
+online	BUSO	BUSO601	M 7:00pm 8:30pm	24	0	Corporate Finance I	Ceyed Baiju	
 online	BUSO	BUSO601	M 8:45pm 10:15pm	24	15	Corporate Finance I	Ceyed Baiju	
 online	BUSO	BUSO601	Tu 7:00pm 8:30pm	24	0	Corporate Finance I	Elinda Kiss	
 online	BUSO	BUSO601	Tu 8:45pm 10:15pm	24	0	Corporate Finance I	Elinda Kiss	
 online	BUSO	BUSO601	Tu 7:00pm 8:30pm	24	13	Corporate Finance I	Ceyed Baiju	
-online	BUSO	BUSO601	Tu 8:45pm 10:15pm	24	20	Corporate Finance I	Ceyed Baiju	
+online	BUSO	BUSO601	Tu 8:45pm 10:15pm	24	19	Corporate Finance I	Ceyed Baiju	
 online	BUSO	BUSO601	Tu 7:00pm 8:30pm	24	6	Corporate Finance I	Joel Naroff	
 online	BUSO	BUSO601	Tu 8:45pm 10:15pm	24	17	Corporate Finance I	Joel Naroff	
 online	BUSO	BUSO602	W 7:00pm 8:30pm	24	0	Financial Accounting	Stephen Brown	
 online	BUSO	BUSO602	W 8:45pm 10:15pm	24	4	Financial Accounting	Stephen Brown	
-online	BUSO	BUSO602	W 7:00pm 8:30pm	24	8	Financial Accounting	William Ford	
+online	BUSO	BUSO602	W 7:00pm 8:30pm	24	7	Financial Accounting	William Ford	
 online	BUSO	BUSO602	W 8:45pm 10:15pm	24	18	Financial Accounting	William Ford	
 online	BUSO	BUSO602	Th 7:00pm 8:30pm	24	0	Financial Accounting	Progyan Basu	
 online	BUSO	BUSO602	Th 8:45pm 10:15pm	24	0	Financial Accounting	Progyan Basu	
@@ -1187,8 +1187,8 @@ online	BUSO	BUSO706	W 8:45pm 10:15pm	23	16	Organizational Change	Adina Dabu
 online	BUSO	BUSO706	Th 7:00pm 8:30pm	23	6	Organizational Change	Myeong-Gu Seo	
 online	BUSO	BUSO706	Th 8:45pm 10:15pm	23	12	Organizational Change	Myeong-Gu Seo	
 online	BUSO	BUSO712	W 7:00pm 8:30pm	24	1	Entrepreneurship	Brent Goldfarb	
-online	BUSO	BUSO712	W 8:45pm 10:15pm	24	16	Entrepreneurship	Brent Goldfarb	
-online	BUSO	BUSO712	W 7:00pm 8:30pm	24	6	Entrepreneurship	David Kressler	
+online	BUSO	BUSO712	W 8:45pm 10:15pm	24	15	Entrepreneurship	Brent Goldfarb	
+online	BUSO	BUSO712	W 7:00pm 8:30pm	24	5	Entrepreneurship	David Kressler	
 online	BUSO	BUSO712	W 8:45pm 10:15pm	24	0	Entrepreneurship	David Kressler	
 online	BUSO	BUSO712	Th 7:00pm 8:30pm	24	0	Entrepreneurship	David Kirsch	
 online	BUSO	BUSO712	Th 8:45pm 10:15pm	24	11	Entrepreneurship	David Kirsch	
@@ -1211,17 +1211,17 @@ online	BUSO	BUSO758J	Tu 7:00pm 8:30pm	21	12	Special Topics in Business; Corporat
 online	BUSO	BUSO758J	Tu 8:45pm 10:15pm	21	16	Special Topics in Business; Corporate Finance II	Ceyed Baiju	
 online	BUSO	BUSO782	W 8:45pm 10:15pm	25	23	Financial Planning and Control Systems for Managers and Consultants	Lei Zhou	
 online	BUSO	BUSO782	W 7:00pm 8:30pm	25	11	Financial Planning and Control Systems for Managers and Consultants	Lei Zhou	
-in person	CBMG	CBMG688J	MW 4:00pm 6:00pm	15	8	Special Topics in Cell Biology and Molecular Genetics; Genetics: Immunology and Host Defense	Roy Mariuzza	
+in person	CBMG	CBMG688J	MW 4:00pm 6:00pm	15	8	Special Topics in Cell Biology and Molecular Genetics; Genetics: Immunology and Host Defense	David Mosser,Roy Mariuzza	
 in person	CBMG	CBMG688M	MW 8:00am 9:50am	4	0	Special Topics in Cell Biology and Molecular Genetics; Microbial Genetics	Vincent Lee	
 in person	CBMG	CBMG699K	W 11:00am 12:40pm	12	12	Special Problems in Cell Biology and Molecular Genetics; Biological Sciences Teaching and Learning in Higher Education	Gili Ad-Marbach	
 online	CBMG	CBMG688A		20	20	Special Topics in Cell Biology and Molecular Genetics; Research Experiences	Stephen Mount	
 online	CBMG	CBMG688C	TuTh 12:30pm 1:45pm	60	0	Special Topics in Cell Biology and Molecular Genetics	Norma Andrews	
-online	CBMG	CBMG688D	TuTh 4:00pm 6:00pm	30	28	Special Topics in Cell Biology and Molecular Genetics; Genetics: Cell Biology I - Structure and Function	Sougata Roy	
-online	CBMG	CBMG688K	MW 3:00pm 5:00pm	20	16	Special Topics in Cell Biology and Molecular Genetics; Genetics: Molecular Virology	Margaret Scull	
+online	CBMG	CBMG688D	TuTh 4:00pm 6:00pm	30	28	Special Topics in Cell Biology and Molecular Genetics; Genetics: Cell Biology I - Structure and Function	Wenxia Song,Sougata Roy	
+online	CBMG	CBMG688K	MW 3:00pm 5:00pm	20	16	Special Topics in Cell Biology and Molecular Genetics; Genetics: Molecular Virology	Margaret Scull,Jeffrey DeStefano	
 online	CBMG	CBMG688N	TuTh 4:00pm 6:00pm	10	8	Special Topics in Cell Biology and Molecular Genetics; Write Science Using the Movies	Antony Jose	
-online	CBMG	CBMG688P	MW 2:00pm 3:50pm	12	0	Special Topics in Cell Biology and Molecular Genetics; Programming for Biology	Stephen Mount	
-online	CBMG	CBMG688Q	TuTh 4:00pm 6:00pm	15	9	Special Topics in Cell Biology and Molecular Genetics; Responding to Current and Emerging Pathogens	Kenneth Frauwirth	
-online	CBMG	CBMG688Y	TuTh 9:00am 10:50am	24	16	Special Topics in Cell Biology and Molecular Genetics; Bioinformatics and Genomics	Najib El-Sayed	
+online	CBMG	CBMG688P	MW 2:00pm 3:50pm	12	0	Special Topics in Cell Biology and Molecular Genetics; Programming for Biology	Stephen Mount,Najib El-Sayed	
+online	CBMG	CBMG688Q	TuTh 4:00pm 6:00pm	15	9	Special Topics in Cell Biology and Molecular Genetics; Responding to Current and Emerging Pathogens	Peter Hobart,Kenneth Frauwirth	
+online	CBMG	CBMG688Y	TuTh 9:00am 10:50am	24	16	Special Topics in Cell Biology and Molecular Genetics; Bioinformatics and Genomics	Najib El-Sayed,Michael Cummings	
 online	CBMG	CBMG699D		20	20	Special Problems in Cell Biology and Molecular Genetics; Molecular Genetics: Bioinformatics and Computation Biology	Stephen Mount	
 online	CBMG	CBMG699X	F 9:00am 10:30am	20	15	Special Problems in Cell Biology and Molecular Genetics; Host Pathogen Interactions	David Mosser	
 online	CBMG	CBMG699Y	M 11:00am 12:00pm	20	20	Special Problems in Cell Biology and Molecular Genetics; Plant Cell Biology Journal Club	Zhongchi Liu	
@@ -1295,19 +1295,19 @@ online	CCJS	CCJS388H	M 2:00pm 4:30pm	20	5	Independent Reading Course in Criminol
 online	CCJS	CCJS389H	Tu 2:00pm 4:30pm	20	13	Independent Research in Criminology and Criminal Justice	Bianca Bersani	
 online	CCJS	CCJS418C	MW 2:00pm 3:15pm	50	0	Seminar in Criminology and Criminal Justice; Women and Crime	Rachel Ellis	
 online	CCJS	CCJS418D		50	0	Seminar in Criminology and Criminal Justice; Evolving Legal Issues	David Salem	
-online	CCJS	CCJS418M		50	24	Seminar in Criminology and Criminal Justice; Cross National Comparisons of Crime and Criminal Justice	James Lynch	
+online	CCJS	CCJS418M		50	23	Seminar in Criminology and Criminal Justice; Cross National Comparisons of Crime and Criminal Justice	James Lynch	
 online	CCJS	CCJS418P		50	0	Seminar in Criminology and Criminal Justice; Marijuana, Law and Society	Alan Lehman	
-online	CCJS	CCJS418T	Th 4:00pm 6:30pm	50	30	Seminar in Criminology and Criminal Justice; Controversies and New Directions in Criminal Justice	Brian Johnson	
+online	CCJS	CCJS418T	Th 4:00pm 6:30pm	50	29	Seminar in Criminology and Criminal Justice; Controversies and New Directions in Criminal Justice	Brian Johnson	
 online	CCJS	CCJS450		48	0	Advanced Juvenile Delinquency	Justine Madoo	
 online	CCJS	CCJS450		52	0	Advanced Juvenile Delinquency	Jessica Miller	
 online	CCJS	CCJS451		100	0	Crime and Delinquency Prevention	Kyle Dorsey	
 online	CCJS	CCJS451		40	24	Crime and Delinquency Prevention	Thomas Alexander	
 online	CCJS	CCJS453	W 11:00am 1:30pm	40	19	White Collar and Organized Crime	Alan Drew	
 online	CCJS	CCJS454	MWF 10:00am 10:50am	50	1	Contemporary Criminological Theory	Wade Jacobsen	
-online	CCJS	CCJS498E		40	5	Selected Topics in Criminology and Criminal Justice; Social Construction of Homicide	Thomas Alexander	
+online	CCJS	CCJS498E		40	4	Selected Topics in Criminology and Criminal Justice; Social Construction of Homicide	Thomas Alexander	
 online	CCJS	CCJS498G		50	0	Selected Topics in Criminology and Criminal Justice; Gangs	Justine Madoo	
-online	CCJS	CCJS498I	W 12:30pm 3:00pm	30	15	Selected Topics in Criminology and Criminal Justice; Digital Forensics	John Conroy	
-online	CCJS	CCJS498K	W 6:30pm 9:00pm	40	7	Selected Topics in Criminology and Criminal Justice; Child Abuse Investigations	Louis Morlier	
+online	CCJS	CCJS498I	W 12:30pm 3:00pm	30	15	Selected Topics in Criminology and Criminal Justice; Digital Forensics	Michael Yu,John Conroy	
+online	CCJS	CCJS498K	W 6:30pm 9:00pm	40	6	Selected Topics in Criminology and Criminal Justice; Child Abuse Investigations	Louis Morlier	
 online	CCJS	CCJS498P	M 9:30am 12:00pm	40	25	Selected Topics in Criminology and Criminal Justice; Truth and Justice in the Disinformation Era	Judith Philipson	
 online	CCJS	CCJS498X	Th 9:30am 12:00pm	40	29	Selected Topics in Criminology and Criminal Justice; Forensic Investigations in the Criminal Justice System	Heidi Bresee	
 online	CCJS	CCJS600	W 4:00pm 6:45pm	20	16	Criminal Justice	Brian Johnson	
@@ -1321,16 +1321,16 @@ online	CCJS	CCJS653	Th 4:00pm 6:45pm	20	8	Seminar in Corrections	Robert Stewart
 online	CCJS	CCJS654	Tu 4:00pm 6:45pm	20	16	History of Criminological Thought	Wade Jacobsen	
 online	CCJS	CCJS710	Th 4:00pm 6:45pm	15	8	Advanced Statistics Methods - Limited Dependent Variables	Laura Dugan	
 online	CCJS	CCJS720	W 4:00pm 6:45pm	20	12	Criminal Justice System Planning: Policy Analysis for Crime Control	Greg Midgette	
-online	CHBE	CHBE100	W 3:00pm 3:50pm	35	5	Exploring ChBE	Deborah Goldberg	
+online	CHBE	CHBE100	W 3:00pm 3:50pm	35	5	Exploring ChBE	Ganesh Sriram,Deborah Goldberg	
 online	CHBE	CHBE250	TuTh 12:30pm 1:45pm	95	43	Computer Methods in Chemical Engineering	Nam Sun Wang	M 11:00am 11:50am
 online	CHBE	CHBE301	TuTh 2:00pm 3:15pm	95	35	Chemical and Biomolecular Engineering Thermodynamics I	Jeffery Klauda	W 11:00am 11:50am
 online	CHBE	CHBE333	W 12:00pm 12:50pm	15	4	Chemical Engineering Seminar	Deborah Goldberg	
 online	CHBE	CHBE333	W 1:00pm 1:50pm	15	0	Chemical Engineering Seminar	Deborah Goldberg	
 online	CHBE	CHBE410	MWF 10:00am 10:50am	100	26	Statistics and Design of Experiments	Deborah Goldberg	F 11:00am 11:50am
 online	CHBE	CHBE422	TuTh 3:30pm 4:45pm	65	6	Chemical and Biomolecular Engineering Transport Phenomena I	Panagiotis Dimitrakopoulos	F 1:00pm 1:50pm
-online	CHBE	CHBE437	Tu 11:00am 3:00pm	24	5	Chemical and Biomolecular Engineering Laboratory	Chen Zhang	Tu 10:00am 10:50am
-online	CHBE	CHBE437	Th 11:00am 3:00pm	24	14	Chemical and Biomolecular Engineering Laboratory	Chen Zhang	Th 10:00am 10:50am
-online	CHBE	CHBE437	F 1:00pm 5:00pm	24	3	Chemical and Biomolecular Engineering Laboratory	Audaldo Ponce	F 10:00am 10:50am
+online	CHBE	CHBE437	Tu 11:00am 3:00pm	24	5	Chemical and Biomolecular Engineering Laboratory	Chen Zhang,Audaldo Ponce	Tu 10:00am 10:50am
+online	CHBE	CHBE437	Th 11:00am 3:00pm	24	14	Chemical and Biomolecular Engineering Laboratory	Chen Zhang,Audaldo Ponce	Th 10:00am 10:50am
+online	CHBE	CHBE437	F 1:00pm 5:00pm	24	3	Chemical and Biomolecular Engineering Laboratory	Audaldo Ponce,Chen Zhang	F 10:00am 10:50am
 online	CHBE	CHBE440	MWF 2:00pm 2:50pm	60	1	Chemical Kinetics and Reactor Design	Srinivasa Raghavan	M 1:00pm 1:50pm
 online	CHBE	CHBE442	MWF 12:00pm 12:50pm	100	39	Chemical and Biomolecular Systems Analysis	Kyu Yong Choi	W 4:00pm 4:50pm
 online	CHBE	CHBE444	TuTh 3:30pm 4:45pm	30	2	Process Engineering Economics and Design I	Ganesh Sriram	W 11:00am 11:50am
@@ -1349,7 +1349,7 @@ in person	CHEM	CHEM132	Tu 12:30pm 3:20pm	23	5	General Chemistry I Laboratory	Chr
 in person	CHEM	CHEM132	Tu 12:30pm 3:20pm	24	2	General Chemistry I Laboratory	Christiana Guest	
 in person	CHEM	CHEM132	Tu 12:30pm 3:20pm	24	5	General Chemistry I Laboratory	Christiana Guest	
 in person	CHEM	CHEM132	Tu 3:30pm 6:20pm	24	1	General Chemistry I Laboratory	Christiana Guest	
-in person	CHEM	CHEM132	W 9:00am 11:50am	24	12	General Chemistry I Laboratory	Christiana Guest	
+in person	CHEM	CHEM132	W 9:00am 11:50am	24	13	General Chemistry I Laboratory	Christiana Guest	
 in person	CHEM	CHEM132	W 12:00pm 2:50pm	23	2	General Chemistry I Laboratory	Christiana Guest	
 in person	CHEM	CHEM132	W 3:00pm 5:50pm	24	3	General Chemistry I Laboratory	Christiana Guest	
 in person	CHEM	CHEM132	W 3:00pm 5:50pm	24	1	General Chemistry I Laboratory	Christiana Guest	
@@ -1368,7 +1368,7 @@ in person	CHEM	CHEM132C	M 12:00pm 2:50pm	24	1	General Chemistry I Laboratory	Chr
 in person	CHEM	CHEM132C	M 12:00pm 2:50pm	24	5	General Chemistry I Laboratory	Christiana Guest	
 in person	CHEM	CHEM132C	M 3:00pm 5:50pm	24	1	General Chemistry I Laboratory	Christiana Guest	
 in person	CHEM	CHEM132C	M 3:00pm 5:50pm	24	12	General Chemistry I Laboratory	Christiana Guest	
-in person	CHEM	CHEM132C	Tu 9:30am 12:20pm	24	9	General Chemistry I Laboratory	Christiana Guest	
+in person	CHEM	CHEM132C	Tu 9:30am 12:20pm	24	10	General Chemistry I Laboratory	Christiana Guest	
 in person	CHEM	CHEM132C	Tu 3:30pm 6:20pm	24	7	General Chemistry I Laboratory	Christiana Guest	
 in person	CHEM	CHEM132C	W 12:00pm 2:50pm	24	10	General Chemistry I Laboratory	Christiana Guest	
 in person	CHEM	CHEM132C	Th 12:30pm 3:20pm	24	5	General Chemistry I Laboratory	Christiana Guest	
@@ -1377,7 +1377,7 @@ in person	CHEM	CHEM132C	Th 3:30pm 6:20pm	24	15	General Chemistry I Laboratory	Ch
 in person	CHEM	CHEM132C	F 12:00pm 2:50pm	24	7	General Chemistry I Laboratory	Christiana Guest	
 in person	CHEM	CHEM132S	Tu 9:30am 12:20pm	24	12	General Chemistry I Laboratory	Christiana Guest	
 in person	CHEM	CHEM132S	W 12:00pm 2:50pm	24	10	General Chemistry I Laboratory	Christiana Guest	
-in person	CHEM	CHEM132S	Th 3:30pm 6:20pm	24	1	General Chemistry I Laboratory	Christiana Guest	
+in person	CHEM	CHEM132S	Th 3:30pm 6:20pm	24	2	General Chemistry I Laboratory	Christiana Guest	
 in person	CHEM	CHEM136	M 12:00pm 2:50pm	24	9	General Chemistry Laboratory for Engineers	Christiana Guest	
 in person	CHEM	CHEM136	Tu 3:30pm 6:20pm	24	0	General Chemistry Laboratory for Engineers	Christiana Guest	
 in person	CHEM	CHEM136	Tu 9:30am 12:20pm	24	12	General Chemistry Laboratory for Engineers	Christiana Guest	
@@ -1441,7 +1441,7 @@ online	CHEM	CHEM132		18	0	General Chemistry I Laboratory	Christiana Guest
 online	CHEM	CHEM132		18	0	General Chemistry I Laboratory	Christiana Guest	
 online	CHEM	CHEM132	W 7:30pm 10:30pm	24	8	General Chemistry I Laboratory	Christiana Guest	
 online	CHEM	CHEM132	W 7:30pm 10:30pm	24	24	General Chemistry I Laboratory	Christiana Guest	
-online	CHEM	CHEM132V		240	81	General Chemistry I Laboratory	Christiana Guest	
+online	CHEM	CHEM132V		240	80	General Chemistry I Laboratory	Christiana Guest	
 online	CHEM	CHEM134	Tu 8:00am 8:50am	160	79	Chemical Principles for Engineering	Earle Stone	
 online	CHEM	CHEM135	TuTh 11:00am 12:15pm	40	0	General Chemistry for Engineers	Lenea Stocker	M 12:00pm 12:50pm
 online	CHEM	CHEM135	TuTh 11:00am 12:15pm	40	0	General Chemistry for Engineers	Lenea Stocker	M 1:00pm 1:50pm
@@ -1525,24 +1525,24 @@ online	CHEM	CHEM232		19	0	Organic Chemistry Laboratory I	Monique Koppel
 online	CHEM	CHEM232		19	0	Organic Chemistry Laboratory I	Monique Koppel	
 online	CHEM	CHEM232		19	1	Organic Chemistry Laboratory I	Monique Koppel	
 online	CHEM	CHEM232	W 7:30pm 10:30pm	18	4	Organic Chemistry Laboratory I	Monique Koppel	
-online	CHEM	CHEM241	TuTh 8:00am 9:15am	40	3	Organic Chemistry II	Michael Montague-Smith	M 12:00pm 12:50pm
-online	CHEM	CHEM241	TuTh 8:00am 9:15am	40	1	Organic Chemistry II	Michael Montague-Smith	M 1:00pm 1:50pm
-online	CHEM	CHEM241	TuTh 8:00am 9:15am	40	11	Organic Chemistry II	Michael Montague-Smith	M 2:00pm 2:50pm
-online	CHEM	CHEM241	TuTh 8:00am 9:15am	40	3	Organic Chemistry II	Michael Montague-Smith	W 12:00pm 12:50pm
-online	CHEM	CHEM241	TuTh 8:00am 9:15am	40	14	Organic Chemistry II	Lai-Xi Wang	W 1:00pm 1:50pm
-online	CHEM	CHEM241	TuTh 8:00am 9:15am	40	11	Organic Chemistry II	Michael Montague-Smith	W 2:00pm 2:50pm
-online	CHEM	CHEM241	TuTh 9:30am 10:45am	40	6	Organic Chemistry II	Lai-Xi Wang	M 9:00am 9:50am
-online	CHEM	CHEM241	TuTh 9:30am 10:45am	40	3	Organic Chemistry II	Michael Montague-Smith	M 10:00am 10:50am
-online	CHEM	CHEM241	TuTh 9:30am 10:45am	40	1	Organic Chemistry II	Michael Montague-Smith	M 11:00am 11:50am
-online	CHEM	CHEM241	TuTh 9:30am 10:45am	40	6	Organic Chemistry II	Michael Montague-Smith	W 9:00am 9:50am
-online	CHEM	CHEM241	TuTh 9:30am 10:45am	40	1	Organic Chemistry II	Michael Montague-Smith	W 10:00am 10:50am
-online	CHEM	CHEM241	TuTh 9:30am 10:45am	40	0	Organic Chemistry II	Michael Montague-Smith	W 11:00am 11:50am
-online	CHEM	CHEM241	TuTh 12:30pm 1:45pm	40	0	Organic Chemistry II	Michael Montague-Smith	M 12:00pm 12:50pm
-online	CHEM	CHEM241	TuTh 12:30pm 1:45pm	40	0	Organic Chemistry II	Lai-Xi Wang	M 1:00pm 1:50pm
-online	CHEM	CHEM241	TuTh 12:30pm 1:45pm	40	0	Organic Chemistry II	Michael Montague-Smith	M 2:00pm 2:50pm
-online	CHEM	CHEM241	TuTh 12:30pm 1:45pm	40	0	Organic Chemistry II	Michael Montague-Smith	W 12:00pm 12:50pm
-online	CHEM	CHEM241	TuTh 12:30pm 1:45pm	40	0	Organic Chemistry II	Michael Montague-Smith	W 1:00pm 1:50pm
-online	CHEM	CHEM241	TuTh 12:30pm 1:45pm	40	0	Organic Chemistry II	Lai-Xi Wang	W 2:00pm 2:50pm
+online	CHEM	CHEM241	TuTh 8:00am 9:15am	40	3	Organic Chemistry II	Lai-Xi Wang,Michael Montague-Smith	M 12:00pm 12:50pm
+online	CHEM	CHEM241	TuTh 8:00am 9:15am	40	1	Organic Chemistry II	Lai-Xi Wang,Michael Montague-Smith	M 1:00pm 1:50pm
+online	CHEM	CHEM241	TuTh 8:00am 9:15am	40	11	Organic Chemistry II	Lai-Xi Wang,Michael Montague-Smith	M 2:00pm 2:50pm
+online	CHEM	CHEM241	TuTh 8:00am 9:15am	40	3	Organic Chemistry II	Michael Montague-Smith,Lai-Xi Wang	W 12:00pm 12:50pm
+online	CHEM	CHEM241	TuTh 8:00am 9:15am	40	14	Organic Chemistry II	Lai-Xi Wang,Michael Montague-Smith	W 1:00pm 1:50pm
+online	CHEM	CHEM241	TuTh 8:00am 9:15am	40	11	Organic Chemistry II	Michael Montague-Smith,Lai-Xi Wang	W 2:00pm 2:50pm
+online	CHEM	CHEM241	TuTh 9:30am 10:45am	40	6	Organic Chemistry II	Lai-Xi Wang,Michael Montague-Smith	M 9:00am 9:50am
+online	CHEM	CHEM241	TuTh 9:30am 10:45am	40	3	Organic Chemistry II	Lai-Xi Wang,Michael Montague-Smith	M 10:00am 10:50am
+online	CHEM	CHEM241	TuTh 9:30am 10:45am	40	1	Organic Chemistry II	Michael Montague-Smith,Lai-Xi Wang	M 11:00am 11:50am
+online	CHEM	CHEM241	TuTh 9:30am 10:45am	40	6	Organic Chemistry II	Michael Montague-Smith,Lai-Xi Wang	W 9:00am 9:50am
+online	CHEM	CHEM241	TuTh 9:30am 10:45am	40	1	Organic Chemistry II	Michael Montague-Smith,Lai-Xi Wang	W 10:00am 10:50am
+online	CHEM	CHEM241	TuTh 9:30am 10:45am	40	0	Organic Chemistry II	Lai-Xi Wang,Michael Montague-Smith	W 11:00am 11:50am
+online	CHEM	CHEM241	TuTh 12:30pm 1:45pm	40	0	Organic Chemistry II	Lai-Xi Wang,Michael Montague-Smith	M 12:00pm 12:50pm
+online	CHEM	CHEM241	TuTh 12:30pm 1:45pm	40	0	Organic Chemistry II	Lai-Xi Wang,Michael Montague-Smith	M 1:00pm 1:50pm
+online	CHEM	CHEM241	TuTh 12:30pm 1:45pm	40	0	Organic Chemistry II	Michael Montague-Smith,Lai-Xi Wang	M 2:00pm 2:50pm
+online	CHEM	CHEM241	TuTh 12:30pm 1:45pm	40	0	Organic Chemistry II	Lai-Xi Wang,Michael Montague-Smith	W 12:00pm 12:50pm
+online	CHEM	CHEM241	TuTh 12:30pm 1:45pm	40	0	Organic Chemistry II	Lai-Xi Wang,Michael Montague-Smith	W 1:00pm 1:50pm
+online	CHEM	CHEM241	TuTh 12:30pm 1:45pm	40	0	Organic Chemistry II	Lai-Xi Wang,Michael Montague-Smith	W 2:00pm 2:50pm
 online	CHEM	CHEM241	M 6:30pm 9:30pm	24	0	Organic Chemistry II	Howard Fribush	W 6:30pm 7:20pm
 online	CHEM	CHEM242		19	0	Organic Chemistry Laboratory II	Lee Friedman	
 online	CHEM	CHEM242		19	0	Organic Chemistry Laboratory II	Lee Friedman	
@@ -1580,24 +1580,24 @@ online	CHEM	CHEM242		19	0	Organic Chemistry Laboratory II	Lee Friedman
 online	CHEM	CHEM242		19	0	Organic Chemistry Laboratory II	Lee Friedman	
 online	CHEM	CHEM242		19	2	Organic Chemistry Laboratory II	Lee Friedman	
 online	CHEM	CHEM242	W 7:30pm 10:30pm	18	0	Organic Chemistry Laboratory II	Lee Friedman	
-online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	0	General Chemistry and Energetics	Efrain Rodriguez	Tu 12:30pm 1:20pm
-online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	0	General Chemistry and Energetics	Efrain Rodriguez	Tu 2:00pm 2:50pm
-online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	2	General Chemistry and Energetics	Efrain Rodriguez	Tu 3:30pm 4:20pm
-online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	4	General Chemistry and Energetics	Christopher Jarzynski	Th 12:30pm 1:20pm
-online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	3	General Chemistry and Energetics	Efrain Rodriguez	Th 2:00pm 2:50pm
-online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	2	General Chemistry and Energetics	Christopher Jarzynski	Th 3:30pm 4:20pm
-online	CHEM	CHEM271	MW 11:00am 11:50am	20	0	General Chemistry and Energetics	Christopher Jarzynski	Tu 8:00am 8:50am
-online	CHEM	CHEM271	MW 11:00am 11:50am	20	0	General Chemistry and Energetics	Christopher Jarzynski	Tu 9:30am 10:20am
-online	CHEM	CHEM271	MW 11:00am 11:50am	20	0	General Chemistry and Energetics	Efrain Rodriguez	Tu 11:00am 11:50am
-online	CHEM	CHEM271	MW 11:00am 11:50am	20	0	General Chemistry and Energetics	Efrain Rodriguez	Th 8:00am 8:50am
-online	CHEM	CHEM271	MW 11:00am 11:50am	20	0	General Chemistry and Energetics	Efrain Rodriguez	Th 9:30am 10:20am
-online	CHEM	CHEM271	MW 11:00am 11:50am	20	0	General Chemistry and Energetics	Efrain Rodriguez	Th 4:30pm 5:20pm
-online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	0	General Chemistry and Energetics	Christopher Jarzynski	Tu 12:30pm 1:20pm
-online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	1	General Chemistry and Energetics	Efrain Rodriguez	Tu 2:00pm 2:50pm
-online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	11	General Chemistry and Energetics	Christopher Jarzynski	Tu 3:30pm 4:20pm
-online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	11	General Chemistry and Energetics	Christopher Jarzynski	Th 12:30pm 1:20pm
-online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	6	General Chemistry and Energetics	Efrain Rodriguez	Th 2:00pm 2:50pm
-online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	14	General Chemistry and Energetics	Christopher Jarzynski	Th 3:30pm 4:20pm
+online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	0	General Chemistry and Energetics	Efrain Rodriguez,Christopher Jarzynski	Tu 12:30pm 1:20pm
+online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	0	General Chemistry and Energetics	Christopher Jarzynski,Efrain Rodriguez	Tu 2:00pm 2:50pm
+online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	2	General Chemistry and Energetics	Efrain Rodriguez,Christopher Jarzynski	Tu 3:30pm 4:20pm
+online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	4	General Chemistry and Energetics	Efrain Rodriguez,Christopher Jarzynski	Th 12:30pm 1:20pm
+online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	3	General Chemistry and Energetics	Efrain Rodriguez,Christopher Jarzynski	Th 2:00pm 2:50pm
+online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	2	General Chemistry and Energetics	Efrain Rodriguez,Christopher Jarzynski	Th 3:30pm 4:20pm
+online	CHEM	CHEM271	MW 11:00am 11:50am	20	0	General Chemistry and Energetics	Christopher Jarzynski,Efrain Rodriguez	Tu 8:00am 8:50am
+online	CHEM	CHEM271	MW 11:00am 11:50am	20	0	General Chemistry and Energetics	Efrain Rodriguez,Christopher Jarzynski	Tu 9:30am 10:20am
+online	CHEM	CHEM271	MW 11:00am 11:50am	20	0	General Chemistry and Energetics	Christopher Jarzynski,Efrain Rodriguez	Tu 11:00am 11:50am
+online	CHEM	CHEM271	MW 11:00am 11:50am	20	0	General Chemistry and Energetics	Efrain Rodriguez,Christopher Jarzynski	Th 8:00am 8:50am
+online	CHEM	CHEM271	MW 11:00am 11:50am	20	0	General Chemistry and Energetics	Efrain Rodriguez,Christopher Jarzynski	Th 9:30am 10:20am
+online	CHEM	CHEM271	MW 11:00am 11:50am	20	0	General Chemistry and Energetics	Efrain Rodriguez,Christopher Jarzynski	Th 4:30pm 5:20pm
+online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	0	General Chemistry and Energetics	Christopher Jarzynski,Efrain Rodriguez	Tu 12:30pm 1:20pm
+online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	1	General Chemistry and Energetics	Efrain Rodriguez,Christopher Jarzynski	Tu 2:00pm 2:50pm
+online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	11	General Chemistry and Energetics	Christopher Jarzynski,Efrain Rodriguez	Tu 3:30pm 4:20pm
+online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	11	General Chemistry and Energetics	Christopher Jarzynski,Efrain Rodriguez	Th 12:30pm 1:20pm
+online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	6	General Chemistry and Energetics	Efrain Rodriguez,Christopher Jarzynski	Th 2:00pm 2:50pm
+online	CHEM	CHEM271	MW 3:00pm 3:50pm	20	14	General Chemistry and Energetics	Efrain Rodriguez,Christopher Jarzynski	Th 3:30pm 4:20pm
 online	CHEM	CHEM271	M 6:00pm 7:50pm	20	5	General Chemistry and Energetics	Daniel Gowetski	W 6:30pm 7:20pm
 online	CHEM	CHEM272	F 11:00am 11:50am	25	0	General Bioanalytical Chemistry Laboratory	Amanda Schech	M 12:00pm 2:50pm
 online	CHEM	CHEM272	F 11:00am 11:50am	25	3	General Bioanalytical Chemistry Laboratory	Amanda Schech	M 3:00pm 5:50pm
@@ -1624,8 +1624,8 @@ online	CHEM	CHEM611	F 2:00pm 3:15pm	20	20	Professional Skills for New Graduate S
 online	CHEM	CHEM684	TuTh 11:00am 12:15pm	13	13	Chemical Thermodynamics	John Weeks	
 online	CHEM	CHEM689B	TuTh 8:00am 9:15am	20	20	Special Topics in Physical Chemistry	YuHuang Wang	
 online	CHEM	CHEM889E	W 11:00am 11:50am	15	15	Seminar; Physical Chemistry	Pratyush Tiwary	
-online	CHIN	CHIN101	MWF 10:00am 10:50am	15	8	Intensive Elementary Chinese I	Mei Kong	TuTh 9:30am 10:45am
-online	CHIN	CHIN101	MWF 11:00am 11:50am	15	5	Intensive Elementary Chinese I	Yuli Wang	TuTh 11:00am 12:15pm
+online	CHIN	CHIN101	MWF 10:00am 10:50am	15	8	Intensive Elementary Chinese I	Yuli Wang,Mei Kong	TuTh 9:30am 10:45am
+online	CHIN	CHIN101	MWF 11:00am 11:50am	15	5	Intensive Elementary Chinese I	Yuli Wang,Mei Kong	TuTh 11:00am 12:15pm
 online	CHIN	CHIN101	MWF 1:00pm 1:50pm	15	3	Intensive Elementary Chinese I	Guiling Hu	
 online	CHIN	CHIN201	MWF 10:00am 10:50am	15	7	Intermediate Spoken Chinese I	Jungjung Lee-Heitz	
 online	CHIN	CHIN201	MWF 2:00pm 2:50pm	15	6	Intermediate Spoken Chinese I	Guiling Hu	
@@ -1697,13 +1697,13 @@ online	CMSC	CMSC131	MWF 10:00am 10:50am	32	20	Object-Oriented Programming I	Nels
 online	CMSC	CMSC131	MWF 10:00am 10:50am	32	24	Object-Oriented Programming I	Nelson Padua-Perez	MW 3:00pm 3:50pm
 online	CMSC	CMSC131	MWF 12:00pm 12:50pm	32	21	Object-Oriented Programming I	Fawzi Emad	TuTh 8:00am 8:50am
 online	CMSC	CMSC131	MWF 12:00pm 12:50pm	25	0	Object-Oriented Programming I	Fawzi Emad	TuTh 9:30am 10:20am
-online	CMSC	CMSC131	MWF 12:00pm 12:50pm	25	1	Object-Oriented Programming I	Fawzi Emad	TuTh 11:00am 11:50am
+online	CMSC	CMSC131	MWF 12:00pm 12:50pm	25	0	Object-Oriented Programming I	Fawzi Emad	TuTh 11:00am 11:50am
 online	CMSC	CMSC131	MWF 12:00pm 12:50pm	32	0	Object-Oriented Programming I	Fawzi Emad	TuTh 12:30pm 1:20pm
 online	CMSC	CMSC131	MWF 12:00pm 12:50pm	30	0	Object-Oriented Programming I	Fawzi Emad	TuTh 2:00pm 2:50pm
 online	CMSC	CMSC131	MWF 12:00pm 12:50pm	32	0	Object-Oriented Programming I	Fawzi Emad	TuTh 3:30pm 4:20pm
 online	CMSC	CMSC131	MWF 12:00pm 12:50pm	32	18	Object-Oriented Programming I	Fawzi Emad	TuTh 5:00pm 5:50pm
 online	CMSC	CMSC131	MWF 12:00pm 12:50pm	32	30	Object-Oriented Programming I	Fawzi Emad	TuTh 8:00am 8:50am
-online	CMSC	CMSC131	MWF 12:00pm 12:50pm	32	0	Object-Oriented Programming I	Fawzi Emad	TuTh 9:30am 10:20am
+online	CMSC	CMSC131	MWF 12:00pm 12:50pm	32	1	Object-Oriented Programming I	Fawzi Emad	TuTh 9:30am 10:20am
 online	CMSC	CMSC131	MWF 9:00am 9:50am	32	0	Object-Oriented Programming I	Nelson Padua-Perez	MW 10:00am 10:50am
 online	CMSC	CMSC131	MWF 9:00am 9:50am	32	15	Object-Oriented Programming I	Nelson Padua-Perez	MW 11:00am 11:50am
 online	CMSC	CMSC131	MWF 9:00am 9:50am	32	26	Object-Oriented Programming I	Nelson Padua-Perez	MW 12:00pm 12:50pm
@@ -1766,7 +1766,7 @@ online	CMSC	CMSC216	TuTh 2:00pm 3:15pm	36	0	Introduction to Computer Systems	Lau
 online	CMSC	CMSC216	TuTh 2:00pm 3:15pm	36	0	Introduction to Computer Systems	Laurence Herman	MW 10:00am 10:50am
 online	CMSC	CMSC216	TuTh 2:00pm 3:15pm	36	0	Introduction to Computer Systems	Laurence Herman	MW 5:00pm 5:50pm
 online	CMSC	CMSC216	TuTh 12:30pm 1:45pm	34	29	Introduction to Computer Systems	A Shankar	MW 9:00am 9:50am
-online	CMSC	CMSC216	TuTh 12:30pm 1:45pm	34	22	Introduction to Computer Systems	A Shankar	MW 11:00am 11:50am
+online	CMSC	CMSC216	TuTh 12:30pm 1:45pm	34	21	Introduction to Computer Systems	A Shankar	MW 11:00am 11:50am
 online	CMSC	CMSC216	TuTh 12:30pm 1:45pm	34	32	Introduction to Computer Systems	A Shankar	MW 8:00am 8:50am
 online	CMSC	CMSC216	TuTh 12:30pm 1:45pm	34	30	Introduction to Computer Systems	A Shankar	MW 10:00am 10:50am
 online	CMSC	CMSC250	TuTh 3:30pm 4:45pm	34	0	Discrete Structures	Roger Eastman	MW 4:00pm 4:50pm
@@ -1814,7 +1814,7 @@ online	CMSC	CMSC389O	F 12:00pm 12:50pm	30	0	Special Topics in Computer Science; 
 online	CMSC	CMSC389O	F 1:00pm 1:50pm	30	0	Special Topics in Computer Science; The Coding Interview	Thomas Goldstein	
 online	CMSC	CMSC389V	F 1:00pm 1:50pm	30	0	Special Topics in Computer Science; Ethics of Artificial Intelligence and Machine Learning	John Dickerson	
 online	CMSC	CMSC389W	F 1:00pm 1:50pm	30	4	Special Topics in Computer Science; Visualization through Mathematica	Pedram Sadeghian	
-online	CMSC	CMSC396H	W 1:00pm 1:50pm	32	0	Computer Science Honors Seminar	David Levin	
+online	CMSC	CMSC396H	W 1:00pm 1:50pm	32	0	Computer Science Honors Seminar	Leilani Battle,David Levin	
 online	CMSC	CMSC411		175	0	Computer Systems Architecture	Michelle Hugue	
 online	CMSC	CMSC412	TuTh 11:00am 12:15pm	36	0	Operating Systems	Neil Spring	MW 12:00pm 12:50pm
 online	CMSC	CMSC412	TuTh 11:00am 12:15pm	40	0	Operating Systems	Neil Spring	MW 1:00pm 1:50pm
@@ -1992,7 +1992,7 @@ online	COMM	COMM230	TuTh 9:30am 10:45am	24	13	Argumentation and Debate	Misti Yan
 online	COMM	COMM230	TuTh 11:00am 12:15pm	24	2	Argumentation and Debate	Fielding Montgomery	
 online	COMM	COMM230	TuTh 12:30pm 1:45pm	24	3	Argumentation and Debate	Fielding Montgomery	
 online	COMM	COMM250	MW 11:00am 11:50am	23	11	Introduction to Communication Inquiry	Susan Hubbard	F 9:00am 9:50am
-online	COMM	COMM250	MW 11:00am 11:50am	23	0	Introduction to Communication Inquiry	Susan Hubbard	F 10:00am 10:50am
+online	COMM	COMM250	MW 11:00am 11:50am	23	1	Introduction to Communication Inquiry	Susan Hubbard	F 10:00am 10:50am
 online	COMM	COMM250	MW 11:00am 11:50am	23	0	Introduction to Communication Inquiry	Susan Hubbard	F 11:00am 11:50am
 online	COMM	COMM250	MW 11:00am 11:50am	23	20	Introduction to Communication Inquiry	Susan Hubbard	F 9:00am 9:50am
 online	COMM	COMM250	MW 11:00am 11:50am	23	14	Introduction to Communication Inquiry	Susan Hubbard	F 10:00am 10:50am
@@ -2070,11 +2070,11 @@ online	COMM	COMM498M		40	0	Seminar; War and Peace in Israeli Discourse 1967-2020
 online	COMM	COMM498V	MW 3:30pm 4:45pm	35	31	Seminar; Visual Rhetoric	Michelle Yang	
 online	COMM	COMM498X		25	15	Seminar; Writing for Communication Professionals	Mollie Kaufer	
 online	COMM	COMM498Y		35	18	Seminar; Freedom of Speech & the First Amendment	Anne Smithson	
-online	COMM	COMM604		25	25	Argumentation Theory	Misti Yang	
+online	COMM	COMM604		25	25	Argumentation Theory	Shawn Parry-Giles,Misti Yang	
 online	COMM	COMM618		25	25	Professional Communication: Rhetoric & Style	Mollie Kaufer	
 online	COMM	COMM631	M 3:30pm 6:30pm	15	11	Seminar in Public Relations Publics	Sun Young Lee	
-online	COMM	COMM638		25	25	Professional Communication: Rhetoric & Voice	Shawn Parry-Giles	
-online	COMM	COMM669	W 11:00am 12:15pm	30	29	Professional Practice Forum in Translation: Practicum	Shawn Parry-Giles	
+online	COMM	COMM638		25	25	Professional Communication: Rhetoric & Voice	Misti Yang,Shawn Parry-Giles	
+online	COMM	COMM669	W 11:00am 12:15pm	30	29	Professional Practice Forum in Translation: Practicum	Yana Carver,Shawn Parry-Giles	
 online	COMM	COMM679	Sa 8:30am 10:30am	30	29	Professional Practice Forum in Translation: Workplace Processes and Procedures; Workplace Processing and Procedures Translation	Miriam Stanicic	
 online	COMM	COMM700	M 6:30pm 9:30pm	30	23	Introduction to Graduate Study in Communication	Anita Seate	
 online	COMM	COMM719A	W 4:00pm 5:15pm	16	15	Advanced Consecutive Interpretation; Arabic into English/English into Arabic	Ihab Ali	
@@ -2085,39 +2085,39 @@ online	COMM	COMM729A	Sa 10:00am 11:15am	16	15	Simultaneous Interpretation; Simul
 online	COMM	COMM729A	Sa 11:30am 12:30pm	16	15	Simultaneous Interpretation; Simultaneous Interpretation; English into Arabic/Arabic into English	Ihab Ali	
 online	COMM	COMM729F	Sa 1:45pm 2:45pm	16	15	Simultaneous Interpretation; Simultaneous Interpretation; Spanish into English/English into Spanish	Rosalinda Meza-Steel	
 online	COMM	COMM729F	Sa 3:00pm 4:15pm	16	15	Simultaneous Interpretation; Simultaneous Interpretation; Spanish into English/English into Spanish	Rosalinda Meza-Steel	
-online	COMM	COMM759	W 11:00am 12:15pm	30	28	Professional Practice Forum in Interpreting: Practicum	Yana Carver	
+online	COMM	COMM759	W 11:00am 12:15pm	30	28	Professional Practice Forum in Interpreting: Practicum	Shawn Parry-Giles,Yana Carver	
 online	COMM	COMM769	Sa 8:30am 10:30am	30	28	Professional Practice Forum in Interpreting: Workplace Processes and Procedures; Workplace Processes and Procedures Interpreting	Miriam Stanicic	
 online	COMM	COMM798F		16	16	Independent Study; English Fluency Enhancement	Mollie Kaufer	
 online	CPBE	CPBE100	Tu 5:00pm 5:50pm	45	1	College Park Scholars: Business, Society & the Economy First-Year Colloquium	Claudia Donnelly	Tu 6:00pm 6:50pm
 online	CPBE	CPBE100	Tu 5:00pm 5:50pm	45	6	College Park Scholars: Business, Society & the Economy First-Year Colloquium	Claudia Donnelly	Tu 6:00pm 6:50pm
-online	CPET	CPET100	Tu 5:10pm 6:30pm	96	24	College Park Scholars: Environment, Technology & Economy First-Year Colloquium I	Timothy Knight	
-online	CPET	CPET200	W 5:10pm 6:30pm	96	33	College Park Scholars: Environment, Technology & Economy Second-Year Colloquium	Timothy Knight	
-online	CPGH	CPGH100	W 3:00pm 4:30pm	96	24	College Park Scholars: Global Public Health First-Year Colloquium I	Muhiuddin Haider	
-online	CPGH	CPGH200	M 5:00pm 6:15pm	95	29	College Park Scholars: Global Public Health Second-Year Colloquium	Reva Datar	
+online	CPET	CPET100	Tu 5:10pm 6:30pm	96	24	College Park Scholars: Environment, Technology & Economy First-Year Colloquium I	Marcella Kim,Timothy Knight,Faith Taylor	
+online	CPET	CPET200	W 5:10pm 6:30pm	96	33	College Park Scholars: Environment, Technology & Economy Second-Year Colloquium	Timothy Knight,Faith Taylor,Marcella Kim	
+online	CPGH	CPGH100	W 3:00pm 4:30pm	96	24	College Park Scholars: Global Public Health First-Year Colloquium I	Muhiuddin Haider,Roohali Sukhavasi,Deena Farrukh,Reva Datar	
+online	CPGH	CPGH200	M 5:00pm 6:15pm	95	29	College Park Scholars: Global Public Health Second-Year Colloquium	Muhiuddin Haider,Roohali Sukhavasi,Reva Datar,Deena Farrukh	
 online	CPJT	CPJT100	W 5:00pm 6:15pm	90	19	College Park Scholars: Justice & Legal Thought: First-Year Colloquium	Erica Smith	
 online	CPJT	CPJT200	Th 2:00pm 3:15pm	90	36	Justice and legal Thought Second Year Colloquium	Erica Smith	
-online	CPMS	CPMS100	Tu 3:30pm 4:45pm	90	16	College Park Scholars: Media, Self & Society First-Year Colloquium I	Mary Burns	
-online	CPMS	CPMS225	TuTh 12:30pm 1:45pm	90	16	Analyzing Media Practice through Theory	Mary Burns	
+online	CPMS	CPMS100	Tu 3:30pm 4:45pm	90	16	College Park Scholars: Media, Self & Society First-Year Colloquium I	Mary Burns,Kelly Brower	
+online	CPMS	CPMS225	TuTh 12:30pm 1:45pm	90	16	Analyzing Media Practice through Theory	Mary Burns,Kelly Brower	
 in person	CPPL	CPPL100	W 5:00pm 5:50pm	35	0	College Park Scholars: Public Leadership First-Year Colloquium I	Ricco Hall	
 in person	CPPL	CPPL100	W 6:00pm 6:50pm	35	4	College Park Scholars: Public Leadership First-Year Colloquium I	Ricco Hall	
 in person	CPPL	CPPL200	W 6:00pm 7:15pm	70	8	College Park Scholars: Public Leadership - Applied Leadership Capstone I	Mathew Feehan	
 in person	CPSA	CPSA149	Th 5:00pm 7:00pm	10	7	College Park Scholars: Arts Service-Learning Outreach	Harold Burgess	
-online	CPSA	CPSA100	M 6:00pm 7:15pm	25	0	College Park Scholars: Arts First-Year Colloquium I	Harold Burgess	
-online	CPSA	CPSA100	M 6:00pm 7:15pm	25	0	College Park Scholars: Arts First-Year Colloquium I	Heather-Erin Bremenstuhl	
-online	CPSA	CPSA100	M 6:00pm 7:15pm	25	10	College Park Scholars: Arts First-Year Colloquium I	Harold Burgess	
-online	CPSA	CPSA200	Tu 6:00pm 7:15pm	22	0	College Park Scholars: Arts Second-Year Colloquium I	Heather-Erin Bremenstuhl	
-online	CPSA	CPSA200	Tu 6:00pm 7:15pm	22	3	College Park Scholars: Arts Second-Year Colloquium I	Kenna Hernly	
-online	CPSA	CPSA200	Tu 6:00pm 7:15pm	22	20	College Park Scholars: Arts Second-Year Colloquium I	Kenna Hernly	
-online	CPSD	CPSD100	Th 3:30pm 4:30pm	45	0	College Park Scholars: Science, Discovery & the Universe First-Year Colloquium A	Alan Peel	
-online	CPSD	CPSD101	Th 3:30pm 4:30pm	45	15	College Park Scholars: Science, Discovery & the Universe First-Year Colloquium B	Erin Thomson	
-online	CPSD	CPSD200	Th 5:30pm 6:30pm	85	30	College Park Scholars: Science, Discovery & the Universe Second-Year Colloquium	Alan Peel	
-online	CPSF	CPSF100	W 3:30pm 5:30pm	100	23	College Park Scholars: Life Sciences First-Year Colloquium l	Jimmy McClellan	
-online	CPSG	CPSG100	Tu 3:30pm 4:50pm	92	25	College Park Scholars: Science & Global Change First-Year Colloquium I	Thomas Holtz	
-online	CPSG	CPSG200	M 3:30pm 4:50pm	90	29	College Park Scholars: Science & Global Change Second-Year Colloquium	John Merck	
-online	CPSN	CPSN100	W 4:45pm 6:30pm	25	0	College Park Scholars: International Studies First-Year Colloquium I	James Glass	
-online	CPSN	CPSN100	W 4:45pm 6:30pm	22	2	College Park Scholars: International Studies First-Year Colloquium I	James Glass	
-online	CPSN	CPSN100	W 4:45pm 6:30pm	25	21	College Park Scholars: International Studies First-Year Colloquium I	Seo Chung	
-online	CPSN	CPSN100	W 4:45pm 6:30pm	22	19	College Park Scholars: International Studies First-Year Colloquium I	Seo Chung	
+online	CPSA	CPSA100	M 6:00pm 7:15pm	25	0	College Park Scholars: Arts First-Year Colloquium I	Kenna Hernly,Heather-Erin Bremenstuhl,Harold Burgess	
+online	CPSA	CPSA100	M 6:00pm 7:15pm	25	0	College Park Scholars: Arts First-Year Colloquium I	Kenna Hernly,Harold Burgess,Heather-Erin Bremenstuhl	
+online	CPSA	CPSA100	M 6:00pm 7:15pm	25	10	College Park Scholars: Arts First-Year Colloquium I	Harold Burgess,Heather-Erin Bremenstuhl,Kenna Hernly	
+online	CPSA	CPSA200	Tu 6:00pm 7:15pm	22	0	College Park Scholars: Arts Second-Year Colloquium I	Harold Burgess,Heather-Erin Bremenstuhl	
+online	CPSA	CPSA200	Tu 6:00pm 7:15pm	22	3	College Park Scholars: Arts Second-Year Colloquium I	Heather-Erin Bremenstuhl,Kenna Hernly,Harold Burgess	
+online	CPSA	CPSA200	Tu 6:00pm 7:15pm	22	20	College Park Scholars: Arts Second-Year Colloquium I	Heather-Erin Bremenstuhl,Harold Burgess,Kenna Hernly	
+online	CPSD	CPSD100	Th 3:30pm 4:30pm	45	0	College Park Scholars: Science, Discovery & the Universe First-Year Colloquium A	Alan Peel,Erin Thomson,Jennifer Lee	
+online	CPSD	CPSD101	Th 3:30pm 4:30pm	45	15	College Park Scholars: Science, Discovery & the Universe First-Year Colloquium B	Erin Thomson,Alan Peel,Jennifer Lee	
+online	CPSD	CPSD200	Th 5:30pm 6:30pm	85	30	College Park Scholars: Science, Discovery & the Universe Second-Year Colloquium	Erin Thomson,Alan Peel,Jennifer Lee	
+online	CPSF	CPSF100	W 3:30pm 5:30pm	100	23	College Park Scholars: Life Sciences First-Year Colloquium l	Jimmy McClellan,Beth Parent	
+online	CPSG	CPSG100	Tu 3:30pm 4:50pm	92	25	College Park Scholars: Science & Global Change First-Year Colloquium I	Thomas Holtz,John Merck	
+online	CPSG	CPSG200	M 3:30pm 4:50pm	90	29	College Park Scholars: Science & Global Change Second-Year Colloquium	Thomas Holtz,John Merck	
+online	CPSN	CPSN100	W 4:45pm 6:30pm	25	0	College Park Scholars: International Studies First-Year Colloquium I	Arona Baigal,Seo Chung,James Glass,Autumn Perkey,Annie Rappeport	
+online	CPSN	CPSN100	W 4:45pm 6:30pm	22	2	College Park Scholars: International Studies First-Year Colloquium I	Annie Rappeport,Arona Baigal,Seo Chung,James Glass,Autumn Perkey	
+online	CPSN	CPSN100	W 4:45pm 6:30pm	25	21	College Park Scholars: International Studies First-Year Colloquium I	Autumn Perkey,James Glass,Annie Rappeport,Seo Chung,Arona Baigal	
+online	CPSN	CPSN100	W 4:45pm 6:30pm	22	19	College Park Scholars: International Studies First-Year Colloquium I	James Glass,Annie Rappeport,Arona Baigal,Seo Chung,Autumn Perkey	
 in person	CPSP	CPSP349T	TuTh 3:30pm 4:45pm	20	5	STS Infrastructure and Society Service Learning Project	David Tomblin	
 online	CPSP	CPSP218L	Tu 4:00pm 5:50pm	25	3	College Park Scholars Second-Year Colloquium I; Life Sciences	Beth Parent	
 online	CPSP	CPSP218L	Th 4:00pm 5:50pm	25	3	College Park Scholars Second-Year Colloquium I; Life Sciences	Reid Compton	
@@ -2127,12 +2127,12 @@ in person	CPSS	CPSS220	TuTh 11:00am 12:15pm	20	0	The Future of Science Communica
 in person	CPSS	CPSS225	TuTh 12:30pm 1:45pm	20	0	College Park Scholars Capstone: Science, Technology, and Society	Matthew Aruch	
 in person	CPSS	CPSS240	TuTh 2:00pm 3:15pm	10	0	College Park Scholars: Science, Technology & Society - Service-Learning Practicum	Timothy Reedy	
 in person	CPSS	CPSS240	TuTh 3:30pm 4:45pm	25	13	College Park Scholars: Science, Technology & Society - Service-Learning Practicum	Timothy Reedy	
-online	CPSS	CPSS100	M 3:15pm 4:50pm	16	0	College Park Scholars: Science, Technology & Society First-Year Colloquium I	David Tomblin	M 4:00pm 4:50pm
-online	CPSS	CPSS100	M 3:15pm 4:50pm	16	0	College Park Scholars: Science, Technology & Society First-Year Colloquium I	Nicole Mogul	M 4:00pm 4:50pm
-online	CPSS	CPSS100	M 3:15pm 4:50pm	16	0	College Park Scholars: Science, Technology & Society First-Year Colloquium I	David Tomblin	M 4:00pm 4:50pm
-online	CPSS	CPSS100	M 3:15pm 4:50pm	16	0	College Park Scholars: Science, Technology & Society First-Year Colloquium I	David Tomblin	M 4:00pm 4:50pm
-online	CPSS	CPSS100	M 3:15pm 4:50pm	16	5	College Park Scholars: Science, Technology & Society First-Year Colloquium I	Nicole Mogul	M 4:00pm 4:50pm
-online	CPSS	CPSS100	M 3:15pm 4:50pm	15	11	College Park Scholars: Science, Technology & Society First-Year Colloquium I	David Tomblin	M 4:00pm 4:50pm
+online	CPSS	CPSS100	M 3:15pm 4:50pm	16	0	College Park Scholars: Science, Technology & Society First-Year Colloquium I	David Tomblin,Nicole Mogul	M 4:00pm 4:50pm
+online	CPSS	CPSS100	M 3:15pm 4:50pm	16	0	College Park Scholars: Science, Technology & Society First-Year Colloquium I	Nicole Mogul,David Tomblin	M 4:00pm 4:50pm
+online	CPSS	CPSS100	M 3:15pm 4:50pm	16	0	College Park Scholars: Science, Technology & Society First-Year Colloquium I	David Tomblin,Nicole Mogul	M 4:00pm 4:50pm
+online	CPSS	CPSS100	M 3:15pm 4:50pm	16	0	College Park Scholars: Science, Technology & Society First-Year Colloquium I	Nicole Mogul,David Tomblin	M 4:00pm 4:50pm
+online	CPSS	CPSS100	M 3:15pm 4:50pm	16	5	College Park Scholars: Science, Technology & Society First-Year Colloquium I	Nicole Mogul,David Tomblin	M 4:00pm 4:50pm
+online	CPSS	CPSS100	M 3:15pm 4:50pm	15	11	College Park Scholars: Science, Technology & Society First-Year Colloquium I	Nicole Mogul,David Tomblin	M 4:00pm 4:50pm
 in person	DANC	DANC138C	MW 2:00pm 3:15pm	25	7	Global Dance Forms; Chinese Dance	Xinran Qi	
 in person	DANC	DANC138Z	MW 3:30pm 4:45pm	25	11	Global Dance Forms; Disco Dance	Gabriel Mata-Ortega	
 in person	DANC	DANC689W	M 3:30pm 4:30pm	4	4	Special Topics in Dance; MFA Thesis Writing Lab	Maura Keefe	
@@ -2238,7 +2238,7 @@ online	ECON	ECON181	MW 9:00am 9:50am	20	4	Putting a Price on the Environment: An
 online	ECON	ECON181	MW 9:00am 9:50am	20	15	Putting a Price on the Environment: An Economist's Perspective on Sustainability	Erin Moody	F 1:00pm 1:50pm
 online	ECON	ECON181	MW 9:00am 9:50am	20	15	Putting a Price on the Environment: An Economist's Perspective on Sustainability	Erin Moody	F 2:00pm 2:50pm
 online	ECON	ECON200	TuTh 9:30am 10:45am	332	1	Principles of Microeconomics	Stefania Scandizzo	
-online	ECON	ECON200	TuTh 11:00am 12:15pm	343	1	Principles of Microeconomics	Stefania Scandizzo	
+online	ECON	ECON200	TuTh 11:00am 12:15pm	343	0	Principles of Microeconomics	Stefania Scandizzo	
 online	ECON	ECON200		332	119	Principles of Microeconomics	Hossein Abbasi	
 online	ECON	ECON200		197	0	Principles of Microeconomics	Hossein Abbasi	
 online	ECON	ECON201	TuTh 2:00pm 3:15pm	237	0	Principles of Macroeconomics	John Shea	
@@ -2290,8 +2290,8 @@ online	ECON	ECON471	TuTh 2:00pm 3:15pm	40	3	Labor Markets	Judith Hellerstein
 online	ECON	ECON485	TuTh 3:30pm 4:45pm	80	29	Economics of Land Use	David Newburn	
 online	ECON	ECON490	MW 9:00am 10:15am	40	17	Urban & Regional Economics:  Issues and Policies	Nicholas Montgomery	
 online	ECON	ECON490	MW 10:30am 11:45am	40	0	Urban & Regional Economics:  Issues and Policies	Nicholas Montgomery	
-online	ECON	ECON601	MW 9:30am 10:45am	45	20	Macroeconomic Analysis I	John Shea	M 5:00pm 6:45pm
-online	ECON	ECON603	TuTh 2:00pm 3:15pm	50	16	Microeconomic Analysis I	Lawrence Ausubel	Tu 5:15pm 6:45pm
+online	ECON	ECON601	MW 9:30am 10:45am	45	20	Macroeconomic Analysis I	John Shea,Allan Drazen	M 5:00pm 6:45pm
+online	ECON	ECON603	TuTh 2:00pm 3:15pm	50	16	Microeconomic Analysis I	Lawrence Ausubel,Emel Filiz Ozbay	Tu 5:15pm 6:45pm
 online	ECON	ECON616	MW 2:00pm 3:15pm	30	29	Economic Development II	Jessica Goldberg	
 online	ECON	ECON623	TuTh 11:00am 12:15pm	41	16	Econometrics I	Guido Kuersteiner	Th 5:15pm 7:00pm
 online	ECON	ECON626	F 2:00pm 4:30pm	23	23	Empirical Microeconomics	Guido Kuersteiner	
@@ -2388,7 +2388,7 @@ online	EDHD	EDHD220	Tu 2:00pm 4:00pm	6	2	Exploring Early Childhood General and S
 online	EDHD	EDHD220	Tu 2:00pm 4:00pm	5	3	Exploring Early Childhood General and Special Education	Renee Garraway	F 8:00am 12:00pm
 online	EDHD	EDHD221	Tu 9:30am 12:15pm	50	13	Aggression and Violence in Everyday Life: Can Violence Be Prevented?	Lauren Trakhman	
 online	EDHD	EDHD230	MW 2:00pm 3:15pm	40	0	Human Development and Societal Institutions	Doireann Renzi	
-online	EDHD	EDHD231	TuTh 9:30am 10:45am	50	8	Inside 21st Century Creativity:  How Creative Ideas, Concepts, and Products are Generated	Kevin Dunbar	
+online	EDHD	EDHD231	TuTh 9:30am 10:45am	50	8	Inside 21st Century Creativity:  How Creative Ideas, Concepts, and Products are Generated	Kevin Dunbar,Alexis Williams	
 online	EDHD	EDHD306	TuTh 12:30pm 1:45pm	40	0	Research Methods in Human Development	Yixun Li	
 online	EDHD	EDHD306	MW 2:00pm 3:15pm	40	25	Research Methods in Human Development	Yixun Li	
 online	EDHD	EDHD314	Th 1:00pm 3:00pm	35	11	Reading in the Early Childhood Classroom	Donald Bolger	
@@ -2459,8 +2459,8 @@ online	EDSP	EDSP470	TuTh 5:00pm 6:15pm	42	0	Introduction to Special Education	Ye
 online	EDSP	EDSP470	MW 12:30pm 1:45pm	38	0	Introduction to Special Education	Tasha Harris	
 online	EDSP	EDSP484	Tu 1:15pm 3:45pm	40	32	Reading and Writing Instruction in Special Education II	Jade Wexler	
 online	EDSP	EDSP487	M 4:15pm 7:00pm	40	33	Family Partnerships in Special Education	Alexandra Shelton	
-online	EDSP	EDSP498B	F 10:00am 10:50am	15	14	Special Problems in Special Education; Career Development and Advising	Glenn Kasten-Sportes	
-online	EDSP	EDSP498B	F 10:00am 10:50am	5	5	Special Problems in Special Education; Career Development and Advising	Jessica Chew	
+online	EDSP	EDSP498B	F 10:00am 10:50am	15	14	Special Problems in Special Education; Career Development and Advising	Glenn Kasten-Sportes,Jessica Chew	
+online	EDSP	EDSP498B	F 10:00am 10:50am	5	5	Special Problems in Special Education; Career Development and Advising	Jessica Chew,Glenn Kasten-Sportes	
 online	EDSP	EDSP600		25	25	Issues and Trends in Educating Individuals with Disabilities	Leslie Page-Voth	
 online	EDSP	EDSP602	W 4:15pm 7:15pm	40	30	Instruction of Students with Severe Disabilities I	Heather Stormont	
 online	EDSP	EDSP604	W 4:15pm 7:00pm	40	31	Education of Students with Autism Spectrum Disorder	Gulnoza Yakubova	
@@ -2472,13 +2472,13 @@ online	EDSP	EDSP687	M 4:15pm 7:00pm	40	33	Family Partnerships in Special Educati
 online	EDSP	EDSP692	F 10:30am 12:00pm	5	5	Graduate Internship I: Elementary/Middle Special Education	Stacey Williams	MTuWTh 8:00am 1:00pm
 online	EDSP	EDSP860	M 12:00pm 3:00pm	15	12	Doctoral Research Seminar	Ana Taboada Barber	
 online	EDSP	EDSP875	Th 4:15pm 7:00pm	25	22	Policy Issues Affecting Individuals with Disabilities	Philip Burke	
-in person	EDUC	EDUC388	W 3:30pm 5:00pm	12	12	Special Topics in Education; Guided Experience In College Teaching	Annie Foster Ahmed	
+in person	EDUC	EDUC388	W 3:30pm 5:00pm	12	12	Special Topics in Education; Guided Experience In College Teaching	Mary Gallagher,Annie Foster Ahmed	
 in person	EDUC	EDUC388U	W 6:00pm 8:00pm	20	0	Special Topics in Education; New Student Programs	Matthew Hicks	
 in person	EDUC	EDUC388U	Tu 4:00pm 6:00pm	20	20	Special Topics in Education; New Student Programs	Gerry Strumpf	
-in person	EDUC	EDUC388U	Tu 9:00am 11:00am	20	14	Special Topics in Education; New Student Programs	Kasey Ezzat	
+in person	EDUC	EDUC388U	Tu 9:00am 11:00am	20	14	Special Topics in Education; New Student Programs	Kasey Ezzat,Stacia Woycheck	
 online	EDUC	EDUC388T	M 5:00pm 7:00pm	30	25	Special Topics in Education; Guided Experience in College Teaching - UTA	Jessica Haddaway	
-online	EDUC	EDUC498B	F 10:00am 10:50am	15	9	Selected Topics in Education; Career Development and Advising	Glenn Kasten-Sportes	
-online	EDUC	EDUC498B	F 10:00am 10:50am	5	2	Selected Topics in Education; Career Development and Advising	Glenn Kasten-Sportes	
+online	EDUC	EDUC498B	F 10:00am 10:50am	15	9	Selected Topics in Education; Career Development and Advising	Jessica Chew,Glenn Kasten-Sportes	
+online	EDUC	EDUC498B	F 10:00am 10:50am	5	2	Selected Topics in Education; Career Development and Advising	Glenn Kasten-Sportes,Jessica Chew	
 in person	ENAE	ENAE481	TuTh 2:00pm 3:15pm	15	0	Principles of Aircraft Design	Sung Lee	
 in person	ENAE	ENAE481	MWF 2:00pm 2:50pm	10	3	Principles of Aircraft Design	Vengalattore Nagaraj	
 in person	ENAE	ENAE481	MWF 3:00pm 3:50pm	10	8	Principles of Aircraft Design	James Baeder	
@@ -2533,10 +2533,10 @@ online	ENAE	ENAE441	TuTh 9:30am 10:45am	100	23	Space Navigation and Guidance	Lia
 online	ENAE	ENAE455	TuTh 12:30pm 1:45pm	80	7	Aircraft Propulsion and Power	Kenneth Yu	
 online	ENAE	ENAE457	TuTh 2:00pm 3:15pm	100	16	Space Propulsion and Power	Raymond Sedwick	
 online	ENAE	ENAE481	MWF 2:00pm 2:50pm	50	1	Principles of Aircraft Design	Dominic Palumbo	
-online	ENAE	ENAE483	TuTh 11:00am 12:15pm	92	8	Principles of Space Systems Design	Andrew Becnel	
+online	ENAE	ENAE483	TuTh 11:00am 12:15pm	92	8	Principles of Space Systems Design	David Akin,Andrew Becnel	
 online	ENAE	ENAE601	MW 2:00pm 3:15pm	25	17	Astrodynamics	Christine Hartzell	
 online	ENAE	ENAE603	TuTh 5:00pm 6:15pm	15	15	Near-Earth Object Exploration	Brent Barbee	
-online	ENAE	ENAE635	TuTh 3:30pm 4:45pm	10	9	Helicopter Stability and Control	Ondrej Juhasz	
+online	ENAE	ENAE635	TuTh 3:30pm 4:45pm	10	9	Helicopter Stability and Control	John Tritschler,Ondrej Juhasz	
 online	ENAE	ENAE641	TuTh 12:30pm 1:45pm	25	9	Linear System Dynamics	Robert Sanner	
 online	ENAE	ENAE642	TuTh 2:00pm 3:15pm	20	18	Atmospheric Flight Control	Jared Grauer	
 online	ENAE	ENAE647	TuTh 8:00am 9:15am	20	19	Flexible Multi-body Dynamics	Olivier Bauchau	
@@ -2565,8 +2565,8 @@ in person	ENCE	ENCE411	TuTh 11:00am 11:50am	12	0	Environmental Engineering Scien
 in person	ENCE	ENCE411	TuTh 11:00am 11:50am	12	4	Environmental Engineering Science	Alba Torrents	W 2:00pm 5:00pm
 in person	ENCE	ENCE432	MWF 9:00am 9:50am	42	6	Ground Water Hydrology	Kaye Brubaker	
 in person	ENCE	ENCE433	M 2:00pm 4:40pm	25	19	Assessment of Natural Hazards for Engineering Applications	Michelle Bensi	
-in person	ENCE	ENCE444	Tu 12:30pm 1:30pm	20	6	Experimental Methods in Geotechnical Structural Engineering	Yunfeng Zhang	W 1:00pm 4:00pm
-in person	ENCE	ENCE444	Tu 12:30pm 1:30pm	15	1	Experimental Methods in Geotechnical Structural Engineering	Ahmet Aydilek	W 1:00pm 4:00pm
+in person	ENCE	ENCE444	Tu 12:30pm 1:30pm	20	6	Experimental Methods in Geotechnical Structural Engineering	Yunfeng Zhang,Ahmet Aydilek	W 1:00pm 4:00pm
+in person	ENCE	ENCE444	Tu 12:30pm 1:30pm	15	1	Experimental Methods in Geotechnical Structural Engineering	Ahmet Aydilek,Yunfeng Zhang	W 1:00pm 4:00pm
 in person	ENCE	ENCE466	Tu 3:30pm 4:45pm	40	24	Design of Civil Engineering Systems	Russell Anderson	Th 3:30pm 4:45pm
 in person	ENCE	ENCE466	Tu 3:30pm 4:45pm	40	18	Design of Civil Engineering Systems	Russell Anderson	Th 2:00pm 3:15pm
 in person	ENCE	ENCE470	MWF 10:00am 10:50am	40	11	Highway Engineering	ShiaauLir Wang	
@@ -2614,7 +2614,7 @@ online	ENCE	ENCE622		25	20	Construction Automation & Robotics	Miroslaw Skibniews
 online	ENCE	ENCE627		40	29	Project Risk Management	Gregory Baecher	
 online	ENCE	ENCE632	W 2:00pm 4:40pm	25	16	Introduction to Infrastructure and Resilience	Allison Reilly	
 online	ENCE	ENCE662		30	23	Introduction to Project Management	John Johnson	
-online	ENCE	ENCE664		35	24	Legal Aspects of Engineering Design and Construction	Thomas Powell	
+online	ENCE	ENCE664		35	24	Legal Aspects of Engineering Design and Construction	Thomas Barham,Mark Groff,Thomas Powell	
 online	ENCE	ENCE665	Sa 10:00am 3:15pm	30	3	Management of Project Teams	Jocelyn Davis	
 online	ENCE	ENCE666		30	20	Cost Engineering and Control	Neil Schulman	
 online	ENCE	ENCE688I		20	18	Advanced Topics in Civil Engineering; Discrete Choice Analysis	Cinzia Cirillo	
@@ -2753,17 +2753,17 @@ online	ENEE	ENEE704	MW 12:30pm 1:45pm	30	27	Physics and Simulation of Semiconduc
 online	ENEE	ENEE762	TuTh 5:00pm 6:15pm	30	14	Stochastic Control	Perinkulam Krishnaprasad	
 online	ENEE	ENEE789O	TuTh 2:00pm 3:15pm	30	24	Advanced Topics in Electrophysics	Edward Ott	
 in person	ENES	ENES190H	TuTh 12:30pm 1:45pm	45	3	Introduction to Design and Quality	Pamela Armstrong	Tu 6:00pm 7:50pm
-in person	ENES	ENES390H	TuTh 3:30pm 4:45pm	55	7	Designing Innovative Systems	David Ashley	
+in person	ENES	ENES390H	TuTh 3:30pm 4:45pm	55	7	Designing Innovative Systems	David Ashley,Joseph Bailey	
 in person	ENES	ENES397	Tu 5:00pm 7:40pm	9	3	Mentoring Multidisciplinary Teams	Pamela Armstrong	
-in person	ENES	ENES489A	TuTh 2:00pm 3:15pm	45	0	Special Topics in Engineering; Applied Quantitative Analysis	Joseph Bailey	
-in person	ENES	ENES490H	W 5:00pm 7:40pm	45	7	QUEST Capstone Professional Practicum	James Purtilo	
+in person	ENES	ENES489A	TuTh 2:00pm 3:15pm	45	0	Special Topics in Engineering; Applied Quantitative Analysis	Pamela Armstrong,Joseph Bailey	
+in person	ENES	ENES490H	W 5:00pm 7:40pm	45	7	QUEST Capstone Professional Practicum	David Ashley,James Purtilo,Joseph Bailey	
 online	ENES	ENES102	MW 9:00am 9:50am	55	0	Mechanics I	Instructor: TBA	F 9:00am 10:50am
 online	ENES	ENES102	MW 11:00am 11:50am	55	0	Mechanics I	Instructor: TBA	F 11:00am 12:50pm
 online	ENES	ENES102	MW 12:00pm 12:50pm	55	0	Mechanics I	Instructor: TBA	F 12:00pm 1:50pm
 online	ENES	ENES102	MW 2:00pm 2:50pm	55	0	Mechanics I	Instructor: TBA	F 2:00pm 3:50pm
 online	ENES	ENES102H	MW 9:00am 9:50am	55	6	Mechanics I	Instructor: TBA	F 9:00am 10:50am
 online	ENES	ENES102H	MW 12:00pm 12:50pm	55	15	Mechanics I	Instructor: TBA	F 12:00pm 1:50pm
-online	ENES	ENES113	W 4:00pm 5:30pm	65	41	Virtus Living and Learning Community Seminar I	Joshua Cocker	
+online	ENES	ENES113	W 4:00pm 5:30pm	65	41	Virtus Living and Learning Community Seminar I	Jarred Young,Joshua Cocker	
 online	ENES	ENES115	W 4:00pm 5:30pm	65	25	FLEXUS Living and Learning Community Seminar I	Laura Paquin	
 online	ENES	ENES140		250	0	Discovering New Ventures	James Green	
 online	ENES	ENES140		250	48	Discovering New Ventures	James Green	
@@ -2779,27 +2779,27 @@ online	ENES	ENES181	W 4:00pm 4:50pm	100	34	Engineering & The Grand Challenges	Ro
 online	ENES	ENES210	M 9:00am 9:50am	120	53	Entrepreneurial Opportunity Analysis and Decision-Making in 21st Century Technology Ventures	James Green	
 online	ENES	ENES210	M 10:00am 10:50am	120	4	Entrepreneurial Opportunity Analysis and Decision-Making in 21st Century Technology Ventures	James Green	
 online	ENES	ENES210	W 2:00pm 2:50pm	120	13	Entrepreneurial Opportunity Analysis and Decision-Making in 21st Century Technology Ventures	James Green	
-online	ENES	ENES210	M 2:00pm 2:50pm	120	29	Entrepreneurial Opportunity Analysis and Decision-Making in 21st Century Technology Ventures	James Green	
+online	ENES	ENES210	M 2:00pm 2:50pm	120	30	Entrepreneurial Opportunity Analysis and Decision-Making in 21st Century Technology Ventures	James Green	
 online	ENES	ENES210	W 9:00am 9:50am	120	98	Entrepreneurial Opportunity Analysis and Decision-Making in 21st Century Technology Ventures	James Green	
 online	ENES	ENES210	W 10:00am 10:50am	120	67	Entrepreneurial Opportunity Analysis and Decision-Making in 21st Century Technology Ventures	James Green	
 online	ENES	ENES210	M 1:00pm 1:50pm	120	0	Entrepreneurial Opportunity Analysis and Decision-Making in 21st Century Technology Ventures	James Green	
 online	ENES	ENES210	W 1:00pm 1:50pm	120	18	Entrepreneurial Opportunity Analysis and Decision-Making in 21st Century Technology Ventures	James Green	
 online	ENES	ENES213	Th 4:00pm 5:30pm	45	31	Virtus Living and Learning Community Seminar III	Instructor: TBA	
-online	ENES	ENES215	Th 4:00pm 5:30pm	49	24	FLEXUS Living and Learning Community Seminar III	Julia Anderson	
+online	ENES	ENES215	Th 4:00pm 5:30pm	49	24	FLEXUS Living and Learning Community Seminar III	Samantha Sabihi,Julia Anderson	
 online	ENES	ENES220	MW 9:00am 9:50am	55	0	Mechanics II	Instructor: TBA	F 9:00am 10:50am
 online	ENES	ENES220	MW 12:00pm 12:50pm	55	0	Mechanics II	Instructor: TBA	F 12:00pm 1:50pm
 online	ENES	ENES220	MW 10:00am 10:50am	55	0	Mechanics II	Instructor: TBA	F 10:00am 11:50am
 online	ENES	ENES220	MW 2:00pm 2:50pm	55	0	Mechanics II	Instructor: TBA	F 2:00pm 3:50pm
 online	ENES	ENES220	MW 1:00pm 1:50pm	55	0	Mechanics II	Instructor: TBA	F 1:00pm 2:50pm
 online	ENES	ENES220	MW 11:00am 11:50am	55	0	Mechanics II	Instructor: TBA	F 11:00am 12:50pm
-online	ENES	ENES304	Tu 5:00pm 5:50pm	17	17	RISE Seminar	Kenneth Kiger	
+online	ENES	ENES304	Tu 5:00pm 5:50pm	17	17	RISE Seminar	Natasha Chapman,Kenneth Kiger,William Fourney	
 online	ENES	ENES317		45	10	Introduction to Engineering Leadership	Natasha Chapman	
 online	ENES	ENES424	Tu 5:00pm 6:30pm	30	9	Engineering Leadership Capstone	Natasha Chapman	
-online	ENES	ENES460	TuTh 5:00pm 6:15pm	40	10	Fundamentals of Technology Start-Up Ventures	James Green	
+online	ENES	ENES460	TuTh 5:00pm 6:15pm	40	10	Fundamentals of Technology Start-Up Ventures	James Green,Michael Pratt	
 online	ENES	ENES461		250	69	Advanced Entrepreneurial Opportunity Analysis in Technology Ventures	James Green	
 online	ENES	ENES461		250	248	Advanced Entrepreneurial Opportunity Analysis in Technology Ventures	James Green	
 online	ENES	ENES463		38	1	Strategies for Managing Innovation	Thomas Mierzwa	
-online	ENES	ENES467	F 11:00am 1:40pm	45	1	Engineering for Social Change	Davinder Anand	
+online	ENES	ENES467	F 11:00am 1:40pm	45	1	Engineering for Social Change	Sami Ainane,Davinder Anand	
 online	ENES	ENES472	Th 6:00pm 7:30pm	45	15	International Business Cultures in Engineering and Technology	Natasha Chapman	
 online	ENES	ENES491	W 1:00pm 3:00pm	9	7	Scoping Experiential Learning Projects	Jessica Roffe	
 online	ENES	ENES602	M 2:00pm 3:15pm	25	3	Future Faculty Program Seminar II	Amy Karlsson	
@@ -2817,15 +2817,15 @@ online	ENFP	ENFP300	TuTh 11:00am 12:15pm	48	3	Fire Protection Fluid Mechanics	Fe
 online	ENFP	ENFP405	TuTh 9:30am 10:45am	21	0	Structural Fire Protection	Catherine Hamel	
 online	ENFP	ENFP410	TuTh 2:00pm 3:15pm	24	6	Special Hazard Suppression Systems	Kenneth Isman	
 online	ENFP	ENFP425	TuTh 3:30pm 4:45pm	50	12	Enclosure Fire Modeling	Isaac Leventon	
-online	ENFP	ENFP440	TuTh 12:30pm 1:45pm	49	0	Smoke Management and Fire Alarm Systems	Michael Reardon	
+online	ENFP	ENFP440	TuTh 12:30pm 1:45pm	49	0	Smoke Management and Fire Alarm Systems	Michael Reardon,James Milke	
 online	ENFP	ENFP464	M 1:00pm 2:50pm	15	12	Industrial Fire Safety	Arnaud Trouve	W 1:00pm 1:50pm
 online	ENFP	ENFP611	MW 4:30pm 5:45pm	15	12	Fire Induced Flows	Andre Marshall	
 online	ENFP	ENFP621	TuTh 9:30am 10:45am	10	0	Analytical Procedures of Structural Fire Protection	Catherine Hamel	
 online	ENFP	ENFP625		40	29	Advanced Fire Modeling	Arnaud Trouve	
 online	ENFP	ENFP626	TuTh 3:30pm 4:45pm	20	16	Computational Fire Modeling	Arnaud Trouve	
-online	ENFP	ENFP627	TuTh 12:30pm 1:45pm	8	4	Smoke Detection and Management	Michael Reardon	
+online	ENFP	ENFP627	TuTh 12:30pm 1:45pm	8	4	Smoke Detection and Management	James Milke,Michael Reardon	
 online	ENFP	ENFP653	TuTh 2:00pm 3:15pm	11	2	Advanced Fire Supression	Kenneth Isman	
-online	ENFP	ENFP662		40	30	Performance Based Design	Morgan Hurley	
+online	ENFP	ENFP662		40	30	Performance Based Design	Eric Rosenbaum,Morgan Hurley	
 online	ENFP	ENFP664	M 1:00pm 2:50pm	15	12	Advanced Industrial Fire Safety	Arnaud Trouve	W 1:00pm 1:50pm
 in person	ENGL	ENGL798D	F 3:00pm 5:00pm	20	11	Critical Theory Colloquium; Digital Studies	Matthew Kirschenbaum	
 in person	ENGL	ENGL888A	M 8:00am 8:50am	10	9	Practicum in English Studies; Graduate Research	GerShun Avilez	
@@ -2959,7 +2959,7 @@ online	ENGL	ENGL101X	MWF 12:00pm 12:50pm	17	15	Academic Writing	Benjamin Baker
 online	ENGL	ENGL101X	TuTh 2:00pm 3:15pm	17	14	Academic Writing	Laura Williams	
 online	ENGL	ENGL101X	MWF 11:00am 11:50am	17	16	Academic Writing	Instructor: TBA	
 online	ENGL	ENGL120	MW 11:00am 11:50am	24	15	Acting Human: Shakespeare and the Drama of Identity	Gerard Passannante	F 10:00am 10:50am
-online	ENGL	ENGL120	MW 11:00am 11:50am	24	10	Acting Human: Shakespeare and the Drama of Identity	Gerard Passannante	F 11:00am 11:50am
+online	ENGL	ENGL120	MW 11:00am 11:50am	24	11	Acting Human: Shakespeare and the Drama of Identity	Gerard Passannante	F 11:00am 11:50am
 online	ENGL	ENGL120	MW 11:00am 11:50am	24	18	Acting Human: Shakespeare and the Drama of Identity	Gerard Passannante	F 11:00am 11:50am
 online	ENGL	ENGL120	MW 11:00am 11:50am	24	19	Acting Human: Shakespeare and the Drama of Identity	Gerard Passannante	F 12:00pm 12:50pm
 online	ENGL	ENGL130		24	12	Race and the Cultural Politics of Blood: A Historical Perspective	Kim Coles	
@@ -3296,7 +3296,7 @@ online	ENMA	ENMA464	MWF 2:00pm 2:50pm	25	6	Environmental Effects on Engineering 
 online	ENMA	ENMA466	W 10:00am 11:30am	4	0	Advanced Materials Fabrication Laboratory	Gary Rubloff	
 online	ENMA	ENMA466	W 10:00am 11:30am	4	0	Advanced Materials Fabrication Laboratory	Gary Rubloff	
 online	ENMA	ENMA466	W 10:00am 11:30am	4	0	Advanced Materials Fabrication Laboratory	Gary Rubloff	
-online	ENMA	ENMA486	F 1:00pm 2:30pm	4	0	Seminar in Materials Science and Engineering	Ji-Cheng Zhao	
+online	ENMA	ENMA486	F 1:00pm 2:30pm	4	0	Seminar in Materials Science and Engineering	Timothy Koeth,Ji-Cheng Zhao	
 online	ENMA	ENMA489L	W 1:00pm 3:40pm	10	2	Selected Topics in Engineering Materials; Machine Learning for Materials	Ichiro Takeuchi	
 online	ENMA	ENMA495		25	6	Polymeric Engineering Materials I	Luz Martinez-Miranda	
 online	ENMA	ENMA499		6	4	Senior Laboratory Project	Timothy Koeth	
@@ -3307,14 +3307,14 @@ online	ENMA	ENMA650	MW 5:00pm 6:15pm	26	13	Nanometer Structure of Materials	Gott
 online	ENMA	ENMA660	MW 3:30pm 4:45pm	25	12	Thermodynamics in Materials Science	Oded Rabin	
 online	ENMA	ENMA664	MWF 2:00pm 2:50pm	5	4	Advanced Environmental Effects on Engineering Materials	Sreeramamurthy Ankem	
 online	ENMA	ENMA680	TuTh 3:30pm 4:45pm	21	21	Determination of Structure, Chemical Composition and Defects in Materials	Lourdes Salamanca-Riba	
-online	ENMA	ENMA688	F 1:00pm 2:30pm	24	17	Seminar in Materials Science and Engineering	Ji-Cheng Zhao	
+online	ENMA	ENMA688	F 1:00pm 2:30pm	24	17	Seminar in Materials Science and Engineering	Timothy Koeth,Ji-Cheng Zhao	
 online	ENMA	ENMA689C		10	9	Special Topics in Engineering Materials; Reliability and Failure Mechanisms of Nanosystems	Aristos Christou	
 online	ENMA	ENMA689C		5	5	Special Topics in Engineering Materials; Reliability and Failure Mechanisms of Nanosystems	Aristos Christou	
 online	ENMA	ENMA797		5	5	Independent Study	Ichiro Takeuchi	
 in person	ENME	ENME208	Tu 6:30pm 7:30pm	10	7	Introduction to Automotive Engineering and Design	Scott Schmidt	Th 6:30pm 8:30pm
 in person	ENME	ENME442	TuTh 9:30am 10:45am	24	5	Information Security	Michel Cukier	
 in person	ENME	ENME489A	TuTh 3:30pm 4:45pm	10	8	Special Topics in Mechanical Engineering; Optimal Control of Energy Systems	Hosam Fathy	
-in person	ENME	ENME489V	Th 8:00am 10:40am	31	12	Special Topics in Mechanical Engineering; Mechanical Contracting	Gary Pertmer	
+in person	ENME	ENME489V	Th 8:00am 10:40am	31	12	Special Topics in Mechanical Engineering; Mechanical Contracting	Michael Mack,Gary Pertmer	
 in person	ENME	ENME809B	TuTh 3:30pm 4:45pm	20	17	Special Topics; Optimal Control of Energy Systems	Hosam Fathy	
 online	ENME	ENME201	Th 12:30pm 1:30pm	65	38	Careers in Mechanical Engineering	Gary Pertmer	
 online	ENME	ENME202	MW 11:00am 11:50am	42	23	Computing Fundamentals for Engineers	Sami Ainane	F 8:00am 9:50am
@@ -3327,20 +3327,20 @@ online	ENME	ENME272	W 8:00am 9:50am	42	24	Introduction to Computer Aided Design	
 online	ENME	ENME272	F 1:00pm 2:50pm	42	0	Introduction to Computer Aided Design	Mohammad Fazelpour	
 online	ENME	ENME272	Th 8:00am 9:50am	42	0	Introduction to Computer Aided Design	Ryan Smith	
 online	ENME	ENME272	Tu 8:00am 9:50am	42	0	Introduction to Computer Aided Design	Ryan Smith	
-online	ENME	ENME331	MW 12:00pm 12:50pm	50	0	Fluid Mechanics	Siddhartha Das	Tu 1:00pm 2:50pm
-online	ENME	ENME331	MW 12:00pm 12:50pm	50	0	Fluid Mechanics	Siddhartha Das	W 1:00pm 2:50pm
-online	ENME	ENME331	MW 12:00pm 12:50pm	50	0	Fluid Mechanics	Amir Riaz	Th 1:00pm 2:50pm
-online	ENME	ENME331	MW 12:00pm 12:50pm	50	10	Fluid Mechanics	Siddhartha Das	Tu 3:00pm 4:50pm
-online	ENME	ENME331	MW 12:00pm 12:50pm	50	16	Fluid Mechanics	Siddhartha Das	W 3:00pm 4:50pm
-online	ENME	ENME332	MW 9:00am 9:50am	45	0	Transfer Processes	Marino diMarzo	Tu 1:00pm 2:50pm
-online	ENME	ENME332	MW 9:00am 9:50am	45	0	Transfer Processes	Amir Riaz	W 1:00pm 2:50pm
-online	ENME	ENME332	MW 9:00am 9:50am	45	3	Transfer Processes	Amir Riaz	Th 1:00pm 2:50pm
-online	ENME	ENME332	MW 9:00am 9:50am	45	6	Transfer Processes	Amir Riaz	F 1:00pm 2:50pm
-online	ENME	ENME350	MW 8:00am 8:50am	55	0	Electronics and Instrumentation I	Xinan Liu	M 1:00pm 2:50pm
-online	ENME	ENME350	MW 8:00am 8:50am	55	0	Electronics and Instrumentation I	Jungho Kim	Th 1:00pm 2:50pm
-online	ENME	ENME350	MW 8:00am 8:50am	55	3	Electronics and Instrumentation I	Jungho Kim	W 3:20pm 5:10pm
-online	ENME	ENME350	MW 8:00am 8:50am	55	5	Electronics and Instrumentation I	Xinan Liu	Tu 3:20pm 5:10pm
-online	ENME	ENME350	MW 8:00am 8:50am	55	7	Electronics and Instrumentation I	Jungho Kim	M 3:20pm 5:10pm
+online	ENME	ENME331	MW 12:00pm 12:50pm	50	0	Fluid Mechanics	Siddhartha Das,Amir Riaz	Tu 1:00pm 2:50pm
+online	ENME	ENME331	MW 12:00pm 12:50pm	50	0	Fluid Mechanics	Amir Riaz,Siddhartha Das	W 1:00pm 2:50pm
+online	ENME	ENME331	MW 12:00pm 12:50pm	50	0	Fluid Mechanics	Siddhartha Das,Amir Riaz	Th 1:00pm 2:50pm
+online	ENME	ENME331	MW 12:00pm 12:50pm	50	10	Fluid Mechanics	Amir Riaz,Siddhartha Das	Tu 3:00pm 4:50pm
+online	ENME	ENME331	MW 12:00pm 12:50pm	50	16	Fluid Mechanics	Amir Riaz,Siddhartha Das	W 3:00pm 4:50pm
+online	ENME	ENME332	MW 9:00am 9:50am	45	0	Transfer Processes	Amir Riaz,Marino diMarzo	Tu 1:00pm 2:50pm
+online	ENME	ENME332	MW 9:00am 9:50am	45	0	Transfer Processes	Amir Riaz,Marino diMarzo	W 1:00pm 2:50pm
+online	ENME	ENME332	MW 9:00am 9:50am	45	3	Transfer Processes	Amir Riaz,Marino diMarzo	Th 1:00pm 2:50pm
+online	ENME	ENME332	MW 9:00am 9:50am	45	6	Transfer Processes	Marino diMarzo,Amir Riaz	F 1:00pm 2:50pm
+online	ENME	ENME350	MW 8:00am 8:50am	55	0	Electronics and Instrumentation I	Xinan Liu,Jungho Kim	M 1:00pm 2:50pm
+online	ENME	ENME350	MW 8:00am 8:50am	55	0	Electronics and Instrumentation I	Xinan Liu,Jungho Kim	Th 1:00pm 2:50pm
+online	ENME	ENME350	MW 8:00am 8:50am	55	3	Electronics and Instrumentation I	Xinan Liu,Jungho Kim	W 3:20pm 5:10pm
+online	ENME	ENME350	MW 8:00am 8:50am	55	5	Electronics and Instrumentation I	Jungho Kim,Xinan Liu	Tu 3:20pm 5:10pm
+online	ENME	ENME350	MW 8:00am 8:50am	55	7	Electronics and Instrumentation I	Xinan Liu,Jungho Kim	M 3:20pm 5:10pm
 online	ENME	ENME351	MW 10:00am 10:50am	40	0	Electronics and Instrumentation II	Steven Mitchell	Tu 1:00pm 2:50pm
 online	ENME	ENME351	MW 10:00am 10:50am	40	6	Electronics and Instrumentation II	Steven Mitchell	W 6:00pm 7:50pm
 online	ENME	ENME351	MW 10:00am 10:50am	40	0	Electronics and Instrumentation II	Steven Mitchell	W 1:00pm 2:50pm
@@ -3367,7 +3367,7 @@ online	ENME	ENME462	MW 10:00am 10:50am	30	0	Vibrations, Controls, and Optimizati
 online	ENME	ENME462	MW 10:00am 10:50am	40	0	Vibrations, Controls, and Optimization II	Amr Baz	F 10:00am 11:50am
 online	ENME	ENME462	MW 10:00am 10:50am	30	9	Vibrations, Controls, and Optimization II	Nikhil Chopra	W 1:00pm 2:50pm
 online	ENME	ENME462	MW 10:00am 10:50am	30	1	Vibrations, Controls, and Optimization II	Nikhil Chopra	M 11:00am 12:50pm
-online	ENME	ENME467	F 11:00am 1:40pm	45	1	Engineering for Social Change	Sami Ainane	
+online	ENME	ENME467	F 11:00am 1:40pm	45	1	Engineering for Social Change	Davinder Anand,Sami Ainane	
 online	ENME	ENME473	MW 2:00pm 3:15pm	25	0	Mechanical Design of Electronic Systems	Bongtae Han	
 online	ENME	ENME489F	W 3:30pm 6:10pm	10	0	Special Topics in Mechanical Engineering; Dynamics of Atmospheric Flight	David Findlay	
 online	ENME	ENME489G	TuTh 3:30pm 4:45pm	30	18	Special Topics in Mechanical Engineering; Manufacturing Processes and Design	Ho Yeung	
@@ -3383,8 +3383,8 @@ online	ENME	ENME670		25	16	Continuum Mechanics	Teng Li
 online	ENME	ENME690	MW 2:00pm 3:15pm	25	9	Mechanical Fundamentals of Electronic Systems	Bongtae Han	
 online	ENME	ENME690		15	8	Mechanical Fundamentals of Electronic Systems	Bongtae Han	
 online	ENME	ENME690		5	5	Mechanical Fundamentals of Electronic Systems	Bongtae Han	
-online	ENME	ENME701	Tu 4:00pm 6:40pm	25	15	Sustainable Energy Conversion and the Environment	K Radermacher	
-online	ENME	ENME701		10	8	Sustainable Energy Conversion and the Environment	Jiazhen Ling	
+online	ENME	ENME701	Tu 4:00pm 6:40pm	25	15	Sustainable Energy Conversion and the Environment	K Radermacher,Jiazhen Ling	
+online	ENME	ENME701		10	8	Sustainable Energy Conversion and the Environment	Jiazhen Ling,K Radermacher	
 online	ENME	ENME737	M 9:30am 12:10pm	25	22	Prognostics and Health Management	Michael Pecht	
 online	ENME	ENME737		10	9	Prognostics and Health Management	Michael Pecht	
 online	ENME	ENME737		10	10	Prognostics and Health Management	Michael Pecht	
@@ -3413,7 +3413,7 @@ online	ENPM	ENPM651	Th 4:00pm 6:40pm	20	10	Heat Transfer for Modern Application	
 online	ENPM	ENPM660		20	12	Wind Energy Engineering	James Turso	
 online	ENPM	ENPM662	W 4:00pm 6:40pm	46	19	Introduction to Robot Modeling	Reza Monfaredi	
 online	ENPM	ENPM667		20	19	Control of Robotic Systems	Waseem Malik	
-online	ENPM	ENPM670	M 7:00pm 9:40pm	17	13	Advanced Energy Audit and Conservation	Kyosung Choo	
+online	ENPM	ENPM670	M 7:00pm 9:40pm	17	13	Advanced Energy Audit and Conservation	Kyosung Choo,Michael Ohadi	
 online	ENPM	ENPM672		20	15	Fundamentals for Thermal Systems	Mohammad Ali	
 online	ENPM	ENPM677	Tu 7:00pm 9:40pm	17	14	Wireless Sensor Networks	Sasan Haghani	
 online	ENPM	ENPM687		50	11	Digital Forensics and Incidence Responses	Jonas Amoonarquah	
@@ -3424,11 +3424,11 @@ online	ENPM	ENPM808A	Tu 4:00pm 6:40pm	50	8	Advanced Topics in Engineering; Intro
 online	ENPM	ENPM808J	Th 7:00pm 9:40pm	17	16	Advanced Topics in Engineering; Design of Experiments	Anthony Barber	
 online	ENPM	ENPM808O	W 7:00pm 9:40pm	50	29	Advanced Topics in Engineering; AI-Based Software Systems	Mikael Lindvall	
 online	ENPM	ENPM808P	M 4:00pm 6:40pm	17	16	Advanced Topics in Engineering; Printed Electronics	Siddhartha Das	
-online	ENPM	ENPM808Q		20	20	Advanced Topics in Engineering; Forensic Engineering	Bilal Ayyub	
+online	ENPM	ENPM808Q		20	20	Advanced Topics in Engineering; Forensic Engineering	Bilal Ayyub,Michael Drerup	
 online	ENPM	ENPM808W	W 7:00pm 9:40pm	50	22	Advanced Topics in Engineering; Data Science	A Seyed	
 online	ENPM	ENPM808X	Tu 7:00pm 9:40pm	50	31	Advanced Topics in Engineering; Software Development for Robotics	Instructor: TBA	
 online	ENPM	ENPM809A	Th 4:00pm 6:40pm	50	41	Special Topics in Engineering; Applied Cryptography	Dharmalingam Ganesan	
-online	ENPM	ENPM809B		20	20	Special Topics in Engineering; Building a Manufacturing Robot Software System	Craig Schlenoff	
+online	ENPM	ENPM809B		20	20	Special Topics in Engineering; Building a Manufacturing Robot Software System	Zeid Kootbally,Craig Schlenoff	
 online	ENPM	ENPM809F	Th 7:00pm 9:40pm	50	15	Special Topics in Engineering; Internet of Things	Nof Abu Zainab	
 online	ENPM	ENPM809J	Tu 7:00pm 9:40pm	115	15	Special Topics in Engineering; Cloud Security	Kevin Shivers	
 online	ENPM	ENPM809M	W 4:00pm 6:40pm	20	19	Special Topics in Engineering; Fundamentals of Power Electronics for Energy Systems	Amir Shahirinia	
@@ -3500,15 +3500,15 @@ online	ENST	ENST611	TuTh 12:30pm 1:45pm	10	9	Advanced Principles of Soil Fertili
 online	ENST	ENST650		10	5	Advanced Wetland Ecology	Andrew Baldwin	
 online	ENST	ENST689E	TuTh 12:30pm 1:45pm	20	20	Special Topics; Advanced Ecosystem Health and Natural Resource Management	Paul Leisnham	
 online	ENST	ENST689O	M 11:00am 11:50am	20	20	Special Topics; Advances in Research, Invasive Plants	Wendy Peer	
-online	ENST	ENST798	W 12:00pm 12:50pm	40	40	Graduate Seminar	Stephanie Yarwood	
+online	ENST	ENST798	W 12:00pm 12:50pm	40	40	Graduate Seminar	Stephanie Yarwood,Martin Rabenhorst	
 in person	ENTM	ENTM699K	W 11:00am 12:40pm	12	12	Advanced Entomology; Biological Sciences Teaching and Learning in Higher Education	Gili Ad-Marbach	
 online	ENTM	ENTM701	Tu 6:00pm 8:00pm	20	18	Effective Teaching: TA Training	Bretton Kent	
 online	ENTM	ENTM710		8	3	Insect Biodiversity, Physiology and Ecology	Marcia Shofner	
-online	ENTM	ENTM745		8	6	Bee Biology and Beekeeping	Kelly Kulhanek	
+online	ENTM	ENTM745		8	6	Bee Biology and Beekeeping	Anthony Nearman,Dennis vanEngelsdorp,Kelly Kulhanek	
 online	ENTM	ENTM756		8	4	Insect Diseases and Pathology	Raymond StLeger	
 online	ENTM	ENTM788C	F 12:00pm 12:50pm	45	31	Entomological Topics; Colloquium	Rafael Barreto de Andrade	F 1:00pm 1:50pm
 online	ENTM	ENTM798D		12	11	Topic Seminar; Arthropod Pests of Agricultural Crops	Galen Dively	
-online	ENTM	ENTM798V	Tu 2:00pm 2:50pm	20	6	Topic Seminar; Introduction to R	Daniel Gruner	
+online	ENTM	ENTM798V	Tu 2:00pm 2:50pm	20	6	Topic Seminar; Introduction to R	Maile Neel,Daniel Gruner	
 online	ENTS	ENTS622	M 5:30pm 8:15pm	8	3	Introduction to Digital Communication Systems	Alejandra Mercado	F 5:30pm 8:15pm
 online	ENTS	ENTS622	M 5:30pm 8:15pm	8	1	Introduction to Digital Communication Systems	Alejandra Mercado	Tu 9:00am 11:45am
 online	ENTS	ENTS625	M 2:00pm 4:45pm	40	21	Management and Organizational Behavior in the Telecommunications Industry	Clarence Wesley	
@@ -3551,7 +3551,7 @@ online	EPIB	EPIB315	TuTh 11:00am 11:50am	30	0	Biostatistics for Public Health Pr
 online	EPIB	EPIB315	TuTh 11:00am 11:50am	30	11	Biostatistics for Public Health Practice	Rodman Turpin	F 12:00pm 1:50pm
 online	EPIB	EPIB315	M 9:00am 11:30am	35	20	Biostatistics for Public Health Practice	Raul Cruz-Cano	
 online	EPIB	EPIB330	TuTh 11:00am 12:15pm	35	19	The Coming Plague: Public Health Perspectives	Olivia Carter-Pokras	
-online	EPIB	EPIB612	M 4:00pm 6:45pm	20	6	Epidemiologic Study Design	Rodman Turpin	
+online	EPIB	EPIB612	M 4:00pm 6:45pm	20	6	Epidemiologic Study Design	Rodman Turpin,Hongjie Liu	
 online	EPIB	EPIB630	Tu 11:00am 1:45pm	20	9	Epidemiologic Methods in Sexual and Reproductive Health Research	Typhanye Dyer	
 online	EPIB	EPIB633	W 1:00pm 3:45pm	25	7	Health Survey Design and Analysis	Quynh Nguyen	
 online	EPIB	EPIB651	Th 1:00pm 3:45pm	20	14	Applied Regression Analysis	Mei-Ling Lee	
@@ -3561,11 +3561,11 @@ online	EPIB	EPIB697	Tu 4:00pm 6:45pm	20	12	Public Health Data Management	Raul Cr
 online	EPIB	EPIB788		15	8	Critical Readings in Epidemiology and Biostatistics	Cher Dallal	
 online	FGSM	FGSM310	Tu 6:00pm 9:00pm	20	0	Political Engagement and Advocacy	Kathleen Mogelgaard	
 online	FGSM	FGSM320	Tu 3:30pm 6:30pm	20	0	Public Health Policy	Samuel Kessel	
-online	FGSM	FGSM330	M 6:00pm 9:00pm	20	4	Homeland and National Security Policy	John Dermody	
+online	FGSM	FGSM330	M 6:00pm 9:00pm	20	4	Homeland and National Security Policy	John Dermody,Casie Kagalis	
 online	FGSM	FGSM340	M 3:30pm 6:30pm	20	1	Energy and Environmental Policy	Ed Fendley	
 online	FGSM	FGSM350	Th 7:00pm 10:00pm	20	5	Critical Regions and International Relations	Danusia Hubah	
-online	FGSM	FGSM360	Th 7:30pm 10:00pm	20	0	U.S. Diplomacy and Policymaking	William Usher	
-online	FGSM	FGSM370	W 5:30pm 8:30pm	20	3	Science Diplomacy: Foreign Policy & Science, Technology, and Innovation	Griffin Thompson	
+online	FGSM	FGSM360	Th 7:30pm 10:00pm	20	0	U.S. Diplomacy and Policymaking	William Usher,Paul Maykish	
+online	FGSM	FGSM370	W 5:30pm 8:30pm	20	3	Science Diplomacy: Foreign Policy & Science, Technology, and Innovation	Jonathan Margolis,Griffin Thompson	
 online	FGSM	FGSM380	W 5:30pm 8:30pm	20	0	Responses to Global Challenges	Rhoda Margesson	
 online	FGSM	FGSM390	W 3:00pm 6:00pm	20	1	Water Security and Global Health Challenges	Jonathan Margolis	
 online	FILM	FILM245	MW 12:00pm 12:50pm	25	1	Film Form and Culture	Mauro Resmini	F 11:00am 11:50am
@@ -3700,8 +3700,8 @@ online	GEMS	GEMS100	Tu 12:30pm 1:45pm	10	5	Freshman Honors Colloquium: Introduct
 online	GEMS	GEMS202	Tu 5:00pm 6:30pm	168	78	Team Dynamics and Research Methodology	Kristan Skendall	
 online	GEMS	GEMS208A		14	13	Special Topics in Leadership and Team Development; Team Dynamics and Research Methodology: First Time Section Leader	Kristan Skendall	
 online	GEMS	GEMS208B		14	12	Special Topics in Leadership and Team Development; Team Dynamics and Research Methodology: Returner Section Leader	Kristan Skendall	
-online	GEMS	GEMS208C		23	16	Special Topics in Leadership and Team Development; Introduction to Gemstone: First Time Section Leader	Leah Kreimer Tobin	
-online	GEMS	GEMS208D		10	10	Special Topics in Leadership and Team Development; Introduction to Gemstone: Returner Section Leader	Leah Kreimer Tobin	
+online	GEMS	GEMS208C		23	16	Special Topics in Leadership and Team Development; Introduction to Gemstone: First Time Section Leader	Kristan Skendall,Leah Kreimer Tobin	
+online	GEMS	GEMS208D		10	10	Special Topics in Leadership and Team Development; Introduction to Gemstone: Returner Section Leader	Kristan Skendall,Leah Kreimer Tobin	
 online	GEMS	GEMS208J		24	24	Special Topics in Leadership and Team Development; Gems Camp	Jessica Lee	
 online	GEMS	GEMS208K		30	29	Special Topics in Leadership and Team Development; GEMS Connect	Jessica Lee	
 online	GEMS	GEMS208M		100	95	Special Topics in Leadership and Team Development; AMPP: The Gemstone Alumni Mentor & Partner Program	Leah Kreimer Tobin	
@@ -3735,16 +3735,16 @@ online	GEMS	GEMS496		14	6	Project Writing Seminar	Natasha Andrade
 online	GEMS	GEMS496	Th 5:30pm 6:20pm	14	9	Project Writing Seminar	Giuliano Scarcelli	M 6:30pm 7:20pm
 online	GEMS	GEMS496		14	12	Project Writing Seminar	Kenneth Frauwirth	
 online	GEMS	GEMS496	TuTh 8:15am 9:05am	14	11	Project Writing Seminar	Bryan Quinn	
-online	GEMS	GEMS496	Th 4:30pm 5:20pm	14	6	Project Writing Seminar	David Akin	Tu 4:30pm 5:30pm
+online	GEMS	GEMS496	Th 4:30pm 5:20pm	14	6	Project Writing Seminar	David Akin,Mary Bowden	Tu 4:30pm 5:30pm
 online	GEMS	GEMS496	Th 3:45pm 5:25pm	14	10	Project Writing Seminar	Doug Lombardi	
 online	GEMS	GEMS496	M 12:45pm 1:35pm	14	6	Project Writing Seminar	Jae Kun Shim	W 8:00am 8:50am
 online	GEMS	GEMS496		14	10	Project Writing Seminar	Birthe Kjellerup	
 online	GEMS	GEMS496		14	8	Project Writing Seminar	Soheil Feizi	
-online	GEMS	GEMS496	Tu 8:00am 8:50am	14	8	Project Writing Seminar	Peter Kofinas	Th 8:00am 8:50am
+online	GEMS	GEMS496	Tu 8:00am 8:50am	14	8	Project Writing Seminar	Peter Kofinas,Omar Ayyub	Th 8:00am 8:50am
 online	GEMS	GEMS496		3	3	Project Writing Seminar	Kristan Skendall	
 online	GEMS	GEMS497		5	5	Team Thesis Defense	Kristan Skendall	
 online	GEOG	GEOG110	MW 4:30pm 5:45pm	36	0	The World Today: Global Perspectives	Rachel Berndtson	
-online	GEOG	GEOG140	F 9:00am 9:50am	25	4	Natural Disasters: Earthquakes, Floods, and Fires	Keith Yearwood	
+online	GEOG	GEOG140	F 9:00am 9:50am	25	3	Natural Disasters: Earthquakes, Floods, and Fires	Keith Yearwood	
 online	GEOG	GEOG140	F 10:00am 10:50am	25	4	Natural Disasters: Earthquakes, Floods, and Fires	Keith Yearwood	
 online	GEOG	GEOG140	Th 11:00am 11:50am	25	3	Natural Disasters: Earthquakes, Floods, and Fires	Keith Yearwood	
 online	GEOG	GEOG140	F 11:00am 11:50am	25	2	Natural Disasters: Earthquakes, Floods, and Fires	Keith Yearwood	
@@ -3757,16 +3757,16 @@ online	GEOG	GEOG140	F 1:00pm 1:50pm	25	3	Natural Disasters: Earthquakes, Floods,
 online	GEOG	GEOG140		38	1	Natural Disasters: Earthquakes, Floods, and Fires	Keith Yearwood	
 online	GEOG	GEOG170		150	66	Mapping our Digital World	Micah Brachman	
 online	GEOG	GEOG201	TuTh 12:30pm 1:45pm	240	0	Geography of Environmental Systems	Amanda Hall	
-online	GEOG	GEOG211		24	0	Geography of Environmental Systems Laboratory	Baobao Liu	
-online	GEOG	GEOG211		24	0	Geography of Environmental Systems Laboratory	Amanda Hall	
-online	GEOG	GEOG211		24	0	Geography of Environmental Systems Laboratory	Amanda Hall	
-online	GEOG	GEOG211		24	0	Geography of Environmental Systems Laboratory	Amanda Hall	
-online	GEOG	GEOG211		24	0	Geography of Environmental Systems Laboratory	Baobao Liu	
-online	GEOG	GEOG211		24	0	Geography of Environmental Systems Laboratory	Kirsten Ilustre	
-online	GEOG	GEOG211		24	0	Geography of Environmental Systems Laboratory	Kirsten Ilustre	
-online	GEOG	GEOG211		24	0	Geography of Environmental Systems Laboratory	Kirsten Ilustre	
-online	GEOG	GEOG211		24	0	Geography of Environmental Systems Laboratory	Amanda Hall	
-online	GEOG	GEOG211		24	0	Geography of Environmental Systems Laboratory	Valeria Morales	
+online	GEOG	GEOG211		24	0	Geography of Environmental Systems Laboratory	Amanda Hall,Baobao Liu	
+online	GEOG	GEOG211		24	0	Geography of Environmental Systems Laboratory	Amanda Hall,Baobao Liu	
+online	GEOG	GEOG211		24	0	Geography of Environmental Systems Laboratory	Baobao Liu,Amanda Hall	
+online	GEOG	GEOG211		24	0	Geography of Environmental Systems Laboratory	Baobao Liu,Amanda Hall	
+online	GEOG	GEOG211		24	0	Geography of Environmental Systems Laboratory	Baobao Liu,Amanda Hall	
+online	GEOG	GEOG211		24	0	Geography of Environmental Systems Laboratory	Amanda Hall,Kirsten Ilustre	
+online	GEOG	GEOG211		24	0	Geography of Environmental Systems Laboratory	Kirsten Ilustre,Amanda Hall	
+online	GEOG	GEOG211		24	0	Geography of Environmental Systems Laboratory	Kirsten Ilustre,Amanda Hall	
+online	GEOG	GEOG211		24	0	Geography of Environmental Systems Laboratory	Valeria Morales,Amanda Hall	
+online	GEOG	GEOG211		24	0	Geography of Environmental Systems Laboratory	Amanda Hall,Valeria Morales	
 online	GEOG	GEOG276	MW 1:00pm 1:50pm	24	15	Principles of Python Programming for Social and Environmental Sciences	Taylor Oshan	W 2:00pm 3:50pm
 online	GEOG	GEOG276	MW 1:00pm 1:50pm	24	22	Principles of Python Programming for Social and Environmental Sciences	Taylor Oshan	W 2:00pm 3:50pm
 online	GEOG	GEOG330	MW 1:00pm 1:50pm	25	7	As the World Turns: Society and Sustainability in a Time of Great Change	Rachel Berndtson	F 2:00pm 2:50pm
@@ -3825,7 +3825,7 @@ in person	GEOL	GEOL789A	TuTh 11:00am 12:15pm	10	0	Recent Advances in Geology; Cu
 in person	GEOL	GEOL789E	TuTh 2:00pm 3:15pm	10	1	Recent Advances in Geology; Active Tectonics	Mong-Han Huang	
 online	GEOL	GEOL100		99	1	Physical Geology	Tracey Centorbi	
 online	GEOL	GEOL100		99	0	Physical Geology	Ricardo Arevalo	
-online	GEOL	GEOL110	Th 12:00pm 3:00pm	24	9	Physical Geology Laboratory	Karla Nunez	
+online	GEOL	GEOL110	Th 12:00pm 3:00pm	24	9	Physical Geology Laboratory	Karla Nunez,Tracey Centorbi	
 online	GEOL	GEOL110	M 12:00pm 3:00pm	24	0	Physical Geology Laboratory	Tracey Centorbi	
 online	GEOL	GEOL110	Tu 12:00pm 3:00pm	24	8	Physical Geology Laboratory	Tracey Centorbi	
 online	GEOL	GEOL110	Tu 3:00pm 6:00pm	24	0	Physical Geology Laboratory	Tracey Centorbi	
@@ -4006,11 +4006,11 @@ online	GVPT	GVPT888I	W 12:30pm 3:15pm	12	7	Selected Topics in Comparative Govern
 in person	HACS	HACS208N	W 4:00pm 6:45pm	24	0	Digital Forensics	Marcelle Lee	
 in person	HACS	HACS208P	TuTh 11:00am 12:15pm	25	0	Beyond Technology, the Policy Implications of Cyberspace	Charles Harry	
 in person	HACS	HACS408R	Tu 5:30pm 8:15pm	26	15	Advanced Seminar in Cybersecurity; Practical Analysis of Cyber Requirements and their Impacts on Systems	Instructor: TBA	
-online	HACS	HACS100	M 9:00am 9:50am	35	2	Foundations in Cybersecurity I	Ciro Pinto-Coelho	W 9:00am 9:50am
-online	HACS	HACS100	M 10:00am 10:50am	35	9	Foundations in Cybersecurity I	Ciro Pinto-Coelho	W 10:00am 10:50am
-online	HACS	HACS100	M 11:00am 11:50am	35	16	Foundations in Cybersecurity I	Ciro Pinto-Coelho	W 11:00am 11:50am
-online	HACS	HACS200	Tu 3:30pm 5:10pm	42	0	Applied Cybersecurity Foundations II	Zhi Lin	
-online	HACS	HACS200	Th 3:30pm 5:10pm	42	10	Applied Cybersecurity Foundations II	Michel Cukier	
+online	HACS	HACS100	M 9:00am 9:50am	35	2	Foundations in Cybersecurity I	Michel Cukier,Ciro Pinto-Coelho	W 9:00am 9:50am
+online	HACS	HACS100	M 10:00am 10:50am	35	9	Foundations in Cybersecurity I	Michel Cukier,Ciro Pinto-Coelho	W 10:00am 10:50am
+online	HACS	HACS100	M 11:00am 11:50am	35	16	Foundations in Cybersecurity I	Ciro Pinto-Coelho,Michel Cukier	W 11:00am 11:50am
+online	HACS	HACS200	Tu 3:30pm 5:10pm	42	0	Applied Cybersecurity Foundations II	Michel Cukier,Zhi Lin	
+online	HACS	HACS200	Th 3:30pm 5:10pm	42	10	Applied Cybersecurity Foundations II	Michel Cukier,Zhi Lin	
 online	HACS	HACS201	Th 5:30pm 6:20pm	35	22	Introduction to UNIX	Bertrand Sobesto	
 online	HACS	HACS208M	TuTh 9:30am 10:45am	30	18	Seminar in Cybersecurity; Project Management Techniques for IT Professional	Firoozeh Rahimian	
 online	HACS	HACS297	TuTh 12:30pm 1:45pm	25	9	Cybersecurity Experience Reflection	Cassandra Harrington 	
@@ -4039,7 +4039,7 @@ online	HESI	HESI217	MW 11:00am 12:15pm	25	5	Introduction to Student Leadership	N
 online	HESI	HESI217	MW 2:00pm 3:15pm	25	10	Introduction to Student Leadership	Ashley Hixson	
 online	HESI	HESI217	TuTh 7:30pm 8:45pm	20	1	Introduction to Student Leadership	Ashley Hixson	
 online	HESI	HESI217	MW 6:00pm 7:15pm	20	9	Introduction to Student Leadership	Noel Kuriakos	
-online	HESI	HESI220	TuTh 3:30pm 4:45pm	25	0	Adaptive Strategies for Multicultural Leadership and Dialogue	Benjamin Beltran	
+online	HESI	HESI220	TuTh 3:30pm 4:45pm	25	0	Adaptive Strategies for Multicultural Leadership and Dialogue	Benjamin Beltran,Nicole Mehta	
 online	HESI	HESI310	MW 11:00am 12:15pm	16	0	Transfer2Terp Learning Community: Applying Your Strengths at the University of Maryland and Beyond	Instructor: TBA	
 online	HESI	HESI310	TuTh 11:00am 12:15pm	16	0	Transfer2Terp Learning Community: Applying Your Strengths at the University of Maryland and Beyond	Instructor: TBA	
 online	HESI	HESI310	TuTh 12:30pm 1:45pm	16	0	Transfer2Terp Learning Community: Applying Your Strengths at the University of Maryland and Beyond	Instructor: TBA	
@@ -4048,9 +4048,9 @@ online	HESI	HESI315	TuTh 11:00am 12:15pm	20	4	Student Leadership in Groups and O
 online	HESI	HESI318N	Th 3:30pm 4:45pm	20	20	Applied Contextual Leadership; Leadership in Collaborative Learning Groups	Danielle Pafe	
 online	HESI	HESI318N	W 5:00pm 6:15pm	20	20	Applied Contextual Leadership; Leadership in Collaborative Learning Groups	Danielle Pafe	
 online	HESI	HESI320		15	12	Social Action Seminar	Melissa Rocco	
-online	HESI	HESI417	F 9:00am 11:45am	15	0	Advanced Leadership Seminar	Shakia Asamoah	
+online	HESI	HESI417	F 9:00am 11:45am	15	0	Advanced Leadership Seminar	Craig Slack,Shakia Asamoah	
 online	HESI	HESI418D	TuTh 2:00pm 3:15pm	25	1	Special Topics in Leadership; Leadership and Ethnicity	Brandon Dula	
-online	HESI	HESI671	M 4:15pm 7:00pm	13	9	Intergroup Dialogue Facilitation Practicum	Jazmin Pichardo	
+online	HESI	HESI671	M 4:15pm 7:00pm	13	9	Intergroup Dialogue Facilitation Practicum	Alison Mojto,Jazmin Pichardo	
 online	HESI	HESI672	W 4:15pm 7:00pm	15	10	Individual and Organizational Assessment in Student Affairs	Kristan Skendall	
 in person	HESP	HESP120	TuTh 6:00pm 7:15pm	30	0	Introduction to Linguistics	Dominique Mwepu	
 in person	HESP	HESP150	Tu 6:30pm 9:00pm	50	48	Introduction to Language Science	Kristina Kubistal-Meeks	
@@ -4064,7 +4064,7 @@ in person	HESP	HESP630	W 3:30pm 6:00pm	10	4	Electrophysiological Measurements	Sa
 in person	HESP	HESP700	Tu 5:00pm 7:30pm	10	10	Hearing Aids	Eric Hoover	
 in person	HESP	HESP710	M 5:00pm 7:30pm	20	15	Industrial and Environmental Noise Problems	Eric Hoover	
 in person	HESP	HESP712	M 2:00pm 4:30pm	10	5	Cochlear Implants and Other Implantable Technologies	Nicole Nguyen	
-online	HESP	HESP120		45	12	Introduction to Linguistics	Melissa Licata	
+online	HESP	HESP120		45	12	Introduction to Linguistics	Karen Miranda,Melissa Licata	
 online	HESP	HESP120	TuTh 2:00pm 3:15pm	45	5	Introduction to Linguistics	Michelle Morrison	
 online	HESP	HESP202	TuTh 11:00am 12:15pm	100	44	Introduction to Hearing and Speech Sciences	Kathleen Skinker	
 online	HESP	HESP214	TuTh 11:00am 12:15pm	45	11	Should I Buy INTO That? Comparing Media Claims with Scientific Evidence from Brain & Behavior Research	Jared Novick	
@@ -4126,7 +4126,7 @@ in person	HIST	HIST250	TuTh 3:30pm 4:45pm	36	0	Colonial Latin America	Alejandro 
 in person	HIST	HIST319Q	TuTh 9:30am 10:45am	36	0	Special Topics in History; The Civil War Era: America's Fiery Trial	Michael Ross	
 in person	HIST	HIST333	TuTh 9:30am 10:45am	27	5	The European Reformations	Stefano Villani	
 in person	HIST	HIST408E	M 11:00am 12:50pm	12	0	Senior Seminar; Empire and Central Asia	Sarah Cameron	
-in person	HIST	HIST454	TuTh 3:30pm 4:45pm	36	13	Constitutional History of the United States: From Colonial Origins to 1865	Michael Ross	
+in person	HIST	HIST454	TuTh 3:30pm 4:45pm	36	14	Constitutional History of the United States: From Colonial Origins to 1865	Michael Ross	
 online	HIST	HIST106	TuTh 9:30am 10:45am	40	5	American Jewish Experience	Marsha Rozenblit	
 online	HIST	HIST110	MW 10:00am 10:50am	24	6	The Ancient World	Elizabeth Conner	W 2:00pm 2:50pm
 online	HIST	HIST110	MW 10:00am 10:50am	24	2	The Ancient World	Elizabeth Conner	W 11:00am 11:50am
@@ -4195,7 +4195,7 @@ online	HIST	HIST208E	W 10:00am 11:50am	12	1	Historical Research and Methods Semi
 online	HIST	HIST208E	W 1:00pm 2:50pm	12	8	Historical Research and Methods Seminar; Constructing, Imagining, and Narrating Pre-Modern Cities	Kader Smail	
 online	HIST	HIST215	TuTh 2:00pm 3:15pm	30	0	Women in Western Europe to 1750	Sabrina Baron	
 online	HIST	HIST219C		25	12	Special Topics in History; Can Jews be Arabs? Identity and Crisis for the Jews of Arab Lands in Modern Times	Shay Hazkani	
-online	HIST	HIST219E	TuTh 11:30am 1:00pm	12	3	Special Topics in History; Visual Cultures of Islam	Instructor: TBA	
+online	HIST	HIST219E	TuTh 11:30am 1:00pm	12	2	Special Topics in History; Visual Cultures of Islam	Instructor: TBA	
 online	HIST	HIST219M		50	42	Special Topics in History; Archeology and History of Palestine: Neolithic to Muhammed	Gregory Stoehr	
 online	HIST	HIST224	TuTh 3:30pm 4:45pm	40	0	Modern Military History, 1494-1815	Patrick Chung	
 online	HIST	HIST234	TuTh 9:30am 10:45am	40	3	Invaders, Conquerors, Usurpers: A History of Pre-Modern Britain to 1485	Sabrina Baron	
@@ -4246,7 +4246,7 @@ online	HIST	HIST429A	TuTh 12:30pm 1:45pm	27	0	Special Topics in History; Victori
 online	HIST	HIST429O	W 3:30pm 6:00pm	10	0	Special Topics in History; Righting Historical Wrongs: Global Struggles for Truth and Justice	Erin Mosely	
 online	HIST	HIST429X	MW 4:00pm 5:15pm	40	24	Tradition and Change: Jewish Religion in the Modern World	Rachel Manekin	
 online	HIST	HIST450	MW 2:00pm 3:15pm	36	20	American Capitalism: 1600-1900	David Sicilia	
-online	HIST	HIST466	Th 2:00pm 4:30pm	18	4	Immigration and Ethnicity in the U.S.	Robert Chiles	
+online	HIST	HIST466	Th 2:00pm 4:30pm	18	3	Immigration and Ethnicity in the U.S.	Robert Chiles	
 online	HIST	HIST481	TuTh 11:00am 12:15pm	36	12	A History of Modern China	James Gao	
 online	HIST	HIST482	MW 3:30pm 4:45pm	27	3	History of Japan to 1800	Louisa Rubinfien	
 online	HIST	HIST491	TuTh 9:30am 10:45am	27	0	History of the Ottoman Empire	Madeline Zilfi	
@@ -4349,14 +4349,14 @@ online	HLTH	HLTH490	TuTh 9:30am 10:45am	28	0	Professional Preparation in Communi
 online	HLTH	HLTH490	TuTh 11:00am 12:15pm	28	1	Professional Preparation in Community Health	Tracy Zeeger	
 online	HLTH	HLTH609		10	7	Public Health Journal Club	Barbara Curbow	
 online	HLTH	HLTH652	Tu 4:00pm 6:45pm	10	7	Quantitative Research Methods I in Public health	Min Wang	
-online	HLTH	HLTH672	Tu 7:00pm 9:45pm	25	15	Public Health Informatics	Robert Gold	
+online	HLTH	HLTH672	Tu 7:00pm 9:45pm	25	15	Public Health Informatics	Robert Gold,Sandra Saperstein	
 online	HLTH	HLTH688L	W 4:00pm 6:45pm	25	21	Special Problems in Health Education; Health Literacy	Cynthia Baur	
 online	HLTH	HLTH710		25	18	Methods and Techniques of Research	Stephen Nkansah Amankra	
 online	HLTH	HLTH710		10	8	Methods and Techniques of Research	Stephen Nkansah Amankra	
 online	HLTH	HLTH712	M 4:00pm 6:45pm	10	7	Applied Research Methods in Behavioral and Community Health	Bradley Boekeloo	
 online	HLTH	HLTH776	Th 4:00pm 6:45pm	25	24	Community Health Program Evaluation	Robert Feldman	
 online	HLTH	HLTH780	Th 4:00pm 6:45pm	25	20	Community Health	Sharon Desmond	
-in person	HNUH	HNUH219T	Tu 4:00pm 6:30pm	20	0	Transform Maryland: Theories and Models of Consulting	Megan Benefiel	
+in person	HNUH	HNUH219T	Tu 4:00pm 6:30pm	20	0	Transform Maryland: Theories and Models of Consulting	Jeffrey Hollingsworth,Megan Benefiel,Joseph Drasin	
 online	HNUH	HNUH100	Tu 12:30pm 1:45pm	22	0	Gateway Seminar	Instructor: TBA	
 online	HNUH	HNUH100	Tu 5:00pm 6:15pm	22	2	Gateway Seminar	Instructor: TBA	
 online	HNUH	HNUH100	W 1:00pm 2:15pm	22	1	Gateway Seminar	Instructor: TBA	
@@ -4416,7 +4416,7 @@ online	HONR	HONR249D	MW 2:00pm 3:15pm	20	0	Honors Seminar; How Can We Study Envi
 online	HONR	HONR258E	MW 3:30pm 4:45pm	20	0	Honors Seminar; Creating the Future through Systemic Thinking and Design	Gerald Suarez	
 online	HONR	HONR259C	MWF 10:00am 10:50am	20	0	Honors Seminar: Fearfully Great Lizards: Topics in Dinosaur Research	Thomas Holtz	
 online	HONR	HONR259G	MW 2:00pm 3:15pm	20	0	Honors Seminar; Fairness, Inequality, and Democracy	Allan Drazen	
-online	HONR	HONR268N	MW 11:00am 12:15pm	20	11	Honors Seminar; Cracking the Secrets of the Universe Using Computers: Re-discovering the Higgs and Searching for Invisible Matter	Shabnam Jabeen	
+online	HONR	HONR268N	MW 11:00am 12:15pm	20	11	Honors Seminar; Cracking the Secrets of the Universe Using Computers: Re-discovering the Higgs and Searching for Invisible Matter	Shabnam Jabeen,Sarah Eno	
 online	HONR	HONR269E	TuTh 11:00am 12:15pm	25	0	Honors Seminar; Exploring Key Issues of Globalization	Dorith Grant-Wisdom	
 online	HONR	HONR269T	Th 6:30pm 9:00pm	15	0	Honors Seminar: Understanding U.S. Foreign Policy toward Afghanistan	Temim Nusraty	
 online	HONR	HONR269V	TuTh 9:30am 10:45am	20	0	Honors Seminar; Virus Hunting: Emerging Diseases, Social Conteoversies and Nano-Technologies	James Culver	
@@ -4425,23 +4425,23 @@ online	HONR	HONR278G	M 6:30pm 9:00pm	20	0	Honors Seminar; Exploring How Foreign 
 online	HONR	HONR278Z	Tu 2:00pm 3:15pm	25	0	Honors Seminar; The Philosophy and Practice of Yoga	Susan Dwyer	Th 2:00pm 3:15pm
 online	HONR	HONR279M	TuTh 12:30pm 1:45pm	20	0	Honors Seminar; How Does the Brain Speak? Insight from Neuroimaging and Brain Damage	Yasmeen Shah	
 online	HONR	HONR288O	TuTh 9:30am 10:45am	20	0	Honors Seminar: Why Do Things Fail?	Kevin Calabro	
-online	HONR	HONR289A	TuTh 2:00pm 3:15pm	20	0	The Ecology and Evolutionary Biology of Infectious Disease	Tammatha O'Brien	
+online	HONR	HONR289A	TuTh 2:00pm 3:15pm	20	0	The Ecology and Evolutionary Biology of Infectious Disease	Marcia Shofner,Tammatha O'Brien	
 online	HONR	HONR299A	W 2:00pm 4:30pm	20	9	The Visual Culture of Europe in the "Age of Exploration"	Aneta Georgievska-Shine	
 online	HONR	HONR299F	W 6:00pm 8:30pm	24	0	Honors Seminar; Financial Crises: The Foundation of Global Tension	Behzad Gohari	
 online	HONR	HONR299G	Th 6:00pm 8:30pm	20	0	Honors Seminar; Revolution, Regret, and Reform: The People and Principles of the American Political Tradition	Robert Chiles	
 online	HONR	HONR299H	TuTh 2:00pm 3:15pm	20	8	Honors Seminar; Cutting Edge Science: Understanding Current Scientific Issues	Boualem Hammouda	
 online	HONR	HONR368A	Tu 3:30pm 6:00pm	15	5	Advanced Honors Seminar; MGA Legislative Seminar	Thomas Lowderbaugh	
-online	HONR	HONR378A	Th 7:30pm 10:00pm	20	0	Advanced Honors Seminar; U.S. Diplomacy and Policymaking	William Usher	
+online	HONR	HONR378A	Th 7:30pm 10:00pm	20	0	Advanced Honors Seminar; U.S. Diplomacy and Policymaking	William Usher,Paul Maykish	
 online	HONR	HONR378B	W 5:30pm 8:30pm	20	0	Advanced Honors Seminar; Responses to Global Challenges	Rhoda Margesson	
 online	HONR	HONR378C	Tu 6:00pm 9:00pm	20	0	Political Engagement and Advocacy	Kathleen Mogelgaard	
-online	HONR	HONR378D	W 5:30pm 8:30pm	20	3	Advanced Honors Seminar; Science Diplomacy: Foreign Policy and Science, Technology, and Innovation	Jonathan Margolis	
+online	HONR	HONR378D	W 5:30pm 8:30pm	20	3	Advanced Honors Seminar; Science Diplomacy: Foreign Policy and Science, Technology, and Innovation	Jonathan Margolis,Griffin Thompson	
 online	HONR	HONR378E	Tu 3:30pm 6:30pm	20	0	Advanced Honors Seminar; Public Health Policy	Samuel Kessel	
-online	HONR	HONR378G	M 6:00pm 9:00pm	20	4	Advanced Honors Seminar; Homeland and National Security Policy	John Dermody	
+online	HONR	HONR378G	M 6:00pm 9:00pm	20	4	Advanced Honors Seminar; Homeland and National Security Policy	Casie Kagalis,John Dermody	
 online	HONR	HONR378J	M 3:30pm 6:30pm	20	1	Advanced Honors Seminar; Energy and Environmental Policy	Ed Fendley	
 online	HONR	HONR378K	Th 7:00pm 10:00pm	20	5	Advanced Honors Seminar; Critical Regions and International Relations	Danusia Hubah	
 online	HONR	HONR378M	W 3:00pm 6:00pm	20	1	Water Security and Global Health Challenges	Jonathan Margolis	
-online	IDEA	IDEA247	F 12:00pm 1:30pm	20	18	Introduction to Peer Innnovation Coaching	Brooke Smith	
-online	IDEA	IDEA258A	W 4:00pm 5:30pm	30	5	Special Topics in Innovation; Becoming a Design Thinker: Mindsets and Tools for Innovation	Mira Azarm	
+online	IDEA	IDEA247	F 12:00pm 1:30pm	20	18	Introduction to Peer Innnovation Coaching	Brooke Smith,Mira Azarm	
+online	IDEA	IDEA258A	W 4:00pm 5:30pm	30	5	Special Topics in Innovation; Becoming a Design Thinker: Mindsets and Tools for Innovation	Mira Azarm,Christina Hnatov	
 online	IDEA	IDEA379A	M 3:00pm 4:30pm	8	6	Advanced Topics in Innovation; Design Your Purpose	Christina Hnatov	
 online	IDEA	IDEA398C	F 2:00pm 2:50pm	18	18	Special Topics in Coaching; Carillon Peer Mentors	Instructor: TBA	
 online	IMMR	IMMR200	MW 2:00pm 3:15pm	30	20	Introduction to Immigration and Migration Studies	Julie Greene	
@@ -4518,7 +4518,7 @@ online	INFM	INFM737	W 6:00pm 8:45pm	40	32	Information Management Capstone Experi
 online	INFM	INFM757		40	35	Organizational and Business Process Modeling	Vedat Diker	
 in person	INST	INST201	TuTh 7:30pm 8:45pm	17	0	Introduction to Information Science	Elizabeth Bonsignore	
 in person	INST	INST364	Tu 9:30am 12:15pm	40	12	Human-Centered Cybersecurity	Galina Madjaroff	
-online	INST	INST123	TuTh 12:30pm 1:45pm	150	62	Databases for All	Vedat Diker	
+online	INST	INST123	TuTh 12:30pm 1:45pm	150	62	Databases for All	Vedat Diker,Pamela Duffy	
 online	INST	INST126		45	27	Introduction to Programming for Information Science	Kelly Hoffman	
 online	INST	INST126		54	21	Introduction to Programming for Information Science	Philip Piety	
 online	INST	INST126		45	26	Introduction to Programming for Information Science	Philip Piety	
@@ -4536,7 +4536,7 @@ online	INST	INST201		29	0	Introduction to Information Science	M Sauter
 online	INST	INST201		30	0	Introduction to Information Science	Laria Rogers	
 online	INST	INST201		29	0	Introduction to Information Science	Laria Rogers	
 online	INST	INST201		29	0	Introduction to Information Science	Laria Rogers	
-online	INST	INST208L		30	1	Special Topics in Information Studies; Linux Command Line Tools	Betzalel Moskowitz	
+online	INST	INST208L		30	1	Special Topics in Information Studies; Linux Command Line Tools	Betzalel Moskowitz,Donal Heidenblad	
 online	INST	INST301		53	46	Introduction to Information Science	Joyce Garczynski	
 online	INST	INST311	Tu 11:00am 12:15pm	30	0	Information Organization	Katy Lawley	Th 11:00am 12:15pm
 online	INST	INST311	Tu 11:00am 12:15pm	29	0	Information Organization	Katy Lawley	Th 12:30pm 1:45pm
@@ -4607,7 +4607,7 @@ online	INST	INST466		60	40	Technology, Culture, and Society	Daniel Greene
 online	INST	INST466		50	0	Technology, Culture, and Society	Chad Doran	
 online	INST	INST490		40	0	Integrated Capstone for Information Science	Andrew Fellows	
 online	INST	INST490		40	0	Integrated Capstone for Information Science	Richard Panzer	
-online	INST	INST490	W 2:00pm 4:45pm	55	0	Integrated Capstone for Information Science	Pamela Duffy	
+online	INST	INST490	W 2:00pm 4:45pm	55	0	Integrated Capstone for Information Science	Pamela Duffy,Vedat Diker	
 online	INST	INST604		30	0	Introduction to Archives and Digital Curation	Caitlin Christian-Lamb	
 online	INST	INST607		30	30	Government Information	Jason Baron	
 online	INST	INST608B		5	3	Special Topics in Information Studies; Master of Library and Information Science	Instructor: TBA	
@@ -4616,7 +4616,7 @@ online	INST	INST613		30	16	Information and Human Rights	Hannah Bergman
 online	INST	INST615		30	14	Information Professionals and the Law	Ursula Gorham-Oscilowski	
 online	INST	INST620		30	0	Diverse Populations, Inclusion, and Information	Renee Hill	
 online	INST	INST627		40	12	Data Analytics for Information Professionals	Naeemul Hassan	
-online	INST	INST630		35	8	Introduction to Programming for the Information Professional	David Patrick	
+online	INST	INST630		35	7	Introduction to Programming for the Information Professional	David Patrick	
 online	INST	INST631	Tu 6:00pm 8:45pm	60	22	Fundamentals of Human-Computer Interaction	Jonathan Lazar	
 online	INST	INST639C		10	1	Practical Skills in HCI; Makerspace	Alex Leitch	
 online	INST	INST643		30	10	Curation in Cultural Institutions	Joseph Sherren	
@@ -4659,9 +4659,9 @@ online	ITAL	ITAL411	MWF 1:00pm 1:50pm	25	0	Monsters and Demons: the Faces of Evi
 online	ITAL	ITAL478D	W 11:00am 11:50am	5	4	Colloquium in Italian; Monsters and Demons: the Faces of Evil in Dante's Inferno	Joseph Falvo	
 online	ITAL	ITAL478M		5	3	Colloquium in Italian; The Mafia: From Corleone to Hollywood	Mauro Resmini	
 online	ITAL	ITAL499M	MW 3:30pm 4:45pm	25	0	Special Topics in Italian Studies; The Mafia: From Corleone to Hollywood	Mauro Resmini	
-online	JAPN	JAPN101	MWF 10:00am 10:50am	15	4	Elementary Japanese I	Makiko Inoue	TuTh 9:30am 10:45am
-online	JAPN	JAPN101	MWF 11:00am 11:50am	15	3	Elementary Japanese I	Makiko Inoue	TuTh 11:00am 12:15pm
-online	JAPN	JAPN101	MWF 2:00pm 2:50pm	15	0	Elementary Japanese I	Makiko Inoue	TuTh 2:00pm 3:15pm
+online	JAPN	JAPN101	MWF 10:00am 10:50am	15	4	Elementary Japanese I	Makiko Inoue,Kumiko Akikawa,Takehiro Iizuka	TuTh 9:30am 10:45am
+online	JAPN	JAPN101	MWF 11:00am 11:50am	15	3	Elementary Japanese I	Kumiko Akikawa,Takehiro Iizuka,Makiko Inoue	TuTh 11:00am 12:15pm
+online	JAPN	JAPN101	MWF 2:00pm 2:50pm	15	0	Elementary Japanese I	Kumiko Akikawa,Takehiro Iizuka,Makiko Inoue	TuTh 2:00pm 3:15pm
 online	JAPN	JAPN201	MWF 11:00am 12:50pm	15	0	Intermediate Japanese I	Etsuko Yamakita	
 online	JAPN	JAPN201	MWF 1:00pm 2:50pm	15	0	Intermediate Japanese I	Etsuko Yamakita	
 online	JAPN	JAPN301	MWF 10:00am 11:50am	15	8	Advanced Japanese I	Kumiko Akikawa	
@@ -4784,7 +4784,7 @@ online	JWST	JWST289A		25	12	New Explorations in Jewish Studies; Can Jews be Arab
 online	JWST	JWST289E	TuTh 11:00am 11:50am	24	1	Civil Discourse or Urban Riot: Why Cities Don't (Often) Explode	Bernard Cooperman	W 11:00am 11:50am
 online	JWST	JWST289E	TuTh 11:00am 11:50am	24	7	Civil Discourse or Urban Riot: Why Cities Don't (Often) Explode	Bernard Cooperman	W 12:00pm 12:50pm
 online	JWST	JWST289E	TuTh 11:00am 11:50am	24	4	Civil Discourse or Urban Riot: Why Cities Don't (Often) Explode	Bernard Cooperman	Th 12:30pm 1:20pm
-online	JWST	JWST289J	MW 11:00am 11:50am	20	1	Jerusalem in Antiquity: The History of Sacred Space in a Holy City	Matthew Suriano	W 1:00pm 1:50pm
+online	JWST	JWST289J	MW 11:00am 11:50am	20	0	Jerusalem in Antiquity: The History of Sacred Space in a Holy City	Matthew Suriano	W 1:00pm 1:50pm
 online	JWST	JWST289J	MW 11:00am 11:50am	20	0	Jerusalem in Antiquity: The History of Sacred Space in a Holy City	Matthew Suriano	F 11:00am 11:50am
 online	JWST	JWST289J	MW 11:00am 11:50am	20	2	Jerusalem in Antiquity: The History of Sacred Space in a Holy City	Matthew Suriano	F 12:00pm 12:50pm
 online	JWST	JWST289J	MW 11:00am 11:50am	20	4	Jerusalem in Antiquity: The History of Sacred Space in a Holy City	Matthew Suriano	W 2:00pm 2:50pm
@@ -4956,8 +4956,8 @@ online	LARC	LARC151	MW 11:00am 11:50am	30	17	Urban Agriculture: Designing and As
 online	LARC	LARC151	MW 11:00am 11:50am	30	12	Urban Agriculture: Designing and Assessing Edible Landscapes	Kelley Oklesson	F 12:00pm 12:50pm
 online	LARC	LARC151	MW 11:00am 11:50am	30	16	Urban Agriculture: Designing and Assessing Edible Landscapes	Kelley Oklesson	F 12:00pm 12:50pm
 online	LARC	LARC151	MW 11:00am 11:50am	30	4	Urban Agriculture: Designing and Assessing Edible Landscapes	Kelley Oklesson	M 3:00pm 3:50pm
-online	LARC	LARC151	MW 11:00am 11:50am	30	11	Urban Agriculture: Designing and Assessing Edible Landscapes	Kelley Oklesson	M 4:00pm 4:50pm
-online	LARC	LARC151	MW 7:30pm 8:45pm	22	4	Urban Agriculture: Designing and Assessing Edible Landscapes	Eric Samet-Shaw	
+online	LARC	LARC151	MW 11:00am 11:50am	30	10	Urban Agriculture: Designing and Assessing Edible Landscapes	Kelley Oklesson	M 4:00pm 4:50pm
+online	LARC	LARC151	MW 7:30pm 8:45pm	22	4	Urban Agriculture: Designing and Assessing Edible Landscapes	Amy Sametshaw,Eric Samet-Shaw	
 online	LARC	LARC160	MW 12:00pm 12:50pm	30	5	Introduction to Landscape Architecture and Environmental Design	Dennis Nola	M 2:00pm 2:50pm
 online	LARC	LARC160	MW 12:00pm 12:50pm	30	17	Introduction to Landscape Architecture and Environmental Design	Dennis Nola	M 3:00pm 3:50pm
 online	LARC	LARC160	MW 12:00pm 12:50pm	30	20	Introduction to Landscape Architecture and Environmental Design	Dennis Nola	M 3:00pm 3:50pm
@@ -5013,7 +5013,7 @@ online	LGBT	LGBT200	MWF 11:00am 11:50am	30	6	Introduction to Lesbian, Gay, Bisex
 online	LGBT	LGBT200	TuTh 3:30pm 4:45pm	30	0	Introduction to Lesbian, Gay, Bisexual, and Transgender Studies	Sydney Lewis	
 online	LGBT	LGBT265	TuTh 12:30pm 1:45pm	30	0	Lesbian, Gay, Bisexual, and Transgender Literatures	Kerishma Panigrahi	
 online	LGBT	LGBT265	TuTh 2:00pm 3:15pm	30	0	Lesbian, Gay, Bisexual, and Transgender Literatures	Justin Thompson	
-online	LGBT	LGBT350	W 3:30pm 5:10pm	12	9	Lesbian, Gay, Bisexual, and Transgender People and Communication	Shige Sakurai	
+online	LGBT	LGBT350	W 3:30pm 5:10pm	12	9	Lesbian, Gay, Bisexual, and Transgender People and Communication	Aqdas Aftab,Shige Sakurai	
 online	LGBT	LGBT448W	Th 4:00pm 6:30pm	25	12	Sex, Gender, and Jewish Identity	Maxine Grossman	
 online	LGBT	LGBT448Y	TuTh 2:00pm 3:15pm	20	0	Special Topics in Lesbian, Gay, Bisexual, and Transgender Studies; Dickinson, Erotics, Poetics, Biopics: Some (Queer) Ways We Read Poetry	Martha Nell Smith	
 in person	LING	LING660	TuTh 11:00am 12:15pm	15	14	Introduction to Semantics	Alexander Williams	
@@ -5163,7 +5163,7 @@ online	MATH	MATH140	MWF 11:00am 11:50am	23	0	Calculus I	Timothy Pilachowski	TuTh
 online	MATH	MATH140	MWF 11:00am 11:50am	23	0	Calculus I	Timothy Pilachowski	TuTh 2:00pm 3:20pm
 online	MATH	MATH140	MWF 11:00am 11:50am	23	0	Calculus I	Timothy Pilachowski	TuTh 2:00pm 3:20pm
 online	MATH	MATH140	MWF 1:00pm 1:50pm	23	0	Calculus I	Mestiyage Gunatilleka	TuTh 9:30am 10:50am
-online	MATH	MATH140	MWF 1:00pm 1:50pm	23	7	Calculus I	Mestiyage Gunatilleka	TuTh 9:30am 10:50am
+online	MATH	MATH140	MWF 1:00pm 1:50pm	23	8	Calculus I	Mestiyage Gunatilleka	TuTh 9:30am 10:50am
 online	MATH	MATH140	MWF 1:00pm 1:50pm	23	3	Calculus I	Mestiyage Gunatilleka	TuTh 11:00am 12:20pm
 online	MATH	MATH140	MWF 1:00pm 1:50pm	23	0	Calculus I	Mestiyage Gunatilleka	TuTh 11:00am 12:20pm
 online	MATH	MATH140	MWF 1:00pm 1:50pm	23	0	Calculus I	Mestiyage Gunatilleka	TuTh 2:00pm 3:20pm
@@ -5326,7 +5326,7 @@ online	MATH	MATH405	MWF 12:00pm 12:50pm	31	0	Linear Algebra	Yihang Zhu
 online	MATH	MATH405	TuTh 11:00am 12:15pm	31	12	Linear Algebra	Giovanni Forni	
 online	MATH	MATH406	MWF 10:00am 10:50am	31	0	Introduction to Number Theory	Nathan Manning	
 online	MATH	MATH406	MWF 11:00am 11:50am	31	0	Introduction to Number Theory	Niranjan Ramachandran	
-online	MATH	MATH406	MWF 12:00pm 12:50pm	31	4	Introduction to Number Theory	Yordanka Kovacheva	
+online	MATH	MATH406	MWF 12:00pm 12:50pm	31	3	Introduction to Number Theory	Yordanka Kovacheva	
 online	MATH	MATH410	MWF 10:00am 10:50am	32	0	Advanced Calculus I	Denny Gulick	
 online	MATH	MATH410	MWF 11:00am 11:50am	32	0	Advanced Calculus I	Charles Levermore	
 online	MATH	MATH410	MWF 12:00pm 12:50pm	32	0	Advanced Calculus I	Archana Khurana	
@@ -5340,7 +5340,7 @@ online	MATH	MATH424	TuTh 9:30am 10:45am	25	5	Introduction to the Mathematics of 
 online	MATH	MATH430	MWF 12:00pm 12:50pm	32	0	Euclidean and Non-Euclidean Geometries	Terence Long	
 online	MATH	MATH431	TuTh 12:30pm 1:45pm	28	0	Geometry for Computer Applications	William Goldman	
 online	MATH	MATH432	TuTh 9:30am 10:45am	20	2	Introduction to Topology	James Schafer	
-online	MATH	MATH436	MWF 11:00am 11:50am	20	13	Differential Geometry of Curves and Surfaces I	Jonathan Rosenberg	
+online	MATH	MATH436	MWF 11:00am 11:50am	20	14	Differential Geometry of Curves and Surfaces I	Jonathan Rosenberg	
 online	MATH	MATH445	MWF 12:00pm 12:50pm	20	5	Elementary Mathematical Logic	Roohollah Ebrahimian	
 online	MATH	MATH452	TuTh 9:30am 10:45am	28	4	Introduction to Dynamics and Chaos	Agnieszka Zelerowicz	
 online	MATH	MATH456	MWF 11:00am 11:50am	50	0	Cryptography	Jeffrey Adams	
@@ -5374,25 +5374,25 @@ online	MATH	MATH744	TuTh 9:30am 10:45am	20	14	Lie Groups I	William Goldman
 online	MATH	MATH808F	MWF 10:00am 10:50am	20	9	Selected Topics in Algebra; Modular Forms	Jingren Chi	
 online	MATH	MATH848Y	TuTh 12:30pm 1:45pm	20	13	Selected Topics in Geometry and Topology; Topics in Differential Geometry	Yanir Rubinstein	
 online	MATH	MATH868C	TuTh 2:00pm 3:15pm	20	10	SelectedTopics in Complex Analysis	Richard Wentworth	
-in person	MEES	MEES607	TuTh 9:30am 10:50am	20	17	Quantitative Methods in Environmental Sciences	Lawrence Sanford	F 11:00am 11:50am
+in person	MEES	MEES607	TuTh 9:30am 10:50am	20	17	Quantitative Methods in Environmental Sciences	Lawrence Sanford,Hongsheng Bi	F 11:00am 11:50am
 in person	MEES	MEES608O	F 12:00pm 12:50pm	20	20	Seminar in Marine-Estuarine-Environmental Sciences; Topics in OMICS	Shao Du	
 in person	MEES	MEES608R	Th 12:30pm 1:20pm	20	19	Seminar in Marine-Estuarine-Environmental Sciences; Applied Bayesian Statistics	Dong Liang	
-in person	MEES	MEES614	TuTh 12:30pm 1:50pm	20	18	Landscape Ecology	Matthew Fitzpatrick	F 3:00pm 3:50pm
-in person	MEES	MEES640	TuTh 11:00am 12:15pm	20	19	Interconnected Earth Systems:Land, Ocean, and Estuary	Laura Lapham	
-in person	MEES	MEES660	MW 12:30pm 1:50pm	20	15	Ecological Systems	Lora Harris	
-in person	MEES	MEES663	MW 3:30pm 4:45pm	20	19	Ecological Genomics	Louis Plough	
-in person	MEES	MEES680	MW 8:00am 9:20am	20	18	Cell and Molecular Biology for the Environmental Scientist- From Genes to Ecosystems	Yantao Li	
+in person	MEES	MEES614	TuTh 12:30pm 1:50pm	20	18	Landscape Ecology	Helen Olde,Matthew Fitzpatrick	F 3:00pm 3:50pm
+in person	MEES	MEES640	TuTh 11:00am 12:15pm	20	19	Interconnected Earth Systems:Land, Ocean, and Estuary	Laura Lapham,Michael Gonsior,Victoria Coles,Cindy Palinkas,Mark Castro,Keith Eshleman	
+in person	MEES	MEES660	MW 12:30pm 1:50pm	20	15	Ecological Systems	Lora Harris,Robert Hilderbrand,Christopher Rowe,Mark Cochrane,Ryan Woodland	
+in person	MEES	MEES663	MW 3:30pm 4:45pm	20	19	Ecological Genomics	Louis Plough,Clara Fuchsman	
+in person	MEES	MEES680	MW 8:00am 9:20am	20	18	Cell and Molecular Biology for the Environmental Scientist- From Genes to Ecosystems	Allen Place,Yantao Li	
 in person	MEES	MEES698E	Tu 3:30pm 6:30pm	20	0	Special Topics in Marine-Estuarine-Environmental Sciences; Ecosystem Restoration	Sujay Kaushal	
 in person	MEES	MEES698M	MW 8:00am 9:20am	20	20	Special Topics in Marine-Estuarine-Environmental Sciences; Modeling Chemical Equilibrium in Natural Waters	Johan Schijf	
 in person	MEES	MEES708X	Tu 3:30pm 5:20pm	10	10	Advanced Topics in Marine-Estuarine-Environmental Science; R Programming - Part 1 (Basic)	Viacheslav Lyubchich	
 in person	MEES	MEES708Y	Tu 3:30pm 5:20pm	10	10	Advanced Topics in Marine-Estuarine-Environmental Science; R Programming - Part 2 (Advanced)	Viacheslav Lyubchich	
-in person	MEES	MEES718G	F 1:00pm 2:50pm	20	20	Study Groups on Issues in Marine Estuarine Enviornmental Sciences; Synthesizing Oceanographic Data: Case Study on the Southern Mid-Atlantic Bight	Judith O'Neil	
+in person	MEES	MEES718G	F 1:00pm 2:50pm	20	20	Study Groups on Issues in Marine Estuarine Enviornmental Sciences; Synthesizing Oceanographic Data: Case Study on the Southern Mid-Atlantic Bight	Jian Zhao,Gregory Silsbe,Judith O'Neil	
 online	MEES	MEES498I	MW 11:00am 12:30pm	20	17	Topics in Marine-Estuarine-Environmental Sciences; Chesapeake Bay Health	Carys Mitchelmore	
-online	MEES	MEES608B	Tu 2:00pm 3:20pm	20	11	Seminar in Marine-Estuarine-Environmental Sciences; Responsible Conduct of Research	Thomas Miller	
+online	MEES	MEES608B	Tu 2:00pm 3:20pm	20	11	Seminar in Marine-Estuarine-Environmental Sciences; Responsible Conduct of Research	Russell Hill,Thomas Miller	
 online	MEES	MEES608D	F 9:00am 10:50am	24	20	Seminar in Marine-Estuarine-Environmental Sciences; Scientific Writing and Communication	Elizabeth North	
-online	MEES	MEES608E	Th 8:30am 9:30am	20	19	Seminar in Marine-Estuarine-Environmental Sciences; Marine Disease Ecology	Colleen Burge	
-online	MEES	MEES620	Th 2:00pm 4:45pm	20	20	Environment and Society	Kenneth Rose	
-online	MEES	MEES682	MW 2:00pm 3:30pm	20	17	Fishery Science and Management	Genevieve Nesslage	
+online	MEES	MEES608E	Th 8:30am 9:30am	20	19	Seminar in Marine-Estuarine-Environmental Sciences; Marine Disease Ecology	Eric Schott,Colleen Burge	
+online	MEES	MEES620	Th 2:00pm 4:45pm	20	20	Environment and Society	William Dennison,Kenneth Rose,Elizabeth Van Dolah	
+online	MEES	MEES682	MW 2:00pm 3:30pm	20	17	Fishery Science and Management	Michael Wilberg,Genevieve Nesslage	
 online	MEES	MEES698I	MW 11:00am 12:30pm	20	17	Special Topics in Marine-Estuarine-Environmental Sciences; Chesapeake Bay Health	Carys Mitchelmore	
 online	MIEH	MIEH300	MW 9:00am 9:50am	20	17	A Public Health Perspective: Introduction to Environmental Health	Kendall Bustad	F 2:00pm 3:50pm
 online	MIEH	MIEH321	W 5:00pm 7:30pm	30	0	Environmental Determinants of Emerging Infectious Diseases	Michael Bazaco	
@@ -5406,7 +5406,7 @@ online	MIEH	MIEH400	MW 3:00pm 3:50pm	18	0	Introduction to Global Health	Amir Sap
 online	MIEH	MIEH605	W 5:00pm 7:00pm	20	14	Fundamentals of Global Health	Muhiuddin Haider	
 online	MIEH	MIEH691	W 2:00pm 4:45pm	15	8	UMD Global STEWARDS: Project-Based Data Practicum at the Nexus of Food, Energy, and Water Systems	Stephanie Lansing	
 online	MIEH	MIEH699	W 12:00pm 1:00pm	15	8	UMD Global STEWARDS: Seminal Findings, and Research and Policy in Progress at the Food, Energy, Water Nexus	Amy Sapkota	
-online	MIEH	MIEH735	W 1:00pm 3:45pm	20	17	Food Toxicology	Paul Turner	
+online	MIEH	MIEH735	W 1:00pm 3:45pm	20	17	Food Toxicology	Paul Turner,Robert Buchanan	
 online	MIEH	MIEH740	M 4:00pm 6:45pm	15	10	Environmental Health Risk Assessment	Abdel-Razak Kadry	
 online	MIEH	MIEH770	Th 1:30pm 4:15pm	10	8	Law and Policy in Environmental Health	Devon Payne-Sturges	
 online	MIEH	MIEH783	Tu 1:30pm 3:30pm	15	9	Proposal Development and Marketing for Public Health Scientists	Donald Milton	
@@ -5430,7 +5430,7 @@ online	MSML	MSML602	W 6:00pm 9:30pm	50	30	Principles of Data Science	Prem Saggar
 online	MSML	MSML612	Tu 6:00pm 9:30pm	25	24	Deep Learning	Zhizhong Han	
 in person	MUED	MUED186	M 10:00am 10:50am	30	16	Pre-professional Experiences I	Mike Hewitt	F 9:00am 10:50am
 in person	MUED	MUED420	Tu 9:00am 11:00am	20	11	Teaching Secondary Instrumental Music II	Mike Hewitt	Th 8:00am 12:00pm
-in person	MUED	MUED499M	W 1:00pm 1:50pm	15	10	Workshops, Clinics, Institutes; Marching Band Techniques	Craig Potter	F 1:00pm 1:50pm
+in person	MUED	MUED499M	W 1:00pm 1:50pm	15	10	Workshops, Clinics, Institutes; Marching Band Techniques	Craig Potter,Andrea Brown	F 1:00pm 1:50pm
 online	MUED	MUED155	MW 4:15pm 5:30pm	25	19	Fundamentals for the Classroom Teacher	Bri'Ann Wright	
 online	MUED	MUED213	M 6:15pm 8:30pm	25	2	String Technique and Pedagogy I	Instructor: TBA	
 online	MUED	MUED320	TuTh 2:00pm 3:15pm	12	0	Teaching Secondary Instrumental Music I	Stephanie Prichard	
@@ -5464,11 +5464,11 @@ in person	MUSC	MUSC229A	TuTh 3:30pm 6:30pm	70	35	Ensemble; Orchestra	David Neely
 in person	MUSC	MUSC229A	TuTh 3:30pm 6:30pm	10	10	Ensemble; Orchestra	David Neely	
 in person	MUSC	MUSC229D	TuTh 3:30pm 6:30pm	50	33	Ensemble; Wind Orchestra	Michael Votta	
 in person	MUSC	MUSC229E	MWF 11:00am 12:30pm	75	26	Ensemble; Wind Ensemble	Andrea Brown	
-in person	MUSC	MUSC229F	MWF 3:00pm 5:00pm	300	156	Ensemble; Marching Band	Andrea Brown	
+in person	MUSC	MUSC229F	MWF 3:00pm 5:00pm	300	156	Ensemble; Marching Band	Craig Potter,Andrea Brown	
 in person	MUSC	MUSC229F	MWF 3:00pm 5:00pm	10	4	Ensemble; Marching Band	Craig Potter	
-in person	MUSC	MUSC229G	Tu 7:00pm 9:00pm	300	173	Ensemble; Marching Band Repertoire	Craig Potter	
+in person	MUSC	MUSC229G	Tu 7:00pm 9:00pm	300	173	Ensemble; Marching Band Repertoire	Craig Potter,Andrea Brown	
 in person	MUSC	MUSC229G	Tu 7:00pm 9:00pm	10	5	Ensemble; Marching Band Repertoire	Craig Potter	
-in person	MUSC	MUSC229I	TuTh 7:00pm 9:00pm	75	49	Ensemble; Marching Band Auxiliary	Andrea Brown	
+in person	MUSC	MUSC229I	TuTh 7:00pm 9:00pm	75	49	Ensemble; Marching Band Auxiliary	Craig Potter,Andrea Brown	
 in person	MUSC	MUSC229I	TuTh 7:00pm 9:00pm	10	10	Ensemble; Marching Band Auxiliary	Craig Potter	
 in person	MUSC	MUSC229J	MW 5:30pm 7:15pm	25	20	Ensemble; Jazz Ensemble	Tim Powell	
 in person	MUSC	MUSC229J	MW 1:00pm 2:20pm	30	27	Ensemble; Jazz Ensemble	Tim Powell	
@@ -5479,8 +5479,8 @@ in person	MUSC	MUSC229R	MW 3:00pm 5:00pm	50	46	Ensemble; Repertoire Orchestra	Je
 in person	MUSC	MUSC229R	MW 3:00pm 5:00pm	10	9	Ensemble; Repertoire Orchestra	Jesse Leong	
 in person	MUSC	MUSC229U	W 7:30pm 9:30pm	100	69	Ensemble; University Band	Craig Potter	
 in person	MUSC	MUSC229U	W 7:30pm 9:30pm	10	9	Ensemble; University Band	Craig Potter	
-in person	MUSC	MUSC329A	TuTh 4:30pm 6:00pm	75	60	Ensemble; University of Maryland Chorale	Amy Broadbent	
-in person	MUSC	MUSC329A	TuTh 4:30pm 6:00pm	10	10	Ensemble; University of Maryland Chorale	Matthew Goinz	
+in person	MUSC	MUSC329A	TuTh 4:30pm 6:00pm	75	60	Ensemble; University of Maryland Chorale	Amy Broadbent,Matthew Goinz	
+in person	MUSC	MUSC329A	TuTh 4:30pm 6:00pm	10	10	Ensemble; University of Maryland Chorale	Matthew Goinz,Amy Broadbent	
 in person	MUSC	MUSC329B	MW 3:00pm 3:50pm	50	35	Ensemble; Chamber Singers	Edward Maclary	TuTh 3:30pm 4:20pm
 in person	MUSC	MUSC329E	Th 7:00pm 10:00pm	60	57	Ensemble; Gospel Choir	Anne Carswell	
 in person	MUSC	MUSC329M	MWF 12:00pm 12:50pm	40	32	Ensemble; Men's Chorus	Matthew Goinz	
@@ -5513,7 +5513,7 @@ in person	MUSC	MUSC629Q	Th 7:00pm 8:30pm	2	2	Ensemble; Korean Percussion Ensembl
 in person	MUSC	MUSC629R	MW 3:00pm 5:00pm	10	10	Ensemble; Repertoire Orchestra	Jesse Leong	
 in person	MUSC	MUSC629U	W 7:30pm 9:30pm	10	10	Ensemble; University Band	Craig Potter	
 in person	MUSC	MUSC629W	TuTh 3:30pm 6:30pm	30	24	Ensemble; Wind Orchestra	Michael Votta	
-in person	MUSC	MUSC649A	TuTh 4:30pm 6:00pm	10	10	Ensemble; University of Maryland Chorale	Jonathan King	
+in person	MUSC	MUSC649A	TuTh 4:30pm 6:00pm	10	10	Ensemble; University of Maryland Chorale	Minji Kim,Jonathan King	
 in person	MUSC	MUSC649B	MW 3:00pm 3:50pm	10	10	Ensemble; Chamber Singers	Edward Maclary	TuTh 3:30pm 4:20pm
 in person	MUSC	MUSC649E	Th 7:00pm 10:00pm	10	10	Ensemble; Ensemble: Gospel Choir	Anne Carswell	
 in person	MUSC	MUSC649M	MWF 12:00pm 12:50pm	10	10	Ensemble; Men's Chorus	Timothy Keeler	
@@ -5662,8 +5662,8 @@ online	NACS	NACS728N	TuTh 11:00am 12:15pm	8	3	Selected Topics in Neuroscience an
 online	NACS	NACS728O	TuTh 9:30am 10:45am	36	24	Selected Topics in Neuroscience and Cognitive Science; Hormones and Behavior	Erica Glasper Andrews	
 in person	NAVY	NAVY100	MW 8:00am 9:15am	75	63	Introduction to Naval Science	Barry Feinstein	
 in person	NAVY	NAVY100	MW 8:00am 9:15am	10	9	Introduction to Naval Science	Barry Feinstein	
-in person	NAVY	NAVY108	Th 6:00am 7:50am	150	87	Naval Science Leadership Lab	Nathaniel Kaine	Th 6:00am 7:50am
-in person	NAVY	NAVY108	Th 6:00am 7:50am	10	9	Naval Science Leadership Lab	Michael O'Hara	
+in person	NAVY	NAVY108	Th 6:00am 7:50am	150	87	Naval Science Leadership Lab	Michael O'Hara,Troy Mong,Nathaniel Kaine	Th 6:00am 7:50am
+in person	NAVY	NAVY108	Th 6:00am 7:50am	10	9	Naval Science Leadership Lab	Troy Mong,Michael O'Hara,Nathaniel Kaine	
 in person	NAVY	NAVY200	TuTh 8:00am 9:15am	40	23	Leadership and Management	Stephen Kosloski	
 in person	NAVY	NAVY300	MW 8:00am 9:15am	25	7	Naval Ship Systems I (Engineering)	Edward Butler	
 in person	NAVY	NAVY400	TuTh 8:00am 9:15am	25	15	Naval Operations and Seamanship	Barry Feinstein	
@@ -5687,17 +5687,17 @@ online	NFSC	NFSC100	Tu 2:00pm 2:50pm	25	1	Elements of Nutrition	Hee-Jung Song
 online	NFSC	NFSC100	W 3:00pm 3:50pm	25	12	Elements of Nutrition	Hee-Jung Song	
 online	NFSC	NFSC100	W 12:00pm 12:50pm	25	0	Elements of Nutrition	Hee-Jung Song	
 online	NFSC	NFSC100	Th 11:00am 11:50am	25	3	Elements of Nutrition	Hee-Jung Song	
-online	NFSC	NFSC100	F 12:00pm 12:50pm	25	13	Elements of Nutrition	Hee-Jung Song	
-online	NFSC	NFSC100	F 11:30am 12:20pm	24	0	Elements of Nutrition	Nadine Sahyoun	
-online	NFSC	NFSC100	F 1:00pm 1:50pm	24	2	Elements of Nutrition	Nadine Sahyoun	
+online	NFSC	NFSC100	F 12:00pm 12:50pm	25	12	Elements of Nutrition	Hee-Jung Song	
+online	NFSC	NFSC100	F 11:30am 12:20pm	24	0	Elements of Nutrition	Shaik Rahaman,Nadine Sahyoun,Hee-Jung Song,Seong-Ho Lee	
+online	NFSC	NFSC100	F 1:00pm 1:50pm	24	2	Elements of Nutrition	Hee-Jung Song,Shaik Rahaman,Seong-Ho Lee,Nadine Sahyoun	
 online	NFSC	NFSC100H	Tu 3:00pm 3:50pm	12	7	Elements of Nutrition	Hee-Jung Song	
-online	NFSC	NFSC112	Th 12:30pm 1:20pm	30	0	Food: Science and Technology	Abani Pradhan	
-online	NFSC	NFSC112	Th 4:00pm 4:50pm	30	18	Food: Science and Technology	Qin Wang	
-online	NFSC	NFSC112	F 12:00pm 12:50pm	30	7	Food: Science and Technology	Qin Wang	
-online	NFSC	NFSC112	F 3:00pm 3:50pm	30	23	Food: Science and Technology	Qin Wang	
-online	NFSC	NFSC112	W 2:00pm 2:50pm	30	9	Food: Science and Technology	Qin Wang	
-online	NFSC	NFSC112	W 3:00pm 3:50pm	30	26	Food: Science and Technology	Qin Wang	
-online	NFSC	NFSC112	M 3:00pm 3:50pm	24	0	Food: Science and Technology	Abani Pradhan	
+online	NFSC	NFSC112	Th 12:30pm 1:20pm	30	0	Food: Science and Technology	Qin Wang,Abani Pradhan	
+online	NFSC	NFSC112	Th 4:00pm 4:50pm	30	18	Food: Science and Technology	Abani Pradhan,Qin Wang	
+online	NFSC	NFSC112	F 12:00pm 12:50pm	30	7	Food: Science and Technology	Abani Pradhan,Qin Wang	
+online	NFSC	NFSC112	F 3:00pm 3:50pm	30	23	Food: Science and Technology	Qin Wang,Abani Pradhan	
+online	NFSC	NFSC112	W 2:00pm 2:50pm	30	9	Food: Science and Technology	Qin Wang,Abani Pradhan	
+online	NFSC	NFSC112	W 3:00pm 3:50pm	30	26	Food: Science and Technology	Abani Pradhan,Qin Wang	
+online	NFSC	NFSC112	M 3:00pm 3:50pm	24	0	Food: Science and Technology	Qin Wang,Abani Pradhan	
 online	NFSC	NFSC220	MWF 12:00pm 12:50pm	36	0	Diet: Is it a cause or a solution	Monica Whent	
 online	NFSC	NFSC230		15	0	Global Nutrition Sensitive Food Systems	Margaret Udahogora	
 online	NFSC	NFSC388		10	10	Honors Thesis Research	Qin Wang	
@@ -5715,9 +5715,9 @@ online	NFSC	NFSC679R	M 1:00pm 2:40pm	15	14	Selected Topics in Food Science; Food
 online	NFSC	NFSC679T	Th 3:00pm 5:30pm	10	7	Selected Topics in Food Science; Advanced Food Processing and Safety	Rohan Tikekar	
 online	NFSC	NFSC688		25	22	Seminar in Nutrition and Food Science	David Lei	
 online	NFSC	NFSC690	Th 9:30am 12:15pm	10	9	Nutrition and Aging	Instructor: TBA	
-online	NFSC	NFSC735	W 1:00pm 3:45pm	20	17	Food Toxicology	Robert Buchanan	
-online	PEER	PEER311	M 4:00pm 5:00pm	40	40	Peer Education Mental Health & Wellness	Olivia Mays	W 4:00pm 6:00pm
-online	PEER	PEER312	M 4:00pm 5:00pm	15	5	Peer Education: Preventing Power-Based Violence	Rajan Parikh	W 4:00pm 6:00pm
+online	NFSC	NFSC735	W 1:00pm 3:45pm	20	17	Food Toxicology	Paul Turner,Robert Buchanan	
+online	PEER	PEER311	M 4:00pm 5:00pm	40	40	Peer Education Mental Health & Wellness	Olivia Mays,Sarah Wilson	W 4:00pm 6:00pm
+online	PEER	PEER312	M 4:00pm 5:00pm	15	5	Peer Education: Preventing Power-Based Violence	Rajan Parikh,Laura Widener	W 4:00pm 6:00pm
 online	PEER	PEER318	W 4:30pm 6:00pm	15	10	CARE Peer Advocacy	Christina Jay	
 online	PEER	PEER319	MW 4:00pm 4:50pm	15	9	CARE to Stop Violence  Outreach Peer Program	Grace Boudreau	
 online	PEER	PEER338	M 5:15pm 6:45pm	10	10	PEER LEADERSHIP AND EDUCATION	Madeleine Moore	W 5:15pm 6:15pm
@@ -5725,7 +5725,7 @@ online	PEER	PEER338	M 5:15pm 6:45pm	10	10	PEER LEADERSHIP AND EDUCATION	Sarah Wi
 online	PERS	PERS101	MTuWF 10:00am 10:50am	15	12	Elementary Persian I	Bahareh Jalehmahmoudi	Th 10:00am 10:50am
 online	PERS	PERS201	MWThF 12:00pm 12:50pm	15	2	Intermediate Persian I	Manizhe Galledari	Tu 12:00pm 12:50pm
 online	PERS	PERS283	MW 3:30pm 4:45pm	30	0	Iranian Cinema	Matthew Miller	
-online	PERS	PERS298E	TuTh 11:30am 1:00pm	12	3	Special Topics in Persian Studies; Visual Cultures of Islam	Instructor: TBA	
+online	PERS	PERS298E	TuTh 11:30am 1:00pm	12	2	Special Topics in Persian Studies; Visual Cultures of Islam	Instructor: TBA	
 online	PERS	PERS301	MWF 1:00pm 1:50pm	15	9	Advanced Persian I	Nahal Akbari-Saneh	
 online	PERS	PERS311	MWF 12:00pm 12:50pm	10	10	Persian Media	Manizhe Galledari	
 online	PERS	PERS398C	TuTh 2:00pm 3:15pm	18	6	Special Topics in Persian Studies; Islam: Learning, Piety, and Practice	Ahmet Karamustafa	
@@ -5818,7 +5818,7 @@ online	PHIL	PHIL808G	Tu 2:00pm 4:30pm	15	11	Seminar in the Problems of Philosoph
 online	PHIL	PHIL808K	M 2:00pm 4:30pm	15	13	Seminar in the Problems of Philosophy; The Modal Future	Fabrizio Cariani	
 online	PHIL	PHIL848G	Th 3:30pm 6:00pm	15	12	Seminar in Ethics; Trust, Personal and Political	Patricia Greenspan	
 online	PHPE	PHPE400	TuTh 2:00pm 3:15pm	30	0	Individual and Group Decision-Making	Eric Pacuit	
-online	PHSC	PHSC321	Tu 10:00am 12:30pm	35	33	Transfer Success for the Public Health Science Major	Kristen Cabrera	
+online	PHSC	PHSC321	Tu 10:00am 12:30pm	35	33	Transfer Success for the Public Health Science Major	Jennifer Hodgson,Kristen Cabrera	
 online	PHSC	PHSC401		31	0	History of Public Health	Marian Jones	
 online	PHSC	PHSC412	W 5:00pm 7:30pm	35	16	Food, Policy, and Public Health	Christopher Waldrop	
 online	PHSC	PHSC415	MW 1:00pm 1:50pm	18	0	Essentials of Public Health Biology: The Cell, The Individual, and Disease	Jessica O'Hara	W 3:00pm 3:50pm
@@ -5836,7 +5836,7 @@ online	PHSC	PHSC497	Tu 5:00pm 7:30pm	20	8	Public Health Science Capstone	Alyssa 
 in person	PHYS	PHYS261	M 10:30am 12:50pm	36	1	General Physics: Vibrations, Waves, Heat, Electricity and Magnetism (Laboratory)	Matt Severson	
 in person	PHYS	PHYS261	M 1:00pm 3:20pm	36	1	General Physics: Vibrations, Waves, Heat, Electricity and Magnetism (Laboratory)	Matt Severson	
 in person	PHYS	PHYS261	M 4:30pm 6:50pm	36	0	General Physics: Vibrations, Waves, Heat, Electricity and Magnetism (Laboratory)	Matt Severson	
-in person	PHYS	PHYS261	M 7:00pm 9:20pm	36	1	General Physics: Vibrations, Waves, Heat, Electricity and Magnetism (Laboratory)	Matt Severson	
+in person	PHYS	PHYS261	M 7:00pm 9:20pm	36	0	General Physics: Vibrations, Waves, Heat, Electricity and Magnetism (Laboratory)	Matt Severson	
 in person	PHYS	PHYS261	Tu 9:00am 11:20am	36	0	General Physics: Vibrations, Waves, Heat, Electricity and Magnetism (Laboratory)	Matt Severson	
 in person	PHYS	PHYS261	Tu 11:30am 1:50pm	36	1	General Physics: Vibrations, Waves, Heat, Electricity and Magnetism (Laboratory)	Matt Severson	
 in person	PHYS	PHYS261	Tu 2:00pm 4:20pm	36	2	General Physics: Vibrations, Waves, Heat, Electricity and Magnetism (Laboratory)	Matt Severson	
@@ -5929,7 +5929,7 @@ online	PHYS	PHYS161	MWF 10:00am 10:50am	30	12	General Physics: Mechanics and Par
 online	PHYS	PHYS161	MWF 10:00am 10:50am	30	19	General Physics: Mechanics and Particle Dynamics	Hailu Gebremariam	Tu 4:00pm 4:50pm
 online	PHYS	PHYS161	MWF 10:00am 10:50am	30	4	General Physics: Mechanics and Particle Dynamics	Hailu Gebremariam	W 12:00pm 12:50pm
 online	PHYS	PHYS161	MWF 10:00am 10:50am	30	25	General Physics: Mechanics and Particle Dynamics	Hailu Gebremariam	W 3:00pm 3:50pm
-online	PHYS	PHYS170	W 12:00pm 12:50pm	35	11	Professional Physics Seminar	Thomas Gleason	
+online	PHYS	PHYS170	W 12:00pm 12:50pm	35	11	Professional Physics Seminar	Thomas Gleason,Donna Hammer	
 online	PHYS	PHYS171H	MWF 9:00am 9:50am	55	23	Introductory Physics: Mechanics and Relativity	Kara Hoffman	Th 9:00am 9:50am
 online	PHYS	PHYS199M	MW 4:00pm 5:15pm	25	0	The Manhattan Project	Thomas Cohen	M 1:00pm 1:50pm
 online	PHYS	PHYS199M	MW 4:00pm 5:15pm	25	0	The Manhattan Project	Thomas Cohen	M 2:00pm 2:50pm
@@ -5945,7 +5945,7 @@ online	PHYS	PHYS260	MW 3:00pm 4:15pm	31	0	General Physics: Vibration, Waves, Hea
 online	PHYS	PHYS260	MW 3:00pm 4:15pm	31	0	General Physics: Vibration, Waves, Heat, Electricity and Magnetism	Hailu Gebremariam	F 2:00pm 2:50pm
 online	PHYS	PHYS260	MW 3:00pm 4:15pm	31	0	General Physics: Vibration, Waves, Heat, Electricity and Magnetism	Hailu Gebremariam	W 12:00pm 12:50pm
 online	PHYS	PHYS260	MW 3:00pm 4:15pm	31	0	General Physics: Vibration, Waves, Heat, Electricity and Magnetism	Hailu Gebremariam	M 4:30pm 5:20pm
-online	PHYS	PHYS260	MW 3:00pm 4:15pm	30	1	General Physics: Vibration, Waves, Heat, Electricity and Magnetism	Hailu Gebremariam	W 4:30pm 5:20pm
+online	PHYS	PHYS260	MW 3:00pm 4:15pm	30	0	General Physics: Vibration, Waves, Heat, Electricity and Magnetism	Hailu Gebremariam	W 4:30pm 5:20pm
 online	PHYS	PHYS260	TuTh 2:00pm 3:15pm	30	1	General Physics: Vibration, Waves, Heat, Electricity and Magnetism	Rabindra Mohapatra	M 12:00pm 12:50pm
 online	PHYS	PHYS260	TuTh 2:00pm 3:15pm	30	0	General Physics: Vibration, Waves, Heat, Electricity and Magnetism	Rabindra Mohapatra	W 11:00am 11:50am
 online	PHYS	PHYS260	TuTh 2:00pm 3:15pm	31	11	General Physics: Vibration, Waves, Heat, Electricity and Magnetism	Rabindra Mohapatra	Tu 12:00pm 12:50pm
@@ -5972,8 +5972,8 @@ online	PHYS	PHYS332	MWF 12:00pm 12:50pm	20	9	Physics for Life Sciences II	David 
 online	PHYS	PHYS332	MWF 12:00pm 12:50pm	20	8	Physics for Life Sciences II	David Buehrle	W 2:00pm 5:00pm
 online	PHYS	PHYS371	MW 11:00am 12:15pm	68	0	Modern Physics	Steven Anlage	
 online	PHYS	PHYS373	TuTh 12:30pm 1:45pm	70	0	Mathematical Methods for Physics II	Zackaria Chacko	
-online	PHYS	PHYS375	M 2:00pm 2:50pm	15	10	Experimental Physics III: Electromagnetic Waves, Optics and Modern Physics	Min Ouyang	Th 3:00pm 5:50pm
-online	PHYS	PHYS399D	F 9:00am 9:50am	8	8	Special Problems in Physics; Physics STEM Seminar II	Donna Hammer	
+online	PHYS	PHYS375	M 2:00pm 2:50pm	15	10	Experimental Physics III: Electromagnetic Waves, Optics and Modern Physics	Min Ouyang,Manuel Franco Sevilla	Th 3:00pm 5:50pm
+online	PHYS	PHYS399D	F 9:00am 9:50am	8	8	Special Problems in Physics; Physics STEM Seminar II	Thomas Gleason,Donna Hammer	
 online	PHYS	PHYS401	MWF 10:00am 10:50am	55	0	Quantum Physics I	Christopher Lobb	W 11:00am 11:50am
 online	PHYS	PHYS402	MW 10:00am 10:50am	49	4	Quantum Physics II	Theodore Jacobson	MW 11:00am 11:50am
 online	PHYS	PHYS404	MWF 9:00am 9:50am	55	1	Introduction to Statistical Thermodynamics	James Williams	
@@ -5993,8 +5993,8 @@ online	PHYS	PHYS715	TuTh 2:00pm 3:15pm	30	24	Chaotic Dynamics	Edward Ott
 online	PHYS	PHYS728	M 11:00am 12:50pm	30	27	Seminar in Atomic and Molecular Physics	Steven Rolston	
 online	PHYS	PHYS738	Th 2:00pm 3:50pm	15	15	Seminar in Experimental Solid State Physics; Quantum Mechanical Many-Body Problems	Johnpierre Paglione	
 online	PHYS	PHYS778	M 4:30pm 5:45pm	20	19	Seminar in Space and Cosmic Ray Physics	Eun-Suk Seo	
-online	PHYS	PHYS780	W 1:00pm 1:50pm	25	20	Network Science Literature Survey Seminar	Michelle Girvan	
-online	PHYS	PHYS782	MW 11:00am 12:15pm	25	14	Interdisciplinary Research and Communication Practicum for Data-Driven Science	Michelle Girvan	
+online	PHYS	PHYS780	W 1:00pm 1:50pm	25	20	Network Science Literature Survey Seminar	Michelle Girvan,Daniel Serrano	
+online	PHYS	PHYS782	MW 11:00am 12:15pm	25	14	Interdisciplinary Research and Communication Practicum for Data-Driven Science	Michelle Girvan,Daniel Serrano	
 online	PHYS	PHYS798B	Tu 3:30pm 6:00pm	160	160	Special Problems in Advanced Physics; Physics Colloquium	Thomas Cohen	
 online	PHYS	PHYS798L	M 4:00pm 5:30pm	10	4	Special Problems in Advanced Physics; Biophysics	Arpita Upadhyaya	
 online	PHYS	PHYS838C	M 4:00pm 5:50pm	50	49	Special Topics in Experimental Solid State Physics; Superconductivity, Quantum Materials and Nanoscience Seminar	Johnpierre Paglione	
@@ -6036,7 +6036,7 @@ online	PLCY	PLCY311	Tu 4:15pm 6:45pm	30	0	Women in Leadership	Anne Kaiser
 online	PLCY	PLCY313	M 2:00pm 4:30pm	100	10	Advocacy in the American Political System	Gerard Evans	
 online	PLCY	PLCY388		20	20	Special Topics in Public Policy	Jennifer Littlefield	
 online	PLCY	PLCY388A	TuTh 9:30am 10:45am	24	0	Special Topics in Public Policy; Child and Family Policy Impact	Adele Robinson	
-online	PLCY	PLCY388D	TuTh 2:00pm 3:15pm	40	1	Innovation and Social Change: Do Good Now	Joannie Tremblay-Boire	
+online	PLCY	PLCY388D	TuTh 2:00pm 3:15pm	40	1	Innovation and Social Change: Do Good Now	Katlin Gray,Joannie Tremblay-Boire	
 online	PLCY	PLCY388D	M 2:00pm 4:30pm	40	7	Innovation and Social Change: Do Good Now	Toby Egan	
 online	PLCY	PLCY388G	Tu 2:00pm 4:30pm	40	1	Global Perspectives on Leading and Investing in Social Change	Angela Bies	
 online	PLCY	PLCY388M	TuTh 11:00am 12:15pm	25	0	Special Topics in Public Policy; Homeland Security and World Order	David Mussington	
@@ -6069,15 +6069,15 @@ online	PLCY	PLCY689E	Th 9:15am 11:45am	25	13	Public Policy Topics; Program Evalu
 online	PLCY	PLCY689J	W 1:30pm 4:00pm	20	14	Public Policy Topics; Food Economics and Health	Alok Bhargava	
 online	PLCY	PLCY689Q	W 9:15am 11:45am	20	18	Public Policy Topics; Quantitative Methods for Evidence-based Policies	Alok Bhargava	
 online	PLCY	PLCY689Z	W 7:00pm 9:30pm	30	18	Public Policy Topics; Strategic Management for NonProfit and Public Organizations	Robert Sheehan	
-online	PLCY	PLCY698A	M 4:15pm 6:45pm	30	20	Selected Topics in Public Affairs; Poverty Measurement and Alleviation	Douglas Besharov	
+online	PLCY	PLCY698A	M 4:15pm 6:45pm	30	20	Selected Topics in Public Affairs; Poverty Measurement and Alleviation	Douglas Besharov,Douglas Call	
 online	PLCY	PLCY698T	M 9:15am 11:45am	20	8	Selected Topics in Public Affairs; Managing Across Sectors	Elizabeth Duke	
-online	PLCY	PLCY699D	W 1:30pm 4:00pm	24	0	Selected Topics Public Policy; Examining Social Identity & Pluralism in Public Policy	Nina Harris	
+online	PLCY	PLCY699D	W 1:30pm 4:00pm	24	0	Selected Topics Public Policy; Examining Social Identity & Pluralism in Public Policy	Nina Harris,Patricia Bory	
 online	PLCY	PLCY699V	Tu 4:15pm 6:45pm	25	7	Selected Topics Public Policy; Homeland Security Policy	David Mussington	
-online	PLCY	PLCY699W	M 7:00pm 9:30pm	20	6	Selected Topics Public Policy; Policy Engagement Project A	Douglas Call	
-online	PLCY	PLCY699W	M 7:00pm 9:30pm	20	19	Selected Topics Public Policy; Policy Engagement Project A	Douglas Besharov	
+online	PLCY	PLCY699W	M 7:00pm 9:30pm	20	6	Selected Topics Public Policy; Policy Engagement Project A	Douglas Besharov,Douglas Call	
+online	PLCY	PLCY699W	M 7:00pm 9:30pm	20	19	Selected Topics Public Policy; Policy Engagement Project A	Douglas Besharov,Douglas Call	
 online	PLCY	PLCY699W	Th 1:30pm 4:00pm	20	17	Selected Topics Public Policy; Policy Engagement Project A	Anand Patwardhan	
 online	PLCY	PLCY699W	Th 1:30pm 4:00pm	20	7	Selected Topics Public Policy; Policy Engagement Project A	Jonas Siegel	
-online	PLCY	PLCY699W	Th 1:30pm 4:00pm	16	13	Selected Topics Public Policy; Policy Engagement Project A	Margaret Brindle	
+online	PLCY	PLCY699W	Th 1:30pm 4:00pm	16	13	Selected Topics Public Policy; Policy Engagement Project A	Margaret Brindle,Matthew Regan	
 online	PLCY	PLCY699W	Tu 9:15am 11:45am	20	17	Selected Topics Public Policy; Policy Engagement Project A	Angela Bies	
 online	PLCY	PLCY699X	M 7:00pm 9:30pm	20	13	Selected Topics Public Policy; Policy Engagement Project A Extended	Douglas Besharov	
 online	PLCY	PLCY699X	M 7:00pm 9:30pm	20	20	Selected Topics Public Policy; Policy Engagement Project A Extended	Douglas Besharov	
@@ -6085,7 +6085,7 @@ online	PLCY	PLCY699X	Th 1:30pm 4:00pm	20	17	Selected Topics Public Policy; Polic
 online	PLCY	PLCY699X	Th 1:30pm 4:00pm	20	6	Selected Topics Public Policy; Policy Engagement Project A Extended	Jonas Siegel	
 online	PLCY	PLCY699X	Th 1:30pm 4:00pm	8	3	Selected Topics Public Policy; Policy Engagement Project A Extended	Margaret Brindle	
 online	PLCY	PLCY699X	Tu 9:15am 11:45am	20	10	Selected Topics Public Policy; Policy Engagement Project A Extended	Angela Bies	
-online	PLCY	PLCY700	Th 9:15am 11:45am	22	6	U.S. Trade: Policy and Politics	William Reinsch	
+online	PLCY	PLCY700	Th 9:15am 11:45am	22	6	U.S. Trade: Policy and Politics	Uri Dadush,Susan Schwab,William Reinsch	
 online	PLCY	PLCY720	M 9:15am 11:45am	25	0	International Security Policy	Sara Kutchesfahani	
 online	PLCY	PLCY735	Th 4:15pm 6:45pm	25	6	Health Policy	Robert Sprinkle	
 online	PLCY	PLCY741	Th 4:15pm 6:45pm	40	31	Global Environmental Problems	Anand Patwardhan	
@@ -6103,8 +6103,8 @@ online	PLSC	PLSC101	F 10:00am 10:50am	21	6	Introductory Crop Science	William Phi
 online	PLSC	PLSC101	F 10:00am 10:50am	21	6	Introductory Crop Science	William Phillips	
 online	PLSC	PLSC115		30	7	How Safe is Your Salad? The Microbiological Safety of Fresh produce	Shirley Micallef	
 online	PLSC	PLSC115		30	24	How Safe is Your Salad? The Microbiological Safety of Fresh produce	Shirley Micallef	
-online	PLSC	PLSC125	Tu 9:30am 10:45am	47	27	Feeding Ten Billion by 2050: Food Security and Crop Protection	Shunyuan Xiao	Th 9:30am 10:45am
-online	PLSC	PLSC125	Tu 9:30am 10:45am	46	36	Feeding Ten Billion by 2050: Food Security and Crop Protection	Shunyuan Xiao	Th 9:30am 10:45am
+online	PLSC	PLSC125	Tu 9:30am 10:45am	47	27	Feeding Ten Billion by 2050: Food Security and Crop Protection	James Culver,Shunyuan Xiao	Th 9:30am 10:45am
+online	PLSC	PLSC125	Tu 9:30am 10:45am	46	36	Feeding Ten Billion by 2050: Food Security and Crop Protection	James Culver,Shunyuan Xiao	Th 9:30am 10:45am
 online	PLSC	PLSC130		30	0	Did Yeast Create Civilization?	Angus Murphy	
 online	PLSC	PLSC203	TuTh 2:00pm 3:15pm	23	9	Plants, Genes and Biotechnology	Vijay Tiwari	
 online	PLSC	PLSC389		20	9	Internship	Mark Carroll	
@@ -6115,7 +6115,7 @@ online	PLSC	PLSC420	TuTh 1:00pm 2:15pm	18	7	Principles of Plant Pathology	Nidhi 
 online	PLSC	PLSC453	Th 9:30am 10:45am	24	0	Weed Science	William Phillips	
 online	PLSC	PLSC489L		30	29	Special Topics in Plant Science; Scientists Teaching and Translating Science	Melissa Welsh	
 online	PLSC	PLSC608	M 3:30pm 5:30pm	20	18	Research Methods	Angus Murphy	
-online	PLSC	PLSC619	M 12:00pm 12:50pm	10	8	Seminars in Plant Science and Landscape Architecture	Nicole Fiorellino	M 1:00pm 1:50pm
+online	PLSC	PLSC619	M 12:00pm 12:50pm	10	8	Seminars in Plant Science and Landscape Architecture	Nicole Fiorellino,Melissa Welsh	M 1:00pm 1:50pm
 online	PORT	PORT104	TuTh 11:00am 12:15pm	25	16	Intensive Elementary Portuguese	Adonis De Carvalho Borges	W 11:00am 11:50am
 online	PORT	PORT205	TuTh 11:00am 12:15pm	15	11	Intermediate Reading and Conversation in Portuguese I	Thayse Lima	
 online	PORT	PORT228D	TuTh 2:00pm 3:15pm	20	14	Selected Topics in Latin American Literature and Society; Environmental Crisis in Latin America	Thayse Lima	
@@ -6274,7 +6274,7 @@ online	RDEV	RDEV640	Tu 7:00pm 9:40pm	25	19	Principles of Urban Design for Real P
 online	RDEV	RDEV660	W 7:00pm 9:40pm	25	17	Commercial Leasing for Real Property Developers	Martha Naughten	
 online	RDEV	RDEV670	M 7:00pm 9:40pm	16	6	Negotiating Agreements & Resolving Conflicts when Developing Real Property	Ronald McDonald	
 online	RDEV	RDEV688D	Th 7:00pm 9:40pm	15	15	Selected Topics in Real Estate Development; Geo-Underwriting: Location-Based Project Feasibility Analysis - From Segregation to Gentrification	Instructor: TBA	
-online	RDEV	RDEV689Y		10	10	Current Topics in Real Estate Development; Guided Real Estate Development Project	Maria Day-Marshall	
+online	RDEV	RDEV689Y		10	10	Current Topics in Real Estate Development; Guided Real Estate Development Project	Tanya Bansal,Maria Day-Marshall	
 in person	RELS	RELS289J	MW 11:00am 11:50am	20	0	Jerusalem in Antiquity: The History of Sacred Space in a Holy City	Matthew Suriano	F 11:00am 11:50am
 in person	RELS	RELS289J	MW 11:00am 11:50am	20	2	Jerusalem in Antiquity: The History of Sacred Space in a Holy City	Matthew Suriano	F 12:00pm 12:50pm
 in person	RELS	RELS289J	MW 11:00am 11:50am	20	4	Jerusalem in Antiquity: The History of Sacred Space in a Holy City	Matthew Suriano	W 2:00pm 2:50pm
@@ -6290,13 +6290,13 @@ online	RELS	RELS170	MW 11:00am 11:50am	19	0	Greek and Roman Mythology	Katherine 
 online	RELS	RELS170	MW 11:00am 11:50am	21	0	Greek and Roman Mythology	Katherine Wasdin	F 11:00am 11:50am
 online	RELS	RELS170	MW 11:00am 11:50am	21	1	Greek and Roman Mythology	Katherine Wasdin	Th 11:00am 11:50am
 online	RELS	RELS170	MW 11:00am 11:50am	22	13	Greek and Roman Mythology	Katherine Wasdin	Th 9:30am 10:20am
-online	RELS	RELS219E	TuTh 11:30am 1:00pm	12	3	Special Topics in Religious Studies; Visual Cultures of Islam	Instructor: TBA	
+online	RELS	RELS219E	TuTh 11:30am 1:00pm	12	2	Special Topics in Religious Studies; Visual Cultures of Islam	Instructor: TBA	
 online	RELS	RELS219G		50	42	Special Topics in Religious Studies; Archeology and History of Palestine: Neolithic to Muhammed	Gregory Stoehr	
 online	RELS	RELS289D	MW 11:00am 11:50am	24	13	"God Wills It!" The Crusades in Medieval and Modern Perspectives	Janna Bianchini	W 12:00pm 12:50pm
 online	RELS	RELS289D	MW 11:00am 11:50am	24	20	"God Wills It!" The Crusades in Medieval and Modern Perspectives	Janna Bianchini	F 12:00pm 12:50pm
 online	RELS	RELS289D	MW 11:00am 11:50am	24	19	"God Wills It!" The Crusades in Medieval and Modern Perspectives	Janna Bianchini	F 2:00pm 2:50pm
 online	RELS	RELS289I	TuTh 9:30am 10:45am	40	0	What is Religion?	Maxine Grossman	
-online	RELS	RELS289J	MW 11:00am 11:50am	20	1	Jerusalem in Antiquity: The History of Sacred Space in a Holy City	Matthew Suriano	W 1:00pm 1:50pm
+online	RELS	RELS289J	MW 11:00am 11:50am	20	0	Jerusalem in Antiquity: The History of Sacred Space in a Holy City	Matthew Suriano	W 1:00pm 1:50pm
 online	RELS	RELS341	MW 2:00pm 3:15pm	27	0	Europe in the High Middle Ages: 1000-1500	Janna Bianchini	
 online	RELS	RELS419R	MW 4:00pm 5:15pm	40	24	Tradition and Change: Jewish Religion in the Modern World	Rachel Manekin	
 online	RELS	RELS429N	TuTh 3:30pm 4:45pm	27	13	Advanced Topics in Religious History; Living with Pachamama: Religion and Ritual in the Andes from the Incas to the Present	James Maffie	
@@ -6338,7 +6338,7 @@ online	SLLC	SLLC309	M 4:00pm 5:50pm	10	10	Language Partner Program	Mehl Penrose
 online	SLLC	SLLC309	M 4:00pm 5:50pm	10	9	Language Partner Program	Mehl Penrose	
 online	SLLC	SLLC309	M 4:00pm 5:50pm	10	5	Language Partner Program	Mehl Penrose	
 online	SMLP	SMLP470	F 2:00pm 4:30pm	75	47	Fundamentals of Entrepreneurial Ventures	Gul Branco	
-online	SMLP	SMLP472	F 1:00pm 3:30pm	75	36	Strategies for Innovation & Entrepreneurship	Harry Alford	
+online	SMLP	SMLP472	F 1:00pm 3:30pm	75	36	Strategies for Innovation & Entrepreneurship	Harry Alford,Adam Zuckerman	
 online	SOCY	SOCY100	TuTh 9:30am 10:45am	81	0	Introduction to Sociology	Joey Brown	
 online	SOCY	SOCY100	TuTh 12:30pm 1:45pm	81	0	Introduction to Sociology	Joey Brown	
 online	SOCY	SOCY100	MW 2:00pm 3:15pm	108	7	Introduction to Sociology	Amelia Branigan	
@@ -6487,16 +6487,16 @@ online	SPHL	SPHL246	M 12:00pm 2:00pm	22	20	Terp Restoration	Renee Stokes
 online	SPHL	SPHL291	Tu 9:30am 10:45am	25	0	Does Science Support Nontraditional Healing Practices?	Robin Puett	Th 9:30am 10:45am
 online	SPHL	SPHL333		15	13	Fundamentals of Undergraduate Teaching for Education Assistants and Mentors (UTEAM)	Cynthia Kershaw	
 online	SPHL	SPHL600	Th 3:00pm 4:00pm	8	0	Foundations of Public Health	Sylvette La Touche-Howard	
-online	SPHL	SPHL601	M 6:30pm 8:30pm	80	6	Core Concepts in Public Health	Dushanka Kleinman	
-online	SPHL	SPHL601		10	5	Core Concepts in Public Health	Luisa Franzini	
-online	SPHL	SPHL601		20	3	Core Concepts in Public Health	Dushanka Kleinman	
-online	SPHL	SPHL601		6	6	Core Concepts in Public Health	Luisa Franzini	
-online	SPHL	SPHL601		5	2	Core Concepts in Public Health	Luisa Franzini	
-online	SPHL	SPHL602	MW 4:15pm 6:15pm	80	3	Foundations of Epidemiology and Biostatistics	Typhanye Dyer	
-online	SPHL	SPHL602		10	6	Foundations of Epidemiology and Biostatistics	Raul Cruz-Cano	
-online	SPHL	SPHL602		20	4	Foundations of Epidemiology and Biostatistics	Raul Cruz-Cano	
-online	SPHL	SPHL602		6	6	Foundations of Epidemiology and Biostatistics	Raul Cruz-Cano	
-online	SPHL	SPHL602		5	1	Foundations of Epidemiology and Biostatistics	Rodman Turpin	
+online	SPHL	SPHL601	M 6:30pm 8:30pm	80	6	Core Concepts in Public Health	Barbara Curbow,Luisa Franzini,Dushanka Kleinman	
+online	SPHL	SPHL601		10	5	Core Concepts in Public Health	Barbara Curbow,Luisa Franzini,Dushanka Kleinman	
+online	SPHL	SPHL601		20	3	Core Concepts in Public Health	Luisa Franzini,Dushanka Kleinman,Barbara Curbow	
+online	SPHL	SPHL601		6	6	Core Concepts in Public Health	Luisa Franzini,Dushanka Kleinman,Barbara Curbow	
+online	SPHL	SPHL601		5	2	Core Concepts in Public Health	Luisa Franzini,Barbara Curbow,Dushanka Kleinman	
+online	SPHL	SPHL602	MW 4:15pm 6:15pm	80	3	Foundations of Epidemiology and Biostatistics	Typhanye Dyer,Raul Cruz-Cano	
+online	SPHL	SPHL602		10	6	Foundations of Epidemiology and Biostatistics	Rodman Turpin,Raul Cruz-Cano	
+online	SPHL	SPHL602		20	4	Foundations of Epidemiology and Biostatistics	Raul Cruz-Cano,Rodman Turpin	
+online	SPHL	SPHL602		6	6	Foundations of Epidemiology and Biostatistics	Raul Cruz-Cano,Rodman Turpin	
+online	SPHL	SPHL602		5	1	Foundations of Epidemiology and Biostatistics	Rodman Turpin,Raul Cruz-Cano	
 online	SPHL	SPHL603	W 6:30pm 7:30pm	20	0	Public Health Data Laboratory	Raul Cruz-Cano	
 online	SPHL	SPHL603	W 6:30pm 7:30pm	20	0	Public Health Data Laboratory	Raul Cruz-Cano	
 online	SPHL	SPHL603	W 7:30pm 8:30pm	20	0	Public Health Data Laboratory	Raul Cruz-Cano	
@@ -6589,12 +6589,12 @@ online	STAT	STAT740	MWF 2:00pm 2:50pm	20	18	Linear Statistical Models I	Paul Smi
 online	STAT	STAT770	MW 5:00pm 6:15pm	20	16	Analysis of Categorical Data	Eric Slud	
 in person	SURV	SURV615	W 5:00pm 7:45pm	20	14	Statistical Modeling I	Sunghee Lee	
 in person	SURV	SURV617	F 10:00am 12:45pm	20	16	Applications of  Statistical Modeling	Yajuan Si	
-in person	SURV	SURV621	M 3:30pm 6:30pm	25	15	Fundamentals of Data Collection I	Christopher Antoun	
+in person	SURV	SURV621	M 3:30pm 6:30pm	25	15	Fundamentals of Data Collection I	Frederick Conrad,Christopher Antoun	
 in person	SURV	SURV632	W 9:00am 11:45am	15	12	Cognition, Communication and Survey Measurement	Frederick Conrad	
 in person	SURV	SURV699U	Tu 2:00pm 4:45pm	30	20	Special Topics in Survey Methodology; Machine Learning for Social Science	Christoph Kern	
 in person	SURV	SURV720	Th 10:20am 12:15pm	20	17	Total Survey Error and Data Quality I	Christopher Antoun	
 in person	SURV	SURV727	M 12:30pm 3:30pm	20	18	Fundamentals of Computing and Data Display	Ruben Bach	
-in person	SURV	SURV740	F 1:00pm 4:00pm	20	16	Fundamentals of Inference	Sunghee Lee	
+in person	SURV	SURV740	F 1:00pm 4:00pm	20	16	Fundamentals of Inference	Sunghee Lee,Partha Lahiri	
 online	SURV	SURV400	M 1:00pm 2:00pm	15	10	Fundamentals of Survey and Data Science	Alexander Wenz	
 online	SURV	SURV410	MWF 9:00am 9:50am	31	1	Introduction to Probability Theory	Scott Preston	
 online	SURV	SURV410	TuTh 9:30am 10:45am	31	0	Introduction to Probability Theory	Christian Zickert	
@@ -6607,19 +6607,19 @@ online	SURV	SURV650	Tu 9:00am 11:40am	24	24	Economic Measurement	Katharine Abrah
 online	SURV	SURV673	W 1:00pm 2:00pm	15	7	Introduction to Python and SQL	Brian Kim	
 online	SURV	SURV699Y	Tu 3:00pm 4:00pm	15	13	Special Topics in Survey Methodology; Modern Workflows in Data Science	Alexandru Cernat	
 online	SURV	SURV725	F 8:00am 9:00am	15	12	Item Nonresponse and Imputation	Joerg Drechsler	
-online	SURV	SURV829	W 2:00pm 4:30pm	10	7	Doctoral Research Seminar in Survey Methodology	Katharine Abraham	
+online	SURV	SURV829	W 2:00pm 4:30pm	10	7	Doctoral Research Seminar in Survey Methodology	Katharine Abraham,Brady West	
 online	TDPS	TDPS201	MW 4:00pm 4:50pm	20	0	Introduction to Technical Production	Michael Driggers	F 3:30pm 5:30pm
 online	TDPS	TDPS258C	MW 3:30pm 4:45pm	25	5	Special Topics in Introductory Performing Arts; Cultural Institutions in the United States	Instructor: TBA	
 online	TDPS	TDPS440	M 1:00pm 3:30pm	15	0	Arts Leadership Seminar	Instructor: TBA	
 online	TDPS	TDPS458B		10	0	Special Topics in Advanced Performing Arts; Exploring and Creating Virtual Performance	Samuel Crawford	
-in person	THET	THET372	Th 6:00pm 8:50pm	10	5	Stage Property Design	Timothy Jones	
+in person	THET	THET372	Th 6:00pm 8:50pm	10	6	Stage Property Design	Timothy Jones	
 in person	THET	THET428L	TuTh 3:00pm 4:50pm	8	3	Special Topics in Advanced Theatre and Performance; Advanced Techniques Lighting Design: Programming	J Cronin	
 in person	THET	THET481	MW 11:00am 12:50pm	8	6	Theatre Graphics II: Computer Assisted Design	Andrew Cissna	
 in person	THET	THET659D	M 3:00pm 6:00pm	6	5	Advanced Design Studio in Lighting; Advanced 2nd and 3rd Year Design	Andrew Cissna	
 in person	THET	THET669X	TuTh 9:30am 10:45am	6	6	Independent Study	Instructor: TBA	
 in person	THET	THET889	WF 2:45pm 4:00pm	10	10	Doctoral Tutorial in Theatre	Franklin Hildy	
-online	THET	THET110	MWF 11:00am 11:50am	108	53	Introduction to the Theatre	Alexander Miller	
-online	THET	THET110	MWF 12:00pm 12:50pm	108	68	Introduction to the Theatre	Fraser Stevens	
+online	THET	THET110	MWF 11:00am 11:50am	108	53	Introduction to the Theatre	Alexander Miller,Fraser Stevens	
+online	THET	THET110	MWF 12:00pm 12:50pm	108	68	Introduction to the Theatre	Alexander Miller,Fraser Stevens	
 online	THET	THET110	TuTh 6:00pm 7:15pm	22	9	Introduction to the Theatre	Robert Jansen	
 online	THET	THET120	TuTh 10:00am 11:50am	14	1	Introduction to Acting	Leslie Felbain	
 online	THET	THET222	TuTh 2:00pm 3:50pm	14	7	Foundations of Acting and Performance	Jennifer  Newsham	
@@ -6639,8 +6639,8 @@ online	THET	THET325	TuTh 2:00pm 3:50pm	12	1	Actor's Process I	Leigh Smiley
 online	THET	THET340	MW 1:00pm 2:50pm	12	1	Playwriting I	Jennifer  Newsham	
 online	THET	THET351	Tu 9:00am 11:50am	12	0	Musical Theatre I	Instructor: TBA	
 online	THET	THET380	TuTh 10:00am 11:50am	10	3	Sound Design	Samuel Crawford	
-online	THET	THET390	MW 11:30am 12:45pm	25	0	History of Theatre I	Lindsey Barr	
-online	THET	THET390	MW 10:00am 11:15am	20	13	History of Theatre I	Lindsey Barr	
+online	THET	THET390	MW 11:30am 12:45pm	25	0	History of Theatre I	Jordan Ealey,Lindsey Barr	
+online	THET	THET390	MW 10:00am 11:15am	20	13	History of Theatre I	Jordan Ealey,Lindsey Barr	
 online	THET	THET408X	TuTh 11:00am 12:15pm	15	10	Seminar: Theory and Performance Studies; Performing Latin(x) America	Jonelle Walker	
 online	THET	THET408Z	TuTh 1:30pm 2:45pm	15	6	Seminar: Theory and Performance Studies; Feminism Remixed: Gender and Performance in Popular Culture	Leticia Ridley	
 online	THET	THET411	MW 1:00pm 2:50pm	12	3	Voice for the Actor II	Lisa Nathans	
@@ -6677,7 +6677,7 @@ in person	TLPL	TLPL788W	Th 4:15pm 7:00pm	20	0	Special Topics in Education; MA Co
 in person	TLPL	TLPL794	Th 4:15pm 7:00pm	25	1	Foundations of Educational Research I	Claudia Galindo	
 online	TLPL	TLPL101	M 3:00pm 4:20pm	24	0	Inquiry Approach to Teaching STEM (Step 1)	Margaret Walton	
 online	TLPL	TLPL101	M 3:00pm 4:20pm	24	1	Inquiry Approach to Teaching STEM (Step 1)	Jennifer Manly	
-online	TLPL	TLPL101	Th 12:30pm 1:50pm	20	0	Inquiry Approach to Teaching STEM (Step 1)	Kayla White	
+online	TLPL	TLPL101	Th 12:30pm 1:50pm	20	0	Inquiry Approach to Teaching STEM (Step 1)	Kayla White,Steven Karig	
 online	TLPL	TLPL101	Th 12:30pm 1:50pm	24	2	Inquiry Approach to Teaching STEM (Step 1)	Sarah Henson-Darko	
 online	TLPL	TLPL101	Th 3:30pm 4:50pm	24	0	Inquiry Approach to Teaching STEM (Step 1)	Elias Gonzalez	
 online	TLPL	TLPL102	W 3:00pm 4:50pm	24	12	Inquiry Teaching of STEM in Middle School	Anita Sanyal	
@@ -6700,8 +6700,8 @@ online	TLPL	TLPL360	TuTh 11:00am 12:15pm	30	21	Foundations of Education	Neil Dhi
 online	TLPL	TLPL360	MW 11:00am 12:15pm	30	13	Foundations of Education	Charlotte Healy	
 online	TLPL	TLPL360	TuTh 2:00pm 3:15pm	30	16	Foundations of Education	Doug McNamara	
 online	TLPL	TLPL360	MW 2:00pm 3:15pm	30	23	Foundations of Education	Jason Saltmarsh	
-online	TLPL	TLPL401	TuTh 2:00pm 3:20pm	24	11	Student-Centered Curriculum and Instruction	Sarah Henson-Darko	
-online	TLPL	TLPL401	TuTh 2:00pm 3:20pm	24	15	Student-Centered Curriculum and Instruction	Dana Grosser-Clarkson	
+online	TLPL	TLPL401	TuTh 2:00pm 3:20pm	24	11	Student-Centered Curriculum and Instruction	Steven Karig,Sarah Henson-Darko	
+online	TLPL	TLPL401	TuTh 2:00pm 3:20pm	24	15	Student-Centered Curriculum and Instruction	Kayla White,Dana Grosser-Clarkson	
 online	TLPL	TLPL403	M 5:00pm 8:00pm	24	20	Teaching and Learning High School Mathematics	Dana Grosser-Clarkson	
 online	TLPL	TLPL414	W 4:00pm 6:50pm	24	15	Knowing and Learning in Mathematics and Science	Lawrence Clark	
 online	TLPL	TLPL420	TuTh 3:30pm 4:45pm	0	0	Knowledge, Reasoning, and Learning in Science	Madiha Moin	
@@ -6732,7 +6732,7 @@ online	TLPL	TLPL479G	Th 11:00am 2:00pm	12	12	Field Experiences in Education; Tut
 online	TLPL	TLPL479G	Th 3:00pm 6:00pm	6	5	Field Experiences in Education; Tutoring	Tracy Dunheimer	
 online	TLPL	TLPL479G	F 9:00am 12:00pm	12	11	Field Experiences in Education; Tutoring	Tracy Dunheimer	
 online	TLPL	TLPL479G	F 12:00pm 3:00pm	12	10	Field Experiences in Education; Tutoring	Tracy Dunheimer	
-online	TLPL	TLPL479G	Th 6:00pm 9:00pm	12	12	Field Experiences in Education; Tutoring	Tara Johnston	
+online	TLPL	TLPL479G	Th 6:00pm 9:00pm	12	12	Field Experiences in Education; Tutoring	Tracy Dunheimer,Tara Johnston	
 online	TLPL	TLPL481	Tu 3:30pm 6:15pm	25	20	Embracing Diversity in the Classroom Community	Blake Turner	
 online	TLPL	TLPL488B	TuTh 9:00am 9:50am	0	0	Special Topics in Education; Teaching Academically, Culturally and Linguistically Divers e Students in Secondary Education	Instructor: TBA	
 online	TLPL	TLPL488B	W 5:30pm 7:15pm	20	8	Special Topics in Education; Teaching Academically, Culturally and Linguistically Divers e Students in Secondary Education	Instructor: TBA	
@@ -6775,7 +6775,7 @@ online	UMEI	UMEI005	MTuThF 9:00am 10:50am	15	11	Advanced English as a Foreign La
 online	UMEI	UMEI006	TuTh 9:00am 10:30am	16	16	English Pronunciation	Instructor: TBA	
 online	UMEI	UMEI007	TuTh 1:00pm 2:50pm	16	13	Advanced Writing for International Students	Instructor: TBA	
 online	UMEI	UMEI007	MW 9:00am 10:50am	16	13	Advanced Writing for International Students	Instructor: TBA	
-in person	UNIV	UNIV100	M 10:00am 11:50am	20	1	The Student in the University	Laila Asi	
+in person	UNIV	UNIV100	M 10:00am 11:50am	20	1	The Student in the University	Kenneth Kokason,Laila Asi	
 in person	UNIV	UNIV100	Th 10:00am 11:50am	20	4	The Student in the University	TC Lloyd	
 in person	UNIV	UNIV100	W 1:00pm 2:50pm	20	9	The Student in the University	Steve Leonard	
 in person	UNIV	UNIV100	Tu 9:00am 10:50am	20	5	The Student in the University	Logan Dechter	
@@ -6800,9 +6800,9 @@ in person	UNIV	UNIV100	F 10:00am 11:15am	18	0	The Student in the University	Kris
 in person	UNIV	UNIV100	W 3:00pm 4:15pm	18	0	The Student in the University	Madeline Reich	
 in person	UNIV	UNIV100V	M 3:30pm 5:30pm	25	25	The Student in the University	Tasha Vanterpool	
 online	UNIV	UNIV100	Tu 11:00am 12:20pm	20	0	The Student in the University	Michelle Udeli	
-online	UNIV	UNIV100	W 1:00pm 2:50pm	20	0	The Student in the University	Hermione Pickett	
+online	UNIV	UNIV100	W 1:00pm 2:50pm	20	0	The Student in the University	Cayla Cwerner,Hermione Pickett	
 online	UNIV	UNIV100	Th 3:00pm 4:50pm	20	0	The Student in the University	Christa Slavin	
-online	UNIV	UNIV100	Tu 10:00am 11:50am	20	1	The Student in the University	Esme Pierzchala	
+online	UNIV	UNIV100	Tu 10:00am 11:50am	20	1	The Student in the University	Esme Pierzchala,Christie Cradock	
 online	UNIV	UNIV100	Tu 3:00pm 4:50pm	20	0	The Student in the University	Rosalyn Anderson-Howell	
 online	UNIV	UNIV100	W 6:00pm 7:50pm	20	1	The Student in the University	Christopher Lester	
 online	UNIV	UNIV100	W 6:00pm 7:50pm	20	14	The Student in the University	Instructor: TBA	
@@ -6810,7 +6810,7 @@ online	UNIV	UNIV100	W 2:00pm 3:50pm	20	8	The Student in the University	Christie 
 online	UNIV	UNIV100	Th 1:00pm 2:50pm	20	10	The Student in the University	Brittani Berry	
 online	UNIV	UNIV100	F 9:00am 10:30am	20	9	The Student in the University	Instructor: TBA	
 online	UNIV	UNIV100	M 2:00pm 3:50pm	20	2	The Student in the University	Thomas Steen	
-online	UNIV	UNIV100	Tu 2:00pm 3:50pm	20	3	The Student in the University	Devyn Sturdavant	
+online	UNIV	UNIV100	Tu 2:00pm 3:50pm	20	2	The Student in the University	Devyn Sturdavant	
 online	UNIV	UNIV100	Th 3:30pm 5:30pm	20	12	The Student in the University	Gregory Shaffer	
 online	UNIV	UNIV100	W 3:30pm 5:20pm	20	11	The Student in the University	Noah Jacobs	
 online	UNIV	UNIV100	Tu 11:00am 12:50pm	20	1	The Student in the University	Ashley Luster	
@@ -6827,7 +6827,7 @@ online	UNIV	UNIV100	M 2:00pm 3:50pm	20	0	The Student in the University	Marchelle
 online	UNIV	UNIV100	M 3:00pm 4:50pm	20	12	The Student in the University	Thomas Gleason	
 online	UNIV	UNIV100	Tu 2:00pm 3:50pm	20	1	The Student in the University	Jennie Gouker	
 online	UNIV	UNIV100	M 2:00pm 3:50pm	20	6	The Student in the University	Arman Liwanag	
-online	UNIV	UNIV100	W 10:00am 11:50am	20	0	The Student in the University	Kasey Ezzat	
+online	UNIV	UNIV100	W 10:00am 11:50am	20	0	The Student in the University	Kasey Ezzat,Kendra Lewis	
 online	UNIV	UNIV100	M 2:00pm 3:50pm	20	0	The Student in the University	Amy Alexander	
 online	UNIV	UNIV100	W 12:00pm 1:50pm	15	0	The Student in the University	Gerry Strumpf	
 online	UNIV	UNIV100	M 1:00pm 2:50pm	20	1	The Student in the University	Eden Garosi	
@@ -6890,9 +6890,9 @@ online	UNIV	UNIV100	Tu 3:00pm 4:15pm	18	0	The Student in the University	Lauren N
 online	UNIV	UNIV106	Tu 11:00am 12:15pm	20	3	The Transfer Student in the University	JV Sapinoso	
 online	UNIV	UNIV106	Th 2:00pm 3:15pm	20	6	The Transfer Student in the University	Melissa Hyre	
 online	UNIV	UNIV106	W 3:00pm 4:15pm	20	0	The Transfer Student in the University	Jeffrey Kodis	
-online	UNIV	UNIV108	Th 6:00pm 6:50pm	18	1	Business Exploration Series Colloquium	Gabriela Hernandez	Tu 6:00pm 6:50pm
-online	UNIV	UNIV108	Th 6:00pm 6:50pm	18	1	Business Exploration Series Colloquium	Gabriela Hernandez	Tu 6:00pm 6:50pm
-online	UNIV	UNIV108	Th 6:00pm 6:50pm	18	0	Business Exploration Series Colloquium	Lisa Scheeler	F 1:30pm 2:20pm
+online	UNIV	UNIV108	Th 6:00pm 6:50pm	18	1	Business Exploration Series Colloquium	Gabriela Hernandez,Lisa Scheeler	Tu 6:00pm 6:50pm
+online	UNIV	UNIV108	Th 6:00pm 6:50pm	18	1	Business Exploration Series Colloquium	Lisa Scheeler,Gabriela Hernandez,Iceney Williams	Tu 6:00pm 6:50pm
+online	UNIV	UNIV108	Th 6:00pm 6:50pm	18	0	Business Exploration Series Colloquium	Gabriela Hernandez,Lisa Scheeler	F 1:30pm 2:20pm
 online	UNIV	UNIV362	Tu 4:30pm 6:30pm	20	0	Designing Your Life after College	Ann Holmes	
 online	UNIV	UNIV362	Tu 4:30pm 6:30pm	25	4	Designing Your Life after College	Gerry Strumpf	
 online	UNIV	UNIV362	Tu 4:30pm 6:30pm	25	6	Designing Your Life after College	Matthew Hicks	
@@ -6908,13 +6908,13 @@ online	URSP	URSP605	Tu 4:00pm 6:40pm	25	5	Planning History and Theory	Brittney D
 online	URSP	URSP606	M 4:00pm 6:30pm	15	0	Planning Economics	Chengri Ding	
 online	URSP	URSP688L	Tu 7:00pm 9:40pm	20	8	Recent Developments in Urban Studies; Planning Technology	Instructor: TBA	
 online	URSP	URSP688Z	W 4:00pm 6:40pm	20	9	Recent Developments in Urban Studies; Planning & Design in the Multicultural Metropolis	Willow Lung Amam	
-online	URSP	URSP708	M 7:00pm 9:40pm	12	6	Community Planning Studio	Uri Avin	W 7:00pm 9:40pm
+online	URSP	URSP708	M 7:00pm 9:40pm	12	5	Community Planning Studio	Uri Avin	W 7:00pm 9:40pm
 online	URSP	URSP709		20	20	Field Instruction	Casey Dawkins	
 online	URSP	URSP709		5	5	Field Instruction	Ariel Bierbaum	
 online	URSP	URSP709		20	19	Field Instruction	Gerrit Knaap	
 online	URSP	URSP709		20	20	Field Instruction	Chengri Ding	
 online	URSP	URSP709		20	20	Field Instruction	Marccus Hendricks	
-online	URSP	URSP709		20	20	Field Instruction	Ariel Bierbaum	
+online	URSP	URSP709		20	19	Field Instruction	Ariel Bierbaum	
 online	URSP	URSP709		20	20	Field Instruction	Hiroyuki Iseki	
 online	URSP	URSP709		20	20	Field Instruction	Casey Dawkins	
 online	URSP	URSP709		20	20	Field Instruction	Willow Lung Amam	
@@ -6924,7 +6924,7 @@ online	URSP	URSP810	M 1:00pm 3:40pm	10	10	Contemporary Metropolitan Issues	Gerri
 online	USLT	USLT201	TuTh 11:00am 12:15pm	30	9	U.S. Latina/o Studies I: An Historical Overview to the 1960's	Robert Chester	
 online	USLT	USLT498A	TuTh 2:00pm 3:15pm	30	12	US Latina/o Studies: Special Topics; Latinos/as on the Silver Screen	Robert Chester	
 in person	VMSC	VMSC660	F 10:00am 12:40pm	20	18	Emerging and Re-emerging Infectious Diseases	Sean Riley	
-in person	VMSC	VMSC689	F 1:00pm 4:00pm	15	15	Use of Genomics and Proteomics in Infectious Disease	Daniel Nelson	
+in person	VMSC	VMSC689	F 1:00pm 4:00pm	15	15	Use of Genomics and Proteomics in Infectious Disease	Daniel Nelson,Utpal Pal	
 in person	VMSC	VMSC698	Th 11:00am 12:00pm	20	19	Seminar in Veterinary Medical Science	Sean Riley	
 in person	WMST	WMST498A	MW 8:30am 9:45am	31	0	Advanced Special Topics in Women's Studies; Community Interventions: Domestic Violence	Karen O'Brien	
 online	WMST	WMST200	MWF 9:00am 9:50am	30	16	Introduction to Women's Studies:  Women and Society	Clara Montague	

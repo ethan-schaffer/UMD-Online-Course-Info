@@ -48,7 +48,19 @@ def parse_section(times, section_mode):
     section_list = []
     for time in times:
         section_number = str(time.find("span", {"class": "section-id"}).contents[0]).strip()
-        section_instructor = time.find("span", {"class": "section-instructor"}).contents[0]
+        instructors = time.findAll("span", {"class": "section-instructor"})
+        #print(instructors)
+        section_instructor = ""
+        for instructor in instructors:
+            instructor = instructor.contents[0]
+            #print(instructor)
+            if "a href" in str(instructor):
+                section_instructor += str(instructor.contents[0])
+            else:
+                section_instructor += str(instructor)
+            section_instructor += ","
+        section_instructor = section_instructor[:-1]
+        #print(section_instructor)
         section_total_seats = time.find("span", {"class": "total-seats-count"}).contents[0]
         section_open_seats = time.find("span", {"class": "open-seats-count"}).contents[0]
 
@@ -64,9 +76,6 @@ def parse_section(times, section_mode):
         if len(section_days) > 1 and len(section_class_start) > 1 and len(section_class_end) > 1:
             disc_time = section_days[1].contents[0] + " " + section_class_start[1].contents[0] + " " + section_class_end[1].contents[0]
 
-        if "a href" in str(section_instructor):
-            section_instructor = section_instructor.contents[0]
-        section_instructor = str(section_instructor)
 
         section_list.append([section_number, section_mode, timeslot, disc_time, section_instructor, section_total_seats, section_open_seats])
     return section_list
@@ -117,11 +126,11 @@ def get_data(dept):
     return out
 
 dt = []
-count = 0
+count = 1
 for code in umd_departments:
-    total_length = int(len(umd_departments)/ 1.5)
+    total_length = int(len(umd_departments) / 1.5)
     bar_length = int(total_length * count / len(umd_departments))
-    sys.stdout.write("\rParsing " + code + " |█"+ (int(bar_length) * '█') + ((total_length - bar_length - 1) * '-') + "| (" + str(count) + "/" + str(len(umd_departments)) + ")")
+    sys.stdout.write("\rParsing " + code + " |"+ (int(bar_length) * '█') + ((total_length - bar_length - 1) * '-') + "| (" + str(count) + "/" + str(len(umd_departments)) + ")")
     sys.stdout.flush()
     count += 1
     dt += get_data(code)
