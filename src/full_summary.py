@@ -5,6 +5,7 @@ import pytz
 import csv
 import requests
 from selenium import webdriver
+import sys
 
 import json
 
@@ -116,11 +117,16 @@ def get_data(dept):
     return out
 
 dt = []
-count = 1
+count = 0
 for code in umd_departments:
-    print("Parsing " + code + " (" + str(count) + "/" + str(len(umd_departments)) + ")")
+    total_length = int(len(umd_departments)/ 1.5)
+    bar_length = int(total_length * count / len(umd_departments))
+    sys.stdout.write("\rParsing " + code + " |█"+ (int(bar_length) * '█') + ((total_length - bar_length - 1) * '-') + "| (" + str(count) + "/" + str(len(umd_departments)) + ")")
+    sys.stdout.flush()
     count += 1
     dt += get_data(code)
+
+print("")
 
 output = {}
 
@@ -145,7 +151,7 @@ with open("data_prototypev1.js", "w") as df:
 
         tz_NY = pytz.timezone('America/New_York')
         datetime_east_coast = datetime.now(tz_NY)
-        current_time = datetime_east_coast.strftime("%I:%M %p")
+        current_time = datetime_east_coast.strftime("%I:%M %p EST")
         current_date = datetime_east_coast.today().strftime('%Y-%m-%d')
 
         df.write("let last_updated = '" + current_time + " " + current_date + "';\n\n")
