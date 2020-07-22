@@ -26,6 +26,9 @@ def get_in_person(dept):
 def get_online(dept):
     return "https://app.testudo.umd.edu/soc/search?courseId=" + dept + "&sectionId=&termId=202008&_openSectionsOnly=on&creditCompare=&credits=&courseLevelFilter=ALL&instructor=&_facetoface=on&_blended=on&online=true&_online=on&courseStartCompare=&courseStartHour=&courseStartMin=&courseStartAM=&courseEndHour=&courseEndMin=&courseEndAM=&teachingCenter=ALL&_classDay1=on&_classDay2=on&_classDay3=on&_classDay4=on&_classDay5=on"
 
+def get_blended(dept):
+    return "https://app.testudo.umd.edu/soc/search?courseId=" + dept + "&sectionId=&termId=202008&_openSectionsOnly=on&creditCompare=&credits=&courseLevelFilter=ALL&instructor=&_facetoface=on&blended=true&_blended=on&_online=on&courseStartCompare=&courseStartHour=&courseStartMin=&courseStartAM=&courseEndHour=&courseEndMin=&courseEndAM=&teachingCenter=ALL&_classDay1=on&_classDay2=on&_classDay3=on&_classDay4=on&_classDay5=on"
+
 def get_soup_in_person(dept):
     url = get_in_person(dept)
     data = requests.get(url).content.decode('utf-8')
@@ -34,6 +37,12 @@ def get_soup_in_person(dept):
 
 def get_soup_online(dept):
     url = get_online(dept)
+    data = requests.get(url).content
+    soup = BeautifulSoup(data, 'html5lib')
+    return soup
+
+def get_soup_blended(dept):
+    url = get_blended(dept)
     data = requests.get(url).content
     soup = BeautifulSoup(data, 'html5lib')
     return soup
@@ -92,9 +101,13 @@ def get_by_type(data, type_string):
 
         times = aggregate_components(course, "div", "class", type_string)
 
-        section_mode = "online"
+        section_mode = None
         if type_string == "section delivery-f2f":
             section_mode = "in person"
+        elif type_string == "section delivery-online":
+            section_mode = "online"
+        elif type_string == "section delivery-blended":
+            section_mode = "blended"
         full = parse_section(times, section_mode)
 
         if not full == []:
@@ -117,12 +130,17 @@ def get_data(dept):
     out = []
     in_person = get_by_type(get_soup_in_person(dept), "section delivery-f2f")
     online = get_by_type(get_soup_online(dept), "section delivery-online")
+    blended = get_by_type(get_soup_blended(dept), "section delivery-blended")
 
     for i in in_person:
         out.append(i)
 
     for j in online:
         out.append(j)
+
+    for k in blended:
+        out.append(k)
+
     return out
 
 dt = []
@@ -187,15 +205,21 @@ def is_online(data_row):
 def is_in_person(data_row):
     return data_row[0] == "in person"
 
+def is_blended(data_row):
+    return data_row[0] == "blended"
+
 online = list(filter(is_online, dt))
 in_person = list(filter(is_in_person, dt))
+blended = list(filter(is_blended, dt))
 
 total_online = len(online)
 total_in_person = len(in_person)
-total_classes = total_online+total_in_person
+total_blended = len(blended)
+total_classes = total_online+total_in_person+total_blended
 
 percent_online = round(total_online*100 / total_classes, 2)
 percent_in_person = round(total_in_person*100 / total_classes, 2)
+percent_blended = round(total_blended*100 / total_classes, 2)
 
 def get_seats_total(csv_row):
     total = 0
@@ -206,25 +230,31 @@ def get_seats_total(csv_row):
 
 seats_online = get_seats_total(online)
 seats_in_person = get_seats_total(in_person)
-seats_total = seats_online+seats_in_person
+seats_blended = get_seats_total(blended)
+seats_total = seats_online+seats_in_person+seats_blended
 
 percent_seats_online = round(seats_online*100 / seats_total, 2)
 percent_seats_in_person = round(seats_in_person*100 / seats_total, 2)
+percent_seats_blended = round(seats_blended*100 / seats_total, 2)
 
 with open("summary_data.js", "w") as df:
     df.write("let total_online = '" + str(total_online) + "';\n")
     df.write("let total_in_person = '" + str(total_in_person) + "';\n")
+    df.write("let total_blended = '" + str(total_blended) + "';\n")
     df.write("let total_classes = '" + str(total_classes) + "';\n")
 
     df.write("let percent_online = '" + str(percent_online) + "';\n")
     df.write("let percent_in_person = '" + str(percent_in_person) + "';\n")
+    df.write("let percent_blended = '" + str(percent_blended) + "';\n")
 
     df.write("let seats_online = '" + str(seats_online) + "';\n")
     df.write("let seats_in_person = '" + str(seats_in_person) + "';\n")
+    df.write("let seats_blended = '" + str(seats_blended) + "';\n")
     df.write("let seats_total = '" + str(seats_total) + "';\n")
 
     df.write("let percent_seats_online = '" + str(percent_seats_online) + "';\n")
     df.write("let percent_seats_in_person = '" + str(percent_seats_in_person) + "';\n")
+    df.write("let percent_seats_blended = '" + str(percent_seats_blended) + "';\n")
 
 
 dept_names = {}
@@ -239,7 +269,7 @@ print(dept_names)
 output_data = {}
 
 for dept in dept_names:
-    output_data[dept] = [0, 0, 0, 0]
+    output_data[dept] = [0, 0, 0, 0, 0, 0]
 
 for class_section in dt:
     #print(class_section)
@@ -248,10 +278,14 @@ for class_section in dt:
         output_data[dept][0] += 1
         if class_section[4] is not "?":
             output_data[dept][1] += int(class_section[4])
-    else:
+    if is_in_person(class_section):
         output_data[dept][2] += 1
         if class_section[4] is not "?":
             output_data[dept][3] += int(class_section[4])
+    if is_blended(class_section):
+        output_data[dept][4] += 1
+        if class_section[4] is not "?":
+            output_data[dept][5] += int(class_section[4])
 
 out = {}
 for class_section in output_data:
@@ -260,8 +294,11 @@ for class_section in output_data:
         "inPersonSeats": output_data[class_section][3],
         "inPersonSections": output_data[class_section][2],
         "onlineSeats": output_data[class_section][1],
-        "onlineSections": output_data[class_section][0]
+        "onlineSections": output_data[class_section][0],
+        "blendedSeats": output_data[class_section][5],
+        "blendedSections": output_data[class_section][4]
     }
+
 with open("dept_summary.js", "w") as df:
     text = json.dumps(out, indent=4, sort_keys=True)
 
