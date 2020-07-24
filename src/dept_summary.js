@@ -216,13 +216,13 @@ let dept_summary = {
         "onlineSections": 4
     },
     "BMGT": {
-        "blendedSeats": 3353,
-        "blendedSections": 93,
+        "blendedSeats": 3648,
+        "blendedSections": 100,
         "departmentName": "Business and Management",
-        "inPersonSeats": 604,
-        "inPersonSections": 15,
-        "onlineSeats": 8388,
-        "onlineSections": 220
+        "inPersonSeats": 89,
+        "inPersonSections": 3,
+        "onlineSeats": 8608,
+        "onlineSections": 225
     },
     "BMSO": {
         "blendedSeats": 0,
@@ -381,10 +381,10 @@ let dept_summary = {
         "blendedSeats": 255,
         "blendedSections": 19,
         "departmentName": "Chemistry",
-        "inPersonSeats": 1371,
-        "inPersonSections": 62,
-        "onlineSeats": 6432,
-        "onlineSections": 221
+        "inPersonSeats": 1321,
+        "inPersonSections": 60,
+        "onlineSeats": 6482,
+        "onlineSections": 223
     },
     "CHIN": {
         "blendedSeats": 0,
@@ -599,7 +599,7 @@ let dept_summary = {
         "departmentName": "Economics",
         "inPersonSeats": 40,
         "inPersonSections": 1,
-        "onlineSeats": 5387,
+        "onlineSeats": 5390,
         "onlineSections": 110
     },
     "EDCP": {
@@ -716,8 +716,8 @@ let dept_summary = {
         "departmentName": "Engineering, Fire Protection",
         "inPersonSeats": 81,
         "inPersonSections": 4,
-        "onlineSeats": 470,
-        "onlineSections": 17
+        "onlineSeats": 510,
+        "onlineSections": 18
     },
     "ENGL": {
         "blendedSeats": 15,
@@ -734,8 +734,8 @@ let dept_summary = {
         "departmentName": "Engineering, Materials",
         "inPersonSeats": 124,
         "inPersonSections": 5,
-        "onlineSeats": 679,
-        "onlineSections": 32
+        "onlineSeats": 669,
+        "onlineSections": 31
     },
     "ENME": {
         "blendedSeats": 380,
@@ -743,8 +743,8 @@ let dept_summary = {
         "departmentName": "Engineering, Mechanical",
         "inPersonSeats": 95,
         "inPersonSections": 5,
-        "onlineSeats": 3295,
-        "onlineSections": 87
+        "onlineSeats": 3230,
+        "onlineSections": 81
     },
     "ENPM": {
         "blendedSeats": 341,
@@ -761,8 +761,8 @@ let dept_summary = {
         "departmentName": "Reliability Engineering",
         "inPersonSeats": 37,
         "inPersonSections": 3,
-        "onlineSeats": 381,
-        "onlineSections": 28
+        "onlineSeats": 281,
+        "onlineSections": 21
     },
     "ENSE": {
         "blendedSeats": 0,
@@ -801,13 +801,13 @@ let dept_summary = {
         "onlineSections": 7
     },
     "ENTS": {
-        "blendedSeats": 68,
-        "blendedSections": 2,
+        "blendedSeats": 8,
+        "blendedSections": 1,
         "departmentName": "Telecommunications",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 366,
-        "onlineSections": 15
+        "onlineSeats": 426,
+        "onlineSections": 17
     },
     "EPIB": {
         "blendedSeats": 0,
@@ -851,7 +851,7 @@ let dept_summary = {
         "departmentName": "Family Science",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 1133,
+        "onlineSeats": 1153,
         "onlineSections": 32
     },
     "FREN": {
@@ -1211,7 +1211,7 @@ let dept_summary = {
         "departmentName": "Mathematics",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 9041,
+        "onlineSeats": 9201,
         "onlineSections": 347
     },
     "MEES": {
@@ -1409,8 +1409,8 @@ let dept_summary = {
         "departmentName": "Public Policy",
         "inPersonSeats": 80,
         "inPersonSections": 2,
-        "onlineSeats": 2828,
-        "onlineSections": 96
+        "onlineSeats": 2778,
+        "onlineSections": 95
     },
     "PLSC": {
         "blendedSeats": 130,
