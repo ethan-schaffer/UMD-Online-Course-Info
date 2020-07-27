@@ -216,13 +216,13 @@ let dept_summary = {
         "onlineSections": 4
     },
     "BMGT": {
-        "blendedSeats": 3586,
-        "blendedSections": 98,
+        "blendedSeats": 3522,
+        "blendedSections": 96,
         "departmentName": "Business and Management",
         "inPersonSeats": 9,
         "inPersonSections": 1,
-        "onlineSeats": 8750,
-        "onlineSections": 229
+        "onlineSeats": 8864,
+        "onlineSections": 231
     },
     "BMSO": {
         "blendedSeats": 0,
@@ -316,12 +316,12 @@ let dept_summary = {
     },
     "BUMK": {
         "blendedSeats": 0,
-        "blendedSections": 8,
+        "blendedSections": 9,
         "departmentName": "Marketing",
         "inPersonSeats": 0,
         "inPersonSections": 0,
         "onlineSeats": 0,
-        "onlineSections": 3
+        "onlineSections": 2
     },
     "BUSI": {
         "blendedSeats": 710,
@@ -437,7 +437,7 @@ let dept_summary = {
         "departmentName": "Computer Science",
         "inPersonSeats": 202,
         "inPersonSections": 7,
-        "onlineSeats": 9395,
+        "onlineSeats": 9405,
         "onlineSections": 191
     },
     "COMM": {
@@ -660,7 +660,7 @@ let dept_summary = {
         "blendedSeats": 0,
         "blendedSections": 0,
         "departmentName": "Engineering, Aerospace",
-        "inPersonSeats": 126,
+        "inPersonSeats": 136,
         "inPersonSections": 13,
         "onlineSeats": 1945,
         "onlineSections": 53
@@ -671,7 +671,7 @@ let dept_summary = {
         "departmentName": "Engineering, Civil",
         "inPersonSeats": 887,
         "inPersonSections": 34,
-        "onlineSeats": 1393,
+        "onlineSeats": 1413,
         "onlineSections": 35
     },
     "ENCH": {
@@ -1211,7 +1211,7 @@ let dept_summary = {
         "departmentName": "Mathematics",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 9214,
+        "onlineSeats": 9273,
         "onlineSections": 347
     },
     "MEES": {
@@ -1526,7 +1526,7 @@ let dept_summary = {
         "departmentName": "Statistics and Probability",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 2170,
+        "onlineSeats": 2226,
         "onlineSections": 79
     },
     "SURV": {
