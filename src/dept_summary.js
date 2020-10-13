@@ -54,11 +54,11 @@ let dept_summary = {
         "onlineSections": 33
     },
     "ANSC": {
-        "blendedSeats": 20,
-        "blendedSections": 1,
+        "blendedSeats": 40,
+        "blendedSections": 2,
         "departmentName": "Animal Science",
-        "inPersonSeats": 150,
-        "inPersonSections": 8,
+        "inPersonSeats": 130,
+        "inPersonSections": 7,
         "onlineSeats": 1094,
         "onlineSections": 31
     },
@@ -66,10 +66,10 @@ let dept_summary = {
         "blendedSeats": 0,
         "blendedSections": 0,
         "departmentName": "Anthropology",
-        "inPersonSeats": 115,
-        "inPersonSections": 6,
-        "onlineSeats": 1146,
-        "onlineSections": 55
+        "inPersonSeats": 60,
+        "inPersonSections": 4,
+        "onlineSeats": 1201,
+        "onlineSections": 57
     },
     "AOSC": {
         "blendedSeats": 49,
@@ -108,13 +108,13 @@ let dept_summary = {
         "onlineSections": 24
     },
     "ARHU": {
-        "blendedSeats": 0,
-        "blendedSections": 0,
+        "blendedSeats": 30,
+        "blendedSections": 2,
         "departmentName": "Arts and Humanities",
         "inPersonSeats": 30,
         "inPersonSections": 2,
-        "onlineSeats": 297,
-        "onlineSections": 16
+        "onlineSeats": 267,
+        "onlineSections": 14
     },
     "ARMY": {
         "blendedSeats": 70,
@@ -135,13 +135,13 @@ let dept_summary = {
         "onlineSections": 0
     },
     "ARTH": {
-        "blendedSeats": 25,
-        "blendedSections": 1,
+        "blendedSeats": 0,
+        "blendedSections": 0,
         "departmentName": "Art History & Archaeology",
         "inPersonSeats": 43,
         "inPersonSections": 3,
-        "onlineSeats": 640,
-        "onlineSections": 30
+        "onlineSeats": 665,
+        "onlineSections": 31
     },
     "ARTT": {
         "blendedSeats": 0,
@@ -212,17 +212,17 @@ let dept_summary = {
         "departmentName": "Biological Sciences",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 70,
-        "onlineSections": 4
+        "onlineSeats": 80,
+        "onlineSections": 5
     },
     "BMGT": {
-        "blendedSeats": 3814,
-        "blendedSections": 93,
+        "blendedSeats": 3659,
+        "blendedSections": 89,
         "departmentName": "Business and Management",
-        "inPersonSeats": 9,
-        "inPersonSections": 1,
-        "onlineSeats": 10040,
-        "onlineSections": 238
+        "inPersonSeats": 126,
+        "inPersonSections": 4,
+        "onlineSeats": 10056,
+        "onlineSections": 237
     },
     "BMSO": {
         "blendedSeats": 0,
@@ -252,13 +252,13 @@ let dept_summary = {
         "onlineSections": 4
     },
     "BSGC": {
-        "blendedSeats": 0,
-        "blendedSections": 0,
+        "blendedSeats": 10,
+        "blendedSections": 1,
         "departmentName": "Global Communities",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 142,
-        "onlineSections": 7
+        "onlineSeats": 132,
+        "onlineSections": 6
     },
     "BSOS": {
         "blendedSeats": 0,
@@ -280,19 +280,19 @@ let dept_summary = {
     },
     "BUAC": {
         "blendedSeats": 30,
-        "blendedSections": 13,
+        "blendedSections": 7,
         "departmentName": "Accounting and Information Assurance",
         "inPersonSeats": 0,
-        "inPersonSections": 0,
+        "inPersonSections": 6,
         "onlineSeats": 100,
         "onlineSections": 8
     },
     "BUDT": {
-        "blendedSeats": 82,
-        "blendedSections": 11,
+        "blendedSeats": 42,
+        "blendedSections": 10,
         "departmentName": "Decision and Information Technologies",
-        "inPersonSeats": 0,
-        "inPersonSections": 0,
+        "inPersonSeats": 40,
+        "inPersonSections": 1,
         "onlineSeats": 156,
         "onlineSections": 13
     },
@@ -307,10 +307,10 @@ let dept_summary = {
     },
     "BULM": {
         "blendedSeats": 0,
-        "blendedSections": 10,
+        "blendedSections": 4,
         "departmentName": "Logistics, Business, and Public Policy",
         "inPersonSeats": 0,
-        "inPersonSections": 0,
+        "inPersonSections": 6,
         "onlineSeats": 0,
         "onlineSections": 0
     },
@@ -324,20 +324,20 @@ let dept_summary = {
         "onlineSections": 3
     },
     "BUSI": {
-        "blendedSeats": 440,
-        "blendedSections": 30,
+        "blendedSeats": 350,
+        "blendedSections": 25,
         "departmentName": "Part-Time MBA Program",
-        "inPersonSeats": 0,
-        "inPersonSections": 0,
+        "inPersonSeats": 90,
+        "inPersonSections": 5,
         "onlineSeats": 520,
         "onlineSections": 20
     },
     "BUSM": {
-        "blendedSeats": 40,
-        "blendedSections": 10,
+        "blendedSeats": 0,
+        "blendedSections": 1,
         "departmentName": "Full-Time MBA Program",
-        "inPersonSeats": 0,
-        "inPersonSections": 0,
+        "inPersonSeats": 40,
+        "inPersonSections": 9,
         "onlineSeats": 135,
         "onlineSections": 15
     },
@@ -381,10 +381,10 @@ let dept_summary = {
         "blendedSeats": 204,
         "blendedSections": 18,
         "departmentName": "Chemistry",
-        "inPersonSeats": 1085,
-        "inPersonSections": 49,
-        "onlineSeats": 7186,
-        "onlineSections": 234
+        "inPersonSeats": 1045,
+        "inPersonSections": 47,
+        "onlineSeats": 7261,
+        "onlineSections": 236
     },
     "CHIN": {
         "blendedSeats": 0,
@@ -399,10 +399,10 @@ let dept_summary = {
         "blendedSeats": 0,
         "blendedSections": 0,
         "departmentName": "Chemical Physics",
-        "inPersonSeats": 15,
-        "inPersonSections": 1,
-        "onlineSeats": 55,
-        "onlineSections": 3
+        "inPersonSeats": 0,
+        "inPersonSections": 0,
+        "onlineSeats": 70,
+        "onlineSections": 4
     },
     "CLAS": {
         "blendedSeats": 0,
@@ -423,22 +423,22 @@ let dept_summary = {
         "onlineSections": 4
     },
     "CMLT": {
-        "blendedSeats": 15,
-        "blendedSections": 1,
+        "blendedSeats": 0,
+        "blendedSections": 0,
         "departmentName": "Comparative Literature",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 325,
-        "onlineSections": 12
+        "onlineSeats": 340,
+        "onlineSections": 13
     },
     "CMSC": {
         "blendedSeats": 0,
         "blendedSections": 0,
         "departmentName": "Computer Science",
-        "inPersonSeats": 50,
-        "inPersonSections": 2,
-        "onlineSeats": 9913,
-        "onlineSections": 197
+        "inPersonSeats": 0,
+        "inPersonSections": 0,
+        "onlineSeats": 9972,
+        "onlineSections": 199
     },
     "COMM": {
         "blendedSeats": 219,
@@ -446,8 +446,8 @@ let dept_summary = {
         "departmentName": "Communication",
         "inPersonSeats": 656,
         "inPersonSections": 33,
-        "onlineSeats": 4699,
-        "onlineSections": 191
+        "onlineSeats": 4745,
+        "onlineSections": 193
     },
     "CPBE": {
         "blendedSeats": 0,
@@ -606,10 +606,10 @@ let dept_summary = {
         "blendedSeats": 20,
         "blendedSections": 1,
         "departmentName": "Education Counseling and Personnel Services",
-        "inPersonSeats": 57,
-        "inPersonSections": 4,
-        "onlineSeats": 655,
-        "onlineSections": 36
+        "inPersonSeats": 0,
+        "inPersonSections": 0,
+        "onlineSeats": 712,
+        "onlineSections": 40
     },
     "EDHD": {
         "blendedSeats": 157,
@@ -621,13 +621,13 @@ let dept_summary = {
         "onlineSections": 38
     },
     "EDHI": {
-        "blendedSeats": 20,
-        "blendedSections": 1,
+        "blendedSeats": 0,
+        "blendedSections": 0,
         "departmentName": "Education Leadership, Higher Ed and International Ed",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 243,
-        "onlineSections": 10
+        "onlineSeats": 263,
+        "onlineSections": 11
     },
     "EDMS": {
         "blendedSeats": 27,
@@ -648,13 +648,13 @@ let dept_summary = {
         "onlineSections": 38
     },
     "EDUC": {
-        "blendedSeats": 0,
-        "blendedSections": 0,
+        "blendedSeats": 20,
+        "blendedSections": 2,
         "departmentName": "Education",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 122,
-        "onlineSections": 7
+        "onlineSeats": 102,
+        "onlineSections": 5
     },
     "ENAE": {
         "blendedSeats": 0,
@@ -671,8 +671,8 @@ let dept_summary = {
         "departmentName": "Engineering, Civil",
         "inPersonSeats": 647,
         "inPersonSections": 25,
-        "onlineSeats": 1694,
-        "onlineSections": 44
+        "onlineSeats": 1704,
+        "onlineSections": 45
     },
     "ENCH": {
         "blendedSeats": 0,
@@ -702,11 +702,11 @@ let dept_summary = {
         "onlineSections": 130
     },
     "ENES": {
-        "blendedSeats": 808,
-        "blendedSections": 18,
+        "blendedSeats": 1000,
+        "blendedSections": 22,
         "departmentName": "Engineering Science",
-        "inPersonSeats": 201,
-        "inPersonSections": 5,
+        "inPersonSeats": 29,
+        "inPersonSections": 2,
         "onlineSeats": 5100,
         "onlineSections": 51
     },
@@ -720,22 +720,22 @@ let dept_summary = {
         "onlineSections": 16
     },
     "ENGL": {
-        "blendedSeats": 15,
-        "blendedSections": 1,
+        "blendedSeats": 0,
+        "blendedSections": 0,
         "departmentName": "English",
         "inPersonSeats": 10,
         "inPersonSections": 1,
-        "onlineSeats": 8693,
-        "onlineSections": 445
+        "onlineSeats": 8708,
+        "onlineSections": 446
     },
     "ENMA": {
         "blendedSeats": 80,
         "blendedSections": 4,
         "departmentName": "Engineering, Materials",
-        "inPersonSeats": 124,
-        "inPersonSections": 5,
-        "onlineSeats": 609,
-        "onlineSections": 29
+        "inPersonSeats": 99,
+        "inPersonSections": 4,
+        "onlineSeats": 634,
+        "onlineSections": 30
     },
     "ENME": {
         "blendedSeats": 58,
@@ -747,12 +747,12 @@ let dept_summary = {
         "onlineSections": 93
     },
     "ENPM": {
-        "blendedSeats": 239,
-        "blendedSections": 5,
+        "blendedSeats": 159,
+        "blendedSections": 4,
         "departmentName": "Engineering, Professional Masters",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 1212,
+        "onlineSeats": 1272,
         "onlineSections": 33
     },
     "ENRE": {
@@ -795,10 +795,10 @@ let dept_summary = {
         "blendedSeats": 0,
         "blendedSections": 0,
         "departmentName": "Entomology",
-        "inPersonSeats": 12,
-        "inPersonSections": 1,
-        "onlineSeats": 129,
-        "onlineSections": 8
+        "inPersonSeats": 0,
+        "inPersonSections": 0,
+        "onlineSeats": 141,
+        "onlineSections": 9
     },
     "ENTS": {
         "blendedSeats": 0,
@@ -864,13 +864,13 @@ let dept_summary = {
         "onlineSections": 26
     },
     "GEMS": {
-        "blendedSeats": 0,
-        "blendedSections": 0,
+        "blendedSeats": 14,
+        "blendedSections": 1,
         "departmentName": "Gemstone",
-        "inPersonSeats": 28,
-        "inPersonSections": 2,
-        "onlineSeats": 1046,
-        "onlineSections": 63
+        "inPersonSeats": 42,
+        "inPersonSections": 3,
+        "onlineSeats": 1032,
+        "onlineSections": 62
     },
     "GEOG": {
         "blendedSeats": 0,
@@ -921,10 +921,10 @@ let dept_summary = {
         "blendedSeats": 0,
         "blendedSections": 0,
         "departmentName": "ACES-Cybersecurity",
-        "inPersonSeats": 24,
-        "inPersonSections": 1,
-        "onlineSeats": 356,
-        "onlineSections": 11
+        "inPersonSeats": 0,
+        "inPersonSections": 0,
+        "onlineSeats": 380,
+        "onlineSections": 12
     },
     "HDCC": {
         "blendedSeats": 0,
@@ -966,10 +966,10 @@ let dept_summary = {
         "blendedSeats": 20,
         "blendedSections": 1,
         "departmentName": "Hearing and Speech Sciences",
-        "inPersonSeats": 209,
+        "inPersonSeats": 195,
         "inPersonSections": 9,
-        "onlineSeats": 900,
-        "onlineSections": 36
+        "onlineSeats": 945,
+        "onlineSections": 37
     },
     "HHUM": {
         "blendedSeats": 0,
@@ -981,22 +981,22 @@ let dept_summary = {
         "onlineSections": 10
     },
     "HISP": {
-        "blendedSeats": 0,
-        "blendedSections": 0,
+        "blendedSeats": 15,
+        "blendedSections": 1,
         "departmentName": "Historic Preservation",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 122,
-        "onlineSections": 11
+        "onlineSeats": 107,
+        "onlineSections": 10
     },
     "HIST": {
-        "blendedSeats": 30,
-        "blendedSections": 1,
+        "blendedSeats": 43,
+        "blendedSections": 3,
         "departmentName": "History",
         "inPersonSeats": 236,
         "inPersonSections": 10,
-        "onlineSeats": 3432,
-        "onlineSections": 133
+        "onlineSeats": 3408,
+        "onlineSections": 131
     },
     "HLSA": {
         "blendedSeats": 24,
@@ -1020,8 +1020,8 @@ let dept_summary = {
         "blendedSeats": 82,
         "blendedSections": 3,
         "departmentName": "Health",
-        "inPersonSeats": 45,
-        "inPersonSections": 2,
+        "inPersonSeats": 55,
+        "inPersonSections": 3,
         "onlineSeats": 2267,
         "onlineSections": 55
     },
@@ -1053,13 +1053,13 @@ let dept_summary = {
         "onlineSections": 6
     },
     "IMMR": {
-        "blendedSeats": 30,
-        "blendedSections": 1,
+        "blendedSeats": 0,
+        "blendedSections": 0,
         "departmentName": "Immigration Studies",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 90,
-        "onlineSections": 4
+        "onlineSeats": 120,
+        "onlineSections": 5
     },
     "INAG": {
         "blendedSeats": 63,
@@ -1152,22 +1152,22 @@ let dept_summary = {
         "onlineSections": 6
     },
     "LARC": {
-        "blendedSeats": 129,
-        "blendedSections": 9,
+        "blendedSeats": 139,
+        "blendedSections": 10,
         "departmentName": "Landscape Architecture",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 533,
-        "onlineSections": 21
+        "onlineSeats": 523,
+        "onlineSections": 20
     },
     "LASC": {
-        "blendedSeats": 15,
-        "blendedSections": 1,
+        "blendedSeats": 0,
+        "blendedSections": 0,
         "departmentName": "Certificate in Latin American Studies",
         "inPersonSeats": 45,
         "inPersonSections": 2,
-        "onlineSeats": 120,
-        "onlineSections": 5
+        "onlineSeats": 135,
+        "onlineSections": 6
     },
     "LATN": {
         "blendedSeats": 0,
@@ -1184,8 +1184,8 @@ let dept_summary = {
         "departmentName": "Library Science",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 567,
-        "onlineSections": 22
+        "onlineSeats": 537,
+        "onlineSections": 21
     },
     "LGBT": {
         "blendedSeats": 0,
@@ -1211,7 +1211,7 @@ let dept_summary = {
         "departmentName": "Mathematics",
         "inPersonSeats": 20,
         "inPersonSections": 1,
-        "onlineSeats": 10051,
+        "onlineSeats": 10097,
         "onlineSections": 347
     },
     "MEES": {
@@ -1287,11 +1287,11 @@ let dept_summary = {
         "onlineSections": 12
     },
     "MUSC": {
-        "blendedSeats": 2013,
-        "blendedSections": 64,
+        "blendedSeats": 2213,
+        "blendedSections": 69,
         "departmentName": "School of Music",
-        "inPersonSeats": 427,
-        "inPersonSections": 21,
+        "inPersonSeats": 253,
+        "inPersonSections": 17,
         "onlineSeats": 1819,
         "onlineSections": 118
     },
@@ -1368,11 +1368,11 @@ let dept_summary = {
         "onlineSections": 14
     },
     "PHIL": {
-        "blendedSeats": 0,
-        "blendedSections": 0,
+        "blendedSeats": 15,
+        "blendedSections": 1,
         "departmentName": "Philosophy",
-        "inPersonSeats": 45,
-        "inPersonSections": 2,
+        "inPersonSeats": 30,
+        "inPersonSections": 1,
         "onlineSeats": 2041,
         "onlineSections": 79
     },
@@ -1409,7 +1409,7 @@ let dept_summary = {
         "departmentName": "Public Policy",
         "inPersonSeats": 80,
         "inPersonSections": 2,
-        "onlineSeats": 2779,
+        "onlineSeats": 2781,
         "onlineSections": 91
     },
     "PLSC": {
@@ -1452,10 +1452,10 @@ let dept_summary = {
         "blendedSeats": 0,
         "blendedSections": 0,
         "departmentName": "Religious Studies",
-        "inPersonSeats": 90,
-        "inPersonSections": 4,
-        "onlineSeats": 556,
-        "onlineSections": 22
+        "inPersonSeats": 30,
+        "inPersonSections": 1,
+        "onlineSeats": 616,
+        "onlineSections": 25
     },
     "RUSS": {
         "blendedSeats": 0,
@@ -1499,8 +1499,8 @@ let dept_summary = {
         "departmentName": "Sociology",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 2419,
-        "onlineSections": 63
+        "onlineSeats": 2409,
+        "onlineSections": 62
     },
     "SPAN": {
         "blendedSeats": 20,
@@ -1512,8 +1512,8 @@ let dept_summary = {
         "onlineSections": 64
     },
     "SPHL": {
-        "blendedSeats": 18,
-        "blendedSections": 1,
+        "blendedSeats": 0,
+        "blendedSections": 0,
         "departmentName": "Public Health",
         "inPersonSeats": 0,
         "inPersonSections": 0,
@@ -1526,7 +1526,7 @@ let dept_summary = {
         "departmentName": "Statistics and Probability",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 2422,
+        "onlineSeats": 2428,
         "onlineSections": 79
     },
     "SURV": {
@@ -1535,8 +1535,8 @@ let dept_summary = {
         "departmentName": "Survey Methodology",
         "inPersonSeats": 0,
         "inPersonSections": 0,
-        "onlineSeats": 460,
-        "onlineSections": 23
+        "onlineSeats": 468,
+        "onlineSections": 24
     },
     "TDPS": {
         "blendedSeats": 15,
@@ -1548,22 +1548,22 @@ let dept_summary = {
         "onlineSections": 4
     },
     "THET": {
-        "blendedSeats": 122,
-        "blendedSections": 11,
+        "blendedSeats": 97,
+        "blendedSections": 10,
         "departmentName": "Theatre",
-        "inPersonSeats": 30,
-        "inPersonSections": 5,
-        "onlineSeats": 805,
-        "onlineSections": 39
+        "inPersonSeats": 25,
+        "inPersonSections": 4,
+        "onlineSeats": 830,
+        "onlineSections": 40
     },
     "TLPL": {
         "blendedSeats": 0,
-        "blendedSections": 0,
+        "blendedSections": 3,
         "departmentName": "Teaching and Learning, Policy and Leadership",
         "inPersonSeats": 249,
         "inPersonSections": 16,
         "onlineSeats": 1464,
-        "onlineSections": 82
+        "onlineSections": 79
     },
     "TLTC": {
         "blendedSeats": 0,
@@ -1614,8 +1614,8 @@ let dept_summary = {
         "blendedSeats": 0,
         "blendedSections": 0,
         "departmentName": "Veterinary Medical Sciences",
-        "inPersonSeats": 35,
-        "inPersonSections": 2,
+        "inPersonSeats": 60,
+        "inPersonSections": 3,
         "onlineSeats": 0,
         "onlineSections": 0
     },

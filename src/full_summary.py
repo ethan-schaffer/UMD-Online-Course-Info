@@ -29,22 +29,25 @@ def get_online(dept):
 def get_blended(dept):
     return "https://app.testudo.umd.edu/soc/search?courseId=" + dept + "&sectionId=&termId=202008&_openSectionsOnly=on&creditCompare=&credits=&courseLevelFilter=ALL&instructor=&_facetoface=on&blended=true&_blended=on&_online=on&courseStartCompare=&courseStartHour=&courseStartMin=&courseStartAM=&courseEndHour=&courseEndMin=&courseEndAM=&teachingCenter=ALL&_classDay1=on&_classDay2=on&_classDay3=on&_classDay4=on&_classDay5=on"
 
+def make_soup(data):
+    return BeautifulSoup(data, 'html.parser')
+
 def get_soup_in_person(dept):
     url = get_in_person(dept)
     data = requests.get(url).content.decode('utf-8')
-    soup = BeautifulSoup(data, 'html5lib')
+    soup = make_soup(data)
     return soup
 
 def get_soup_online(dept):
     url = get_online(dept)
     data = requests.get(url).content
-    soup = BeautifulSoup(data, 'html5lib')
+    soup = make_soup(data)
     return soup
 
 def get_soup_blended(dept):
     url = get_blended(dept)
     data = requests.get(url).content
-    soup = BeautifulSoup(data, 'html5lib')
+    soup = make_soup(data)
     return soup
 
 def aggregate_components(src, a, b, c):
@@ -224,7 +227,7 @@ percent_blended = round(total_blended*100 / total_classes, 2)
 def get_seats_total(csv_row):
     total = 0
     for i in csv_row:
-        if i[4] is not "?":
+        if not i[4] == "?":
             total += int(i[4])
     return total
 
@@ -276,15 +279,15 @@ for class_section in dt:
     dept = class_section[1]
     if is_online(class_section):
         output_data[dept][0] += 1
-        if class_section[4] is not "?":
+        if not class_section[4] == "?":
             output_data[dept][1] += int(class_section[4])
     if is_in_person(class_section):
         output_data[dept][2] += 1
-        if class_section[4] is not "?":
+        if not class_section[4] == "?":
             output_data[dept][3] += int(class_section[4])
     if is_blended(class_section):
         output_data[dept][4] += 1
-        if class_section[4] is not "?":
+        if not class_section[4] == "?":
             output_data[dept][5] += int(class_section[4])
 
 out = {}
